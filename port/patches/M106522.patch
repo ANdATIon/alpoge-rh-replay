@@ -1,0 +1,103 @@
+--- a/src/Development/AutomorphicArithmetic/AutomorphicVarieties/ModularityArgument/SymmetricPowerTransfer/WeightTraceProducts/MemHomogeneousExponentsOneBlock.lean
++++ b/src/Development/AutomorphicArithmetic/AutomorphicVarieties/ModularityArgument/SymmetricPowerTransfer/WeightTraceProducts/MemHomogeneousExponentsOneBlock.lean
+@@ -11,7 +11,7 @@
+ theorem trace_eq_sum_coeff {σ : Type} (V : Submodule ℂ (MvPolynomial σ ℂ)) [FiniteDimensional ℂ V]
+     (S : Finset (σ →₀ ℕ)) (hV : ∀ P, P ∈ V ↔ ∀ m ∈ P.support, m ∈ S)
+     (f : MvPolynomial σ ℂ →ₗ[ℂ] MvPolynomial σ ℂ) (F : Module.End ℂ V) (hF : ∀ P, (F P).1 = f P.1) :
+-    LinearMap.trace ℂ V F = ∑ m ∈ S, coeff m (f (monomial m 1)) := by
++    LinearMap.trace ℂ V F = ∑ m ∈ S, (f (monomial m 1)).coeff m := by
+   classical
+   have mem : ∀ c : S → ℂ, (∑ m : S, monomial (m : σ →₀ ℕ) (c m)) ∈ V := by
+     intro c
+@@ -23,7 +23,7 @@
+     rw [h]
+     exact i.2
+   let e : V ≃ₗ[ℂ] (S → ℂ) :=
+-    { toFun := fun P m => coeff (m : σ →₀ ℕ) P.1
++    { toFun := fun P m => P.1.coeff (m : σ →₀ ℕ)
+       map_add' := fun P Q => by
+         ext m
+         simp
+@@ -35,7 +35,7 @@
+         apply Subtype.ext
+         dsimp only
+         conv_rhs => rw [P.1.as_sum]
+-        rw [Finset.sum_coe_sort S (fun m => monomial m (coeff m P.1))]
++        rw [Finset.sum_coe_sort S (fun m => monomial m (P.1.coeff m))]
+         symm
+         refine Finset.sum_subset (fun m hm => (hV P.1).1 P.2 m hm) ?_
+         intro m _ hm
+@@ -47,7 +47,7 @@
+   rw [LinearMap.trace_eq_matrix_trace ℂ b, Matrix.trace, ← Finset.sum_coe_sort S]
+   refine Finset.sum_congr rfl fun m _ => ?_
+   rw [Matrix.diag_apply, LinearMap.toMatrix_apply, Module.Basis.ofEquivFun_repr_apply]
+-  show coeff (m : σ →₀ ℕ) (F (b m)).1 = _
++  show ((F (b m)).1).coeff (m : σ →₀ ℕ) = _
+   rw [hF]
+   have hb : (b m).1 = monomial (m : σ →₀ ℕ) 1 := by
+     rw [Module.Basis.coe_ofEquivFun]
+@@ -78,12 +78,12 @@
+ private theorem glue_eq_sum_mapDomain_inB (ν : K → (Unit × Fin d →₀ ℕ)) :
+     glue ν = ∑ k, (ν k).mapDomain (inB k) := by
+   ext ⟨k, i⟩
+-  rw [glue_apply, Finsupp.finset_sum_apply, Finset.sum_eq_single k]
++  rw [glue_apply, Finsupp.finsetSum_apply, Finset.sum_eq_single k]
+   · have hinj : Function.Injective (inB (d := d) k) := by
+       rintro ⟨⟨⟩, a⟩ ⟨⟨⟩, b⟩ h
+       simp only [inB, Prod.mk.injEq] at h
+       rw [h.2]
+-    exact (Finsupp.mapDomain_apply hinj (ν k) ((), i)).symm
++    exact (Finsupp.mapDomain_apply_of_injective hinj (ν k) ((), i)).symm
+   · intro k' _ hk
+     apply Finsupp.mapDomain_notin_range
+     rintro ⟨p, hp⟩
+@@ -98,10 +98,10 @@
+   rw [← monomial_sum_prod, glue_eq_sum_mapDomain_inB]
+ 
+ theorem coeff_glue_prod (μ : K → (Unit × Fin d →₀ ℕ)) (P : K → MvPolynomial (Unit × Fin d) ℂ) :
+-    coeff (glue μ) (∏ k, rename (inB k) (P k)) = ∏ k, coeff (μ k) (P k) := by
++    (∏ k, rename (inB k) (P k)).coeff (glue μ) = ∏ k, (P k).coeff (μ k) := by
+   classical
+   have hP : ∀ k, rename (inB k) (P k) =
+-      ∑ m ∈ (P k).support, rename (inB k) (monomial m (coeff m (P k))) := by
++      ∑ m ∈ (P k).support, rename (inB k) (monomial m ((P k).coeff m)) := by
+     intro k
+     conv_lhs => rw [(P k).as_sum]
+     rw [map_sum]
+@@ -131,8 +131,8 @@
+   exact congrArg (fun φ => φ P) h
+ 
+ theorem coeff_sbs_glue (g : K → GL (Fin d) ℂ) (μ ν : K → (Unit × Fin d →₀ ℕ)) :
+-    coeff (glue μ) (sbs g (monomial (glue ν) 1)) =
+-      ∏ k, coeff (μ k) (sbs (fun _ : Unit => g k) (monomial (ν k) 1)) := by
++    (sbs g (monomial (glue ν) 1)).coeff (glue μ) =
++      ∏ k, (sbs (fun _ : Unit => g k) (monomial (ν k) 1)).coeff (μ k) := by
+   have h : monomial (glue ν) (1 : ℂ) = ∏ k, rename (inB k) (monomial (ν k) 1) := by
+     rw [prod_rename_monomial]
+     simp
+@@ -147,7 +147,7 @@
+ 
+ theorem trace_one_block (n : ℕ) (f : MvPolynomial (Unit × Fin d) ℂ →ₗ[ℂ] MvPolynomial (Unit × Fin d) ℂ)
+     (F : Module.End ℂ (MH d fun _ : Unit => n)) (hF : ∀ P, (F P).1 = f P.1) :
+-    LinearMap.trace ℂ _ F = ∑ m ∈ deg1 d n, coeff m (f (monomial m 1)) := by
++    LinearMap.trace ℂ _ F = ∑ m ∈ deg1 d n, (f (monomial m 1)).coeff m := by
+   haveI := finMH Unit d (fun _ : Unit => n)
+   refine trace_eq_sum_coeff _ _ (fun P => ?_) f F hF
+   refine (memMH Unit d (fun _ => n) P).trans ?_
+@@ -159,14 +159,14 @@
+     exact h m hm
+ 
+ theorem symPowTrace_eq_sum_coeff (n : ℕ) (g : GL (Fin d) ℂ) :
+-    tr1 d n g = ∑ m ∈ deg1 d n, coeff m (sbs (fun _ : Unit => g) (monomial m 1)) :=
++    tr1 d n g = ∑ m ∈ deg1 d n, (sbs (fun _ : Unit => g) (monomial m 1)).coeff m :=
+   trace_one_block n (sbs fun _ : Unit => g).toLinearMap _ fun _ => rfl
+ 
+ theorem trace_blocks [DecidableEq K] (n : K → ℕ)
+     (f : MvPolynomial (K × Fin d) ℂ →ₗ[ℂ] MvPolynomial (K × Fin d) ℂ)
+     (F : Module.End ℂ (MH d n)) (hF : ∀ P, (F P).1 = f P.1) :
+     LinearMap.trace ℂ _ F = ∑ μ ∈ Fintype.piFinset (fun k => deg1 d (n k)),
+-      coeff (glue μ) (f (monomial (glue μ) 1)) := by
++      (f (monomial (glue μ) 1)).coeff (glue μ) := by
+   classical
+   haveI := finMH K d n
+   have hV : ∀ P, P ∈ MH d n ↔ ∀ m ∈ P.support,

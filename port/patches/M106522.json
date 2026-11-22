@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.WeightTraceProducts.MemHomogeneousExponentsOneBlock",
+  "source_sha256": "616bcb9ca772d6cc50c7efcb5e4cdec738fd12708995e43bf7240d18abd299a7",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: replace removed MvPolynomial.coeff m p with the dot-notation polynomial coefficient projection p.coeff m in trace_eq_sum_coeff, coeff_glue_prod, coeff_sbs_glue, trace_one_block, symPowTrace_eq_sum_coeff, trace_blocks, and internal proofs (definitionally identical coefficient operation on MvPolynomial). Also update Finsupp.finset_sum_apply -> Finsupp.finsetSum_apply and Finsupp.mapDomain_apply -> Finsupp.mapDomain_apply_of_injective in glue_eq_sum_mapDomain_inB.",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}

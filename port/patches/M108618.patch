@@ -1,0 +1,11 @@
+--- a/src/Development/AutomorphicArithmetic/AutomorphicVarieties/UnitaryThreeDeformations/LiftingObstructionSecondCohomology.lean
++++ b/src/Development/AutomorphicArithmetic/AutomorphicVarieties/UnitaryThreeDeformations/LiftingObstructionSecondCohomology.lean
+@@ -86,7 +86,7 @@
+     have h2 : algebraMap O R a * (x : R) ∈ maximalIdeal R * K := Ideal.mul_mem_mul h1 x.2
+     rw [hK] at h2
+     simpa [Algebra.smul_def] using h2
+-  obtain ⟨n, p, q, hpq⟩ := UpperTheory.V.UnitaryThreeInertia.residue_coordinates_decomposition hM
++  obtain ⟨n, p, q, hpq⟩ := UpperTheory.V.UnitaryThreeInertia.residue_coordinates_decomposition (O := O) (M := KO) hM
+   rw [UpperTheory.V.UnitaryThreeInertia.diagonal_rep_map_algebra] at hκ ⊢
+   have hE' : ∀ z a b, κ z a b ∈ KO := fun z a b => hE z a b
+   let κK : D × D → Fin 3 → Fin 3 → KO := fun z a b => ⟨κ z a b, hE' z a b⟩

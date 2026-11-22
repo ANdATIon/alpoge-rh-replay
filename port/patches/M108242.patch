@@ -1,0 +1,11 @@
+--- a/src/Development/AutomorphicArithmetic/AutomorphicVarieties/StickelbergerCharacterEval/ExistsLinearEquivQuotientByOrderTwoCoords.lean
++++ b/src/Development/AutomorphicArithmetic/AutomorphicVarieties/StickelbergerCharacterEval/ExistsLinearEquivQuotientByOrderTwoCoords.lean
+@@ -41,7 +41,7 @@
+     refine ⟨∑ i, MonoidAlgebra.single (rep i) (v i), ?_⟩
+     funext i0
+     rw [hf, coord]
+-    simp only [MonoidAlgebra.coeff_sum, MonoidAlgebra.coeff_single, Finsupp.finset_sum_apply,
++    simp only [MonoidAlgebra.coeff_sum, MonoidAlgebra.coeff_single, Finsupp.finsetSum_apply,
+       Finsupp.single_apply]
+     rw [Finset.sum_eq_single i0, Finset.sum_eq_zero]
+     · simp

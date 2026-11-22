@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LiftingObstructionSecondCohomology",
+  "source_sha256": "a3c23e06f59392716c9bb6104c916ae294c6223229ef253335d07988769bb8ac",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: pass explicit type arguments (O := O) (M := KO) to private helper residue_coordinates_decomposition so Lean 4.36 resolves the O-module structure on KO : Submodule O R unambiguously.",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}
