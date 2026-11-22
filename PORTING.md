@@ -1,3 +1,9 @@
+# Porting Complete — Switched to Lean 4.36 Proof Optimization
+
+> **Status:** The Lean `v4.36.0` + Mathlib (`fc4f59e577feb1a4956671bc04ac18aaaf8cd842`) port is complete (`leanprover-community/riemann-hypothesis` `main`, with module consolidation in [PR #120](https://github.com/leanprover-community/riemann-hypothesis/pull/120)). Do not open new `Port P####` PRs here; see [README.md](README.md#give-this-prompt-to-an-agent) for Lean 4.36 optimization tasks.
+
+---
+
 # Porting track: newer Lean and Mathlib
 
 This is an optional track, separate from the replay. The replay checks the archive **exactly as published**, on Lean 4.33.1 and the pinned Mathlib commit, and nothing here changes it. Port work never earns replay credit. It never touches `verify.sh`, `Audit.lean`, `parts.sha256`, the claims bot or the completed ledger.

@@ -4,19 +4,15 @@ Levent Alpöge announced a Lean proof of the Riemann Hypothesis on November 20, 
 
 ## Current status
 
-**Full replay in progress.** No full RH verification receipt has been produced by this project. The [two-worker pilot](evidence/pilot-receipt.json) transferred 150 previously unbuilt modules; the primary reused them and kernel-checked one downstream module.
+**Lean 4.36 port complete — now optimizing the Lean 4.36 proof.**
 
-Current cloud progress is recorded in the [worker status report](STATUS.md). See the [live progress dashboard](https://rohanarun.github.io/alpoge-rh-replay/) for the module ledger breakdown.
+- **Porting & packet claims paused:** Please **do not** open new packet claims (`Claim P####` / `Claim M######`) or Lean 4.33.1 → 4.36.0 porting PRs. The full Lean `v4.36.0` port has landed upstream in [`leanprover-community/riemann-hypothesis`](https://github.com/leanprover-community/riemann-hypothesis) (`main`), and a consolidated 47,884-file build (`−67.9%` file count vs `main`) is staged in [PR #120](https://github.com/leanprover-community/riemann-hypothesis/pull/120) (`rohanarun/riemann-hypothesis` branch `opt/collapse-and-consolidate-4.36`).
+- **New focus:** Simplifying, accelerating, and modularizing the Lean 4.36 proof while keeping `src/Challenge.lean`, `src/Statements.lean`, and `lake comparator` (`Lean paranoid` + `nanoda`) green.
+- **Historical replay archive:** All volunteer credits, historical packet logs, and pinned 4.33.1 replay records remain preserved below and on the [live progress dashboard](https://rohanarun.github.io/alpoge-rh-replay/).
 
 ## Contributors
 
-Choose any of **175,187 module tasks** or one of **2,858 work packets**. Each module has a source digest, direct dependencies, import depth, and a coordinator snapshot state. Use the [contributor guide](CONTRIBUTING.md) to find an available packet, claim it, build it, and return evidence. Browse the [packet index](tracker/packets.tsv), [snapshot totals](tracker/summary.json), or [open volunteer claims](https://github.com/rohanarun/alpoge-rh-replay/issues?q=is%3Aissue%20is%3Aopen%20in%3Atitle%20Claim).
-
-Start with the [agent instructions](auto-research.md) to claim work and submit replay evidence. Start your evidence comment with `Replay submission` to be credited automatically. Maintainers review the evidence before marking a task complete.
-
-Working on a new Lean proof? The verified lemma library includes continuity of units-valued homomorphisms and total disconnectedness of quotient groups. [Import and use the lemmas](examples/proof-reuse/README.md#use-the-lemmas)
-
-If anyone has some large machines they would be happy to put CI runners on, please DM Kim Morrison here: [https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Discussion.3A.20Alp.C3.B6ge.20Proves.20the.20Riemann.20Hypothesis/near/642446185](https://t.co/L6O32z700f)
+Thank you to all volunteers and agent contributors who helped replay and port the initial 175,187-module release! If you are running an agent or looking to contribute now, use the **Lean 4.36 optimization prompt** below instead of claiming legacy packets.
 
 <!-- volunteer-roster-start -->
 
@@ -154,21 +150,18 @@ If anyone has some large machines they would be happy to put CI runners on, plea
 
 ## Give this prompt to an agent
 
-**Default: help port the proof to current Lean and Mathlib.**
+**Default: optimize the Lean 4.36 proof.**
 
-> Help port the claimed RH proof in https://github.com/rohanarun/alpoge-rh-replay to Lean 4.36.0 and Mathlib v4.36.0. Read PORTING.md and port/target.json, and fast-forward to the latest main commit. Run `python3 tracker/port.py next` to find the shallowest open packet, then `python3 tracker/port.py claim P0123` to reserve it. Build a fresh project on the target toolchain and Mathlib with the packet's pinned source files (check each file's SHA-256 against tracker/modules.jsonl.gz), and compile every module. Where a module fails, make the smallest mechanical fix: renamed lemmas, changed tactic behavior, new arguments. Never use sorry, admit, new axioms or unsafe features, and never change a definition or theorem statement without explaining why it is equivalent. Save each module as port/patches/<ID>.patch (a unified diff against the pinned source) plus port/patches/<ID>.json, or only the .json with "notes": "unchanged" if it compiles as is. Open one PR per packet with every module's build transcript, then close the Port issue if you stop. Port work earns no replay credit and never changes the replay's pins.
-
-**Alternative: help the pinned replay.**
-
-> Help independently replay the claimed RH proof using https://github.com/rohanarun/alpoge-rh-replay. Read auto-research.md and fast-forward to the latest main commit. Use `python3 tracker/tasks.py next` to find a fully open shallow packet of up to 64 modules. Prefer a packet if its import depth and your resources make it feasible. On a cold or constrained worker, start with one target from `next --cold`. For a partial packet, choose an open module and claim it individually.
+> The Lean 4.36.0 port of the Riemann Hypothesis proof is complete—do NOT claim legacy packets or open Lean 4.33 -> 4.36 porting PRs in `rohanarun/alpoge-rh-replay`. Instead, help optimize, simplify, and speed up the Lean `v4.36.0` + Mathlib (`fc4f59e577feb1a4956671bc04ac18aaaf8cd842`) codebase in https://github.com/leanprover-community/riemann-hypothesis (and the consolidated 47,884-module branch `opt/collapse-and-consolidate-4.36` in https://github.com/rohanarun/riemann-hypothesis/pull/120).
 >
-> Wait for the claim-granted label and matching bot comment before building. Use the pinned inputs, build the targets and their required imports, and submit the receipt, log, and artifact hashes on the claim issue. Publish each claim's assets in its own release (GitHub caps a release at 1,000 assets), and before posting, download every link and confirm its SHA-256 and that the log has a build or replay line for every claimed target. Keep submitted claims open for review. If you have capacity after submitting, refresh the queue and use the same prepared checkout for a new grant. Release claims you abandon. Report exactly what passed and leave the full-RH verdict to the final audit.
+> Focus on self-contained, verifiable improvements:
+> 1. **Import & dependency pruning:** Remove unused transitive imports, flatten redundant pass-through wrapper files, and shorten import depth.
+> 2. **Proof & tactic acceleration:** Speed up slow modules, replace heavy `simp`/`aesop`/`linarith` scripts with direct rewrites or lemmas, and eliminate `maxHeartbeats` bumps where possible.
+> 3. **Mathlib deduplication:** Replace duplicated local helper definitions or lemmas with canonical Mathlib `v4.36.0` declarations.
+>
+> **Strict rules:** Never modify `src/Challenge.lean`, `src/Statements.lean`, or `comparator.json`. Never introduce `sorry`, `admit`, new `axiom`s, or unsafe features. Verify every touched module with `lake build <Target>` (and `lake build Main Challenge` + `lake comparator` for end-to-end PRs), and include before/after build times, import counts, and `.olean` sizes in your PR description.
 
-[Porting instructions](PORTING.md) · [Port issues](https://github.com/rohanarun/alpoge-rh-replay/issues?q=is%3Aissue+is%3Aopen+label%3Aport) · [Replay instructions for agents](auto-research.md) · [Claims and conflicts](https://github.com/rohanarun/alpoge-rh-replay/issues?q=is%3Aissue+is%3Aopen+in%3Atitle+Claim)
-
-## Optional: port to newer Lean and Mathlib
-
-Agents with spare capacity can help port the archive to Lean 4.36.0 and a current Mathlib. This is a separate track that never affects the pinned replay. See [PORTING.md](PORTING.md).
+[Optimization & agent notes](auto-research.md) · [Upstream Lean 4.36 repo](https://github.com/leanprover-community/riemann-hypothesis) · [Consolidated 4.36 PR #120](https://github.com/leanprover-community/riemann-hypothesis/pull/120) · [Historical replay archive](STATUS.md)
 
 ## Reproduce the check
 

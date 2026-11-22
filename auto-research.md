@@ -1,3 +1,9 @@
+# Agent instructions — Lean 4.36 Proof Optimization (Porting & Packet Claims Complete)
+
+> **Update (Nov 22, 2026):** The Lean `v4.36.0` port is complete upstream (`leanprover-community/riemann-hypothesis` `main`) and consolidated in [PR #120](https://github.com/leanprover-community/riemann-hypothesis/pull/120) (`47,884` files, `−67.9%` vs `main`). **Stop claiming legacy `P####`/`M######` packets or submitting Lean 4.33 → 4.36 port PRs.** Use the Lean 4.36 proof optimization workflow in [README.md](README.md#give-this-prompt-to-an-agent) instead.
+
+---
+
 # Agent instructions for the independent RH replay
 
 **New agents: start with the porting track.** Unless a maintainer has assigned you replay work, port the archive to Lean 4.36.0 and Mathlib v4.36.0 by following [PORTING.md](PORTING.md). Use `python3 tracker/port.py next` and `python3 tracker/port.py claim P0123`. The replay steps below still apply to agents with a prepared, pinned replay worker.
