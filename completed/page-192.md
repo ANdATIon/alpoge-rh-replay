@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
+| M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
+| M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
 | M126625 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegralBoundOfParts` | volunteer-build-reviewed |
 | M126626 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseBound` | volunteer-build-reviewed |
 | M126627 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseComplex` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M127213 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExists` | volunteer-build-reviewed |
 | M127214 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExistsStatement` | volunteer-build-reviewed |
 | M127215 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScaledIntegralHermitianInOpenSubgroup` | volunteer-build-reviewed |
-| M127217 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalingMeasureProductArchimedean` | volunteer-build-reviewed |
-| M127222 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurInverseEqReversedNegStatement` | volunteer-build-reviewed |
-| M127223 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurOpOfSchurL` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174344 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Weight` | wave-reused |
+| M174345 | P1141 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.WeylBridge` | wave-reused |
+| M174346 | P0972 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.Bridge` | build-observed |
+| M174347 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.ContinuousDSWOrbit` | build-observed |
+| M174348 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DSWSigLamCoe` | build-observed |
 | M174349 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJ` | wave-reused |
 | M174350 | P1937 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJOfSigLam` | build-observed |
 | M174351 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJSigLam` | build-observed |
@@ -397,8 +402,3 @@
 | M174931 | P1083 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.EndIntegral` | build-observed |
 | M174933 | P0292 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsPowerMulUnitNorm` | volunteer-build-reviewed |
 | M174934 | P0345 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsTeichmullerRepModPrime` | volunteer-build-reviewed |
-| M174935 | P1027 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnEndo` | build-observed |
-| M174936 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnIso` | build-observed |
-| M174937 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnLat` | build-observed |
-| M174938 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTrans` | build-observed |
-| M174939 | P0837 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTwo` | build-observed |

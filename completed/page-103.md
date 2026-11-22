@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069926 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPowStatement` | build-observed |
 | M069927 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegers` | volunteer-build-reviewed |
 | M069928 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegersStatement` | volunteer-build-reviewed |
 | M069929 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbedding` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M070573 | P0846 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FundamentalTwoCocycleMultipleNotCoboundary` | build-observed |
 | M070574 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FundamentalTwoCocycleMultipleNotCoboundaryStatement` | build-observed |
 | M070575 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalExtCContinuous` | build-observed |
-| M070576 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilO` | build-observed |

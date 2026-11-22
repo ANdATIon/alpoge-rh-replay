@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122052 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasis` | volunteer-build-reviewed |
+| M122053 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasisStatement` | volunteer-build-reviewed |
+| M122054 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIso` | build-observed |
 | M122055 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIsoStatement` | volunteer-build-reviewed |
 | M122056 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanish` | volunteer-build-reviewed |
 | M122057 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanishStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M122683 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegral` | volunteer-build-reviewed |
 | M122684 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegralStatement` | volunteer-build-reviewed |
 | M122685 | P1551 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue` | build-observed |
-| M122686 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrder` | volunteer-build-reviewed |
-| M122687 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrderStatement` | volunteer-build-reviewed |
-| M122689 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChainsOfRange` | volunteer-build-reviewed |

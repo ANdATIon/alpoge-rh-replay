@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149546 | P0602 | `Formalism.LocalToGlobal.IndefiniteReal.NonGenericAndKTwoTheorems` | build-observed |
+| M149547 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.NonzeroIndexPlaceIndepConstants` | volunteer-build-reviewed |
+| M149548 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.Decomp` | build-observed |
+| M149549 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.DecompOfNormalStatement` | build-observed |
 | M149550 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.LiftHeckeOperators` | build-observed |
 | M149551 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.PairingCommutesLiftOperators` | build-observed |
 | M149552 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.UnitaryTwoPackage` | build-observed |
@@ -398,7 +402,3 @@
 | M150397 | P0995 | `Formalism.LocalToGlobal.ProjectiveLattices.IsProbabilityMeasureAutQuotientNormalized` | build-observed |
 | M150398 | P0537 | `Formalism.LocalToGlobal.ProjectiveLattices.IsThRule` | wave-reused |
 | M150399 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.JFDFree` | wave-reused |
-| M150401 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KapTrdegPfA` | volunteer-build-reviewed |
-| M150404 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KsHecke` | volunteer-build-reviewed |
-| M150405 | P1108 | `Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms` | build-observed |
-| M150406 | P1050 | `Formalism.LocalToGlobal.ProjectiveLattices.LatPAddRight` | build-observed |

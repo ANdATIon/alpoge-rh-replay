@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162616 | P0914 | `GroundTheory.AutomorphicForms.GL2.GJFERat` | build-observed |
+| M162617 | P1370 | `GroundTheory.AutomorphicForms.GL2.GJGlobal` | build-observed |
+| M162618 | P1348 | `GroundTheory.AutomorphicForms.GL2.GJGlobalBound` | build-observed |
+| M162619 | P1191 | `GroundTheory.AutomorphicForms.GL2.GJGlobalDefs` | wave-reused |
 | M162620 | P0080 | `GroundTheory.AutomorphicForms.GL2.GJGlobalEntire` | volunteer-build-reviewed |
 | M162621 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalHaar` | wave-reused |
 | M162622 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLattice` | build-observed |
@@ -398,7 +402,3 @@
 | M163070 | P0225 | `GroundTheory.GlobalFields.CompletionAtPlace` | wave-reused |
 | M163071 | P0334 | `GroundTheory.GlobalFields.CompletionAtPlace.Degree` | wave-reused |
 | M163072 | P0380 | `GroundTheory.GlobalFields.CompletionAtPlace.Galois` | wave-reused |
-| M163073 | P0425 | `GroundTheory.GlobalFields.CompletionAtPlace.Inertia` | build-observed |
-| M163074 | P0282 | `GroundTheory.GlobalFields.CompletionAtPlace.Integers` | wave-reused |
-| M163075 | P0971 | `GroundTheory.GlobalFields.ComplexMultiplication.Algebraicity` | build-observed |
-| M163076 | P0999 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityClass` | build-observed |

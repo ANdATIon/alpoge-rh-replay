@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127925 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOverLatticeQuotientLocallyConstant` | volunteer-build-reviewed |
+| M127929 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableProdPowMultiIndex` | volunteer-build-reviewed |
+| M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |
 | M127931 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficientsStatement` | volunteer-build-reviewed |
 | M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |
 | M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M128621 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMovingUnitVector` | volunteer-build-reviewed |
 | M128622 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMovingUnitVectorStatement` | volunteer-build-reviewed |
 | M128623 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundCompact` | volunteer-build-reviewed |
-| M128625 | P1706 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundFinite` | volunteer-build-reviewed |
-| M128633 | P2175 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExists` | volunteer-build-reviewed |
-| M128634 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExistsStatement` | volunteer-build-reviewed |

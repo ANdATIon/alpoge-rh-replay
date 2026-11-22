@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134158 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonemptyStatement` | build-observed |
+| M134159 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditions` | build-observed |
+| M134160 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditionsStatement` | build-observed |
+| M134168 | P1237 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSum` | build-observed |
 | M134169 | P1265 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSumStatement` | build-observed |
 | M134170 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeBoundedMap` | volunteer-build-reviewed |
 | M134175 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeLeRankMulSlopeStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M134890 | P0531 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsCellFunctional` | volunteer-build-reviewed |
 | M134895 | P1782 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne` | volunteer-build-reviewed |
 | M134896 | P1755 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne` | volunteer-build-reviewed |
-| M134897 | P1413 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsUniformizerValuation` | volunteer-build-reviewed |
-| M134904 | P1706 | `Development.DiscreteGroups.GlobalIrreducibility.IneEqOfHasGreenLe` | volunteer-build-reviewed |
-| M134907 | P1552 | `Development.DiscreteGroups.GlobalIrreducibility.KmatMulKinv` | volunteer-build-reviewed |
-| M134917 | P1438 | `Development.DiscreteGroups.GlobalIrreducibility.LConvCut` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120904 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApplyMulOfCoprime` | volunteer-build-reviewed |
+| M120907 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumps` | volunteer-build-reviewed |
+| M120908 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumpsStatement` | volunteer-build-reviewed |
 | M120909 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Aq` | volunteer-build-reviewed |
 | M120910 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchExponentEqZeroOfMulSelf` | build-observed |
 | M120911 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExists` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M121468 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureConjugationInvariantStatement` | build-observed |
 | M121469 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVariety` | volunteer-build-reviewed |
 | M121470 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVarietyStatement` | volunteer-build-reviewed |
-| M121471 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernel` | volunteer-build-reviewed |
-| M121472 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernelStatement` | volunteer-build-reviewed |
-| M121475 | P0797 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsCongr` | build-observed |

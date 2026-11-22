@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157920 | P0077 | `Formalism.PolynomialDimension.StatementHar` | build-observed |
+| M157921 | P0156 | `Formalism.PolynomialDimension.StatementNum` | wave-reused |
+| M157922 | P0077 | `Formalism.PolynomialDimension.WeylDim` | wave-reused |
+| M157923 | P0156 | `Formalism.PrimeAboveExistence.LenEqPlaces` | volunteer-build-reviewed |
 | M157924 | P0279 | `Formalism.ProductFormula.StatementOCCM` | build-observed |
 | M157925 | P0540 | `Formalism.QuotientMetricDivisors.BoundsChain` | wave-reused |
 | M157926 | P0505 | `Formalism.QuotientMetricDivisors.ClassSumDualGeF` | wave-reused |
@@ -398,7 +402,3 @@
 | M158330 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FibreCountOfPositions` | build-observed |
 | M158331 | P1296 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FlagStabilizerMemIsotropic` | build-observed |
 | M158332 | P1052 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.ForPrimeFlagLattice` | build-observed |
-| M158333 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleAllConstants` | build-observed |
-| M158334 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleFamilyOfSteps` | build-observed |
-| M158335 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericCountAllConstants` | build-observed |
-| M158336 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericDetOfFlagProductBound` | build-observed |

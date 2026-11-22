@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100173 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CubeTrivialAndFiniteFlatSurjectiveMulAbelianSche` | volunteer-build-reviewed |
 | M100177 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMem` | build-observed |
 | M100178 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMemStatement` | build-observed |
 | M100182 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupport` | build-observed |
@@ -401,4 +402,3 @@
 | M100746 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IdentityComponentOpen` | volunteer-build-reviewed |
 | M100748 | P1912 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InfiniteOfConcl` | volunteer-build-reviewed |
 | M100750 | P0592 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InjectiveOfSmulMemRange` | wave-reused |
-| M100751 | P1892 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InterNumDetNonposSplitTorus` | volunteer-build-reviewed |

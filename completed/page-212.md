@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M140978 | P2175 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.InfinitesimalCharacterLimits.TwistStripLimits.LimitOfFiniteDiscrete` | volunteer-build-reviewed |
+| M140981 | P2142 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.LogAbsoluteWedges.OnlyIsotropic` | volunteer-build-reviewed |
+| M140982 | P0066 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.LogAbsoluteWedges.WedgeSub` | volunteer-build-reviewed |
+| M140983 | P1292 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IsotropicMahlerBounds.OnlyIsotropic` | volunteer-build-reviewed |
 | M140985 | P0145 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.IwahoriDcosU` | volunteer-build-reviewed |
 | M140986 | P2502 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.MultiplicityOneBase.ArchimedeanBaseChangeFirst` | volunteer-build-reviewed |
 | M140987 | P0884 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.CasselmanStrictlyDominantExample` | build-observed |
@@ -398,7 +402,3 @@
 | M141739 | P2091 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.NuPairInjectivity.NuPair` | volunteer-build-reviewed |
 | M141740 | P1554 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.CuspPairSubGeneric` | volunteer-build-reviewed |
 | M141741 | P1582 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.DerivJac` | volunteer-build-reviewed |
-| M141742 | P1612 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.DerivSub` | volunteer-build-reviewed |
-| M141743 | P1809 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SwapProducts.SwapProd` | volunteer-build-reviewed |
-| M141744 | P2118 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.LUnlinkedCommPole` | volunteer-build-reviewed |
-| M141746 | P1582 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.ProdIotaRev` | volunteer-build-reviewed |

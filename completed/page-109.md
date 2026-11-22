@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074109 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanRestrictEqTopOfSimpleStatement` | build-observed |
 | M074110 | P0193 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSelfDual` | volunteer-build-reviewed |
 | M074111 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsion` | wave-reused |
 | M074112 | P1013 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsionStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M074792 | P2228 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSchurSquareCellProductEqEulerProductStatement` | volunteer-build-reviewed |
 | M074794 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSetIntegralEqZeroOfStabilizerStatement` | volunteer-build-reviewed |
 | M074795 | P0034 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSetIntegralProdEqZeroOfInner` | volunteer-build-reviewed |
-| M074796 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSetIntegralProdEqZeroOfInnerStatement` | volunteer-build-reviewed |

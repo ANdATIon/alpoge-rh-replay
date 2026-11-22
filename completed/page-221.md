@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146888 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RecursionWithDensities` | build-observed |
+| M146889 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ReductionSurjective` | build-observed |
+| M146891 | P0635 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularisedPairingViaPhase` | wave-reused |
+| M146892 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityAtPlaceOfSubadditive` | volunteer-build-reviewed |
 | M146893 | P1390 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityBundleFromHypotheses` | build-observed |
 | M146894 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RelevantMonotoneOfParts` | build-observed |
 | M146895 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RemainderNormLeStrictUpper` | wave-reused |
@@ -398,7 +402,3 @@
 | M147428 | P0635 | `Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ZetaLogDerivLandauBound` | build-observed |
 | M147429 | P0665 | `Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ZetaNegReal` | build-observed |
 | M147430 | P0748 | `Formalism.LandauZeroFreeBounds.FinalSiegel` | build-observed |
-| M147431 | P0602 | `Formalism.LandauZeroFreeBounds.LogDerivRegionChiOf` | build-observed |
-| M147432 | P0694 | `Formalism.LandauZeroFreeBounds.NoZeroComplex` | build-observed |
-| M147433 | P0273 | `Formalism.LandauZeroFreeBounds.NoZeroComplexOf` | build-observed |
-| M147434 | P0635 | `Formalism.LandauZeroFreeBounds.SameCharacterLFunctionOne` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119131 | P2763 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaEigenCompatibilitySixth` | volunteer-build-reviewed |
+| M119132 | P2163 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaFireRowRecTie` | volunteer-build-reviewed |
+| M119133 | P2174 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaFireRowRecTieStatement` | volunteer-build-reviewed |
 | M119134 | P2787 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftHypothesesOfNonvanishing` | volunteer-build-reviewed |
 | M119135 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftOfReference` | volunteer-build-reviewed |
 | M119136 | P2746 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLocalInputs` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M119660 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GermComp1ZeroPointLeft` | wave-reused |
 | M119661 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IntStable` | volunteer-build-reviewed |
 | M119662 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact` | wave-reused |
-| M119663 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub` | build-observed |
-| M119664 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsGroupHomog` | volunteer-build-reviewed |
-| M119665 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatFamilyLineFamZero` | volunteer-build-reviewed |

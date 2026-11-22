@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M106648 | P2697 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.CuDefsA` | volunteer-build-reviewed |
+| M106649 | P2781 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.CuFinal` | volunteer-build-reviewed |
 | M106650 | P2734 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.CuPChainIV` | volunteer-build-reviewed |
 | M106651 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.CuspUnique` | volunteer-build-reviewed |
 | M106652 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DeRhamWeightsOfLocalArtinCharacters` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M107085 | P2718 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WStmtxx` | volunteer-build-reviewed |
 | M107086 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WeakAdmissibleIso` | volunteer-build-reviewed |
 | M107087 | P2708 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinApi` | volunteer-build-reviewed |
-| M107088 | P2756 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinConv` | volunteer-build-reviewed |
-| M107089 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinDefs` | volunteer-build-reviewed |

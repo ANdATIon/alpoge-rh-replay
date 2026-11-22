@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162169 | P0159 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.DzDifferentiableOn` | build-observed |
+| M162170 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.GzPNTOf` | build-observed |
+| M162171 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.IntegralEqIntervalIntegralAddCompl` | build-observed |
+| M162172 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LandauLocalOf` | build-observed |
 | M162173 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LaurentAtOne` | build-observed |
 | M162174 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LdrInvSubOneLe` | build-observed |
 | M162175 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LdrMid` | build-observed |
@@ -398,7 +402,3 @@
 | M162613 | P0999 | `GroundTheory.AutomorphicForms.GL2.GJFELeviConv` | build-observed |
 | M162614 | P1168 | `GroundTheory.AutomorphicForms.GL2.GJFELeviMulti` | build-observed |
 | M162615 | P1141 | `GroundTheory.AutomorphicForms.GL2.GJFELeviPeel` | build-observed |
-| M162616 | P0914 | `GroundTheory.AutomorphicForms.GL2.GJFERat` | build-observed |
-| M162617 | P1370 | `GroundTheory.AutomorphicForms.GL2.GJGlobal` | build-observed |
-| M162618 | P1348 | `GroundTheory.AutomorphicForms.GL2.GJGlobalBound` | build-observed |
-| M162619 | P1191 | `GroundTheory.AutomorphicForms.GL2.GJGlobalDefs` | wave-reused |

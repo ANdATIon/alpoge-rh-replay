@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113145 | P2751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.UnrAtOfIsoTwist` | volunteer-build-reviewed |
+| M113146 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.BaseCase` | volunteer-build-reviewed |
 | M113147 | P2791 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.Closed` | volunteer-build-reviewed |
 | M113148 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.CountExpandMap` | volunteer-build-reviewed |
 | M113150 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.BallLev` | volunteer-build-reviewed |
@@ -177,6 +179,7 @@
 | M113384 | P1681 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.EqOneOfFinInf` | volunteer-build-reviewed |
 | M113386 | P0135 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.ExistsInvariantFlagModL` | volunteer-build-reviewed |
 | M113388 | P1725 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.FrameW` | volunteer-build-reviewed |
+| M113390 | P0905 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GammaConjAt` | volunteer-build-reviewed |
 | M113391 | P1893 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GammaEig` | volunteer-build-reviewed |
 | M113393 | P1550 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GenDataEmpty` | volunteer-build-reviewed |
 | M113394 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GlobOp` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M113698 | P2796 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.GaloisCompatUnlinkedSupportOfSpherical` | volunteer-build-reviewed |
 | M113699 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.InfLifts` | volunteer-build-reviewed |
 | M113701 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.LocalGlobalCompatAtIwahoriFixedPlaces` | volunteer-build-reviewed |
-| M113702 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PDrDesc` | volunteer-build-reviewed |
-| M113703 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PInfLifts` | volunteer-build-reviewed |
-| M113704 | P2783 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PInfStep` | volunteer-build-reviewed |

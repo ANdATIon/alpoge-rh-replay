@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134897 | P1413 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsUniformizerValuation` | volunteer-build-reviewed |
+| M134904 | P1706 | `Development.DiscreteGroups.GlobalIrreducibility.IneEqOfHasGreenLe` | volunteer-build-reviewed |
+| M134907 | P1552 | `Development.DiscreteGroups.GlobalIrreducibility.KmatMulKinv` | volunteer-build-reviewed |
+| M134917 | P1438 | `Development.DiscreteGroups.GlobalIrreducibility.LConvCut` | volunteer-build-reviewed |
 | M134927 | P0064 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKMCore` | volunteer-build-reviewed |
 | M134932 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKirStep` | volunteer-build-reviewed |
 | M134940 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvSepR` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M135471 | P0598 | `Development.EtaleCohomology.EtaleSheaves.GluePf` | wave-reused |
 | M135472 | P0692 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPf` | build-observed |
 | M135473 | P0719 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPfCone` | build-observed |
-| M135474 | P0745 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPfNat` | build-observed |
-| M135477 | P0532 | `Development.EtaleCohomology.EtaleSheaves.GoalOf` | wave-reused |
-| M135479 | P0456 | `Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField` | wave-reused |
-| M135480 | P0662 | `Development.EtaleCohomology.EtaleSheaves.H1FiniteCoefficients` | wave-reused |

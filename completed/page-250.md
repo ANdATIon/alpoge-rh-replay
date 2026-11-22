@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161763 | P0223 | `Formalism.TruncatedSeriesCounting.StatementX` | wave-reused |
+| M161764 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.AprimeArith` | wave-reused |
+| M161765 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ArcExp` | wave-reused |
+| M161766 | P0332 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.BridgeDet` | wave-reused |
 | M161767 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelC` | wave-reused |
 | M161768 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelQ` | wave-reused |
 | M161769 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColAssembly` | wave-reused |
@@ -398,7 +402,3 @@
 | M162166 | P0224 | `Formalism.ZeroFreeRegion.Statement` | build-observed |
 | M162167 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfLarge` | build-observed |
 | M162168 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfOneLe` | build-observed |
-| M162169 | P0159 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.DzDifferentiableOn` | build-observed |
-| M162170 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.GzPNTOf` | build-observed |
-| M162171 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.IntegralEqIntervalIntegralAddCompl` | build-observed |
-| M162172 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LandauLocalOf` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155276 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DetShiftNormOf` | build-observed |
+| M155277 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DeterminantAdjugate` | build-observed |
+| M155278 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DiagonalMonomialFactorial` | build-observed |
+| M155279 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HighestWeightLastZero` | build-observed |
 | M155280 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookBoundOfSteps` | build-observed |
 | M155281 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookNorm` | build-observed |
 | M155282 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.ProdFactorialLe` | build-observed |
@@ -398,7 +402,3 @@
 | M155711 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftPhaseRule.LeftMultiplicationRule` | wave-reused |
 | M155712 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftPhaseRule.MulApplyS` | wave-reused |
 | M155713 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftPhaseRule.ReflectionColumnDualIsotropic` | wave-reused |
-| M155714 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftQuantumMinor.QuantumMinorLeftHermitian` | wave-reused |
-| M155716 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LengthIndex.LenAtEqZero` | volunteer-build-reviewed |
-| M155718 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelImageArithmetic.GlevImageOf` | wave-reused |
-| M155719 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.LevelGroupUnitaryHermitian` | wave-reused |

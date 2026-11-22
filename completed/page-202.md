@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133523 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedMeasureStatement` | wave-reused |
+| M133524 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolution` | wave-reused |
+| M133525 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionAltBis` | wave-reused |
 | M133526 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionFifth` | volunteer-build-reviewed |
 | M133527 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionFifthStatement` | volunteer-build-reviewed |
 | M133530 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionSeventh` | volunteer-build-reviewed |
@@ -113,6 +116,7 @@
 | M133702 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmooth` | wave-reused |
 | M133703 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmoothStatement` | build-observed |
 | M133708 | P0208 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GapEqWeightSubNext` | volunteer-build-reviewed |
+| M133709 | P0268 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GapEqWeightSubNextStatement` | volunteer-build-reviewed |
 | M133710 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenUIsGenFam` | volunteer-build-reviewed |
 | M133711 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeEqGeometricDegree` | volunteer-build-reviewed |
 | M133713 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfArithSystem` | build-observed |
@@ -398,7 +402,3 @@
 | M134147 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MongeAmpereSingularTotalMassDegree` | volunteer-build-reviewed |
 | M134148 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MulVecEqZeroOfPair` | volunteer-build-reviewed |
 | M134157 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonempty` | build-observed |
-| M134158 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonemptyStatement` | build-observed |
-| M134159 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditions` | build-observed |
-| M134160 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditionsStatement` | build-observed |
-| M134168 | P1237 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSum` | build-observed |

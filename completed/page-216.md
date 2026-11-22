@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144047 | P1468 | `Formalism.AdmissibleDesigns.TrivialBoundGeneral` | build-observed |
+| M144048 | P1415 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfDict` | build-observed |
+| M144049 | P1527 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfPsi` | build-observed |
+| M144050 | P1468 | `Formalism.AdmissibleDesigns.TwistedTargetOfInputs` | build-observed |
 | M144051 | P1468 | `Formalism.AdmissibleDesigns.URecApply` | build-observed |
 | M144052 | P1497 | `Formalism.AdmissibleDesigns.URepApply` | build-observed |
 | M144053 | P1639 | `Formalism.AdmissibleDesigns.UnramifiedInputOfAdmitted` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M144445 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LocalIntegralStructure` | build-observed |
 | M144446 | P0211 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MeasurePreservingPiCompProd` | build-observed |
 | M144447 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MinkowskiNumberDvdFactorial` | build-observed |
-| M144448 | P0502 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NearFarVolumeBounds` | build-observed |
-| M144449 | P0374 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NormalisationIdentity` | wave-reused |
-| M144450 | P0747 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.OperatorHilbertSchmidtNorm` | build-observed |
-| M144451 | P0271 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SchurAverage` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101406 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CmFree` | wave-reused |
 | M101407 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Cohen` | wave-reused |
 | M101408 | P0487 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CompDim` | wave-reused |
 | M101409 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CorePowMem` | wave-reused |
@@ -401,4 +402,3 @@
 | M102158 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EvenValuationNormCompactUnitsOfSplit` | wave-reused |
 | M102159 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EventuallyMemHeckeLevelAndIwahoriCongruence` | volunteer-build-reviewed |
 | M102160 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactBaseIntegralToComplex` | volunteer-build-reviewed |
-| M102161 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactCOfOfExactBase` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114585 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiExact` | wave-reused |
+| M114586 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiQis` | wave-reused |
+| M114587 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiUniv` | wave-reused |
 | M114588 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtCommon` | wave-reused |
 | M114589 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtInj` | wave-reused |
 | M114590 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtLift` | wave-reused |
@@ -399,6 +402,3 @@
 | M115030 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CharpolySmul` | volunteer-build-reviewed |
 | M115031 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceFunction` | volunteer-build-reviewed |
 | M115032 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceOfModulusAndDiscriminant` | volunteer-build-reviewed |
-| M115033 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClearDenominatorsLattice` | volunteer-build-reviewed |
-| M115034 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureSpanCoefficients` | volunteer-build-reviewed |
-| M115035 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureUpperUni` | build-observed |

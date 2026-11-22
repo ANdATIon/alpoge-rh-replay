@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158333 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleAllConstants` | build-observed |
+| M158334 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericAdmissibleFamilyOfSteps` | build-observed |
+| M158335 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericCountAllConstants` | build-observed |
+| M158336 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericDetOfFlagProductBound` | build-observed |
 | M158337 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusMassPosOfMassLowerBound` | build-observed |
 | M158338 | P0669 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusOrthonormalIntegralUnimodular` | build-observed |
 | M158339 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfFibreStructure` | build-observed |
@@ -398,7 +402,3 @@
 | M158856 | P0941 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.NonemptyCoefficientFieldPrime` | build-observed |
 | M158857 | P1111 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.OrbitAdmissibleOfSplitBound` | build-observed |
 | M158858 | P1080 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.OrbitPlaces` | build-observed |
-| M158859 | P0969 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.SubsingletonRankIndicatorIff` | build-observed |
-| M158863 | P0997 | `Formalism.SharpRestriction.Divisibility.LocalQuadraticParts` | build-observed |
-| M158864 | P0913 | `Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts` | build-observed |
-| M158865 | P1052 | `Formalism.SharpRestriction.Divisibility.OrbitPlaces` | build-observed |

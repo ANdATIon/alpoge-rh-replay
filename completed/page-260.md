@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167040 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaOne` | wave-reused |
+| M167041 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaVanishing` | wave-reused |
+| M167042 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple` | build-observed |
+| M167045 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenFibreHomog` | build-observed |
+| M167050 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenSESStep` | wave-reused |
 | M167051 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedEffectiveSection` | build-observed |
 | M167052 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedMixedNonneg` | build-observed |
 | M167053 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedNefF` | build-observed |
@@ -397,8 +402,3 @@
 | M167725 | P0544 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraAlt` | build-observed |
 | M167726 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraBis` | build-observed |
 | M167729 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherBis` | wave-reused |
-| M167731 | P0727 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherFurther` | wave-reused |
-| M167733 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherMore` | build-observed |
-| M167736 | P0643 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTail` | wave-reused |
-| M167737 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTer` | build-observed |
-| M167740 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreAlt` | build-observed |

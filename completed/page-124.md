@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087065 | P1516 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DenseFrobOutside` | volunteer-build-reviewed |
 | M087084 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DeterminantIdealCharacterClassLatticeEqStatement` | volunteer-build-reviewed |
 | M087089 | P2138 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagUniformizerBlockEqDiagonalPowMulIntegralGL` | volunteer-build-reviewed |
 | M087091 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtale` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M088118 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntAtNatCast` | build-observed |
 | M088124 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralAtOfAdelicIntegralAtStatement` | volunteer-build-reviewed |
 | M088126 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralAtOfComponentZeroUnderPrimeStatement` | volunteer-build-reviewed |
-| M088129 | P0257 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosed` | volunteer-build-reviewed |

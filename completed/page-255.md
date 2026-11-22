@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164105 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionsGeneric` | wave-reused |
+| M164106 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatDimFormula` | volunteer-build-reviewed |
+| M164107 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatLocalRegularElement` | volunteer-build-reviewed |
+| M164108 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatLocalRegularSequence` | volunteer-build-reviewed |
 | M164109 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatNormalFibres` | volunteer-build-reviewed |
 | M164110 | P0508 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntLelong` | wave-reused |
 | M164111 | P0639 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntPos` | wave-reused |
@@ -398,7 +402,3 @@
 | M164696 | P0542 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalCurveBranchOrder` | build-observed |
 | M164698 | P0542 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalCurvePointDVR` | volunteer-build-reviewed |
 | M164700 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDivisorChartGeneric` | volunteer-build-reviewed |
-| M164701 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDoublePointsGeneric` | volunteer-build-reviewed |
-| M164702 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIntegrallyClosed` | volunteer-build-reviewed |
-| M164703 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIrreducible` | volunteer-build-reviewed |
-| M164704 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalLocalDepthTwo` | volunteer-build-reviewed |

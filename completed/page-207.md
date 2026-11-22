@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136618 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MarkedPullbackSquare` | wave-reused |
+| M136619 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MarkedSchemeWithCenter` | wave-reused |
+| M136620 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MaxOrder` | wave-reused |
+| M136621 | P0937 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MaxOrderReduction` | wave-reused |
 | M136622 | P1047 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialCenterHypotheses` | wave-reused |
 | M136623 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialFactorTransform` | wave-reused |
 | M136624 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialSplittingFunctoriality` | wave-reused |
@@ -398,7 +402,3 @@
 | M137175 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.IntegralCoefficientBaseChange.UnitaryBaseChangeCharacters.UnitaryBaseChangeLinks.OrbitalIntegralUnitIndicatorEventuallyOneClassIm` | volunteer-build-reviewed |
 | M137183 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.IntegralCoefficientBaseChange.UnitaryBaseChangeCharacters.UnitaryBaseChangeLinks.UnitaryMassFormula` | volunteer-build-reviewed |
 | M137192 | P2152 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.EssSquareIntegrableSegmentsOfSeg` | volunteer-build-reviewed |
-| M137194 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.ExhaustionOfThree` | volunteer-build-reviewed |
-| M137197 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.IsLAddSegmentOfInjectiveOfNotPrecedes` | volunteer-build-reviewed |
-| M137205 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LUnlinkedIrrOfSeg` | volunteer-build-reviewed |
-| M137206 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LanglandsMultisegmentsOfSeg` | volunteer-build-reviewed |

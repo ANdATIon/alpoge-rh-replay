@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103958 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2SmulKey` | volunteer-build-reviewed |
 | M103959 | P2549 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.MemCongruenceSubgroupIff` | volunteer-build-reviewed |
 | M103960 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.ModuleStructureOfCommuting` | volunteer-build-reviewed |
 | M103962 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NeTeichEx` | volunteer-build-reviewed |
@@ -124,6 +125,7 @@
 | M104111 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.SmulStrictMono` | volunteer-build-reviewed |
 | M104112 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Spanpsd` | volunteer-build-reviewed |
 | M104113 | P0713 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Stabfin` | build-observed |
+| M104114 | P0905 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.TorsMain` | volunteer-build-reviewed |
 | M104115 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Torsfree` | volunteer-build-reviewed |
 | M104116 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.Adelise` | volunteer-build-reviewed |
 | M104117 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.AdjointLowWeight.SymmetricCubeSymplecticSimilitude` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M104517 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.PairSeqDoubleComplexBoundaryRelations` | volunteer-build-reviewed |
 | M104518 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.PairSeqHorizontalCycleIsBoundaryOfSlicesExact` | volunteer-build-reviewed |
 | M104519 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.PairSeqVerticalCycleIsBoundaryOfSlicesExact` | volunteer-build-reviewed |
-| M104520 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.PermCoefPreservesShortExact` | volunteer-build-reviewed |
-| M104521 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.ProjectivePermTensorFree` | volunteer-build-reviewed |

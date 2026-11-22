@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130134 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicBound` | volunteer-build-reviewed |
+| M130137 | P1706 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicFrameStatement` | volunteer-build-reviewed |
+| M130138 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominator` | build-observed |
 | M130139 | P1104 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominatorStatement` | build-observed |
 | M130140 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorFieldEmbedding` | volunteer-build-reviewed |
 | M130141 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorFieldEmbeddingStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M130776 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodDatumParameters` | volunteer-build-reviewed |
 | M130777 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodDatumParametersStatement` | volunteer-build-reviewed |
 | M130778 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodEmbeddingComponentSections` | volunteer-build-reviewed |
-| M130779 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodEmbeddingComponentSectionsStatement` | volunteer-build-reviewed |
-| M130780 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginComponentSections` | volunteer-build-reviewed |
-| M130781 | P2552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginComponentSectionsStatement` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159313 | P1641 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFFinal` | build-observed |
+| M159314 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFTrueDeg` | build-observed |
+| M159315 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Beyond44OfRestRawTail` | build-observed |
+| M159316 | P1615 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockForm` | build-observed |
 | M159317 | P1470 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockWithThresholds` | build-observed |
 | M159318 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.ChainEmbInj` | build-observed |
 | M159319 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CharZeroOfW` | build-observed |
@@ -398,7 +402,3 @@
 | M159724 | P1500 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DigitsOKOfCompat` | wave-reused |
 | M159725 | P1500 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DimYOvr` | wave-reused |
 | M159726 | P1811 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DirectionsOfPositivePart` | wave-reused |
-| M159727 | P1759 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.EpsilonBoundMConstant` | wave-reused |
-| M159728 | P1734 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExistsHigh` | wave-reused |
-| M159729 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExponentMatrixFirstDepthEq` | wave-reused |
-| M159730 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinPosEqCast` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068020 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicActionOnRootTowerStatement` | build-observed |
 | M068021 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicAdmissibleSemistable` | build-observed |
 | M068024 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharInertiaSurjective` | wave-reused |
 | M068028 | P0555 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterCongrRootOfUnityPow` | build-observed |
@@ -401,4 +402,3 @@
 | M068674 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsBreuilKisinModuleTameDescentGoodLattice` | volunteer-build-reviewed |
 | M068675 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsBreuilKisinModuleTameDescentGoodLatticeStatement` | volunteer-build-reviewed |
 | M068677 | P1672 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCanonicalInertTensorCompletionEquiv` | volunteer-build-reviewed |
-| M068679 | P1797 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrExtensionQkPointsRational` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137194 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.ExhaustionOfThree` | volunteer-build-reviewed |
+| M137197 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.IsLAddSegmentOfInjectiveOfNotPrecedes` | volunteer-build-reviewed |
+| M137205 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LUnlinkedIrrOfSeg` | volunteer-build-reviewed |
+| M137206 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LanglandsMultisegmentsOfSeg` | volunteer-build-reviewed |
 | M137211 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.Outright` | volunteer-build-reviewed |
 | M137215 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalCompatibilityHolds` | volunteer-build-reviewed |
 | M137216 | P1466 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalOfIwahori` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M138133 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.DegLApply` | volunteer-build-reviewed |
 | M138137 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.EqZeroOfTri` | volunteer-build-reviewed |
 | M138138 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsDegreeOneClass` | volunteer-build-reviewed |
-| M138143 | P2501 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsModelOfEq` | volunteer-build-reviewed |
-| M138144 | P1438 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsResDegree` | volunteer-build-reviewed |
-| M138145 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsRightInv` | volunteer-build-reviewed |
-| M138153 | P2164 | `Development.WeilBound.CoreStatements.FlagImmersions.FlagImmersion` | volunteer-build-reviewed |

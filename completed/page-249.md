@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161355 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetDivides` | build-observed |
+| M161356 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetQuotVal` | build-observed |
+| M161357 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetVal` | build-observed |
+| M161358 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.LengthLayers` | build-observed |
 | M161359 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbits` | build-observed |
 | M161360 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbitsRefined` | build-observed |
 | M161361 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.MarkedRun` | build-observed |
@@ -398,7 +402,3 @@
 | M161760 | P0079 | `Formalism.TruncatedSeriesCounting.LengthQuotientLeOfPowSMul` | wave-reused |
 | M161761 | P0223 | `Formalism.TruncatedSeriesCounting.PowMemSpanOfMemSpanLinearDistinguished` | wave-reused |
 | M161762 | P0158 | `Formalism.TruncatedSeriesCounting.RamifiedValuationInequality` | wave-reused |
-| M161763 | P0223 | `Formalism.TruncatedSeriesCounting.StatementX` | wave-reused |
-| M161764 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.AprimeArith` | wave-reused |
-| M161765 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ArcExp` | wave-reused |
-| M161766 | P0332 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.BridgeDet` | wave-reused |

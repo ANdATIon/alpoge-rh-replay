@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071984 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabRcAtMulUnr` | volunteer-build-reviewed |
 | M071986 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacter` | volunteer-build-reviewed |
 | M071987 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacterStatement` | volunteer-build-reviewed |
 | M071991 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelUniqueOfIrreducibleStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M072737 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonicDvdXPowCardSubOneExistsRoot` | volunteer-build-reviewed |
 | M072743 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyIrreducibleElementaryWeightModification` | build-observed |
 | M072744 | P1568 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyIrreducibleElementaryWeightModificationStatement` | build-observed |
-| M072745 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVector` | build-observed |

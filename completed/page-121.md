@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084552 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslateCoprimeOrderNotIncreaseThetaCombNormStatement` | volunteer-build-reviewed |
 | M084553 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslatePullbackEigensection` | wave-reused |
 | M084559 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TwistedMeasureMomentsEqShiftedSeriesJets` | volunteer-build-reviewed |
 | M084560 | P0310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TwistedMeasureMomentsEqShiftedSeriesJetsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M085246 | P1229 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSimilitudeOfAutModLevelIdeal` | build-observed |
 | M085251 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmoothPeriodicPartitionOfUnity` | wave-reused |
 | M085252 | P0738 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulApplyEqOfEqOnInvariants` | build-observed |
-| M085253 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulMemSpanInvariantsSup` | volunteer-build-reviewed |

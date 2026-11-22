@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068679 | P1797 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrExtensionQkPointsRational` | volunteer-build-reviewed |
 | M068681 | P2098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidue` | volunteer-build-reviewed |
 | M068682 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidueStatement` | volunteer-build-reviewed |
 | M068683 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCellPartUnfoldedIntegralPositive` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M069315 | P0122 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIrreducibleSubrepFixedOfUnitary` | volunteer-build-reviewed |
 | M069316 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsAdicCompletionMapOfFg` | wave-reused |
 | M069317 | P1010 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsAdicCompletionMapOfFgStatement` | wave-reused |
-| M069318 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsCentAtScalar` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072745 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVector` | build-observed |
 | M072746 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVectorStatement` | build-observed |
 | M072751 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjective` | build-observed |
 | M072752 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjectiveStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M073392 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PtStringAllOfHypotheses` | volunteer-build-reviewed |
 | M073393 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PureOfAttached` | build-observed |
 | M073394 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PureOfAttachedStatement` | build-observed |
-| M073395 | P1697 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PureTensorOTransSumLin` | volunteer-build-reviewed |

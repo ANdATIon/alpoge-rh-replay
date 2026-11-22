@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135474 | P0745 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPfNat` | build-observed |
+| M135477 | P0532 | `Development.EtaleCohomology.EtaleSheaves.GoalOf` | wave-reused |
+| M135479 | P0456 | `Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField` | wave-reused |
+| M135480 | P0662 | `Development.EtaleCohomology.EtaleSheaves.H1FiniteCoefficients` | wave-reused |
 | M135481 | P0532 | `Development.EtaleCohomology.EtaleSheaves.H1MultiplicativeGroup` | build-observed |
 | M135483 | P0496 | `Development.EtaleCohomology.EtaleSheaves.HZeroPf` | wave-reused |
 | M135484 | P0566 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing` | wave-reused |
@@ -398,7 +402,3 @@
 | M136163 | P0498 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupCochainExistsForPairing` | wave-reused |
 | M136164 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupCochainExistsHolds` | wave-reused |
 | M136165 | P0663 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupExistsOfComponents` | wave-reused |
-| M136166 | P0416 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupLeibniz` | wave-reused |
-| M136167 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupLeibnizOfPairing` | wave-reused |
-| M136170 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalBasicPropertiesHold` | wave-reused |
-| M136171 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalDifferentialFormulaHolds` | wave-reused |

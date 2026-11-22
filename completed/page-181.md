@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119663 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub` | build-observed |
+| M119664 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsGroupHomog` | volunteer-build-reviewed |
+| M119665 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatFamilyLineFamZero` | volunteer-build-reviewed |
 | M119666 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatticeFamily` | volunteer-build-reviewed |
 | M119667 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars` | wave-reused |
 | M119668 | P0203 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M120232 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianMatrixMeasurePosFinite` | volunteer-build-reviewed |
 | M120234 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionBallIndicator` | volunteer-build-reviewed |
 | M120236 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionConeCoarea` | volunteer-build-reviewed |
-| M120238 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibres` | build-observed |
-| M120239 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibresStatement` | build-observed |
-| M120240 | P0368 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariants` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090839 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SiegelSmoothOfRelativeDimensionCharZeroStatement` | build-observed |
 | M090840 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignInsert` | wave-reused |
 | M090841 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignSwap` | wave-reused |
 | M090842 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFrames` | wave-reused |
@@ -401,4 +402,3 @@
 | M091476 | P0712 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.TranslationFixingBundleArtinPointEqOneStatement` | build-observed |
 | M091477 | P0591 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.WeilIsExpRiemannForm` | build-observed |
 | M091479 | P1072 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BasePsiLeviLowerBound` | wave-reused |
-| M091481 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BorelDiagNeZero` | wave-reused |

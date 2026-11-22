@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154824 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.Assemble` | volunteer-build-reviewed |
+| M154825 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StBaseOf` | volunteer-build-reviewed |
+| M154826 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StSpecOf` | volunteer-build-reviewed |
+| M154827 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.WregOfSubsingleton` | volunteer-build-reviewed |
 | M154828 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.AugmentationDegreeZero` | volunteer-build-reviewed |
 | M154829 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.BasisZeroEqSingle` | volunteer-build-reviewed |
 | M154830 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.CardFilterLtInsert` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M155273 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliMain` | build-observed |
 | M155274 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliOps` | build-observed |
 | M155275 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DetShift` | build-observed |
-| M155276 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DetShiftNormOf` | build-observed |
-| M155277 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DeterminantAdjugate` | build-observed |
-| M155278 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DiagonalMonomialFactorial` | build-observed |
-| M155279 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HighestWeightLastZero` | build-observed |

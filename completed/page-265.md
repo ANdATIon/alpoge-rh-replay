@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170131 | P1026 | `GroundTheory.PAdicHodge.SenTateCharTrace` | build-observed |
+| M170132 | P0703 | `GroundTheory.PAdicHodge.SenTateCharUnitPow` | build-observed |
+| M170134 | P1054 | `GroundTheory.PAdicHodge.SenTateCharacters` | build-observed |
+| M170136 | P0166 | `GroundTheory.PAdicHodge.SlopeCauchyBinet` | wave-reused |
+| M170145 | P0166 | `GroundTheory.PAdicHodge.TateCpTwist` | wave-reused |
 | M170147 | P0546 | `GroundTheory.PAdicHodge.ThetaBDeRhamPlusFieldCycloUnitBdRZpow` | wave-reused |
 | M170148 | P0231 | `GroundTheory.PAdicHodge.ThetaPlus` | wave-reused |
 | M170149 | P0289 | `GroundTheory.PAdicHodge.TiltAlgClosed` | wave-reused |
@@ -397,8 +402,3 @@
 | M170988 | P1760 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral` | build-observed |
 | M170989 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.ConjIsoOf` | volunteer-build-reviewed |
 | M170991 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PBasic` | volunteer-build-reviewed |
-| M170992 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSatC` | volunteer-build-reviewed |
-| M170993 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSatR` | volunteer-build-reviewed |
-| M170994 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceC` | volunteer-build-reviewed |
-| M170995 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceR` | volunteer-build-reviewed |
-| M170996 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSGalAdEx` | volunteer-build-reviewed |

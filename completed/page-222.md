@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147431 | P0602 | `Formalism.LandauZeroFreeBounds.LogDerivRegionChiOf` | build-observed |
+| M147432 | P0694 | `Formalism.LandauZeroFreeBounds.NoZeroComplex` | build-observed |
+| M147433 | P0273 | `Formalism.LandauZeroFreeBounds.NoZeroComplexOf` | build-observed |
+| M147434 | P0635 | `Formalism.LandauZeroFreeBounds.SameCharacterLFunctionOne` | build-observed |
 | M147435 | P0570 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAP` | build-observed |
 | M147436 | P0774 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAPOfSiegelLower` | build-observed |
 | M147437 | P0069 | `Formalism.LandauZeroFreeBounds.Statement` | build-observed |
@@ -398,7 +402,3 @@
 | M147868 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqM2` | build-observed |
 | M147869 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqOf` | build-observed |
 | M147870 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqSum2` | build-observed |
-| M147871 | P0830 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCartSelfSt` | wave-reused |
-| M147872 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescJet` | build-observed |
-| M147873 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanFinal` | build-observed |
-| M147874 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanSt` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129313 | P2415 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.NvalLeOfMul` | volunteer-build-reviewed |
+| M129315 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PerturbedWeightGapBoundsStatement` | volunteer-build-reviewed |
+| M129316 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PointIdealComapPrimeLift` | volunteer-build-reviewed |
 | M129317 | P0529 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PointIdealComapPrimeLiftStatement` | wave-reused |
 | M129319 | P0267 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PolarizationPolynomialCoeffBoundStatement` | volunteer-build-reviewed |
 | M129321 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumDeltaDecompositionStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M130128 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeDedekindTwist` | volunteer-build-reviewed |
 | M130129 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeDedekindTwistStatement` | volunteer-build-reviewed |
 | M130132 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLieModelCompleteDvr` | volunteer-build-reviewed |
-| M130134 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicBound` | volunteer-build-reviewed |
-| M130137 | P1706 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicFrameStatement` | volunteer-build-reviewed |
-| M130138 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominator` | build-observed |

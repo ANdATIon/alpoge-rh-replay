@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096037 | P1628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRangeMapSubtypeOfContr` | volunteer-build-reviewed |
 | M096038 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntri` | volunteer-build-reviewed |
 | M096039 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntriStatement` | build-observed |
 | M096040 | P2684 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSBOfIsNatDatum` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M096537 | P2796 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PolynomialRouteSubmoduleStatement` | volunteer-build-reviewed |
 | M096539 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefConjTransposeMulSelfEqExpPolynomial` | volunteer-build-reviewed |
 | M096540 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefConjTransposeMulSelfEqExpPolynomialStatement` | volunteer-build-reviewed |
-| M096541 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefOfNode` | volunteer-build-reviewed |

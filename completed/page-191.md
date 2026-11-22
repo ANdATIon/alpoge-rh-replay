@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
+| M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
+| M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |
 | M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
 | M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
 | M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M126614 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowersDiagonalAtTBlock` | volunteer-build-reviewed |
 | M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
 | M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |
-| M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
-| M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
-| M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |

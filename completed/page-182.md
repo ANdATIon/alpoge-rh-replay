@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120238 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibres` | build-observed |
+| M120239 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibresStatement` | build-observed |
+| M120240 | P0368 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariants` | volunteer-build-reviewed |
 | M120241 | P0412 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariantsStatement` | volunteer-build-reviewed |
 | M120242 | P2472 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersion` | volunteer-build-reviewed |
 | M120243 | P2500 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersionStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M120899 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneDiagonalConjugate` | volunteer-build-reviewed |
 | M120901 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZero` | volunteer-build-reviewed |
 | M120902 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZeroStatement` | volunteer-build-reviewed |
-| M120904 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApplyMulOfCoprime` | volunteer-build-reviewed |
-| M120907 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumps` | volunteer-build-reviewed |
-| M120908 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumpsStatement` | volunteer-build-reviewed |

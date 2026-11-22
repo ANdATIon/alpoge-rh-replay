@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
+| M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
+| M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |
 | M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
 | M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
 | M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M125383 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompatStatement` | build-observed |
 | M125384 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEq` | build-observed |
 | M125385 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEqStatement` | build-observed |
-| M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
-| M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |
-| M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |

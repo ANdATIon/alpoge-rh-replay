@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110073 | P0714 | `Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia` | build-observed |
+| M110074 | P1949 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianQuotientInheritsAction` | volunteer-build-reviewed |
 | M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
 | M110076 | P2045 | `Development.AutomorphicArithmetic.DivisorFrames.AbsHcExponentLeAndAbsCenterLeOfSizeRows` | volunteer-build-reviewed |
 | M110077 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.AdaptedPlaneHermitianRestrict` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M110532 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.CfMulSum` | volunteer-build-reviewed |
 | M110533 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChSymAnti` | volunteer-build-reviewed |
 | M110534 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChiInj` | volunteer-build-reviewed |
-| M110536 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ClifMod` | volunteer-build-reviewed |
-| M110538 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracAlg` | volunteer-build-reviewed |

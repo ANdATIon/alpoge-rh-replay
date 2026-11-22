@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144850 | P1020 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsIntegralLatOfForall` | wave-reused |
+| M144851 | P1048 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLatticeOfFibReps` | wave-reused |
+| M144852 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLocUnif` | wave-reused |
+| M144853 | P1317 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsTotPosDefOfSmul` | wave-reused |
 | M144854 | P0664 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtAdjoinIff` | wave-reused |
 | M144855 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtIffVd` | wave-reused |
 | M144856 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsoCountOneInert` | wave-reused |
@@ -398,7 +402,3 @@
 | M145251 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.PeelLead` | wave-reused |
 | M145252 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActDiagWeight` | wave-reused |
 | M145253 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActMul` | wave-reused |
-| M145254 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivClosedGraded` | wave-reused |
-| M145255 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivStable` | wave-reused |
-| M145256 | P0272 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowNuSum` | wave-reused |
-| M145257 | P0461 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SMSAssembly` | wave-reused |

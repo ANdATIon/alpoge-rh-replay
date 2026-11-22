@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070576 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilO` | build-observed |
 | M070577 | P1200 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilOStatement` | build-observed |
 | M070580 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionExtendsToAinfDiscRings` | wave-reused |
 | M070582 | P1381 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionSubMemFiltrationZeroOfMonodromy` | build-observed |
@@ -401,4 +402,3 @@
 | M071258 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaPolynomialKillsPotentiallyCrystallineModuStatement` | volunteer-build-reviewed |
 | M071266 | P0764 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaThroughOfPoly` | volunteer-build-reviewed |
 | M071268 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaUnipotentDepthZero` | volunteer-build-reviewed |
-| M071269 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaUnipotentDepthZeroStatement` | volunteer-build-reviewed |

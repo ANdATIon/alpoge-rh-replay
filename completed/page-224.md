@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148375 | P1077 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEight` | build-observed |
+| M148376 | P1899 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEightAlt` | build-observed |
+| M148377 | P0775 | `Formalism.LocalToGlobal.Divisibility.DefGroup` | wave-reused |
+| M148378 | P0858 | `Formalism.LocalToGlobal.Divisibility.DefGroupLemmas` | build-observed |
 | M148379 | P1854 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.GammaSizeOfParameters` | build-observed |
 | M148380 | P1163 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBDGam` | build-observed |
 | M148381 | P1136 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBLam` | build-observed |
@@ -398,7 +402,3 @@
 | M148907 | P0939 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmBc` | build-observed |
 | M148910 | P0149 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsFib` | build-observed |
 | M148911 | P1163 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsGat` | build-observed |
-| M148912 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHyp` | build-observed |
-| M148913 | P0376 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHypA` | volunteer-build-reviewed |
-| M148914 | P0695 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsLat` | build-observed |
-| M148915 | P1137 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsMain` | build-observed |

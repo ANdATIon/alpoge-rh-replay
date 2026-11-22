@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163073 | P0425 | `GroundTheory.GlobalFields.CompletionAtPlace.Inertia` | build-observed |
+| M163074 | P0282 | `GroundTheory.GlobalFields.CompletionAtPlace.Integers` | wave-reused |
+| M163075 | P0971 | `GroundTheory.GlobalFields.ComplexMultiplication.Algebraicity` | build-observed |
+| M163076 | P0999 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityClass` | build-observed |
 | M163077 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityDescent` | build-observed |
 | M163078 | P1026 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityGalois` | build-observed |
 | M163079 | P0942 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityHom` | build-observed |
@@ -398,7 +402,3 @@
 | M163499 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailBound` | wave-reused |
 | M163500 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailDimZero` | wave-reused |
 | M163501 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Telescoping` | wave-reused |
-| M163502 | P0574 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TendstoLocallyUniformlyOnOfNhds` | wave-reused |
-| M163503 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects` | wave-reused |
-| M163504 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability` | wave-reused |
-| M163505 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AddBlockPullbackOfChartBundlePullback` | volunteer-build-reviewed |

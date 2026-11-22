@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166252 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutLieFirst` | volunteer-build-reviewed |
+| M166253 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutLieLast` | volunteer-build-reviewed |
+| M166254 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutPrimeEq` | volunteer-build-reviewed |
+| M166255 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutPsiFlag` | volunteer-build-reviewed |
+| M166256 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutRealSyzygy` | volunteer-build-reviewed |
 | M166257 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutRestHom` | volunteer-build-reviewed |
 | M166258 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairHom` | volunteer-build-reviewed |
 | M166259 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairNonzero` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M167035 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreSectionLift` | wave-reused |
 | M167036 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiltrationHilbSum` | wave-reused |
 | M167037 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiniteSeparatingModel` | wave-reused |
-| M167040 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaOne` | wave-reused |
-| M167041 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaVanishing` | wave-reused |
-| M167042 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple` | build-observed |
-| M167045 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenFibreHomog` | build-observed |
-| M167050 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenSESStep` | wave-reused |

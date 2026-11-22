@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067348 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterValuesInjectiveLength` | build-observed |
 | M067349 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacteristicFunctionIntegralApply` | volunteer-build-reviewed |
 | M067350 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevel` | build-observed |
 | M067351 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevelStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M068017 | P1094 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CycZpowCrysDRJump` | build-observed |
 | M068018 | P1124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CycZpowCrysDRJumpStatement` | build-observed |
 | M068019 | P0789 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicActionOnRootTower` | build-observed |
-| M068020 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicActionOnRootTowerStatement` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122686 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrder` | volunteer-build-reviewed |
+| M122687 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrderStatement` | volunteer-build-reviewed |
+| M122689 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChainsOfRange` | volunteer-build-reviewed |
 | M122690 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLattice` | volunteer-build-reviewed |
 | M122691 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLatticeStatement` | volunteer-build-reviewed |
 | M122693 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinates` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M123300 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePartOpenStatement` | volunteer-build-reviewed |
 | M123301 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupport` | volunteer-build-reviewed |
 | M123302 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupportStatement` | volunteer-build-reviewed |
-| M123305 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupport` | build-observed |
-| M123306 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupportStatement` | build-observed |
-| M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |

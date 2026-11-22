@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099513 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFactorOpenImmersion` | wave-reused |
 | M099514 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFgSubalgebraDescAway` | volunteer-build-reviewed |
 | M099515 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTriple` | wave-reused |
 | M099516 | P1103 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTripleStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M100169 | P0525 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffDmonOfEigen` | build-observed |
 | M100170 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubst` | build-observed |
 | M100171 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubstSame` | build-observed |
-| M100173 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CubeTrivialAndFiniteFlatSurjectiveMulAbelianSche` | volunteer-build-reviewed |

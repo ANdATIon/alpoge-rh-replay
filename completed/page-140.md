@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097664 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelAlgebraicExpansionStatement` | volunteer-build-reviewed |
 | M097665 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariant` | volunteer-build-reviewed |
 | M097666 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariantStatement` | volunteer-build-reviewed |
 | M097667 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGrid` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M098285 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionRealPointFockVectorsScalarColumnActionStatement` | volunteer-build-reviewed |
 | M098286 | P1410 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionSchrodingerModelFiniteIdempotent` | build-observed |
 | M098288 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionSplitSupport` | volunteer-build-reviewed |
-| M098289 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionSplitSupportStatement` | volunteer-build-reviewed |

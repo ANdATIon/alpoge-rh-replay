@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095560 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourth` | volunteer-build-reviewed |
 | M095561 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourthStatement` | volunteer-build-reviewed |
 | M095562 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecond` | volunteer-build-reviewed |
 | M095563 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecondStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M096034 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemNormalizerOfTri` | volunteer-build-reviewed |
 | M096035 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemOffP` | volunteer-build-reviewed |
 | M096036 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemPrincGLOfCong` | volunteer-build-reviewed |
-| M096037 | P1628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRangeMapSubtypeOfContr` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164701 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDoublePointsGeneric` | volunteer-build-reviewed |
+| M164702 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIntegrallyClosed` | volunteer-build-reviewed |
+| M164703 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIrreducible` | volunteer-build-reviewed |
+| M164704 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalLocalDepthTwo` | volunteer-build-reviewed |
 | M164705 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalLocallyIrreducible` | volunteer-build-reviewed |
 | M164706 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalMaximumPrinciple` | volunteer-build-reviewed |
 | M164707 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModel` | volunteer-build-reviewed |
@@ -210,6 +214,7 @@
 | M164953 | P0163 | `GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PMeanCuspWeight` | volunteer-build-reviewed |
 | M164954 | P0163 | `GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PMeanLogPlus` | volunteer-build-reviewed |
 | M164955 | P0163 | `GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PMinkowskiCovolumeBound` | volunteer-build-reviewed |
+| M164961 | P0163 | `GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PTelescopeMetric` | volunteer-build-reviewed |
 | M164962 | P0083 | `GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.Statements` | volunteer-build-reviewed |
 | M164963 | P0427 | `GroundTheory.HeightsAndTheta.Heights.Covolume` | wave-reused |
 | M164964 | P0467 | `GroundTheory.HeightsAndTheta.Heights.CovolumeCount` | wave-reused |
@@ -397,8 +402,3 @@
 | M165201 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPolynomialPrimeOverZeroHeight` | wave-reused |
 | M165202 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPowSpanFinrankBounded` | build-observed |
 | M165204 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPrimeFiltration` | wave-reused |
-| M165205 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPrincipalReductionOfBoundedGens` | volunteer-build-reviewed |
-| M165206 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PProjIdealFormValue` | wave-reused |
-| M165207 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PQuotientHeightAddOne` | wave-reused |
-| M165208 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PReesAlgebraDim` | wave-reused |
-| M165209 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRelevantDimGe` | wave-reused |

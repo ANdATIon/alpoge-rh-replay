@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075531 | P2678 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfHyp` | volunteer-build-reviewed |
 | M075532 | P2684 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfPublishedStatement` | volunteer-build-reviewed |
 | M075536 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedExistsStatement` | volunteer-build-reviewed |
 | M075537 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinear` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M076492 | P1673 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConstantTermHeisOAlongStatement` | volunteer-build-reviewed |
 | M076496 | P2159 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ConstructionStartingChoicesOfFineAdelicDataStatement` | volunteer-build-reviewed |
 | M076497 | P1282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffDerivSnoc` | volunteer-build-reviewed |
-| M076498 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffOfContinuousOneParameter` | volunteer-build-reviewed |

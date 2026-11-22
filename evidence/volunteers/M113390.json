@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    "M113390"
+  ],
+  "started_utc": "2026-11-22T17:26:37.336844+00:00",
+  "ended_utc": "2026-11-22T17:26:44.684464+00:00",
+  "elapsed_seconds": 7.3,
+  "host": {
+    "cpu_count": 96,
+    "mem_total_kib": 131617576,
+    "peak_child_rss_kib": 951900
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GammaConjAt:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "9d6e4c490e25ef43280d87ec15302a6d47ec438f9c40bbb91d82cf50c4d8c9b2",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M113390": "0538df63a566dd650eaf352f6978b0132b569933ced8b2bfcef81d563002c080"
+  },
+  "project_root": "/root/rh-workspace/slot-3/lean",
+  "bundle_sha256": "4d4c9a3a3dea9248f80d1d76be79b38fdeacf0853bf576a4d1272bc69e84a07a",
+  "kernel_replay_sha256": "17efdb0a01b3b43f0cc8b7d92c9246f0109a6e3d04aba58848e053ba0e0af74e",
+  "kernel_replayed_targets": [
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SeparatingAlgebras.GammaConjAt"
+  ],
+  "kernel_receipt_scope": "target",
+  "packet": "M113390",
+  "contributor": "JamCh01",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/34600#issuecomment-7082859181",
+  "reviewed_utc": "2026-11-22T19:14:59.194930+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum. The upstream verifier matched the kernel record to this receipt, the exact cached targets, and their successful module-level replay transcript."
+}

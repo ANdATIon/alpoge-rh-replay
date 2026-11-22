@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158859 | P0969 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.SubsingletonRankIndicatorIff` | build-observed |
+| M158863 | P0997 | `Formalism.SharpRestriction.Divisibility.LocalQuadraticParts` | build-observed |
+| M158864 | P0913 | `Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts` | build-observed |
+| M158865 | P1052 | `Formalism.SharpRestriction.Divisibility.OrbitPlaces` | build-observed |
 | M158866 | P0969 | `Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne` | build-observed |
 | M158867 | P0913 | `Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant` | build-observed |
 | M158868 | P0969 | `Formalism.SharpRestriction.Divisibility.PrinLevClass` | build-observed |
@@ -398,7 +402,3 @@
 | M159310 | P1663 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity` | build-observed |
 | M159311 | P1557 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFCoarse` | build-observed |
 | M159312 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFDefs` | build-observed |
-| M159313 | P1641 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFFinal` | build-observed |
-| M159314 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFTrueDeg` | build-observed |
-| M159315 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Beyond44OfRestRawTail` | build-observed |
-| M159316 | P1615 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockForm` | build-observed |

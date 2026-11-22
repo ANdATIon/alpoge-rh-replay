@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152946 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.SigmaConstantAgrees` | build-observed |
+| M152947 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.TraceDiagonalBis` | build-observed |
+| M152948 | P0274 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.USideA` | wave-reused |
+| M152949 | P0214 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.USideB` | wave-reused |
 | M152950 | P0859 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitBall` | build-observed |
 | M152951 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitaryInverseIdentity` | wave-reused |
 | M152952 | P0150 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.ChordSecondLogDeriv` | wave-reused |
@@ -398,7 +402,3 @@
 | M153416 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexAdditive` | build-observed |
 | M153417 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexDet` | build-observed |
 | M153418 | P0376 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexScale` | build-observed |
-| M153419 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWLengthBaseChange` | build-observed |
-| M153420 | P0462 | `Formalism.PadicSubsetSums.StableGradedCounts.TWReuse` | build-observed |
-| M153421 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWUnitBallLattice` | build-observed |
-| M153422 | P0215 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbitt` | build-observed |

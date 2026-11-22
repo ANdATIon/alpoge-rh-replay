@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110536 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ClifMod` | volunteer-build-reviewed |
+| M110538 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracAlg` | volunteer-build-reviewed |
 | M110539 | P1826 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracCh` | volunteer-build-reviewed |
 | M110541 | P1848 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracW` | volunteer-build-reviewed |
 | M110542 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DivSupp` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M111100 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.StableOfOrth` | volunteer-build-reviewed |
 | M111101 | P1777 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.StepInv` | volunteer-build-reviewed |
 | M111102 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.VacAnn` | volunteer-build-reviewed |
-| M111103 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.VacForm` | volunteer-build-reviewed |
-| M111105 | P1656 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.XApply` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121471 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernel` | volunteer-build-reviewed |
+| M121472 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernelStatement` | volunteer-build-reviewed |
+| M121475 | P0797 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsCongr` | build-observed |
 | M121476 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsEqOfEq` | wave-reused |
 | M121477 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationProperties` | volunteer-build-reviewed |
 | M121478 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationPropertiesStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M122049 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovMap` | volunteer-build-reviewed |
 | M122050 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovOfAlgHom` | volunteer-build-reviewed |
 | M122051 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverByAcyclicPair` | volunteer-build-reviewed |
-| M122052 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasis` | volunteer-build-reviewed |
-| M122053 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasisStatement` | volunteer-build-reviewed |
-| M122054 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIso` | build-observed |

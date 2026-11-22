@@ -325,6 +325,7 @@
 | M066570 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddHaarMapMulFiniteIdeleOfUniformizerPowers` | volunteer-build-reviewed |
 | M066571 | P1797 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddHaarMapMulFiniteIdeleOfUniformizerPowersStatement` | volunteer-build-reviewed |
 | M066572 | P0190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddHaarProperSubmoduleEqZeroModuleTopology` | volunteer-build-reviewed |
+| M066573 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddHaarProperSubmoduleEqZeroModuleTopologyStatement` | volunteer-build-reviewed |
 | M066574 | P0029 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddLeOfStrictAnti` | volunteer-build-reviewed |
 | M066575 | P0029 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddMulInvMem` | wave-reused |
 | M066577 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddValNormUnramifiedInvolutionFieldExtEqMul` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M066684 | P0789 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleClassesPropsOfFlatCoefficient` | volunteer-build-reviewed |
 | M066687 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleCocyclesCardLeSumDims` | build-observed |
 | M066688 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleCocyclesCardLeSumDimsStatement` | build-observed |
-| M066689 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionA` | volunteer-build-reviewed |

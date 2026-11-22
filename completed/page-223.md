@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147871 | P0830 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCartSelfSt` | wave-reused |
+| M147872 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescJet` | build-observed |
+| M147873 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanFinal` | build-observed |
+| M147874 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanSt` | build-observed |
 | M147875 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePEmbIntSt` | build-observed |
 | M147876 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePFBMapSt` | build-observed |
 | M147877 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGaugeMapSt` | build-observed |
@@ -398,7 +402,3 @@
 | M148371 | P0635 | `Formalism.LocalToGlobal.Divisibility.CoeffLemmas` | build-observed |
 | M148372 | P1899 | `Formalism.LocalToGlobal.Divisibility.ColPins` | build-observed |
 | M148374 | P0602 | `Formalism.LocalToGlobal.Divisibility.ConjugationAtDistinguishedPlace` | build-observed |
-| M148375 | P1077 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEight` | build-observed |
-| M148376 | P1899 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEightAlt` | build-observed |
-| M148377 | P0775 | `Formalism.LocalToGlobal.Divisibility.DefGroup` | wave-reused |
-| M148378 | P0858 | `Formalism.LocalToGlobal.Divisibility.DefGroupLemmas` | build-observed |

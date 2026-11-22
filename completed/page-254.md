@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163502 | P0574 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TendstoLocallyUniformlyOnOfNhds` | wave-reused |
+| M163503 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects` | wave-reused |
+| M163504 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability` | wave-reused |
+| M163505 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AddBlockPullbackOfChartBundlePullback` | volunteer-build-reviewed |
 | M163506 | P0381 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AlgebraMapMemChartRingJoinPt` | volunteer-build-reviewed |
 | M163507 | P0282 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.LocallyFreeSpreadHyp` | volunteer-build-reviewed |
 | M163508 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.PNefOnFibresRelabel` | wave-reused |
@@ -398,7 +402,3 @@
 | M164101 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionProperBall` | volunteer-build-reviewed |
 | M164103 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionSheetsDense` | volunteer-build-reviewed |
 | M164104 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionsContainOpen` | wave-reused |
-| M164105 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionsGeneric` | wave-reused |
-| M164106 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatDimFormula` | volunteer-build-reviewed |
-| M164107 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatLocalRegularElement` | volunteer-build-reviewed |
-| M164108 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatLocalRegularSequence` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165205 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPrincipalReductionOfBoundedGens` | volunteer-build-reviewed |
+| M165206 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PProjIdealFormValue` | wave-reused |
+| M165207 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PQuotientHeightAddOne` | wave-reused |
+| M165208 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PReesAlgebraDim` | wave-reused |
+| M165209 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRelevantDimGe` | wave-reused |
 | M165210 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRepresentative` | wave-reused |
 | M165211 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PScalarQuotient` | wave-reused |
 | M165215 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureModel` | build-observed |
@@ -397,8 +402,3 @@
 | M165716 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegZeroLocUnits` | wave-reused |
 | M165717 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegZeroLocalRing` | wave-reused |
 | M165718 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegreeBound` | pilot-reused |
-| M165719 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivCycleMinimal` | wave-reused |
-| M165720 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForward` | pilot-reused |
-| M165721 | P0509 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForwardLocal` | wave-reused |
-| M165722 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivSupport` | pilot-reused |
-| M165723 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsExamples` | pilot-reused |

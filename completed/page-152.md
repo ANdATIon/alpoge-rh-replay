@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M105082 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.BaseChangeUnits.WideOfCyclic` | volunteer-build-reviewed |
+| M105083 | P2790 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.BaseChangeUnits.WsIIOfPrintsH` | volunteer-build-reviewed |
 | M105084 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.BOdd` | volunteer-build-reviewed |
 | M105086 | P1158 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.ExponentLe` | build-observed |
 | M105088 | P1158 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.FirstFace` | build-observed |
@@ -400,5 +402,3 @@
 | M105626 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.KatoNormRelationTwistTower` | volunteer-build-reviewed |
 | M105627 | P2697 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.KatoTameRelationProjected` | volunteer-build-reviewed |
 | M105628 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.KatoTwistedClassNormCompatibleCyclotomic` | volunteer-build-reviewed |
-| M105629 | P2659 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.KmapComp` | volunteer-build-reviewed |
-| M105630 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LiftOk` | volunteer-build-reviewed |

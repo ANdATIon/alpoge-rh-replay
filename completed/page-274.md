@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174935 | P1027 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnEndo` | build-observed |
+| M174936 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnIso` | build-observed |
+| M174937 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnLat` | build-observed |
+| M174938 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTrans` | build-observed |
+| M174939 | P0837 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTwo` | build-observed |
 | M174940 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnWp` | build-observed |
 | M174941 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic` | build-observed |
 | M174942 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgClose` | build-observed |

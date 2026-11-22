@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M141742 | P1612 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.DerivSub` | volunteer-build-reviewed |
+| M141743 | P1809 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SwapProducts.SwapProd` | volunteer-build-reviewed |
+| M141744 | P2118 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.LUnlinkedCommPole` | volunteer-build-reviewed |
+| M141746 | P1582 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.ProdIotaRev` | volunteer-build-reviewed |
 | M141747 | P1554 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.StdIrrQuotGeneric` | volunteer-build-reviewed |
 | M141748 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.RankDual` | volunteer-build-reviewed |
 | M141749 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.UnipBEqUnipotent` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M142415 | P1390 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LocTauAlt` | build-observed |
 | M142416 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LoweringDerivativeVacuum` | volunteer-build-reviewed |
 | M142417 | P0324 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.MatInv` | volunteer-build-reviewed |
-| M142418 | P1638 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.MultiplicityOneTestOperators` | build-observed |
-| M142419 | P1415 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.MultiplicityOneTestOperatorsAlt` | build-observed |
-| M142420 | P1582 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.Nonzero` | volunteer-build-reviewed |
-| M142421 | P0067 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.ParamCD` | volunteer-build-reviewed |

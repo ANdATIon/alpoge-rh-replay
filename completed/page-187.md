@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123305 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupport` | build-observed |
+| M123306 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupportStatement` | build-observed |
+| M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |
 | M123308 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBoundStatement` | build-observed |
 | M123311 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePropagationSpeedHolds` | build-observed |
 | M123313 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexing` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M123901 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTrace` | build-observed |
 | M123902 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTraceStatement` | build-observed |
 | M123903 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleStatement` | volunteer-build-reviewed |
-| M123904 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure` | volunteer-build-reviewed |
-| M123905 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructureStatement` | volunteer-build-reviewed |
-| M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |

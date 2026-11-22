@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154306 | P1469 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqOneOfToHAFin` | build-observed |
+| M154307 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqZeroOfSetIntegral` | build-observed |
+| M154309 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLieCompl` | build-observed |
+| M154310 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolutionContDiffAt` | volunteer-build-reviewed |
 | M154311 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolve` | volunteer-build-reviewed |
 | M154317 | P1369 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInv` | build-observed |
 | M154318 | P1391 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInvT` | build-observed |
@@ -398,7 +402,3 @@
 | M154816 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.ChainPA` | volunteer-build-reviewed |
 | M154820 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.ExistsNormEqTwoPow` | volunteer-build-reviewed |
 | M154822 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.RatIntOfIntegral` | volunteer-build-reviewed |
-| M154824 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.Assemble` | volunteer-build-reviewed |
-| M154825 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StBaseOf` | volunteer-build-reviewed |
-| M154826 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StSpecOf` | volunteer-build-reviewed |
-| M154827 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.WregOfSubsingleton` | volunteer-build-reviewed |

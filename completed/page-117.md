@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080636 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeFormOrderStatement` | volunteer-build-reviewed |
 | M080640 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeRegularPointStatement` | volunteer-build-reviewed |
 | M080643 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalDualEqAddSpan` | volunteer-build-reviewed |
 | M080647 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecomposition` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M081608 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProperOfAbelianEverywhereStatement` | volunteer-build-reviewed |
 | M081609 | P2298 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProperRelAmpleOfSystem` | build-observed |
 | M081611 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProvisionalRowsFurtherCompatibilitiesAtState` | volunteer-build-reviewed |
-| M081615 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormula` | volunteer-build-reviewed |

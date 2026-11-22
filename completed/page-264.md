@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169615 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecPointSeparable` | wave-reused |
+| M169616 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChart` | wave-reused |
+| M169617 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartBack` | wave-reused |
+| M169618 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartIso` | wave-reused |
+| M169619 | P0085 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartQuot` | wave-reused |
 | M169620 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecCompDim` | wave-reused |
 | M169621 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecFirstNeField` | wave-reused |
 | M169622 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecLength` | wave-reused |
@@ -397,8 +402,3 @@
 | M170127 | P0999 | `GroundTheory.PAdicHodge.SenTateCharLevels` | build-observed |
 | M170129 | P0943 | `GroundTheory.PAdicHodge.SenTateCharStep` | build-observed |
 | M170130 | P0972 | `GroundTheory.PAdicHodge.SenTateCharTower` | build-observed |
-| M170131 | P1026 | `GroundTheory.PAdicHodge.SenTateCharTrace` | build-observed |
-| M170132 | P0703 | `GroundTheory.PAdicHodge.SenTateCharUnitPow` | build-observed |
-| M170134 | P1054 | `GroundTheory.PAdicHodge.SenTateCharacters` | build-observed |
-| M170136 | P0166 | `GroundTheory.PAdicHodge.SlopeCauchyBinet` | wave-reused |
-| M170145 | P0166 | `GroundTheory.PAdicHodge.TateCpTwist` | wave-reused |

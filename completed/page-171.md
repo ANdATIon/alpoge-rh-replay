@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115033 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClearDenominatorsLattice` | volunteer-build-reviewed |
+| M115034 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureSpanCoefficients` | volunteer-build-reviewed |
+| M115035 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureUpperUni` | build-observed |
 | M115037 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryCriterion` | volunteer-build-reviewed |
 | M115038 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryOfGenerator` | volunteer-build-reviewed |
 | M115040 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleCoboundaryFiniteIndex` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M115466 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsIntegralOfNormLeOne` | volunteer-build-reviewed |
 | M115467 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsLCProd` | volunteer-build-reviewed |
 | M115468 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenRightInvariance` | volunteer-build-reviewed |
-| M115469 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizer` | volunteer-build-reviewed |
-| M115470 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerAddSmul` | volunteer-build-reviewed |
-| M115471 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerLinearMap` | volunteer-build-reviewed |

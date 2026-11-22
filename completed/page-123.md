@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085998 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionAndGeometricallyConnect` | build-observed |
 | M085999 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionDescendsEtaleCover` | volunteer-build-reviewed |
 | M086001 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfCharZero` | volunteer-build-reviewed |
 | M086002 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfDirectionsLe` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M087055 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DecorationLiftStdLatticeReductionStatement` | build-observed |
 | M087056 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DefiniteLevelPreimageFinitelyManyCosets` | volunteer-build-reviewed |
 | M087057 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DefiniteLevelPreimageFinitelyManyCosetsStatement` | volunteer-build-reviewed |
-| M087065 | P1516 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DenseFrobOutside` | volunteer-build-reviewed |

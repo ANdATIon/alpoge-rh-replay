@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170992 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSatC` | volunteer-build-reviewed |
+| M170993 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSatR` | volunteer-build-reviewed |
+| M170994 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceC` | volunteer-build-reviewed |
+| M170995 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceR` | volunteer-build-reviewed |
+| M170996 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSGalAdEx` | volunteer-build-reviewed |
 | M170997 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSIsoSat` | volunteer-build-reviewed |
 | M170998 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSNormPow` | volunteer-build-reviewed |
 | M170999 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSSmo` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M171457 | P0676 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.AnChart` | wave-reused |
 | M171458 | P0646 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.AnChartA` | wave-reused |
 | M171459 | P0703 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.AtlasA` | wave-reused |
-| M171460 | P0612 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeC` | wave-reused |
-| M171461 | P0089 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCA` | wave-reused |
-| M171462 | P0579 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB` | wave-reused |
-| M171463 | P0729 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BijOnClosedPointsOfIsIso` | wave-reused |
-| M171464 | P0342 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ClosureFromSpecMemCompsH` | build-observed |

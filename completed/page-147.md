@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102161 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactCOfOfExactBase` | volunteer-build-reviewed |
 | M102163 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAlgebraicHeckeCharCyclotomic` | volunteer-build-reviewed |
 | M102165 | P0043 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicFunctionWithValuesOnCosetReps` | volunteer-build-reviewed |
 | M102166 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicRepTwistByCharacter` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M102730 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDetrad` | wave-reused |
 | M102731 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimcpl` | wave-reused |
 | M102732 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimform` | wave-reused |
-| M102733 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GGram` | volunteer-build-reviewed |

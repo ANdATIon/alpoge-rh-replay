@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091481 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BorelDiagNeZero` | wave-reused |
 | M091484 | P0932 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChangeDifferentiableOn` | wave-reused |
 | M091485 | P1948 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChosenFormsRestrictBasisFunctionField` | volunteer-build-reviewed |
 | M091491 | P0904 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContDiffAtLogMinorProd` | wave-reused |
@@ -401,4 +402,3 @@
 | M092314 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CombinationProducesDatumAllLocalModelsStatement` | volunteer-build-reviewed |
 | M092317 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutantDepthLatticePermutesCosetVectors` | volunteer-build-reviewed |
 | M092320 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutantPartChosenPlacesMemCompletedLatticeStatement` | volunteer-build-reviewed |
-| M092321 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommuteOfWittFrameWeights` | volunteer-build-reviewed |

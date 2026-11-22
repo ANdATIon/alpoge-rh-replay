@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132906 | P1105 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTiling` | build-observed |
+| M132907 | P1135 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilingStatement` | build-observed |
+| M132908 | P1018 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProduct` | build-observed |
 | M132909 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProductStatement` | build-observed |
 | M132910 | P2385 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOfCommute` | volunteer-build-reviewed |
 | M132911 | P2416 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOperatorBoundedByPolynomialRoots` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M133520 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentSwapVarietiesArithmetic` | build-observed |
 | M133521 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentSwapVarietiesArithmeticStatement` | build-observed |
 | M133522 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedMeasure` | wave-reused |
-| M133523 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedMeasureStatement` | wave-reused |
-| M133524 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolution` | wave-reused |
-| M133525 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionAltBis` | wave-reused |

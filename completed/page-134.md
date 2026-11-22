@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094604 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtLevelIndicatorCoefficientTestOneParam` | volunteer-build-reviewed |
 | M094605 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtLevelIndicatorCoefficientTestOneParamStatement` | volunteer-build-reviewed |
 | M094606 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumArchimedeanHeisenbergLine` | volunteer-build-reviewed |
 | M094607 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumArchimedeanHeisenbergLineStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M095075 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRamifiedCharDetSingularMatrixCosetEqZero` | volunteer-build-reviewed |
 | M095076 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRamifiedCharDetSingularMatrixCosetEqZeroStatement` | volunteer-build-reviewed |
 | M095077 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightInvariantEqSumOpenSubgroupCosets` | build-observed |
-| M095078 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightInvariantEqSumOpenSubgroupCosetsStatement` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148912 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHyp` | build-observed |
+| M148913 | P0376 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHypA` | volunteer-build-reviewed |
+| M148914 | P0695 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsLat` | build-observed |
+| M148915 | P1137 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsMain` | build-observed |
 | M148916 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb` | build-observed |
 | M148917 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsRec` | build-observed |
 | M148918 | P1187 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsStab` | build-observed |
@@ -398,7 +402,3 @@
 | M149543 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.MultGood` | volunteer-build-reviewed |
 | M149544 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.MultLemmas` | volunteer-build-reviewed |
 | M149545 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.NearConstantMultiplicities` | build-observed |
-| M149546 | P0602 | `Formalism.LocalToGlobal.IndefiniteReal.NonGenericAndKTwoTheorems` | build-observed |
-| M149547 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.NonzeroIndexPlaceIndepConstants` | volunteer-build-reviewed |
-| M149548 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.Decomp` | build-observed |
-| M149549 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.DecompOfNormalStatement` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157514 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.TransW` | volunteer-build-reviewed |
+| M157515 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.Unimod` | volunteer-build-reviewed |
+| M157516 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.UnimodS` | volunteer-build-reviewed |
+| M157517 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolURatio` | volunteer-build-reviewed |
 | M157518 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE` | volunteer-build-reviewed |
 | M157519 | P0573 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContSplit` | build-observed |
 | M157520 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousHAIff` | build-observed |
@@ -398,7 +402,3 @@
 | M157917 | P0605 | `Formalism.PolynomialDimension.MultinomialDepth.TieOps` | wave-reused |
 | M157918 | P0221 | `Formalism.PolynomialDimension.MultinomialDepth.WeylDimPosOfAntitone` | build-observed |
 | M157919 | P0332 | `Formalism.PolynomialDimension.MultinomialKLog` | build-observed |
-| M157920 | P0077 | `Formalism.PolynomialDimension.StatementHar` | build-observed |
-| M157921 | P0156 | `Formalism.PolynomialDimension.StatementNum` | wave-reused |
-| M157922 | P0077 | `Formalism.PolynomialDimension.WeylDim` | wave-reused |
-| M157923 | P0156 | `Formalism.PrimeAboveExistence.LenEqPlaces` | volunteer-build-reviewed |

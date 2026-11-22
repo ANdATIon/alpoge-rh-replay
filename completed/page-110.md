@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074796 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSetIntegralProdEqZeroOfInnerStatement` | volunteer-build-reviewed |
 | M074797 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TupMemLatT` | volunteer-build-reviewed |
 | M074800 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHecke` | volunteer-build-reviewed |
 | M074801 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHeckeStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M075524 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AddLargeBaseCoreSlotStatement` | volunteer-build-reviewed |
 | M075525 | P2464 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdditiveCharacterEqOfCommonUnipotentLevelEigenve` | volunteer-build-reviewed |
 | M075530 | P1513 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicConjugateCharacterStandardFormsStatement` | volunteer-build-reviewed |
-| M075531 | P2678 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfHyp` | volunteer-build-reviewed |

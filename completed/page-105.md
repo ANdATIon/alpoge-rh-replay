@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071269 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaUnipotentDepthZeroStatement` | volunteer-build-reviewed |
 | M071270 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaVanishingNoInvariantsFirstHalfPlaces` | build-observed |
 | M071271 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaVanishingNoInvariantsFirstHalfPlacesStatement` | build-observed |
 | M071273 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InfinityTypeOfLift` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M071979 | P1797 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LFactorRecCompatibleStatement` | volunteer-build-reviewed |
 | M071981 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LTensorSemistableToDeRhamEquivariant` | build-observed |
 | M071982 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LTensorSemistableToDeRhamEquivariantStatement` | build-observed |
-| M071984 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabRcAtMulUnr` | volunteer-build-reviewed |

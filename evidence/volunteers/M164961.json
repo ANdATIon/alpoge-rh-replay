@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    "M164961"
+  ],
+  "started_utc": "2026-11-22T17:27:44.564722+00:00",
+  "ended_utc": "2026-11-22T17:27:47.580644+00:00",
+  "elapsed_seconds": 3.0,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 973716
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PTelescopeMetric:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "ce047f966f93f5d7a6e9c457a60d9034f4c165525fcc9d79902fb9393d2b4d8e",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M164961": "5cf8689f9b6f0bde659ceed3da5a428cabdd395755bbe097cc00f2ebede5a223"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "9cbe5e3d152c9d42ad249f7f473c23b7ab11d348d1546ce2cbd79ac5de93723e",
+  "kernel_replay_sha256": "31066d483db1d951daba97dd191828875521189c401210b6fdf3491ed8516e00",
+  "kernel_replayed_targets": [
+    "GroundTheory.HeightsAndTheta.Heights.CountingLowerBound.PTelescopeMetric"
+  ],
+  "kernel_receipt_scope": "target",
+  "packet": "M164961",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/34605#issuecomment-7082869098",
+  "reviewed_utc": "2026-11-22T19:14:55.872866+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum. The upstream verifier matched the kernel record to this receipt, the exact cached targets, and their successful module-level replay transcript."
+}

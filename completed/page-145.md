@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100751 | P1892 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InterNumDetNonposSplitTorus` | volunteer-build-reviewed |
 | M100752 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IrreducibleAdmissibleGL` | build-observed |
 | M100753 | P1206 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal` | wave-reused |
 | M100755 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M101403 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClChain` | wave-reused |
 | M101404 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClComp` | wave-reused |
 | M101405 | P1017 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClConn` | wave-reused |
-| M101406 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CmFree` | wave-reused |

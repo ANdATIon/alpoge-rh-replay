@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123904 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure` | volunteer-build-reviewed |
+| M123905 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructureStatement` | volunteer-build-reviewed |
+| M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |
 | M123907 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaConditionStatement` | volunteer-build-reviewed |
 | M123908 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUnique` | build-observed |
 | M123909 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUniqueStatement` | build-observed |
@@ -399,6 +402,3 @@
 | M124582 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernel` | volunteer-build-reviewed |
 | M124583 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernelStatement` | volunteer-build-reviewed |
 | M124587 | P1523 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup` | build-observed |
-| M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
-| M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
-| M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |

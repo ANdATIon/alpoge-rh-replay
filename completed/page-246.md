@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159727 | P1759 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.EpsilonBoundMConstant` | wave-reused |
+| M159728 | P1734 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExistsHigh` | wave-reused |
+| M159729 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExponentMatrixFirstDepthEq` | wave-reused |
+| M159730 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinPosEqCast` | wave-reused |
 | M159731 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankEqSpanGen` | wave-reused |
 | M159732 | P1641 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankLjjSpan` | wave-reused |
 | M159733 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankSpanImageLe` | wave-reused |
@@ -398,7 +402,3 @@
 | M160124 | P0078 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.DvdOfAdd` | build-observed |
 | M160125 | P1190 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EDelApply` | build-observed |
 | M160126 | P1140 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeFamOf` | build-observed |
-| M160127 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeAdaptedBasis` | build-observed |
-| M160128 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeMulOfWeightSum` | build-observed |
-| M160129 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgePlane` | build-observed |
-| M160130 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EvensBeforePairwise` | build-observed |

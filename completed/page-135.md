@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095078 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightInvariantEqSumOpenSubgroupCosetsStatement` | build-observed |
 | M095079 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightTranslate` | volunteer-build-reviewed |
 | M095084 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicator` | build-observed |
 | M095085 | P0487 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicatorStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M095557 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeDepthCompFrameBlockBoundedPeriodicStatement` | volunteer-build-reviewed |
 | M095558 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFirst` | volunteer-build-reviewed |
 | M095559 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFirstStatement` | volunteer-build-reviewed |
-| M095560 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourth` | volunteer-build-reviewed |

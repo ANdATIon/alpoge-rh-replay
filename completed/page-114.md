@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078047 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMkTauE` | volunteer-build-reviewed |
 | M078049 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelOfAtlasStatement` | volunteer-build-reviewed |
 | M078051 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelPresentingDivisorStatement` | volunteer-build-reviewed |
 | M078054 | P2353 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelWithRatio` | build-observed |
@@ -401,4 +402,3 @@
 | M078869 | P0901 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteIndexUnitIdlSup` | build-observed |
 | M078872 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteInertHeckeSupportCosetsStatement` | volunteer-build-reviewed |
 | M078873 | P0685 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteIntegralClosureOfEssFiniteTypeIntDomain` | wave-reused |
-| M078874 | P0711 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteIntegralClosureOfEssFiniteTypeIntDomainStatement` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156166 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NilpotentVolumeOne.LinearIndependentFrameWithNormal` | build-observed |
+| M156167 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NilpotentVolumeOne.VolumeDegenerateRankOne` | build-observed |
+| M156168 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NonzeroDiscriminants.DiscLat` | build-observed |
+| M156169 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NonzeroDiscriminants.DiscMain` | build-observed |
 | M156170 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.HermitianOrthogonalProjectionVector` | build-observed |
 | M156171 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.PRowWSColW` | build-observed |
 | M156172 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.UnitaryP` | build-observed |
@@ -398,7 +402,3 @@
 | M156599 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.OrthogonalInvarianceOfStableRankOne` | build-observed |
 | M156600 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProdHaar` | build-observed |
 | M156601 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjCont` | build-observed |
-| M156602 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjContAll` | build-observed |
-| M156603 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjGen` | build-observed |
-| M156604 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjHA` | build-observed |
-| M156605 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjRat` | build-observed |

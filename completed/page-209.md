@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138143 | P2501 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsModelOfEq` | volunteer-build-reviewed |
+| M138144 | P1438 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsResDegree` | volunteer-build-reviewed |
+| M138145 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsRightInv` | volunteer-build-reviewed |
+| M138153 | P2164 | `Development.WeilBound.CoreStatements.FlagImmersions.FlagImmersion` | volunteer-build-reviewed |
 | M138157 | P2592 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelRealTower` | volunteer-build-reviewed |
 | M138160 | P2735 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelTowerFifthCondition` | volunteer-build-reviewed |
 | M138162 | P2552 | `Development.WeilBound.CoreStatements.FlagImmersions.HasPerConj` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M138924 | P0601 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.ConnectedSpacePullbackOfIsIntegral` | build-observed |
 | M138925 | P0144 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.ExistsGalMapApply` | build-observed |
 | M138926 | P0746 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.Geo` | build-observed |
-| M138927 | P0372 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsOpenConnectedComponent` | build-observed |
-| M138928 | P0569 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsOpenConnectedComponentOfNoetherianSpace` | build-observed |
-| M138929 | P0065 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsOpenStabilizer` | volunteer-build-reviewed |
-| M138930 | P0210 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsStrictlySemistableCompOpenImmersion` | build-observed |

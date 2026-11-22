@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145254 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivClosedGraded` | wave-reused |
+| M145255 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivStable` | wave-reused |
+| M145256 | P0272 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowNuSum` | wave-reused |
+| M145257 | P0461 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SMSAssembly` | wave-reused |
 | M145258 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSBasis` | wave-reused |
 | M145259 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSIdxFinite` | wave-reused |
 | M145260 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTExists` | wave-reused |
@@ -398,7 +402,3 @@
 | M146229 | P0747 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DetSubmatrixUnitriangularEqOne` | build-observed |
 | M146230 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantGeneric` | wave-reused |
 | M146231 | P0721 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantReindex` | build-observed |
-| M146234 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteOfEntries` | wave-reused |
-| M146235 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteTransposedRMatrix` | wave-reused |
-| M146236 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTopBlock` | build-observed |
-| M146237 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTransferAction` | build-observed |

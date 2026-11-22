@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160629 | P0832 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsPosConstLagrangeCondition` | wave-reused |
+| M160633 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.ExpansionFormAll` | build-observed |
+| M160634 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExponentWindowSubsetShort` | wave-reused |
+| M160638 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExtensionClauses` | wave-reused |
 | M160640 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.FamilyStatementsLocal` | build-observed |
 | M160643 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.FiltrationSaturationKiller` | wave-reused |
 | M160645 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.FinalLevelsOf` | wave-reused |
@@ -398,7 +402,3 @@
 | M161352 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ChoiceOfTops` | build-observed |
 | M161353 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ChoiceOfTopsRefined` | build-observed |
 | M161354 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.CramerCofactor` | build-observed |
-| M161355 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetDivides` | build-observed |
-| M161356 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetQuotVal` | build-observed |
-| M161357 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetVal` | build-observed |
-| M161358 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.LengthLayers` | build-observed |

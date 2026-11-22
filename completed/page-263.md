@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168937 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCovolumeRelIndex` | volunteer-build-reviewed |
+| M168961 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PEmbeddingSumPlaces` | volunteer-build-reviewed |
+| M168962 | P0612 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PExistsUniqueRelabel` | build-observed |
+| M168965 | P0862 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PFibreMultiHomog` | build-observed |
+| M168967 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGenFibreChartDeg` | build-observed |
 | M168968 | P0971 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartDim` | wave-reused |
 | M168969 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartModel` | wave-reused |
 | M168970 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet` | wave-reused |
@@ -397,8 +402,3 @@
 | M169612 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecBTorsionFree` | wave-reused |
 | M169613 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecIdealOfPrime` | wave-reused |
 | M169614 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecLinNZD` | wave-reused |
-| M169615 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecPointSeparable` | wave-reused |
-| M169616 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChart` | wave-reused |
-| M169617 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartBack` | wave-reused |
-| M169618 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartIso` | wave-reused |
-| M169619 | P0085 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartQuot` | wave-reused |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173472 | P1348 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LieBridgeH` | build-observed |
+| M173474 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ModelLat` | build-observed |
+| M173476 | P1083 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.NonemptyUnitAt` | volunteer-build-reviewed |
+| M173479 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceBoundOddRamifiedOfCharts` | volunteer-build-reviewed |
+| M173480 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceBoundSplitOfIntegral` | build-observed |
 | M173481 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIdem` | volunteer-build-reviewed |
 | M173482 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramified` | build-observed |
 | M173483 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramifiedOfCharts` | build-observed |
@@ -397,8 +402,3 @@
 | M173932 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousOnFderivPhiP` | wave-reused |
 | M173933 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DTauFacts` | wave-reused |
 | M173934 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecALogLower` | wave-reused |
-| M173935 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecLog` | wave-reused |
-| M173936 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMoments` | wave-reused |
-| M173937 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsA` | wave-reused |
-| M173938 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsB` | wave-reused |
-| M173939 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecPos` | wave-reused |

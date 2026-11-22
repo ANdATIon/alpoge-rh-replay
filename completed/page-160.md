@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109501 | P2693 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceLocalParametersStatement` | volunteer-build-reviewed |
+| M109502 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceSectionsStatement` | volunteer-build-reviewed |
 | M109503 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleLocallyHoldsOfPointwiseCoverOrAffineLocal` | volunteer-build-reviewed |
 | M109504 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtalePurityFreeCover` | wave-reused |
 | M109505 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsBijectiveCohomologyClassProductAdjunction` | build-observed |
@@ -400,5 +402,3 @@
 | M110070 | P0317 | `Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.poleData` | build-observed |
 | M110071 | P0135 | `Development.AutomorphicArithmetic.DedekindLFunctions.LandauZeroFreeCriterion` | build-observed |
 | M110072 | P0202 | `Development.AutomorphicArithmetic.DedekindLFunctions.RunBaseDimensionLeRankAddGenusTerm` | build-observed |
-| M110073 | P0714 | `Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia` | build-observed |
-| M110074 | P1949 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianQuotientInheritsAction` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168356 | P0544 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplitFilt` | build-observed |
+| M168357 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplitFiltStep` | build-observed |
+| M168359 | P0165 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDedekindFibreRank` | volunteer-build-reviewed |
+| M168360 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDegLocExact` | wave-reused |
+| M168361 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDomination` | wave-reused |
 | M168362 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension` | wave-reused |
 | M168366 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteSections` | wave-reused |
 | M168367 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteTwists` | wave-reused |
@@ -397,8 +402,3 @@
 | M168934 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PConeVanishingHomog` | wave-reused |
 | M168935 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordFibreDeg` | build-observed |
 | M168936 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordRatioDeg` | build-observed |
-| M168937 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCovolumeRelIndex` | volunteer-build-reviewed |
-| M168961 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PEmbeddingSumPlaces` | volunteer-build-reviewed |
-| M168962 | P0612 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PExistsUniqueRelabel` | build-observed |
-| M168965 | P0862 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PFibreMultiHomog` | build-observed |
-| M168967 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGenFibreChartDeg` | build-observed |

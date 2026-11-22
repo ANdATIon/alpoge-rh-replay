@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
+| M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |
+| M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
 | M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
 | M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
 | M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M126003 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactors` | build-observed |
 | M126004 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactorsStatement` | build-observed |
 | M126005 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnCone` | volunteer-build-reviewed |
-| M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
-| M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
-| M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |

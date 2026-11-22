@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160127 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeAdaptedBasis` | build-observed |
+| M160128 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeMulOfWeightSum` | build-observed |
+| M160129 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgePlane` | build-observed |
+| M160130 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EvensBeforePairwise` | build-observed |
 | M160131 | P1167 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ExistsPolFamilyOfMemGenOfVsDegLe` | build-observed |
 | M160132 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FlatSrc` | build-observed |
 | M160133 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FramesOf` | build-observed |
@@ -398,7 +402,3 @@
 | M160624 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsIdealDenominator` | build-observed |
 | M160625 | P0751 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsInertiaCharpolyFactorOfTameType` | build-observed |
 | M160628 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsMemMapEqSmul` | volunteer-build-reviewed |
-| M160629 | P0832 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsPosConstLagrangeCondition` | wave-reused |
-| M160633 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.ExpansionFormAll` | build-observed |
-| M160634 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExponentWindowSubsetShort` | wave-reused |
-| M160638 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExtensionClauses` | wave-reused |

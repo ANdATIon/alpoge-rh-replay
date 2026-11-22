@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173935 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecLog` | wave-reused |
+| M173936 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMoments` | wave-reused |
+| M173937 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsA` | wave-reused |
+| M173938 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsB` | wave-reused |
+| M173939 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecPos` | wave-reused |
 | M173940 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecSum` | wave-reused |
 | M173941 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivG` | wave-reused |
 | M173942 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivGA` | wave-reused |
@@ -397,8 +402,3 @@
 | M174341 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Unique` | wave-reused |
 | M174342 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.UniqueA` | wave-reused |
 | M174343 | P0863 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.UniqueU` | build-observed |
-| M174344 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Weight` | wave-reused |
-| M174345 | P1141 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.WeylBridge` | wave-reused |
-| M174346 | P0972 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.Bridge` | build-observed |
-| M174347 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.ContinuousDSWOrbit` | build-observed |
-| M174348 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DSWSigLamCoe` | build-observed |

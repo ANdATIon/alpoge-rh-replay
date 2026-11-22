@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143136 | P1809 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ContinuousOnZpart` | volunteer-build-reviewed |
+| M143137 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ValLeOneOfNabsLt` | volunteer-build-reviewed |
+| M143139 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ZpartUnique` | volunteer-build-reviewed |
+| M143143 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.LcIndicator` | volunteer-build-reviewed |
 | M143144 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiBiUnion` | volunteer-build-reviewed |
 | M143145 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiCosets` | volunteer-build-reviewed |
 | M143146 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.UnifLC` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M144044 | P1468 | `Formalism.AdmissibleDesigns.ToH1Cocycles` | build-observed |
 | M144045 | P1344 | `Formalism.AdmissibleDesigns.TrCMemZ1D` | build-observed |
 | M144046 | P1440 | `Formalism.AdmissibleDesigns.TrivialBoundAtRowsOfAdmTB` | build-observed |
-| M144047 | P1468 | `Formalism.AdmissibleDesigns.TrivialBoundGeneral` | build-observed |
-| M144048 | P1415 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfDict` | build-observed |
-| M144049 | P1527 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfPsi` | build-observed |
-| M144050 | P1468 | `Formalism.AdmissibleDesigns.TwistedTargetOfInputs` | build-observed |

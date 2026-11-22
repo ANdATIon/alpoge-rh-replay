@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132167 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorsSpreadFromStalk` | build-observed |
+| M132168 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorsSpreadFromStalkStatement` | build-observed |
+| M132169 | P0854 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChange` | build-observed |
 | M132170 | P0881 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChangeStatement` | build-observed |
 | M132172 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoDatumExistsStatement` | volunteer-build-reviewed |
 | M132173 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquiv` | build-observed |
@@ -399,6 +402,3 @@
 | M132902 | P2196 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SiegelSetUnitary` | volunteer-build-reviewed |
 | M132904 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilesSign` | build-observed |
 | M132905 | P1074 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilesSignStatement` | build-observed |
-| M132906 | P1105 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTiling` | build-observed |
-| M132907 | P1135 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilingStatement` | build-observed |
-| M132908 | P1018 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProduct` | build-observed |

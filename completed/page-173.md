@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115906 | P2206 | `Development.AutomorphicArithmetic.LocalEmbeddings.ReBaseReal` | volunteer-build-reviewed |
+| M115909 | P2470 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame` | volunteer-build-reviewed |
+| M115910 | P2499 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootInCore` | volunteer-build-reviewed |
 | M115911 | P2745 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootSymSupport` | volunteer-build-reviewed |
 | M115912 | P1578 | `Development.AutomorphicArithmetic.LocalEmbeddings.SemiUnfold` | volunteer-build-reviewed |
 | M115913 | P2652 | `Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M116484 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KodairaSpencerUniversalFamily` | volunteer-build-reviewed |
 | M116485 | P2301 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KoecherPrincipleUnitConstant` | volunteer-build-reviewed |
 | M116489 | P2729 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogCanonicalCriterionBoundary` | volunteer-build-reviewed |
-| M116490 | P2718 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogCanonicalReflOfBoundary` | volunteer-build-reviewed |
-| M116492 | P2661 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogMeasureRatioBounded` | volunteer-build-reviewed |
-| M116493 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogSumBadPrimesBoundOfCovering` | volunteer-build-reviewed |

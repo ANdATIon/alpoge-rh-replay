@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069318 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsCentAtScalar` | volunteer-build-reviewed |
 | M069319 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsComplOfSaturated` | volunteer-build-reviewed |
 | M069320 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsDetRootFinPartOne` | volunteer-build-reviewed |
 | M069321 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFinIdem` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M069923 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsTypeLocusStatement` | volunteer-build-reviewed |
 | M069924 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiser` | volunteer-build-reviewed |
 | M069925 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPow` | build-observed |
-| M069926 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPowStatement` | build-observed |

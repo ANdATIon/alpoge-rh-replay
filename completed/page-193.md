@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127217 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalingMeasureProductArchimedean` | volunteer-build-reviewed |
+| M127222 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurInverseEqReversedNegStatement` | volunteer-build-reviewed |
+| M127223 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurOpOfSchurL` | volunteer-build-reviewed |
 | M127224 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2Sum` | volunteer-build-reviewed |
 | M127225 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2SumStatement` | volunteer-build-reviewed |
 | M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M127919 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableLatticeWeightThree` | volunteer-build-reviewed |
 | M127921 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOfLatticeDecay` | volunteer-build-reviewed |
 | M127922 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOfLatticeDecayStatement` | volunteer-build-reviewed |
-| M127925 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOverLatticeQuotientLocallyConstant` | volunteer-build-reviewed |
-| M127929 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableProdPowMultiIndex` | volunteer-build-reviewed |
-| M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |

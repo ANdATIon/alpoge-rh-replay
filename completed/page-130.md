@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092321 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommuteOfWittFrameWeights` | volunteer-build-reviewed |
 | M092323 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvector` | volunteer-build-reviewed |
 | M092324 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvectorStatement` | volunteer-build-reviewed |
 | M092326 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompAtMtOfMemGfC` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M093005 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyDeepSubset` | volunteer-build-reviewed |
 | M093006 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyEqOfIsZetaCont` | volunteer-build-reviewed |
 | M093009 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyHermitianIntegrallyCongruentCmExt` | volunteer-build-reviewed |
-| M093010 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyHermitianIntegrallyCongruentCmExtStatement` | volunteer-build-reviewed |

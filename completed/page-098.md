@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066689 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionA` | volunteer-build-reviewed |
 | M066690 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionAStatement` | volunteer-build-reviewed |
 | M066691 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodChars` | volunteer-build-reviewed |
 | M066692 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodCharsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M067342 | P1254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterPairingHarishChandraCuspidalMackey` | wave-reused |
 | M067343 | P1281 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterPairingHarishChandraCuspidalMackeyStatement` | wave-reused |
 | M067346 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterUnramifiedOffBad` | volunteer-build-reviewed |
-| M067348 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterValuesInjectiveLength` | build-observed |

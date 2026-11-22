@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083713 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRoot` | volunteer-build-reviewed |
 | M083714 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRootStatement` | build-observed |
 | M083715 | P1283 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPoint` | wave-reused |
 | M083716 | P1310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPointStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M084544 | P0310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TorsionLiftPairingInOrthogonalFrameStatement` | volunteer-build-reviewed |
 | M084548 | P0930 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TorusWeightEigenAndRootShift` | build-observed |
 | M084551 | P1487 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslateCoprimeOrderNotIncreaseThetaCombNorm` | volunteer-build-reviewed |
-| M084552 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslateCoprimeOrderNotIncreaseThetaCombNormStatement` | volunteer-build-reviewed |

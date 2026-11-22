@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150401 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KapTrdegPfA` | volunteer-build-reviewed |
+| M150404 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KsHecke` | volunteer-build-reviewed |
+| M150405 | P1108 | `Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms` | build-observed |
+| M150406 | P1050 | `Formalism.LocalToGlobal.ProjectiveLattices.LatPAddRight` | build-observed |
 | M150407 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.LawA13OfContinuous` | build-observed |
 | M150408 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.LevelPb` | build-observed |
 | M150409 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.LieAlg` | wave-reused |
@@ -398,7 +402,3 @@
 | M150915 | P1686 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SkewHermitianApproximation` | build-observed |
 | M150917 | P1528 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPf` | build-observed |
 | M150918 | P1640 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfFinal` | build-observed |
-| M150919 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviAlg` | build-observed |
-| M150920 | P1614 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviGlue` | build-observed |
-| M150921 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviPos` | build-observed |
-| M150922 | P1556 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviSteps` | build-observed |

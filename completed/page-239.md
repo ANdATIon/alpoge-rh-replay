@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156602 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjContAll` | build-observed |
+| M156603 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjGen` | build-observed |
+| M156604 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjHA` | build-observed |
+| M156605 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjRat` | build-observed |
 | M156606 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjStep` | build-observed |
 | M156607 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ReflectionFixesNormal` | build-observed |
 | M156608 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.SemiDefs` | build-observed |
@@ -398,7 +402,3 @@
 | M157009 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProd` | wave-reused |
 | M157010 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdA` | wave-reused |
 | M157011 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdAlt` | wave-reused |
-| M157012 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdG` | wave-reused |
-| M157013 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdSt` | wave-reused |
-| M157014 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RpAbsHolds` | wave-reused |
-| M157015 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SWeqOm` | wave-reused |

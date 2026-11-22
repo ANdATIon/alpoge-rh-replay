@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111533 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.PairCases` | volunteer-build-reviewed |
+| M111534 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.PhiMem` | volunteer-build-reviewed |
 | M111535 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.ShiftM` | volunteer-build-reviewed |
 | M111537 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UMeasEx` | volunteer-build-reviewed |
 | M111538 | P2027 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UnfOf` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M112002 | P2062 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BaseChangeDescent.Strong` | volunteer-build-reviewed |
 | M112003 | P0714 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.BaseFacts` | build-observed |
 | M112004 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.CorrOpEq` | build-observed |
-| M112005 | P1183 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.CycAllHolds` | build-observed |
-| M112007 | P2807 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsStepHolds` | volunteer-build-reviewed |

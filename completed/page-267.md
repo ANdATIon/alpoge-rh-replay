@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171460 | P0612 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeC` | wave-reused |
+| M171461 | P0089 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCA` | wave-reused |
+| M171462 | P0579 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB` | wave-reused |
+| M171463 | P0729 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BijOnClosedPointsOfIsIso` | wave-reused |
+| M171464 | P0342 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ClosureFromSpecMemCompsH` | build-observed |
 | M171465 | P0915 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChart` | wave-reused |
 | M171466 | P0862 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA` | wave-reused |
 | M171467 | P0889 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartB` | wave-reused |
@@ -397,8 +402,3 @@
 | M171930 | P0168 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.PolydiscSt` | volunteer-build-reviewed |
 | M171931 | P0090 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.TaylorLeviSt` | volunteer-build-reviewed |
 | M171932 | P0168 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.ChiPSt` | pilot-reused |
-| M171933 | P0168 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.GaussSt` | volunteer-build-reviewed |
-| M171934 | P0090 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.MonoNormSq` | pilot-reused |
-| M171938 | P0389 | `ReciprocityTheory.GroupCohomology.CardLenStatement` | wave-reused |
-| M171939 | P0090 | `ReciprocityTheory.GroupCohomology.ChiRkA` | volunteer-build-reviewed |
-| M171940 | P0090 | `ReciprocityTheory.GroupCohomology.CofinA` | volunteer-build-reviewed |

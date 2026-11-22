@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153864 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhGram` | build-observed |
+| M153865 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormLimit` | build-observed |
+| M153866 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormUnits` | build-observed |
+| M153867 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhProdConv` | build-observed |
 | M153868 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhSchurConv` | build-observed |
 | M153869 | P0463 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhiCubeOfFactor` | build-observed |
 | M153870 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PinHostLoc` | build-observed |
@@ -398,7 +402,3 @@
 | M154302 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DensNu` | build-observed |
 | M154303 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetMulRCReal` | volunteer-build-reviewed |
 | M154304 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetNZHolds` | build-observed |
-| M154306 | P1469 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqOneOfToHAFin` | build-observed |
-| M154307 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqZeroOfSetIntegral` | build-observed |
-| M154309 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLieCompl` | build-observed |
-| M154310 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolutionContDiffAt` | volunteer-build-reviewed |
