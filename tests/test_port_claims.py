@@ -192,6 +192,21 @@ class PortClaimTests(unittest.TestCase):
             self.run_cli('claim', 'P0001', 'P0002')
         self.assertEqual(self.gh.call_count, 2)
 
+    def test_open_packet_claim_cap_blocks_excess_packet_claims_for_user(self):
+        for i in range(100, 100 + self.port.MAX_OPEN_PACKET_CLAIMS):
+            self.issues.append({'title': f'Port P0{i}', 'user': {'login': 'alice'}})
+        with patch.object(self.port, 'current_github_login', return_value='alice'):
+            with self.assertRaisesRegex(SystemExit, 'already holds'):
+                self.run_cli('claim', 'P0001')
+            self.gh.assert_not_called()
+            # Single-module claims are still allowed
+            self.run_cli('claim', 'M000001')
+            self.assertEqual(self.gh.call_count, 1)
+
+        with patch.object(self.port, 'current_github_login', return_value='bob'):
+            self.run_cli('claim', 'P0002')
+            self.assertEqual(self.gh.call_count, 2)
+
 
 if __name__ == '__main__':
     unittest.main()

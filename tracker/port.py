@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 PATCHES = ROOT / 'port' / 'patches'
 TRIAGE = ROOT / 'port' / 'triage' / 'results.json'
 PRUNED = ROOT / 'port' / 'pruned.txt'
+MAX_OPEN_PACKET_CLAIMS = 8
 
 
 def ported():
@@ -60,9 +61,10 @@ def triage():
     return {r['id']: r['status'] for r in json.loads(TRIAGE.read_text())['results']}
 
 
-def port_issues():
-    """Reservations from open claim issues and pending port pull requests."""
+def scan_port_issues():
+    """Reservations and per-user open packet claims from live issues and PRs."""
     taken = set()
+    packet_owners = {}
     for issue in tasks.open_issues():
         if 'pull_request' in issue:
             labels = {label if isinstance(label, str) else label['name']
@@ -73,8 +75,27 @@ def port_issues():
             continue
         match = re.fullmatch(r'Port (P\d{4}|M\d{6})', issue['title'])
         if match:
-            taken.add(match[1])
-    return taken
+            target = match[1]
+            taken.add(target)
+            if target.startswith('P'):
+                login = (issue.get('user') or {}).get('login')
+                if login:
+                    packet_owners.setdefault(login, set()).add(target)
+    return taken, packet_owners
+
+
+def port_issues():
+    """Reservations from open claim issues and pending port pull requests."""
+    return scan_port_issues()[0]
+
+
+def current_github_login():
+    res = subprocess.run(['gh', 'api', 'user', '--jq', '.login'],
+                         capture_output=True, text=True, check=False)
+    if res.returncode != 0:
+        return None
+    login = res.stdout.strip()
+    return login or None
 
 
 def packets(rows):
@@ -173,11 +194,21 @@ def main():
             if not live_members:
                 raise SystemExit(f'{target} is pruned on upstream main and does not need porting.')
             check_unported(target, live_members)
-        taken = port_issues()
+        taken, packet_owners = scan_port_issues()
         for target in requested:
             conflict = reservation_conflict(target, groups, by_id, taken)
             if conflict is not None:
                 raise SystemExit(f'Already reserved by an open port issue or pull request: Port {conflict}')
+        requested_packets = [t for t in requested if t.startswith('P')]
+        if requested_packets and any(
+                len(pkts) + len(requested_packets) > MAX_OPEN_PACKET_CLAIMS
+                for pkts in packet_owners.values()):
+            login = current_github_login()
+            if login and len(packet_owners.get(login, ())) + len(requested_packets) > MAX_OPEN_PACKET_CLAIMS:
+                held = len(packet_owners[login])
+                raise SystemExit(
+                    f'@{login} already holds {held} open packet claims (limit {MAX_OPEN_PACKET_CLAIMS}); '
+                    f'close or finish existing packet claims before claiming more.')
         # Validate every requested reservation before creating the first issue.
         for target in requested:
             subprocess.run(['gh', 'issue', 'create', '--repo', tasks.repo, '--title', f'Port {target}',

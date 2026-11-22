@@ -70,13 +70,17 @@ A partial packet submission must:
 - List the submitted module IDs, the remaining live IDs and their missing imports,
   and any pruned IDs excluded from the packet. Link the transcript and source,
   patch and output digests for every submitted module, including reused outputs.
-- Use a title such as `Port P0123: 60 ready modules to Lean 4.36`, link the existing
-  packet claim without closing it, and state that the packet remains incomplete.
-  Keep one open submission per packet; add newly completed members to that PR or
-  submit a follow-up after it merges. Preserve previously accepted records.
-- Retain the packet reservation while working on the remaining members. Close it
-  if stopping, and close it as complete only once every live member has an accepted
-  record. A merged partial PR is not a full packet result or replay credit.
+- Use a title such as `Port P0123: 60 ready modules to Lean 4.36` and link the existing
+  packet claim (`Closes #N`) so merging the PR releases the packet claim. State in the
+  PR body which modules remain blocked. Keep one open submission per packet; add newly
+  completed members to that PR or submit a follow-up after it merges. Preserve previously
+  accepted records.
+- **Release on merge & 8-packet cap:** A contributor may hold at most **8 open `Port Pxxxx`
+  packet claims** at once (`tracker/port.py claim` enforces this). When a partial packet PR
+  merges, its `Port Pxxxx` claim issue closes automatically so any remaining or newly
+  unblocked modules return to the queue for anyone to claim in a follow-up. Close the issue
+  manually if stopping without a PR. A merged partial PR is not a full packet result or
+  replay credit.
 
 Pruned modules are omitted from the queue. An import of a pruned module in the
 pinned source still requires a port record.
