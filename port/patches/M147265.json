@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice",
+  "source_sha256": "223afede90ba6d98c135fac9f39e6646c6b486649feb89b9b08d9d836ae7454b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The imported statement (StatementLat, M147293) now states the lattice condition as Submodule.IsFullLattice K, the fraction-field form of the pinned IsLattice. In the proof, build it from the finite-generation and spanning facts as { Submodule.IsLattice.of_fg K hfg with span_eq_top := hspd } instead of the pinned anonymous constructor ⟨hfg, hspd⟩. Proof-only change; no statements, definitions or instances changed."
+}

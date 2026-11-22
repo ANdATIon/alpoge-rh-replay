@@ -1,0 +1,11 @@
+--- a/src/Formalism/HermitianLattices/HermitianLatticesProofs/DualLattice.lean
++++ b/src/Formalism/HermitianLattices/HermitianLatticesProofs/DualLattice.lean
+@@ -233,7 +233,7 @@
+     intro x _
+     rw [hexp x]
+     exact Submodule.sum_mem _ fun j _ => Submodule.smul_mem _ _ (hbsK j)
+-  refine ⟨⟨hfg, hspd⟩, ?_, ?_⟩
++  refine ⟨{ Submodule.IsLattice.of_fg K hfg with span_eq_top := hspd }, ?_, ?_⟩
+   ·
+     refine le_antisymm ?_ ((dualBasic R K V h hs hst).2.1 L)
+     obtain ⟨n, g, f, hgf⟩ := finitely_generated_projective_coords L hLfg (IsFractionRing.injective R K)

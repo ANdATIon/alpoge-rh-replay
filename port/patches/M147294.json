@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.HermitianLattices.StatementMaj",
+  "source_sha256": "d56af0897f9ebd764362be86cd2803d38d08f06c33caadf2e9d3dc0f18100d2a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: the hypotheses `Submodule.IsLattice K L` inside the Prop definitions MajDual, HeightBasic and MajLattice become `Submodule.IsFullLattice K L`. The module compiles unchanged, but Mathlib #44365 renamed the pinned `IsLattice` (finitely generated and spanning) to `IsFullLattice` and reused the name `IsLattice` for a weaker notion without `span_eq_top`, so the unchanged text would silently weaken these definitions; the reused-name audit flagged all three. In each, L is a submodule over `𝓞 K` for a number field `K`, the fraction field of `𝓞 K`, so `IsFullLattice K L ↔ L.FG ∧ span K L = ⊤`, which is the pinned definition, because `Submodule.IsLattice.of_fg` supplies the new field. No hypothesis is added or removed."
+}
