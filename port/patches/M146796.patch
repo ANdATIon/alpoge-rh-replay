@@ -1,0 +1,97 @@
+--- a/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/PhaseFunctionDerivatives.lean
++++ b/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/PhaseFunctionDerivatives.lean
+@@ -24,7 +24,7 @@
+ 
+ theorem a_contDiffAt_inv {n : ℕ} (N : WithTop ℕ∞) (k : Fin n) (x : Fin n → ℂ) (hx : x k ≠ 0) :
+     ContDiffAt ℂ N (fun y : Fin n → ℂ => (y k)⁻¹) x :=
+-  ((contDiff_apply ℂ ℂ k).contDiffAt).inv hx
++  ((contDiff_apply ℂ (fun _ : Fin n => ℂ) k).contDiffAt).inv hx
+ 
+ theorem a_norm_proj_le {n : ℕ} (k : Fin n) :
+     ‖(ContinuousLinearMap.proj k : (Fin n → ℂ) →L[ℂ] ℂ)‖ ≤ 1 :=
+@@ -54,7 +54,7 @@
+   refine (ContinuousMultilinearMap.norm_compContinuousLinearMap_le _ _).trans ?_
+   rw [hgx, norm_iteratedFDeriv_inv c _ hx]
+   have h3 : ∏ _i : Fin c, ‖g‖ ≤ 1 :=
+-    Finset.prod_le_one (fun _ _ => norm_nonneg _) (fun _ _ => hg ▸ a_norm_proj_le k)
++    Finset.prod_le_one₀ (fun _ _ => norm_nonneg _) (fun _ _ => hg ▸ a_norm_proj_le k)
+   exact mul_le_of_le_one_right (by positivity) h3
+ 
+ theorem a_lin_zero {n : ℕ} (j : ℕ) (hj : 1 ≤ j) (x : Fin n → ℂ) :
+@@ -73,7 +73,7 @@
+   contDiffAt_prod fun k _ => a_contDiffAt_inv N k x (hx k)
+ 
+ theorem a_contDiff_lin {n : ℕ} (N : WithTop ℕ∞) : ContDiff ℂ N (fun x : Fin n → ℂ => ∑ k, x k) :=
+-  ContDiff.sum fun k _ => contDiff_apply ℂ ℂ k
++  ContDiff.sum fun k _ => contDiff_apply ℂ (fun _ : Fin n => ℂ) k
+ 
+ theorem contDiffAt_phase_function {n : ℕ} (N : WithTop ℕ∞) (D' : ℂ) (x : Fin n → ℂ) (hx : ∀ k, x k ≠ 0) :
+     ContDiffAt ℂ N (g0 D') x := by
+@@ -109,7 +109,7 @@
+           (fun y : Fin n → ℂ => (y k)⁻¹) {x : Fin n → ℂ | ∀ k, x k ≠ 0} x‖
+       ≤ ∏ k, (((Multiset.count k (p : Multiset (Fin n))).factorial : ℝ) *
+           (‖x k‖⁻¹ * b ^ (Multiset.count k (p : Multiset (Fin n))))) := by
+-        refine Finset.prod_le_prod (fun _ _ => norm_nonneg _) fun k _ => ?_
++        refine Finset.prod_le_prod₀ (fun _ _ => norm_nonneg _) fun k _ => ?_
+         rw [iteratedFDerivWithin_of_isOpen _ hS hxS]
+         refine (a_norm_inv _ k x (hx k)).trans ?_
+         gcongr
+@@ -377,7 +377,7 @@
+       linarith
+     have h2 : (‖z‖ / 2) ^ (m + 1) ≤ ‖∏ k, x k‖ := by
+       rw [norm_prod]
+-      have := Finset.prod_le_prod (s := Finset.univ) (f := fun _ : Fin (m + 1) => ‖z‖ / 2)
++      have := Finset.prod_le_prod₀ (s := Finset.univ) (f := fun _ : Fin (m + 1) => ‖z‖ / 2)
+         (g := fun k => ‖x k‖) (fun _ _ => by positivity) (fun k _ => (hball x hx k).1)
+       rw [Finset.prod_const, Finset.card_univ, Fintype.card_fin] at this
+       exact this
+@@ -685,17 +685,40 @@
+     have hΦc : ContinuousAt Φ (MXY m D t (fun _ => z, y)) :=
+       (hΦ _ ⟨D, hD, (hDet m D t _ hc).symm⟩).1.continuousAt
+     have hg : ContinuousAt (fun y' : UT (m + 2) → ℂ => gRem m D t (fun _ => z, y')) y := by
+-      unfold gRem
+-      exact (hrho.sub continuousAt_const).div_const _
++      let c : ℂ := (-1 : ℂ) ^ (m + 3) * D / ∏ _k : Fin (m + 1), z
++      change ContinuousAt
++        (fun y' : UT (m + 2) → ℂ =>
++          (rhoXY m D t (fun _ => z, y') - c) / t) y
++      have hs : ContinuousAt
++          (fun y' : UT (m + 2) → ℂ => rhoXY m D t (fun _ => z, y') - c) y :=
++        hrho.sub (continuousAt_const :
++          ContinuousAt (fun _ : UT (m + 2) → ℂ => c) y)
++      exact hs.div_const t
+     have hinv : ContinuousAt (fun y' : UT (m + 2) → ℂ => (‖cofXY m t (fun _ => z, y')‖ ^ 2)⁻¹) y :=
+       ContinuousAt.inv₀ (hcof.norm.pow 2).continuousAt (by simpa using hc)
+-    unfold ampIn amp cutPhi
+-    refine ContinuousAt.smul (ContinuousAt.mul ((G7.continuous_psi β).continuousAt.comp hg)
+-      (Complex.continuous_ofReal.continuousAt.comp hinv)) (ContinuousAt.smul ?_
+-        (ContinuousAt.comp (f := fun y' : UT (m + 2) → ℂ => MXY m D t (fun _ => z, y')) hΦc hM))
+-    exact Complex.continuous_ofReal.continuousAt.comp
+-      (ContinuousAt.comp (f := fun y' : UT (m + 2) → ℂ => MXY m D t (fun _ => z, y'))
+-        (d_continuous_cutM _).continuousAt hM)
++    have hpsi : ContinuousAt
++        (fun y' : UT (m + 2) → ℂ => psi β (gRem m D t (fun _ => z, y'))) y :=
++      (G7.continuous_psi β).continuousAt.comp hg
++    have hinvC : ContinuousAt
++        (fun y' : UT (m + 2) → ℂ =>
++          (((‖cofXY m t (fun _ => z, y')‖ ^ 2)⁻¹ : ℝ) : ℂ)) y :=
++      Complex.continuous_ofReal.continuousAt.comp hinv
++    have hcut : ContinuousAt
++        (fun y' : UT (m + 2) → ℂ =>
++          ((cutM (‖t‖ ^ (-ε)) (MXY m D t (fun _ => z, y')) : ℝ) : ℂ)) y :=
++      Complex.continuous_ofReal.continuousAt.comp
++        (ContinuousAt.comp (f := fun y' : UT (m + 2) → ℂ => MXY m D t (fun _ => z, y'))
++          (d_continuous_cutM _).continuousAt hM)
++    have hPhi : ContinuousAt
++        (fun y' : UT (m + 2) → ℂ => Φ (MXY m D t (fun _ => z, y'))) y :=
++      ContinuousAt.comp (f := fun y' : UT (m + 2) → ℂ => MXY m D t (fun _ => z, y')) hΦc hM
++    change ContinuousAt
++      (fun y' : UT (m + 2) → ℂ =>
++        (psi β (gRem m D t (fun _ => z, y')) *
++          (((‖cofXY m t (fun _ => z, y')‖ ^ 2)⁻¹ : ℝ) : ℂ)) •
++        (((cutM (‖t‖ ^ (-ε)) (MXY m D t (fun _ => z, y')) : ℝ) : ℂ) •
++          Φ (MXY m D t (fun _ => z, y')))) y
++    exact (hpsi.mul hinvC).smul (hcut.smul hPhi)
+ 
+ end Formalism.FourierDecayAlt.P.PhaseFunctionDerivatives
+ 
