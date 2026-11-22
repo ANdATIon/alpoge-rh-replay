@@ -1,0 +1,38 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ContDiffIter.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ContDiffIter.lean
+@@ -39,7 +39,7 @@
+   simp
+ 
+ lemma scF_cont {G : ℝ → ℝ} (hG : ContDiff ℝ ∞ G) (j : ℕ) (y : ℝ) : Continuous fun s => scF G j s y :=
+-  (scF_contDiff hG j).continuous.comp (continuous_id.prodMk continuous_const)
++  (scF_contDiff hG j).continuous.uncurry_right y
+ 
+ theorem stHomot : GlobalTheory.PsCo.Pc1.StHomot := by
+   intro n ε G p q hP hK t ht
+@@ -77,14 +77,14 @@
+       field_simp
+     have hDc : Continuous D := by
+       rw [hD]
+-      refine continuous_finset_sum _ fun x _ => continuous_finset_sum _ fun j _ => ?_
++      refine continuous_finsetSum _ fun x _ => continuous_finsetSum _ fun j _ => ?_
+       exact ((hc _).mul continuous_const).add ((hc _).mul continuous_const)
+     have hftc := intervalIntegral.integral_eq_sub_of_hasDerivAt hder (hDc.intervalIntegrable _ _)
+     have hint : ∫ s in (1:ℝ)..t, D s = ∑ x : Mode ε, ∑ j ∈ Finset.range (nMode ε + 1),
+         adBas ε (Matrix.single x.1.2 x.1.1 1) (fun y => ∫ s in (1:ℝ)..t, scF G j s y) (q x j) g := by
+-      rw [hD, intervalIntegral.integral_finset_sum]
++      rw [hD, intervalIntegral.integral_finsetSum]
+       · refine Finset.sum_congr rfl fun x _ => ?_
+-        rw [intervalIntegral.integral_finset_sum]
++        rw [intervalIntegral.integral_finsetSum]
+         · refine Finset.sum_congr rfl fun j _ => ?_
+           rw [intervalIntegral.integral_add (((hc _).mul_const _).intervalIntegrable _ _)
+             (((hc _).mul_const _).intervalIntegrable _ _),
+@@ -94,7 +94,7 @@
+         · intro j _
+           exact (((hc _).mul continuous_const).add ((hc _).mul continuous_const)).intervalIntegrable _ _
+       · intro x _
+-        refine (continuous_finset_sum _ fun j _ => ?_).intervalIntegrable _ _
++        refine (continuous_finsetSum _ fun j _ => ?_).intervalIntegrable _ _
+         exact ((hc _).mul continuous_const).add ((hc _).mul continuous_const)
+     simp only [Pi.sub_apply, Pi.neg_apply, Finset.sum_apply]
+     rw [← hint, hftc]

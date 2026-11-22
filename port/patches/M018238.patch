@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/CoeffNormFormOfFamilyMemRangeIntegrallyClosed.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/CoeffNormFormOfFamilyMemRangeIntegrallyClosed.lean
+@@ -95,7 +95,7 @@
+     exact h2.symm
+   have hdet := isIntegral_det_of_aeval _ g hgm h0
+   rw [hM, ← RingHom.map_det] at hdet
+-  exact (isIntegral_algebraMap_iff (IsFractionRing.injective R F)).mp hdet
++  exact isIntegral_algebraMap_iff.mp hdet
+ 
+ end GlobalTheory.NormSheaf.IntegralCoeff
+ 

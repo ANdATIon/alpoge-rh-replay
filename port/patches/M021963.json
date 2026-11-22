@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.DvdOfTwistedEq",
+  "source_sha256": "9be8a5f79e7962575b8ac8de1f4418ed4c2c3e3df3045b5bb7a6d02b81a377f1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}

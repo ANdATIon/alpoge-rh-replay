@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CosineSquarePushforwardUniform",
+  "source_sha256": "bb255a35faf8d62b2b691c0796a5ac6f3245075c1f39a3b1caabc8acc0f45f48",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}

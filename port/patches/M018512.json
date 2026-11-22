@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CommutingSemisimpleEigenspacesSpanStatement",
+  "source_sha256": "30d3c4e6952cca5769819d3b4a22c2d81d3923a3dcf3f725b983aaa3aff4e2d5",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}

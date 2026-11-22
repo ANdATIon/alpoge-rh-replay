@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffIter",
+  "source_sha256": "9c3c77b0af74fa150cb2fa7351250123203faa83b17626476a063acfd1b9dabb",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "continuous_finset_sum and intervalIntegral.integral_finset_sum are now continuous_finsetSum and intervalIntegral.integral_finsetSum. scF_cont's term (uncurry continuity composed with continuous_id.prodMk continuous_const) now times out in isDefEq, so it is proved by Continuous.uncurry_right, which states exactly that composition. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}

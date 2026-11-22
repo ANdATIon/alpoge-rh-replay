@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffNormFormOfFamilyMemRangeIntegrallyClosed",
+  "source_sha256": "e6e3f3589ea5dd329269a53f7e0f3c732c893dd172f00b0488f85e6fe80541a6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "isIntegral_algebraMap_iff now takes no injectivity argument (it uses the algebra's faithfulness instance), so the IsFractionRing.injective argument is dropped. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}

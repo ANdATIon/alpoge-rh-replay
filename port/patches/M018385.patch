@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ColsComplete.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ColsComplete.lean
+@@ -49,7 +49,7 @@
+             intro h; have := congrArg Fin.val h; simp [m'] at this; omega
+           simp only [Fin.snoc_castSucc, u', Function.update_of_ne this]
+           rfl
+-      rw [this, linearIndependent_fin_snoc]
++      rw [this, linearIndependent_finSnoc]
+       exact ⟨hu, hj⟩
+     obtain ⟨g', hg'⟩ := ih (m+1) (by omega) u' hu'
+     refine ⟨Function.update g' m' j, ?_⟩

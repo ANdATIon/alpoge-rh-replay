@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMetaplecticSchwartzActionProd",
+  "source_sha256": "399e347f9071026fa524eef864a01114c90b9fe8f12aee458dc679e4ffae24b5",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "continuous_finset_sum and tendsto_finset_sum are now continuous_finsetSum and tendsto_finsetSum. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}
