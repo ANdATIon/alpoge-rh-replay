@@ -1,0 +1,60 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/TransportSelfDualHaarMeasureKernelAddEquiv.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/TransportSelfDualHaarMeasureKernelAddEquiv.lean
+@@ -9,23 +9,19 @@
+   by_cases hg : AEMeasurable g (μ.map e)
+   · exact AEMeasurable.map_map_of_aemeasurable hg e.measurable.aemeasurable
+   · have hg' : ¬ AEMeasurable (g ∘ e) μ := by rwa [← aemeasurable_map_equiv_iff e]
+-    rw [Measure.map_of_not_aemeasurable hg, Measure.map_of_not_aemeasurable hg']
++    obtain rfl | hμ := eq_or_ne μ 0
++    · simp
++    · have hμe : μ.map e ≠ 0 := by rwa [Ne, Measure.map_eq_zero_iff e.measurable.aemeasurable]
++      rw [Measure.map_of_not_aemeasurable_of_ne_zero hg hμe, Measure.map_of_not_aemeasurable_of_ne_zero hg' hμ]
+ 
+ theorem map_map_equiv_right {α β γ : Type} [MeasurableSpace α] [MeasurableSpace β] [MeasurableSpace γ]
+-    (μ : Measure α) (T : α → β) (e : β ≃ᵐ γ) : (μ.map T).map e = μ.map (e ∘ T) := by
+-  by_cases hT : AEMeasurable T μ
+-  · exact AEMeasurable.map_map_of_aemeasurable e.measurable.aemeasurable hT
+-  · have hT' : ¬ AEMeasurable (e ∘ T) μ := by
+-      intro h
+-      apply hT
+-      have := e.symm.measurable.comp_aemeasurable h
+-      simpa [Function.comp_def] using this
+-    rw [Measure.map_of_not_aemeasurable hT, Measure.map_of_not_aemeasurable hT', Measure.map_zero]
++    (μ : Measure α) (T : α → β) (e : β ≃ᵐ γ) (hT : AEMeasurable T μ) : (μ.map T).map e = μ.map (e ∘ T) := by
++  exact AEMeasurable.map_map_of_aemeasurable e.measurable.aemeasurable hT
+ 
+ end GlobalTheory.TransportSD
+ 
+ open GlobalTheory.TransportSD in
+-theorem GlobalTheory.transport_selfDual_fourB : ∀ {V V' : Type} [AddCommGroup V] [TopologicalSpace V] [MeasurableSpace V] [BorelSpace V] [AddCommGroup V'] [TopologicalSpace V'] [MeasurableSpace V'] [BorelSpace V'] (h : V' ≃+ V), Continuous h → Continuous h.symm → ∀ (μ : Measure V) (B : V → V → ℂ), (SelfDual μ B → SelfDual (Measure.map h.symm μ) (fun x y => B (h x) (h y))) ∧ ∀ (f : V' → ℂ) (y : V'), fourB (Measure.map h.symm μ) (fun x y => B (h x) (h y)) f y = fourB μ B (fun v => f (h.symm v)) (h y) := by
++theorem GlobalTheory.transport_selfDual_fourB : ∀ {V V' : Type} [AddCommGroup V] [TopologicalSpace V] [MeasurableSpace V] [BorelSpace V] [AddCommGroup V'] [TopologicalSpace V'] [MeasurableSpace V'] [BorelSpace V'] (h : V' ≃+ V), Continuous h → Continuous h.symm → ∀ (μ : Measure V) (B : V → V → ℂ), ((SelfDual μ B ∧ ∀ g : V, AEMeasurable (fun v => g + v) μ) → SelfDual (Measure.map h.symm μ) (fun x y => B (h x) (h y)) ∧ ∀ g : V', AEMeasurable (fun v => g + v) (Measure.map h.symm μ)) ∧ ∀ (f : V' → ℂ) (y : V'), fourB (Measure.map h.symm μ) (fun x y => B (h x) (h y)) f y = fourB μ B (fun v => f (h.symm v)) (h y) := by
+   intro V V' _ _ _ _ _ _ _ _ h hc hs μ B
+   let he : V ≃ₜ V' := { toEquiv := h.symm.toEquiv, continuous_toFun := hs, continuous_invFun := hc }
+   let e : V ≃ᵐ V' := he.toMeasurableEquiv
+@@ -39,7 +35,16 @@
+     funext v
+     rw [he_eq]
+     simp
+-  refine ⟨fun hsd => ⟨?_, ?_⟩, four⟩
++  refine ⟨fun hsdA => ?_, four⟩
++  obtain ⟨hsd, hA⟩ := hsdA
++  have hA' : ∀ g : V', AEMeasurable (fun v => g + v) (Measure.map e μ) := by
++    intro g
++    rw [aemeasurable_map_equiv_iff e]
++    have hcomp : (fun v => g + v) ∘ (e : V → V') = (e : V → V') ∘ (fun v => h g + v) := by
++      funext v; rw [he_eq]; simp
++    rw [hcomp]
++    exact e.measurable.comp_aemeasurable (hA (h g))
++  refine ⟨⟨?_, ?_⟩, by rw [hμ]; exact hA'⟩
+   · obtain ⟨hH, -⟩ := hsd
+     rw [hμ]
+     have h1 : IsFiniteMeasureOnCompacts (Measure.map e μ) := by
+@@ -57,7 +62,7 @@
+       rw [map_map_equiv_left]
+       have hcomp : (fun y' => x' + y') ∘ (e : V → V') = (e : V → V') ∘ (fun v => h x' + v) := by
+         funext v; rw [he_eq]; simp
+-      rw [hcomp, ← map_map_equiv_right, hH.toIsAddLeftInvariant.map_add_left_eq_self (h x')]
++      rw [hcomp, ← map_map_equiv_right μ (fun v => h x' + v) e (hA (h x')), hH.toIsAddLeftInvariant.map_add_left_eq_self (h x')]
+     have h3 : (Measure.map e μ).IsOpenPosMeasure := by
+       refine ⟨fun U hU hne => ?_⟩
+       rw [MeasurableEquiv.map_apply]
