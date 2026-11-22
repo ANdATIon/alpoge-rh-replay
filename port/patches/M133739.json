@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MetricProofs.GramLogUnitaryTriangularInvariance",
+  "source_sha256": "1be6b55ed427da1db56ca582813c501e2033b755d81e6f9e1de668bfd3d5da15",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "With Matrix open, the unqualified mul_apply no longer resolves to Matrix.mul_apply, so name it. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-32856"
+}
