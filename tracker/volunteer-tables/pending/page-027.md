@@ -4,7 +4,6 @@
 
 | Contributor | Task | Review |
 |---|---|---|
-| [@JamCh01](https://github.com/JamCh01) | [M013121](https://github.com/rohanarun/alpoge-rh-replay/issues/33248#issuecomment-7080344053) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M013179](https://github.com/rohanarun/alpoge-rh-replay/issues/33249#issuecomment-7080344648) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M013287](https://github.com/rohanarun/alpoge-rh-replay/issues/33250#issuecomment-7080344129) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M013523](https://github.com/rohanarun/alpoge-rh-replay/issues/33251#issuecomment-7080358036) | Pending review |
@@ -254,3 +253,4 @@
 | [@JamCh01](https://github.com/JamCh01) | [M081834](https://github.com/rohanarun/alpoge-rh-replay/issues/33541#issuecomment-7080945166) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M060916](https://github.com/rohanarun/alpoge-rh-replay/issues/33542#issuecomment-7080969646) | Pending review |
 | [@hipotures](https://github.com/hipotures) | [M020099](https://github.com/rohanarun/alpoge-rh-replay/issues/33543#issuecomment-7080767033) | Pending review |
+| [@JamCh01](https://github.com/JamCh01) | [M082072](https://github.com/rohanarun/alpoge-rh-replay/issues/33544#issuecomment-7080945184) | Pending review |

@@ -32,7 +32,6 @@
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M071961](https://github.com/rohanarun/alpoge-rh-replay/issues/27646#issuecomment-7071087858) | Pending review |
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M074375](https://github.com/rohanarun/alpoge-rh-replay/issues/27647#issuecomment-7071081444) | Pending review |
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M171596](https://github.com/rohanarun/alpoge-rh-replay/issues/27648#issuecomment-7071093927) | Pending review |
-| [@t-choudhury](https://github.com/t-choudhury) | [M102186](https://github.com/rohanarun/alpoge-rh-replay/issues/27680#issuecomment-7071342786) | Pending review |
 | [@user42245](https://github.com/user42245) | [M061394](https://github.com/rohanarun/alpoge-rh-replay/issues/27681#issuecomment-7071163257) | Pending review |
 | [@user42245](https://github.com/user42245) | [M109838](https://github.com/rohanarun/alpoge-rh-replay/issues/27682#issuecomment-7071172153) | Pending review |
 | [@user42245](https://github.com/user42245) | [M101612](https://github.com/rohanarun/alpoge-rh-replay/issues/27683#issuecomment-7071179300) | Pending review |
@@ -254,3 +253,4 @@
 | [@user42245](https://github.com/user42245) | [M164013](https://github.com/rohanarun/alpoge-rh-replay/issues/28577#issuecomment-7072665304) | Pending review |
 | [@user42245](https://github.com/user42245) | [M164204](https://github.com/rohanarun/alpoge-rh-replay/issues/28578#issuecomment-7072669767) | Pending review |
 | [@user42245](https://github.com/user42245) | [M103645](https://github.com/rohanarun/alpoge-rh-replay/issues/28579#issuecomment-7072676307) | Pending review |
+| [@jdenwood](https://github.com/jdenwood) | [M135994](https://github.com/rohanarun/alpoge-rh-replay/issues/28580#issuecomment-7072660496) | Pending review |

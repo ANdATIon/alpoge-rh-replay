@@ -4,7 +4,6 @@
 
 | Contributor | Task | Review |
 |---|---|---|
-| [@HITEYY](https://github.com/HITEYY) | [M137664](https://github.com/rohanarun/alpoge-rh-replay/issues/32048#issuecomment-7078457117) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M073087](https://github.com/rohanarun/alpoge-rh-replay/issues/32050#issuecomment-7078449191) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M064959](https://github.com/rohanarun/alpoge-rh-replay/issues/32052#issuecomment-7078433358) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M071896](https://github.com/rohanarun/alpoge-rh-replay/issues/32053#issuecomment-7078441312) | Pending review |
@@ -254,3 +253,4 @@
 | [@JamCh01](https://github.com/JamCh01) | [M103547](https://github.com/rohanarun/alpoge-rh-replay/issues/32750#issuecomment-7079572471) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M126655](https://github.com/rohanarun/alpoge-rh-replay/issues/32751#issuecomment-7079578868) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M127614](https://github.com/rohanarun/alpoge-rh-replay/issues/32752#issuecomment-7079582731) | Pending review |
+| [@JamCh01](https://github.com/JamCh01) | [M129269](https://github.com/rohanarun/alpoge-rh-replay/issues/32753#issuecomment-7079591783) | Pending review |
