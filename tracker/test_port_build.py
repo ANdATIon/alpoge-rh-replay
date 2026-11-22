@@ -291,6 +291,10 @@ class PortBuildTest(unittest.TestCase):
             port_build.ready_selection(members, False, ['M000002'])
         with self.assertRaises(SystemExit):
             port_build.ready_selection(members, True, ['M000099'])
+        # Excluding a member that is already ported means the selection is out of date.
+        (self.patches / 'M000005.json').write_text('{}')
+        with self.assertRaises(SystemExit):
+            port_build.ready_selection(members, True, ['M000005'])
 
     def test_ready_selection_does_not_list_ported_members_as_remaining(self):
         self.rows[2]['packet'] = 'P0002'

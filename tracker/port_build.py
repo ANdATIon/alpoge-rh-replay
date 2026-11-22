@@ -184,6 +184,9 @@ def ready_selection(members, ready_only, exclude=()):
     if not ready_only:
         return members, []
     done = {p.stem for p in PATCHES.glob('M*.json')}
+    recorded = sorted(exclude & done)
+    if recorded:
+        raise SystemExit('Excluded modules already have records on main: ' + ', '.join(recorded))
     ready = ready_members([r for r in members if r['id'] not in exclude], done)
     if not ready:
         raise SystemExit('No member of the selection is ready to build')
