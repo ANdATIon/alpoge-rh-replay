@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M014100 | P1902 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusOperatorEigenOfExpansionSingleClassStatement` | volunteer-build-reviewed |
+| M014101 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointWithCharactersIffPullDeg` | volunteer-build-reviewed |
+| M014102 | P1221 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointWithCharactersIffPullDegStatement` | build-observed |
+| M014103 | P1836 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointsLevelWeightsFromOrthogonalLabels` | volunteer-build-reviewed |
+| M014104 | P1858 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointsLevelWeightsFromOrthogonalLabelsStatement` | volunteer-build-reviewed |
+| M014105 | P1086 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusStableWeightsGenericFibre` | build-observed |
+| M014106 | P1116 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusStableWeightsGenericFibreStatement` | build-observed |
+| M014107 | P1248 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusTorsionPointsCorrespondValues` | build-observed |
+| M014109 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraceEqSumFinrank` | build-observed |
+| M014110 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtension` | build-observed |
 | M014111 | P1301 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtensionStatement` | build-observed |
 | M014113 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TripleStOfLaws` | build-observed |
 | M014116 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTerms` | build-observed |
@@ -392,13 +402,3 @@
 | M014989 | P2177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzHaarWeilStatement` | volunteer-build-reviewed |
 | M014990 | P2145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzL2WordBoundExists` | volunteer-build-reviewed |
 | M014991 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzL2WordBoundExistsStatement` | volunteer-build-reviewed |
-| M014992 | P1921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzMemL2` | volunteer-build-reviewed |
-| M014994 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzPointValuesAdmitted` | volunteer-build-reviewed |
-| M014995 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzPointValuesAdmittedStatement` | volunteer-build-reviewed |
-| M014996 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictFinitePlaceMemSchwartzBruh` | volunteer-build-reviewed |
-| M014997 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictFinitePlaceMemSchwartzBruhStatement` | volunteer-build-reviewed |
-| M014999 | P1445 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictTranslatedDiagonalMemStatement` | volunteer-build-reviewed |
-| M015000 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceClosedUnderConjReflection` | volunteer-build-reviewed |
-| M015001 | P0241 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceClosedUnderConjReflectionStatement` | volunteer-build-reviewed |
-| M015002 | P2094 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensors` | volunteer-build-reviewed |
-| M015003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensorsStatement` | volunteer-build-reviewed |

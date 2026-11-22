@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006396 | P1084 | `Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.VeryAmpleCompactQuasiSeparatedAffineCharts` | wave-reused |
+| M006397 | P1114 | `Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.VeryAmpleCompactQuasiSeparatedAffineChartsStatement` | wave-reused |
+| M006398 | P0005 | `Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.WeightAddLeOfMemSupportDividedContraction` | wave-reused |
+| M006399 | P0005 | `Development.AbelianVarietyTheory.Proofs.CoherentCohomologyProofs.XSmulMemWeightedHomogeneousSubmodule` | wave-reused |
+| M006400 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.AbsTwoMulInnerLeOfNormSubEqInfDist` | volunteer-build-reviewed |
+| M006402 | P0648 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.BlockEmbConjTranspose` | build-observed |
+| M006403 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.CoeffSubstInvMemOfTwoLeOrder` | wave-reused |
+| M006404 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ConjTransposeBoostMulSignatureMulBoost` | volunteer-build-reviewed |
 | M006405 | P0296 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ContinuousNormMulOneAddAbsLogPow` | volunteer-build-reviewed |
 | M006406 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn` | wave-reused |
 | M006407 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DiscreteTopologySpanOfLinearIndependent` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M007216 | P0839 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsSymmetrySeriesOfFramesStatement` | wave-reused |
 | M007217 | P0436 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsSymplecticCoordinatesAdapted` | volunteer-build-reviewed |
 | M007218 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaConstantOfThetaGroup` | volunteer-build-reviewed |
-| M007219 | P1002 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaConstantOfThetaGroupStatement` | volunteer-build-reviewed |
-| M007224 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaGrpPullback` | volunteer-build-reviewed |
-| M007225 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaGrpPullbackStatement` | build-observed |
-| M007226 | P0241 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaRunParametersUniformTorus` | volunteer-build-reviewed |
-| M007229 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaSublatticeJetNeZeroStatement` | volunteer-build-reviewed |
-| M007230 | P0005 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaWeightData` | volunteer-build-reviewed |
-| M007231 | P0918 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThickPointHyperbolic` | wave-reused |
-| M007233 | P1057 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsTorusOfSelfD` | volunteer-build-reviewed |

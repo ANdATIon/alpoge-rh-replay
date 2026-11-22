@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004960 | P0839 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsFundOne` | build-observed |
+| M004961 | P0784 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsGaugeAll` | build-observed |
+| M004963 | P0839 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsLatMeasurableConst` | build-observed |
+| M004965 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsMirClass` | wave-reused |
+| M004966 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsNormalFormStabilizerMeasure` | volunteer-build-reviewed |
+| M004967 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsProjOnOne` | volunteer-build-reviewed |
+| M004968 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LamXEquivariant` | build-observed |
 | M004970 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LayerProd` | build-observed |
 | M004971 | P1218 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LevelMatchIff` | volunteer-build-reviewed |
 | M004974 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocClosed` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M005474 | P0550 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsInverseOneAddPreservingAdelicCompletion` | build-observed |
 | M005475 | P0582 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsInverseOneAddPreservingAdelicCompletionStatement` | build-observed |
 | M005476 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsHermitianLogOfPosDefGram` | volunteer-build-reviewed |
-| M005477 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsHermitianLogOfPosDefGramStatement` | volunteer-build-reviewed |
-| M005478 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsKum` | wave-reused |
-| M005479 | P1218 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsOpenIsCompact` | volunteer-build-reviewed |
-| M005483 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquare` | wave-reused |
-| M005484 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquareStatement` | wave-reused |
-| M005486 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsUnitFormSelfOfNotMem` | wave-reused |
-| M005487 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsometryMatrixRange` | volunteer-build-reviewed |

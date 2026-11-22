@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M005477 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsHermitianLogOfPosDefGramStatement` | volunteer-build-reviewed |
+| M005478 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsKum` | wave-reused |
+| M005479 | P1218 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsOpenIsCompact` | volunteer-build-reviewed |
+| M005483 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquare` | wave-reused |
+| M005484 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquareStatement` | wave-reused |
+| M005486 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsUnitFormSelfOfNotMem` | wave-reused |
+| M005487 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsometryMatrixRange` | volunteer-build-reviewed |
 | M005488 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectors` | volunteer-build-reviewed |
 | M005489 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectorsStatement` | volunteer-build-reviewed |
 | M005491 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCoset` | volunteer-build-reviewed |
@@ -12,6 +19,7 @@
 | M005496 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletionStatement` | wave-reused |
 | M005497 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbit` | volunteer-build-reviewed |
 | M005498 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbitStatement` | volunteer-build-reviewed |
+| M005500 | P0347 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMultiplierDescendBlockDiagPartOfRatIdempotStatement` | volunteer-build-reviewed |
 | M005501 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNatSmulMem` | build-observed |
 | M005503 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNonzeroIsotropic` | wave-reused |
 | M005505 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormOneReflectionCorrectionAtLevelStatement` | build-observed |
@@ -394,11 +402,3 @@
 | M005983 | P0394 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EndomorphismMassMulParabolicInductionTrivialStatement` | wave-reused |
 | M005984 | P0097 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EndomorphismMassOfCharpolyCardCyclicVectors` | wave-reused |
 | M005985 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EndomorphismMassOfCharpolyCardCyclicVectorsStatement` | wave-reused |
-| M005986 | P0974 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqOfIsPrimitiveOfEqOnEllipticFiniteGL` | build-observed |
-| M005987 | P1002 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqOfIsPrimitiveOfEqOnEllipticFiniteGLStatement` | volunteer-build-reviewed |
-| M005988 | P0097 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqZeroOfFinsumMulStarPowEqZero` | build-observed |
-| M005989 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqZeroOfNotPrimary` | wave-reused |
-| M005990 | P0240 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.EqZeroOfNotPrimaryStatement` | wave-reused |
-| M005992 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsAbelianByPrimePowerNotDvdCardFixedBy` | wave-reused |
-| M005993 | P0240 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsAbelianByPrimePowerNotDvdCardFixedByStatement` | wave-reused |
-| M005994 | P0097 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsCharacterEigenvectorOfCommutingRepresentat` | wave-reused |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002128 | P0173 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.FramedLatticeZeroCycleHeight` | volunteer-build-reviewed |
+| M002131 | P1419 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps` | volunteer-build-reviewed |
+| M002132 | P0810 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericMultiplicityOne` | build-observed |
+| M002133 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GeometricComponentEmbedding` | volunteer-build-reviewed |
 | M002135 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodIdempotentBadPlaces` | build-observed |
 | M002136 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading` | build-observed |
 | M002139 | P1349 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HalfLatticeTypes` | volunteer-build-reviewed |
@@ -198,6 +202,7 @@
 | M002452 | P0515 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.ImageStableDegreeBounds` | volunteer-build-reviewed |
 | M002454 | P0582 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.InvariantsVanishing` | wave-reused |
 | M002455 | P0294 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.JumpMultiplicityDual` | volunteer-build-reviewed |
+| M002456 | P0095 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.KernelCharacterDelta` | volunteer-build-reviewed |
 | M002457 | P0294 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.KernelDictionary` | volunteer-build-reviewed |
 | M002458 | P0294 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.LettersFreeOfRank` | volunteer-build-reviewed |
 | M002459 | P0294 | `Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.LocalRingStructure` | volunteer-build-reviewed |
@@ -264,6 +269,7 @@
 | M002546 | P0758 | `Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.RareFlags` | volunteer-build-reviewed |
 | M002547 | P0758 | `Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SaturatedDuality` | build-observed |
 | M002548 | P0758 | `Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SaturatedPerpDuality` | build-observed |
+| M002549 | P0095 | `Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SiegelWeilGramDensity` | volunteer-build-reviewed |
 | M002552 | P0515 | `Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.AgreementAtAlmostAllSplitPrimes` | volunteer-build-reviewed |
 | M002553 | P1028 | `Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.AmbientLatticeAvoidance` | build-observed |
 | M002554 | P1056 | `Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.BadPrimesPeriodBound` | build-observed |
@@ -396,9 +402,3 @@
 | M002781 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.UniformisationCharts.RawDegreeForms` | volunteer-build-reviewed |
 | M002782 | P0475 | `Development.AbelianVarietyTheory.BlockTheory.UniformisationCharts.RigidPullbackIdentification` | volunteer-build-reviewed |
 | M002783 | P0347 | `Development.AbelianVarietyTheory.BlockTheory.UniformisationCharts.SeparatedSymmetricModel` | volunteer-build-reviewed |
-| M002784 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.UniformisationCharts.TorusPointForms` | volunteer-build-reviewed |
-| M002786 | P1419 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.ExistsDimOne` | volunteer-build-reviewed |
-| M002788 | P0838 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.GtBaseChangeSharp` | volunteer-build-reviewed |
-| M002789 | P1501 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.HomExtendsOverDVRHolds` | volunteer-build-reviewed |
-| M002792 | P0810 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.WeilIsUniqueOfLocal` | volunteer-build-reviewed |
-| M002793 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LfacDenominatorNeZero` | volunteer-build-reviewed |

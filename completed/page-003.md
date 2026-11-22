@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M001317 | P0238 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitProductClosureProperties` | volunteer-build-reviewed |
 | M001318 | P0293 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitProductClosurePropertiesStatement` | volunteer-build-reviewed |
 | M001319 | P0346 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitaryActionConsTupleMeasurable` | volunteer-build-reviewed |
 | M001320 | P0392 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitaryActionConsTupleMeasurableStatement` | volunteer-build-reviewed |
@@ -18,6 +19,7 @@
 | M001331 | P0392 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitsOpenEmbeddingLocalTensorStatement` | volunteer-build-reviewed |
 | M001332 | P1349 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOperatorIntegralInvariance` | build-observed |
 | M001333 | P1372 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOperatorIntegralInvarianceStatement` | build-observed |
+| M001334 | P0094 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOrthogonalGroupInvariance` | volunteer-build-reviewed |
 | M001335 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOrthogonalGroupInvarianceStatement` | volunteer-build-reviewed |
 | M001336 | P1586 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilRepresentationQuadraticDatum` | build-observed |
 | M001337 | P1616 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilRepresentationQuadraticDatumStatement` | build-observed |
@@ -118,6 +120,7 @@
 | M001595 | P0783 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DecompositionOfTensorFromHomLawsStatement` | volunteer-build-reviewed |
 | M001596 | P0757 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DecompositionOfTrace` | volunteer-build-reviewed |
 | M001597 | P0783 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DecompositionOfTraceStatement` | volunteer-build-reviewed |
+| M001600 | P0094 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DeltaStatement` | volunteer-build-reviewed |
 | M001601 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DeltaStatementStatement` | volunteer-build-reviewed |
 | M001602 | P0757 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DerivedSeriesAdjoint` | volunteer-build-reviewed |
 | M001603 | P0783 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DerivedSeriesAdjointStatement` | volunteer-build-reviewed |
@@ -184,6 +187,7 @@
 | M001719 | P0615 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HeckeBackwardStableStatement` | build-observed |
 | M001721 | P0838 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HeckeDualityFacts` | build-observed |
 | M001728 | P0346 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HeckeOperatorsSpanAndFaithfulStatement` | volunteer-build-reviewed |
+| M001731 | P0094 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HenselStatement` | volunteer-build-reviewed |
 | M001732 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HenselStatementStatement` | volunteer-build-reviewed |
 | M001733 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HermitianAdjointExists` | volunteer-build-reviewed |
 | M001735 | P1472 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.HighestWeightClassBoundaryAndWeight` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M002122 | P0757 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.ExtensionSingularValues` | volunteer-build-reviewed |
 | M002124 | P0549 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.FibreFramesOnModels` | volunteer-build-reviewed |
 | M002127 | P0757 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.FramedFlatCoordinates` | volunteer-build-reviewed |
-| M002128 | P0173 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.FramedLatticeZeroCycleHeight` | volunteer-build-reviewed |
-| M002131 | P1419 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps` | volunteer-build-reviewed |
-| M002132 | P0810 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericMultiplicityOne` | build-observed |
-| M002133 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GeometricComponentEmbedding` | volunteer-build-reviewed |

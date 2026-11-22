@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M013428 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsVf` | build-observed |
+| M013432 | P0839 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeakNeronModelStatement` | build-observed |
+| M013434 | P1902 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightZeroSectionUnitIntegralTorsionPointStatement` | build-observed |
+| M013435 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightZeroSumOne` | build-observed |
+| M013437 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightedRelationOfMinimalSupportStatement` | build-observed |
+| M013439 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsZpowMulIsUnitOfMem` | volunteer-build-reviewed |
+| M013440 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpandsGOfGenericRel` | volunteer-build-reviewed |
+| M013441 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPow` | volunteer-build-reviewed |
+| M013442 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPowStatement` | volunteer-build-reviewed |
+| M013445 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFDivFFMemOOfValuationRing` | volunteer-build-reviewed |
 | M013446 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFTTNeZero` | volunteer-build-reviewed |
 | M013447 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespond` | build-observed |
 | M013448 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespondStatement` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M014097 | P1715 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusExtensionTorsionMemUnitThetaConstantGroupStatement` | build-observed |
 | M014098 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusIsAffineHomAndSplitsFinite` | volunteer-build-reviewed |
 | M014099 | P1882 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusOperatorEigenOfExpansionSingleClass` | volunteer-build-reviewed |
-| M014100 | P1902 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusOperatorEigenOfExpansionSingleClassStatement` | volunteer-build-reviewed |
-| M014101 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointWithCharactersIffPullDeg` | volunteer-build-reviewed |
-| M014102 | P1221 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointWithCharactersIffPullDegStatement` | build-observed |
-| M014103 | P1836 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointsLevelWeightsFromOrthogonalLabels` | volunteer-build-reviewed |
-| M014104 | P1858 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusPointsLevelWeightsFromOrthogonalLabelsStatement` | volunteer-build-reviewed |
-| M014105 | P1086 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusStableWeightsGenericFibre` | build-observed |
-| M014106 | P1116 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusStableWeightsGenericFibreStatement` | build-observed |
-| M014107 | P1248 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusTorsionPointsCorrespondValues` | build-observed |
-| M014109 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraceEqSumFinrank` | build-observed |
-| M014110 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtension` | build-observed |

@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010503 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateDecayRealEntriesStatement` | volunteer-build-reviewed |
+| M010509 | P1921 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateThetaFunLeSchwartzMajorantLevelStatement` | volunteer-build-reviewed |
+| M010512 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinatesOfThetaFunctionAreThetaFunctions` | volunteer-build-reviewed |
+| M010513 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinatesOfThetaFunctionAreThetaFunctionsStatement` | volunteer-build-reviewed |
+| M010515 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsGramIdentitiesStatement` | volunteer-build-reviewed |
+| M010516 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsViaGramMatrices` | volunteer-build-reviewed |
+| M010517 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsViaGramMatricesStatement` | volunteer-build-reviewed |
+| M010518 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittSourceProof` | volunteer-build-reviewed |
+| M010519 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittSourceProofStatement` | volunteer-build-reviewed |
+| M010520 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTarget` | volunteer-build-reviewed |
 | M010521 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTargetStatement` | volunteer-build-reviewed |
 | M010522 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBox` | volunteer-build-reviewed |
 | M010523 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBoxStatement` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M011133 | P0583 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatMulAddCharLinearForm` | build-observed |
 | M011134 | P0617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatMulAddCharLinearFormStatement` | build-observed |
 | M011137 | P0649 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatSelfAverageHeisenberg` | build-observed |
-| M011138 | P0679 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatSelfAverageHeisenbergStatement` | build-observed |
-| M011139 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatTensorIndicatorCharacterFacts` | volunteer-build-reviewed |
-| M011147 | P1300 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondGelfandInvariantValueEq` | volunteer-build-reviewed |
-| M011149 | P1738 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondModelFinitePartFrameActionMatrix` | volunteer-build-reviewed |
-| M011155 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondOnCommonRangeOfSecond` | volunteer-build-reviewed |
-| M011156 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawCommonRealDatumBiThetaVacuumContraction` | volunteer-build-reviewed |
-| M011159 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleLiftCombinationOfLawsStatement` | volunteer-build-reviewed |
-| M011161 | P1836 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleStepFiniteIntegralCollapseTwistPlaceAlt` | volunteer-build-reviewed |
-| M011168 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleStepLinearRelationsPeriodsStatement` | volunteer-build-reviewed |
-| M011175 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawFixedLevelCombinationEqSinglePlaceOnVacuum` | volunteer-build-reviewed |

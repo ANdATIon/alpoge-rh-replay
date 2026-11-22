@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M028773",
+    "M107081",
+    "M117535"
+  ],
+  "started_utc": "2026-11-22T13:14:04.604455+00:00",
+  "ended_utc": "2026-11-22T13:15:25.653768+00:00",
+  "elapsed_seconds": 80.1,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 64479424
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRepPrincipalSiegelAdjointOrderActionStatement:olean",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.VwinOfRow:olean",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.EveryCharacterOfLiteratureOfVWin:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "6710ccea90faf130e881493813d45f9607a32c09e6dc135b4195f5c8a55589b2",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.AlLocalGlobalAboveLPstlocalGlobalAboveL",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LitCharCrys",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ModularityOfHyps"
+  ],
+  "objects": {
+    "M028773": "2f55a0fcc6d2acca99f063a0308c875033dd6e9e71d50ed9cd869917d63f517e",
+    "M107081": "d0beb229db7511a87434172b7d2af0e1830fa0d2585777f7c71badd06ac04d6a",
+    "M117535": "4f25c92bfef52e457c27942d67a1bcc45b7b057aa6f77805448c35ac148330c0"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "4914d5e1069e41071e6886a7e3d9ac5eddd6a1d91b300b16c78fd4e89a6dc7fd",
+  "packet": "P2827",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/32748#issuecomment-7079687122",
+  "reviewed_utc": "2026-11-22T18:00:22.652712+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

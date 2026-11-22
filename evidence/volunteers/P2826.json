@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    "M028772",
+    "M107021",
+    "M118994"
+  ],
+  "started_utc": "2026-11-22T13:11:55.849972+00:00",
+  "ended_utc": "2026-11-22T13:13:28.978313+00:00",
+  "elapsed_seconds": 92.2,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 64503920
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRepPrincipalSiegelAdjointOrderAction:olean",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TopMainZj:olean",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SiegelEisensteinSecondTermHypotheses:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b48088a59c6f6065ebbabd7549a11953b1a1185ad998dc72c986b5fd6ee746cd",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CrystallinePeriodEqCechDeRhamPeriodStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussManinPeriodsOfSpanAndTaylorClausesStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ImportsSideExtra",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodMapSpanTopAndFinrankFromCechPeriodsStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodsSpanDeRhamHomologyRankTwoG",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodsSpanDeRhamHomologyRankTwoGStatement",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.BottomFieldIsNumberField",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.BottomTwistedClassSumsAlgebraic",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.EvaluationGridOfJoin",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.NormSumCoefficientsIsAlgebraic",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.TestVectorAtDatumOfJoin",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftExtensionFieldExists",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.TwistedConstantExistence",
+    "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkedBundlesL3OfOpen"
+  ],
+  "objects": {
+    "M028772": "0044e924f0364d839090f9add92793c440485df96b535a3ff87f2a1e491f4cac",
+    "M107021": "21ef96acca181d539140f32841a07f4a77a174701506ff3c4975e7e87a630497",
+    "M118994": "65972db792c76467facc17ff73cc57058b20fe8a7fbbda3c4dc783cd9906f9d5"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "54557e7808916400776ba1aa1349960fc4538e7b557502f8e9c4340b575c634a",
+  "packet": "P2826",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/32697#issuecomment-7079661981",
+  "reviewed_utc": "2026-11-22T18:01:02.170393+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

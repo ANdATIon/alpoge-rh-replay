@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    "M175187"
+  ],
+  "started_utc": "2026-11-22T13:27:44.852346+00:00",
+  "ended_utc": "2026-11-22T13:28:53.866370+00:00",
+  "elapsed_seconds": 68.0,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 62765608
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Supplements.Kernels.MainTheoremsCritical:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "8c22560032e204f2d3f03c3d5f3c543d5b028c3cedb51c9f15a3f77c01a2c2fc",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.LenEqZeroIff"
+  ],
+  "objects": {
+    "M175187": "eb7c6afb97575c898882e2829f3f554789d48748a38e9187ed01f7b932ae4293"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "45873ce3520a7ea2705e0358f7ec6e8f02c8f4cf22371cad37382c5387c83f1c",
+  "packet": "P2856",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/33047#issuecomment-7079846762",
+  "reviewed_utc": "2026-11-22T17:59:58.814035+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

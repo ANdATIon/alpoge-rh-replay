@@ -2,6 +2,22 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M018261 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstEqZeroOfDegreeLtStatement` | wave-reused |
+| M018262 | P0892 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstLeadingOfAgreeDegreeOne` | wave-reused |
+| M018263 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstLeadingOfAgreeDegreeOneStatement` | wave-reused |
+| M018264 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstMapToFractionsMemSubmodule` | wave-reused |
+| M018265 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstMapToFractionsMemSubmoduleStatement` | wave-reused |
+| M018266 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstRestrictSumVariables` | build-observed |
+| M018267 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstRestrictSumVariablesStatement` | build-observed |
+| M018268 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumElimPowerSeriesSwapVariableGroups` | wave-reused |
+| M018269 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumElimPowerSeriesSwapVariableGroupsStatement` | wave-reused |
+| M018270 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorial` | volunteer-build-reviewed |
+| M018271 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorialStatement` | volunteer-build-reviewed |
+| M018272 | P2277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero` | volunteer-build-reviewed |
+| M018275 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossFinsetSumAndInvPowStatement` | volunteer-build-reviewed |
+| M018276 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhase` | volunteer-build-reviewed |
+| M018277 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhaseStatement` | volunteer-build-reviewed |
+| M018278 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfHyp` | volunteer-build-reviewed |
 | M018279 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfPublishedInputsStatement` | volunteer-build-reviewed |
 | M018282 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientConjugateThetaForm` | volunteer-build-reviewed |
 | M018283 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientFieldIsFieldOfDefinitionChainSteps` | volunteer-build-reviewed |
@@ -172,6 +188,7 @@
 | M018589 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactTorusQuotientInvariance` | volunteer-build-reviewed |
 | M018590 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactTorusQuotientInvarianceStatement` | volunteer-build-reviewed |
 | M018591 | P0242 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactTorusQuotientMeasure` | volunteer-build-reviewed |
+| M018593 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactTorusQuotientUnfolding` | volunteer-build-reviewed |
 | M018594 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactTorusQuotientUnfoldingStatement` | volunteer-build-reviewed |
 | M018595 | P1351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactUniformBound` | build-observed |
 | M018597 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CompactUnitarySchrodingerInvariance` | volunteer-build-reviewed |
@@ -385,20 +402,3 @@
 | M018986 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleMatchedEqual` | volunteer-build-reviewed |
 | M018987 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleMatchedEqualStatement` | volunteer-build-reviewed |
 | M018988 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleMatchedFold` | volunteer-build-reviewed |
-| M018989 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleMatchedFoldStatement` | volunteer-build-reviewed |
-| M018990 | P2623 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleRepPairIdentity` | volunteer-build-reviewed |
-| M018991 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleRepPairIdentityStatement` | volunteer-build-reviewed |
-| M018993 | P2016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleSeesawStatement` | volunteer-build-reviewed |
-| M018996 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATriplesCompatibility` | volunteer-build-reviewed |
-| M018997 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATriplesCompatibilityStatement` | volunteer-build-reviewed |
-| M018998 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentityFirst` | volunteer-build-reviewed |
-| M018999 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentityFirstStatement` | volunteer-build-reviewed |
-| M019000 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentitySecond` | volunteer-build-reviewed |
-| M019001 | P2145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentitySecondStatement` | volunteer-build-reviewed |
-| M019005 | P2623 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralHaarStatement` | volunteer-build-reviewed |
-| M019006 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralMeasure` | volunteer-build-reviewed |
-| M019008 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralStabilizer` | volunteer-build-reviewed |
-| M019009 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralStabilizerStatement` | volunteer-build-reviewed |
-| M019011 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenStabilizerIntegralStatement` | volunteer-build-reviewed |
-| M019014 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelation` | volunteer-build-reviewed |
-| M019015 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelationStatement` | volunteer-build-reviewed |

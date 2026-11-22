@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009467 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergAverageRealPlacesSmoothStatement` | volunteer-build-reviewed |
+| M009468 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergBasisDerivEqOfUniformLimits` | volunteer-build-reviewed |
+| M009469 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergBasisDerivEqOfUniformLimitsStatement` | volunteer-build-reviewed |
+| M009470 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombAwayFromPlaceKeepsVacuum` | volunteer-build-reviewed |
+| M009471 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombAwayFromPlaceKeepsVacuumStatement` | volunteer-build-reviewed |
+| M009472 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationCommFockPolynomialVectors` | volunteer-build-reviewed |
+| M009473 | P1689 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationCommFockPolynomialVectorsStatement` | volunteer-build-reviewed |
+| M009474 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacua` | volunteer-build-reviewed |
+| M009475 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacuaStatement` | volunteer-build-reviewed |
+| M009476 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOne` | volunteer-build-reviewed |
 | M009477 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOneStatement` | volunteer-build-reviewed |
 | M009478 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSlice` | volunteer-build-reviewed |
 | M009479 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSliceStatement` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M009986 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KappaSplitHalfPointMultipliesByCharacterStatement` | volunteer-build-reviewed |
 | M009987 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KeepLatticeHyperbolicEmbedding` | volunteer-build-reviewed |
 | M009988 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KeepsDiagOfMulStkRowsOne` | volunteer-build-reviewed |
-| M009989 | P0811 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KerReductionLeRangeReductionOfMulEqSmul` | build-observed |
-| M009990 | P0839 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KerReductionLeRangeReductionOfMulEqSmulStatement` | build-observed |
-| M009991 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelEntryRationalEquivarianceTransports` | volunteer-build-reviewed |
-| M009992 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelEntryRationalEquivarianceTransportsStatement` | volunteer-build-reviewed |
-| M009993 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelExpansionAbsoluteConvergenceEqualWords` | volunteer-build-reviewed |
-| M009997 | P0649 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelReductionExtendEvaluatedIntegrated` | build-observed |
-| M009998 | P0679 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelReductionExtendEvaluatedIntegratedStatement` | build-observed |
-| M009999 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteExplicitConst` | volunteer-build-reviewed |
-| M010000 | P0516 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteExplicitConstStatement` | volunteer-build-reviewed |
-| M010001 | P0437 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwisted` | volunteer-build-reviewed |

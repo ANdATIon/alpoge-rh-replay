@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011954 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThreeOrbitsGluedCoreAtPlaceStatement` | volunteer-build-reviewed |
+| M011955 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TmulOneMemIntAt` | volunteer-build-reviewed |
+| M011956 | P0006 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ToBlocksMulFinZero` | volunteer-build-reviewed |
+| M011960 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TopReadOfTrueQ` | volunteer-build-reviewed |
+| M011968 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TopVectorMemExtraProjectionStatement` | volunteer-build-reviewed |
+| M011969 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TorusEntryRatioIntegralAtUnramifiedPlace` | volunteer-build-reviewed |
+| M011970 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TorusEntryRatioIntegralAtUnramifiedPlaceStatement` | volunteer-build-reviewed |
+| M011975 | P1445 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TraceFormRealCoordinatesIntegralGramStatement` | volunteer-build-reviewed |
+| M011981 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TranslateToSecondModelCuspFormMapValueAutomorphiStatement` | volunteer-build-reviewed |
+| M011984 | P0296 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TranslationInvariantSchwartzBruhatMapFactorsInte` | volunteer-build-reviewed |
 | M011985 | P0348 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TranslationInvariantSchwartzBruhatMapFactorsInteStatement` | volunteer-build-reviewed |
 | M011987 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportCorrectionCarriesColumnLatticeRowTraceStatement` | volunteer-build-reviewed |
 | M011988 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedFrameGramOrth` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M012749 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.CubNSucc` | build-observed |
 | M012755 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataIsoOfTwoWitnessesStatement` | volunteer-build-reviewed |
 | M012756 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataPsiQuadraticGeneratorsLinear` | build-observed |
-| M012757 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataPsiQuadraticGeneratorsLinearStatement` | build-observed |
-| M012759 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataTorsionStructureAlgClosedStatement` | volunteer-build-reviewed |
-| M012761 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationIsoCommInducedLabelMapsStatement` | volunteer-build-reviewed |
-| M012768 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationWeilPairingProperties` | build-observed |
-| M012769 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationWeilPairingPropertiesStatement` | build-observed |
-| M012770 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegreeFormsDimensionGenericFibreLe` | volunteer-build-reviewed |
-| M012771 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegreeFormsDimensionGenericFibreLeStatement` | volunteer-build-reviewed |
-| M012772 | P1273 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DifferentiableQuot` | build-observed |
-| M012773 | P1085 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocus` | build-observed |
-| M012774 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocusStatement` | volunteer-build-reviewed |

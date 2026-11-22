@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    "M108233",
+    "M109322"
+  ],
+  "started_utc": "2026-11-22T13:24:15.185809+00:00",
+  "ended_utc": "2026-11-22T13:25:17.362981+00:00",
+  "elapsed_seconds": 61.1,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 62743068
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.CorGKOf:olean",
+    "+Development.AutomorphicArithmetic.CharacterBoxes.MainConclusion:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "84b457bfb2d75ccbd58699f9533bc61d97aaa3cd4b68fcc00d6ce150384de2c8",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.SmallClassNumbers.ClassNumberThree"
+  ],
+  "objects": {
+    "M108233": "01fadc740eaf5ab9a8eeed915fa17e21946bd80c0d2d23154f90d745e2f7796d",
+    "M109322": "96f053d27b81461fcf5ca2fe9a234384bc6ead9697de76cee37e13686aa156df"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "dd23cd4f58b1bde5c46949f5afbb68bf8da6bd839b02f94a3c09577f0a253759",
+  "packet": "P2854",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/32986#issuecomment-7079804248",
+  "reviewed_utc": "2026-11-22T18:00:32.592946+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

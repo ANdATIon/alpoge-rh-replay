@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M016606 | P1667 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSectionBoundStatement` | build-observed |
+| M016607 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSmoothOffDivisor` | volunteer-build-reviewed |
+| M016608 | P0394 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSmoothOffDivisorStatement` | volunteer-build-reviewed |
+| M016609 | P0583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPshExhaustionWeights` | build-observed |
+| M016610 | P0617 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPshExhaustionWeightsStatement` | build-observed |
+| M016611 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionDiagonalInteriorEmpty` | volunteer-build-reviewed |
+| M016613 | P1446 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBound` | build-observed |
+| M016614 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundStatement` | volunteer-build-reviewed |
+| M016615 | P1534 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwo` | build-observed |
+| M016616 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwoStatement` | volunteer-build-reviewed |
 | M016617 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightComparison` | volunteer-build-reviewed |
 | M016619 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightLower` | volunteer-build-reviewed |
 | M016621 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightUpper` | volunteer-build-reviewed |
@@ -116,6 +126,7 @@
 | M016843 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardBlockParabolicSubgroupGLStatement` | volunteer-build-reviewed |
 | M016846 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardComapMulFinsumEqFinsumFibres` | wave-reused |
 | M016847 | P0241 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardComapMulFinsumEqFinsumFibresStatement` | wave-reused |
+| M016848 | P0296 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardCrossingSetEqGrassmannianDim` | volunteer-build-reviewed |
 | M016849 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardCrossingSetEqGrassmannianDimStatement` | volunteer-build-reviewed |
 | M016850 | P0100 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardDivisorsLeAbsNormNumberField` | volunteer-build-reviewed |
 | M016851 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardDivisorsLeAbsNormNumberFieldStatement` | volunteer-build-reviewed |
@@ -259,6 +270,7 @@
 | M017092 | P0975 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDeRhamPeriodsLinearStatement` | volunteer-build-reviewed |
 | M017095 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDegreeZeroBijective` | volunteer-build-reviewed |
 | M017096 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDeltaCupProduct` | volunteer-build-reviewed |
+| M017098 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDifferentialAdjointCupProductPairingStatement` | volunteer-build-reviewed |
 | M017100 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechFiniteGenerationOfAffineBaseChangeStatement` | volunteer-build-reviewed |
 | M017103 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechFirstCohomologyDimensionBoundCocycles` | volunteer-build-reviewed |
 | M017105 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechGluingOfKodairaSpencerRelation` | volunteer-build-reviewed |
@@ -305,6 +317,7 @@
 | M017217 | P0680 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellSumTwoStageDescentUnipotent` | build-observed |
 | M017218 | P0706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellSumTwoStageDescentUnipotentStatement` | build-observed |
 | M017220 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CellVarietyDimensionCountsStatement` | volunteer-build-reviewed |
+| M017221 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CenMapTmulEq` | volunteer-build-reviewed |
 | M017222 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CenOrderFinite` | volunteer-build-reviewed |
 | M017225 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CenterActionIterateMatchesDifferential` | volunteer-build-reviewed |
 | M017227 | P1030 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CenterActsByScalarOnEigenforms` | volunteer-build-reviewed |
@@ -389,16 +402,3 @@
 | M017382 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterGroupFinrankLeMinSignatureUnitaryTrait` | volunteer-build-reviewed |
 | M017383 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterGroupFinrankLeMinSignatureUnitaryTraitStatement` | volunteer-build-reviewed |
 | M017385 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterGroupSubsingletonOfBoundedRamificationStatement` | volunteer-build-reviewed |
-| M017386 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterInvariantAdelicFormEqMulEvalZero` | volunteer-build-reviewed |
-| M017387 | P2177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterInvariantAdelicFormEqMulEvalZeroStatement` | volunteer-build-reviewed |
-| M017396 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterLineBundleAdditiveOfEquivariantGeneratoStatement` | volunteer-build-reviewed |
-| M017397 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterMapOfIntegralMatrixAction` | volunteer-build-reviewed |
-| M017399 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterMultiplicativeStabilizer` | volunteer-build-reviewed |
-| M017403 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartTensorSpan` | volunteer-build-reviewed |
-| M017405 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartitionOfUnitySupport` | volunteer-build-reviewed |
-| M017406 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartitionOfUnitySupportStatement` | volunteer-build-reviewed |
-| M017407 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPolynomialCoefficientsInvariant` | volunteer-build-reviewed |
-| M017410 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantEleventh` | volunteer-build-reviewed |
-| M017416 | P1116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecond` | volunteer-build-reviewed |
-| M017417 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecondStatement` | volunteer-build-reviewed |
-| M017422 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantThird` | volunteer-build-reviewed |

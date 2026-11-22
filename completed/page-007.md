@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004247 | P0095 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistableAlt` | wave-reused |
+| M004248 | P0173 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistableModel` | wave-reused |
+| M004250 | P1372 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedCoeff` | build-observed |
+| M004251 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedGLOfHasSatGL` | volunteer-build-reviewed |
+| M004253 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsWeight` | volunteer-build-reviewed |
+| M004254 | P0295 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsZeroFreeSchOfIsEmpty` | volunteer-build-reviewed |
+| M004255 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsobaricDiscreteSelfDualStrongMultiplicityOne` | volunteer-build-reviewed |
 | M004256 | P2662 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IwahoriAdmissibleSet` | volunteer-build-reviewed |
 | M004258 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetSplitAmb` | volunteer-build-reviewed |
 | M004262 | P0731 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JumpWindow` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M004957 | P0784 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.HermitianFormUnitaryOneOne` | build-observed |
 | M004958 | P1324 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsBesPosOfBesselTied` | build-observed |
 | M004959 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsCuspHom` | volunteer-build-reviewed |
-| M004960 | P0839 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsFundOne` | build-observed |
-| M004961 | P0784 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsGaugeAll` | build-observed |
-| M004963 | P0839 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsLatMeasurableConst` | build-observed |
-| M004965 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsMirClass` | wave-reused |
-| M004966 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsNormalFormStabilizerMeasure` | volunteer-build-reviewed |
-| M004967 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsProjOnOne` | volunteer-build-reviewed |
-| M004968 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LamXEquivariant` | build-observed |

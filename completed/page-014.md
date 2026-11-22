@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008937 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTraceZeroLocalNormMulIntegralUnitStatement` | volunteer-build-reviewed |
+| M008938 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTranslatesOfValuesFrames` | volunteer-build-reviewed |
+| M008939 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTranslatesOfValuesFramesStatement` | volunteer-build-reviewed |
+| M008940 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingFirstVectorsSum` | volunteer-build-reviewed |
+| M008941 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingFirstVectorsSumStatement` | volunteer-build-reviewed |
+| M008942 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingIsotropicLastSum` | volunteer-build-reviewed |
+| M008943 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingIsotropicLastSumStatement` | volunteer-build-reviewed |
+| M008945 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTrivialCharLevelEltRationalAtTwistPrimesStatement` | volunteer-build-reviewed |
+| M008946 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePoints` | volunteer-build-reviewed |
 | M008947 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePointsStatement` | volunteer-build-reviewed |
 | M008950 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBounds` | volunteer-build-reviewed |
 | M008951 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBoundsStatement` | volunteer-build-reviewed |
@@ -135,6 +144,7 @@
 | M009129 | P0706 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFactorReductionKernelAllNonFreeUnreadEntriesStatement` | build-observed |
 | M009130 | P0679 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFactorReductionKernelIntegratesFreeEntries` | build-observed |
 | M009131 | P0706 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFactorReductionKernelIntegratesFreeEntriesStatement` | build-observed |
+| M009132 | P0099 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFamilyZetaConvergenceHolomorphy` | volunteer-build-reviewed |
 | M009133 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFamilyZetaConvergenceHolomorphyStatement` | volunteer-build-reviewed |
 | M009134 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFourierJacobiToBesselColumnMulLaws` | volunteer-build-reviewed |
 | M009135 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFourierJacobiToBesselColumnMulLawsStatement` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M009464 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisOConstMul` | volunteer-build-reviewed |
 | M009465 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisOFinsetSum` | volunteer-build-reviewed |
 | M009466 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergAverageRealPlacesSmooth` | volunteer-build-reviewed |
-| M009467 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergAverageRealPlacesSmoothStatement` | volunteer-build-reviewed |
-| M009468 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergBasisDerivEqOfUniformLimits` | volunteer-build-reviewed |
-| M009469 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergBasisDerivEqOfUniformLimitsStatement` | volunteer-build-reviewed |
-| M009470 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombAwayFromPlaceKeepsVacuum` | volunteer-build-reviewed |
-| M009471 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombAwayFromPlaceKeepsVacuumStatement` | volunteer-build-reviewed |
-| M009472 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationCommFockPolynomialVectors` | volunteer-build-reviewed |
-| M009473 | P1689 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationCommFockPolynomialVectorsStatement` | volunteer-build-reviewed |
-| M009474 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacua` | volunteer-build-reviewed |
-| M009475 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacuaStatement` | volunteer-build-reviewed |
-| M009476 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOne` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008248 | P0516 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleBlockTriangularMemIntegralMulLeviStatement` | volunteer-build-reviewed |
+| M008250 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftFockSumEqSumIteratedLiftsStatement` | volunteer-build-reviewed |
+| M008251 | P1502 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftPeriodRankZeroFubiniCompactQuotient` | volunteer-build-reviewed |
+| M008255 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftValueEquivariantSymmetricUnipotent` | volunteer-build-reviewed |
+| M008264 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepEqTwoThetaColumnLiftsStatement` | volunteer-build-reviewed |
+| M008266 | P2177 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandBesselPeriodInvariantProofStatement` | volunteer-build-reviewed |
+| M008271 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstFixedLevel` | volunteer-build-reviewed |
+| M008273 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstOffLevel` | volunteer-build-reviewed |
 | M008275 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondFixedLeve` | volunteer-build-reviewed |
 | M008277 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondOffLevel` | volunteer-build-reviewed |
 | M008279 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepLocalWeilActionLineCharactersCancel` | volunteer-build-reviewed |
@@ -229,6 +237,7 @@
 | M008709 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLocalModelSliceTargetLine` | volunteer-build-reviewed |
 | M008710 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLocalModelSliceTargetLineStatement` | volunteer-build-reviewed |
 | M008711 | P0006 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLogNearOneUnitaryGroupOfFormLinearBound` | volunteer-build-reviewed |
+| M008712 | P0099 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLogNearOneUnitaryGroupOfFormLinearBoundStatement` | volunteer-build-reviewed |
 | M008713 | P0759 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLowerUnipotentBlockDiagCosetRep` | build-observed |
 | M008714 | P0784 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsLowerUnipotentBlockDiagCosetRepStatement` | build-observed |
 | M008716 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsMaxCompactRealPointsOfOrthonormalFramesStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M008934 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTopologicalIsoParahoricChartSplitPlace` | volunteer-build-reviewed |
 | M008935 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTopologicalIsoParahoricChartSplitPlaceStatement` | volunteer-build-reviewed |
 | M008936 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTraceZeroLocalNormMulIntegralUnit` | volunteer-build-reviewed |
-| M008937 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTraceZeroLocalNormMulIntegralUnitStatement` | volunteer-build-reviewed |
-| M008938 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTranslatesOfValuesFrames` | volunteer-build-reviewed |
-| M008939 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTranslatesOfValuesFramesStatement` | volunteer-build-reviewed |
-| M008940 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingFirstVectorsSum` | volunteer-build-reviewed |
-| M008941 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingFirstVectorsSumStatement` | volunteer-build-reviewed |
-| M008942 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingIsotropicLastSum` | volunteer-build-reviewed |
-| M008943 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingIsotropicLastSumStatement` | volunteer-build-reviewed |
-| M008945 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTrivialCharLevelEltRationalAtTwistPrimesStatement` | volunteer-build-reviewed |
-| M008946 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePoints` | volunteer-build-reviewed |

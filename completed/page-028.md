@@ -2,6 +2,23 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M018989 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleMatchedFoldStatement` | volunteer-build-reviewed |
+| M018990 | P2623 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleRepPairIdentity` | volunteer-build-reviewed |
+| M018991 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleRepPairIdentityStatement` | volunteer-build-reviewed |
+| M018993 | P2016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATripleSeesawStatement` | volunteer-build-reviewed |
+| M018996 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATriplesCompatibility` | volunteer-build-reviewed |
+| M018997 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATriplesCompatibilityStatement` | volunteer-build-reviewed |
+| M018998 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentityFirst` | volunteer-build-reviewed |
+| M018999 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentityFirstStatement` | volunteer-build-reviewed |
+| M019000 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentitySecond` | volunteer-build-reviewed |
+| M019001 | P2145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigATwoTriplesIdentitySecondStatement` | volunteer-build-reviewed |
+| M019005 | P2623 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralHaarStatement` | volunteer-build-reviewed |
+| M019006 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralMeasure` | volunteer-build-reviewed |
+| M019008 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralStabilizer` | volunteer-build-reviewed |
+| M019009 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenIntegralStabilizerStatement` | volunteer-build-reviewed |
+| M019011 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenStabilizerIntegralStatement` | volunteer-build-reviewed |
+| M019014 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelation` | volunteer-build-reviewed |
+| M019015 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelationStatement` | volunteer-build-reviewed |
 | M019016 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePart` | volunteer-build-reviewed |
 | M019017 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePartStatement` | volunteer-build-reviewed |
 | M019018 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesTheta` | volunteer-build-reviewed |
@@ -309,6 +326,7 @@
 | M019557 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffDerivHeisenbergCMRealLineTheta` | volunteer-build-reviewed |
 | M019558 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffDerivHeisenbergCMRealLineThetaStatement` | volunteer-build-reviewed |
 | M019560 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffListProdMat` | volunteer-build-reviewed |
+| M019561 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOfPartialDerivativeClosure` | volunteer-build-reviewed |
 | M019562 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOfPartialDerivativeClosureStatement` | volunteer-build-reviewed |
 | M019563 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOnChernFormOfGramMatrixAtCoefficients` | volunteer-build-reviewed |
 | M019564 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOnChernFormOfGramMatrixAtCoefficientsStatement` | volunteer-build-reviewed |
@@ -345,8 +363,10 @@
 | M019608 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousAddCharSymplecticSelfPairingPlaceCoord` | volunteer-build-reviewed |
 | M019609 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousAddCharSymplecticSelfPairingPlaceCoordStatement` | volunteer-build-reviewed |
 | M019614 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousAtCharSeriesCoefZero` | volunteer-build-reviewed |
+| M019615 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousAtCharSeriesCoefZeroStatement` | volunteer-build-reviewed |
 | M019619 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousAtPolarisedTopChernCoeff` | volunteer-build-reviewed |
 | M019623 | P1446 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousCA` | volunteer-build-reviewed |
+| M019624 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousCharacterCocycleTrivialNearZero` | volunteer-build-reviewed |
 | M019625 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousCharacterCocycleTrivialNearZeroStatement` | volunteer-build-reviewed |
 | M019626 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousCharacterTrivialOnSmallIdeles` | volunteer-build-reviewed |
 | M019628 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousCharpolyCoeffMulLeftFiniteAdelesAwayPStatement` | volunteer-build-reviewed |
@@ -382,23 +402,3 @@
 | M019687 | P2145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMatPair` | volunteer-build-reviewed |
 | M019689 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMatrixCoeffInfinitePlacesWeightRepStatement` | volunteer-build-reviewed |
 | M019690 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMatrixCoefficient` | volunteer-build-reviewed |
-| M019691 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMatrixCoefficientStatement` | volunteer-build-reviewed |
-| M019692 | P0242 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMetaplecticSchwartzActionProd` | build-observed |
-| M019693 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMetaplecticSchwartzActionProdStatement` | build-observed |
-| M019694 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMixedSymm` | volunteer-build-reviewed |
-| M019696 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMulTopChernFormIsTopDegreeStatement` | volunteer-build-reviewed |
-| M019697 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMultilinearMapNormLeSumBasisValues` | volunteer-build-reviewed |
-| M019698 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMultilinearMapNormLeSumBasisValuesStatement` | volunteer-build-reviewed |
-| M019700 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfForallExistsFix` | volunteer-build-reviewed |
-| M019701 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfIsBlockEmb` | volunteer-build-reviewed |
-| M019702 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfLieIntertwineL2` | volunteer-build-reviewed |
-| M019703 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfLieIntertwineL2Statement` | volunteer-build-reviewed |
-| M019704 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfMemSchA` | volunteer-build-reviewed |
-| M019706 | P0584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfVal` | build-observed |
-| M019707 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnComplexHessianOfContDiffOnTwo` | volunteer-build-reviewed |
-| M019708 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnComplexHessianOfContDiffOnTwoStatement` | volunteer-build-reviewed |
-| M019709 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCoordsOfLinearIndependent` | volunteer-build-reviewed |
-| M019710 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCoordsOfLinearIndependentStatement` | volunteer-build-reviewed |
-| M019711 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCosSq` | volunteer-build-reviewed |
-| M019712 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnDens` | volunteer-build-reviewed |
-| M019718 | P2278 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnReadingIntegerExponentSection` | build-observed |

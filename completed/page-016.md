@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009989 | P0811 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KerReductionLeRangeReductionOfMulEqSmul` | build-observed |
+| M009990 | P0839 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KerReductionLeRangeReductionOfMulEqSmulStatement` | build-observed |
+| M009991 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelEntryRationalEquivarianceTransports` | volunteer-build-reviewed |
+| M009992 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelEntryRationalEquivarianceTransportsStatement` | volunteer-build-reviewed |
+| M009993 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelExpansionAbsoluteConvergenceEqualWords` | volunteer-build-reviewed |
+| M009997 | P0649 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelReductionExtendEvaluatedIntegrated` | build-observed |
+| M009998 | P0679 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelReductionExtendEvaluatedIntegratedStatement` | build-observed |
+| M009999 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteExplicitConst` | volunteer-build-reviewed |
+| M010000 | P0516 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteExplicitConstStatement` | volunteer-build-reviewed |
+| M010001 | P0437 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwisted` | volunteer-build-reviewed |
 | M010002 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwistedStatement` | volunteer-build-reviewed |
 | M010003 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KleinFormTorsionUnit` | volunteer-build-reviewed |
 | M010004 | P1420 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapEq` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M010499 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixSDblDecZero` | volunteer-build-reviewed |
 | M010501 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateAbsSumWeilTranslateModerateGrowthStatement` | volunteer-build-reviewed |
 | M010502 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateDecayRealEntries` | volunteer-build-reviewed |
-| M010503 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateDecayRealEntriesStatement` | volunteer-build-reviewed |
-| M010509 | P1921 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinateThetaFunLeSchwartzMajorantLevelStatement` | volunteer-build-reviewed |
-| M010512 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinatesOfThetaFunctionAreThetaFunctions` | volunteer-build-reviewed |
-| M010513 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedCoordinatesOfThetaFunctionAreThetaFunctionsStatement` | volunteer-build-reviewed |
-| M010515 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsGramIdentitiesStatement` | volunteer-build-reviewed |
-| M010516 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsViaGramMatrices` | volunteer-build-reviewed |
-| M010517 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelCentralTermsViaGramMatricesStatement` | volunteer-build-reviewed |
-| M010518 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittSourceProof` | volunteer-build-reviewed |
-| M010519 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittSourceProofStatement` | volunteer-build-reviewed |
-| M010520 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTarget` | volunteer-build-reviewed |

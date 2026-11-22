@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M007219 | P1002 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaConstantOfThetaGroupStatement` | volunteer-build-reviewed |
+| M007224 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaGrpPullback` | volunteer-build-reviewed |
+| M007225 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaGrpPullbackStatement` | build-observed |
+| M007226 | P0241 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaRunParametersUniformTorus` | volunteer-build-reviewed |
+| M007229 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaSublatticeJetNeZeroStatement` | volunteer-build-reviewed |
+| M007230 | P0005 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaWeightData` | volunteer-build-reviewed |
+| M007231 | P0918 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThickPointHyperbolic` | wave-reused |
+| M007233 | P1057 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsTorusOfSelfD` | volunteer-build-reviewed |
 | M007237 | P1170 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsTranslationSectionsUniversalObject` | build-observed |
 | M007239 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsUniqueIsTwistPull` | build-observed |
 | M007243 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FaithfullyFlatPointsBaseChangeDescent` | build-observed |
@@ -394,11 +402,3 @@
 | M008242 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DiscreteSeriesModelHolomorphicPositiveSignsFirstStatement` | volunteer-build-reviewed |
 | M008246 | P0099 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DivisiblePontryaginAnnihilatorDuality` | volunteer-build-reviewed |
 | M008247 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleBlockTriangularMemIntegralMulLevi` | volunteer-build-reviewed |
-| M008248 | P0516 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleBlockTriangularMemIntegralMulLeviStatement` | volunteer-build-reviewed |
-| M008250 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftFockSumEqSumIteratedLiftsStatement` | volunteer-build-reviewed |
-| M008251 | P1502 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftPeriodRankZeroFubiniCompactQuotient` | volunteer-build-reviewed |
-| M008255 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleLiftValueEquivariantSymmetricUnipotent` | volunteer-build-reviewed |
-| M008264 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepEqTwoThetaColumnLiftsStatement` | volunteer-build-reviewed |
-| M008266 | P2177 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandBesselPeriodInvariantProofStatement` | volunteer-build-reviewed |
-| M008271 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstFixedLevel` | volunteer-build-reviewed |
-| M008273 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstOffLevel` | volunteer-build-reviewed |

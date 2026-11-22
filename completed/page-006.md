@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003590 | P1472 | `Development.AbelianVarietyTheory.Definitions.Divisors.GaloisRepOfPolarizedCuspidal` | volunteer-build-reviewed |
+| M003596 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.GenericPointAsIdeal` | volunteer-build-reviewed |
+| M003597 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.GhostFrobenius` | wave-reused |
+| M003602 | P1444 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs` | build-observed |
+| M003603 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBoundedPolesGlobalData` | wave-reused |
+| M003604 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect` | volunteer-build-reviewed |
 | M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
@@ -52,6 +58,7 @@
 | M003673 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift` | volunteer-build-reviewed |
 | M003674 | P0435 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsFracOfAdjoinEqTop` | build-observed |
 | M003675 | P1323 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsFrameOfForallExists` | wave-reused |
+| M003677 | P0549 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsGPull` | volunteer-build-reviewed |
 | M003678 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsGaloisCover` | build-observed |
 | M003679 | P1956 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsGramOneZero` | volunteer-build-reviewed |
 | M003680 | P0865 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsHeckeMap` | build-observed |
@@ -395,10 +402,3 @@
 | M004244 | P0347 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsSSFun` | wave-reused |
 | M004245 | P0095 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsSepClosedResidueFieldPowerSeriesComplex` | wave-reused |
 | M004246 | P0393 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistable` | wave-reused |
-| M004247 | P0095 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistableAlt` | wave-reused |
-| M004248 | P0173 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsStrictlySemistableModel` | wave-reused |
-| M004250 | P1372 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedCoeff` | build-observed |
-| M004251 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsTemperedGLOfHasSatGL` | volunteer-build-reviewed |
-| M004253 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsWeight` | volunteer-build-reviewed |
-| M004254 | P0295 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsZeroFreeSchOfIsEmpty` | volunteer-build-reviewed |
-| M004255 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsobaricDiscreteSelfDualStrongMultiplicityOne` | volunteer-build-reviewed |

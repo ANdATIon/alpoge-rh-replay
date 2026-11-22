@@ -2,6 +2,19 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M017386 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterInvariantAdelicFormEqMulEvalZero` | volunteer-build-reviewed |
+| M017387 | P2177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterInvariantAdelicFormEqMulEvalZeroStatement` | volunteer-build-reviewed |
+| M017396 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterLineBundleAdditiveOfEquivariantGeneratoStatement` | volunteer-build-reviewed |
+| M017397 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterMapOfIntegralMatrixAction` | volunteer-build-reviewed |
+| M017399 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterMultiplicativeStabilizer` | volunteer-build-reviewed |
+| M017403 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartTensorSpan` | volunteer-build-reviewed |
+| M017405 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartitionOfUnitySupport` | volunteer-build-reviewed |
+| M017406 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPartitionOfUnitySupportStatement` | volunteer-build-reviewed |
+| M017407 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterPolynomialCoefficientsInvariant` | volunteer-build-reviewed |
+| M017410 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantEleventh` | volunteer-build-reviewed |
+| M017416 | P1116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecond` | volunteer-build-reviewed |
+| M017417 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecondStatement` | volunteer-build-reviewed |
+| M017422 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantThird` | volunteer-build-reviewed |
 | M017423 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantTwelfth` | volunteer-build-reviewed |
 | M017425 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasis` | volunteer-build-reviewed |
 | M017426 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasisStatement` | volunteer-build-reviewed |
@@ -345,6 +358,7 @@
 | M018184 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CocycleSpecProdAbelianCohomologousSumMul` | volunteer-build-reviewed |
 | M018185 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CocycleSpecProdAbelianCohomologousSumMulStatement` | volunteer-build-reviewed |
 | M018193 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefInjective` | volunteer-build-reviewed |
+| M018196 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefMPencil` | volunteer-build-reviewed |
 | M018198 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefMapNormEquivariantBasisAlt` | volunteer-build-reviewed |
 | M018200 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefSpecMap` | volunteer-build-reviewed |
 | M018201 | P1446 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefTwistPull` | volunteer-build-reviewed |
@@ -353,6 +367,7 @@
 | M018205 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffAllOnesSumAlgEquivMkDerivation` | volunteer-build-reviewed |
 | M018206 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffAllOnesSumAlgEquivMkDerivationStatement` | volunteer-build-reviewed |
 | M018207 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffAnnihilatedOfAevalMemKerPow` | volunteer-build-reviewed |
+| M018208 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffAnnihilatedOfAevalMemKerPowStatement` | volunteer-build-reviewed |
 | M018209 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffCob1HomogLiftBinomial` | wave-reused |
 | M018210 | P1003 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffCob1HomogLiftBinomialStatement` | wave-reused |
 | M018211 | P0892 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffCoboundaryOneAdditiveEqZeroOfDegree` | build-observed |
@@ -366,6 +381,7 @@
 | M018225 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffFormalGroupLawEvalPointsOfDegreeLeOne` | wave-reused |
 | M018226 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffFormalGroupLawEvalPointsOfDegreeLeOneStatement` | wave-reused |
 | M018232 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffMemIdealOfFormalGroupCoboundaryOneCoeffMemAStatement` | volunteer-build-reviewed |
+| M018233 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffMemSpanOfWeightedHomogeneousRelationQuasiRe` | volunteer-build-reviewed |
 | M018234 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffMemSpanOfWeightedHomogeneousRelationQuasiReStatement` | volunteer-build-reviewed |
 | M018237 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffMinpolyMemAdicCompletionIntegers` | volunteer-build-reviewed |
 | M018238 | P0242 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffNormFormOfFamilyMemRangeIntegrallyClosed` | volunteer-build-reviewed |
@@ -386,19 +402,3 @@
 | M018255 | P1003 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffQuasiLogarithmIntegralLowDegree` | build-observed |
 | M018256 | P1031 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffQuasiLogarithmIntegralLowDegreeStatement` | build-observed |
 | M018260 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstEqZeroOfDegreeLt` | wave-reused |
-| M018261 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstEqZeroOfDegreeLtStatement` | wave-reused |
-| M018262 | P0892 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstLeadingOfAgreeDegreeOne` | wave-reused |
-| M018263 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstLeadingOfAgreeDegreeOneStatement` | wave-reused |
-| M018264 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstMapToFractionsMemSubmodule` | wave-reused |
-| M018265 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstMapToFractionsMemSubmoduleStatement` | wave-reused |
-| M018266 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstRestrictSumVariables` | build-observed |
-| M018267 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSubstRestrictSumVariablesStatement` | build-observed |
-| M018268 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumElimPowerSeriesSwapVariableGroups` | wave-reused |
-| M018269 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumElimPowerSeriesSwapVariableGroupsStatement` | wave-reused |
-| M018270 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorial` | volunteer-build-reviewed |
-| M018271 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorialStatement` | volunteer-build-reviewed |
-| M018272 | P2277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero` | volunteer-build-reviewed |
-| M018275 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossFinsetSumAndInvPowStatement` | volunteer-build-reviewed |
-| M018276 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhase` | volunteer-build-reviewed |
-| M018277 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhaseStatement` | volunteer-build-reviewed |
-| M018278 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfHyp` | volunteer-build-reviewed |

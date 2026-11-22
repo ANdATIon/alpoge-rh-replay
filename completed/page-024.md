@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015800 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelRankDegreeShareLe` | volunteer-build-reviewed |
+| M015802 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetric` | volunteer-build-reviewed |
+| M015803 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetricStatement` | volunteer-build-reviewed |
+| M015810 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionCalculusCycleHeightsOfAnalytic` | volunteer-build-reviewed |
+| M015817 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionFormsOfArchimedeanStatements` | volunteer-build-reviewed |
+| M015819 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionNumberExistsOfMixedHeights` | volunteer-build-reviewed |
+| M015820 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionNumberExistsOfMixedHeightsStatement` | volunteer-build-reviewed |
+| M015821 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanHeightNefOfIsNef` | volunteer-build-reviewed |
+| M015824 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanSelfIntersectionNonnegStatement` | volunteer-build-reviewed |
+| M015825 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithLogSmallSectionsUpperBound` | volunteer-build-reviewed |
 | M015827 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeights` | volunteer-build-reviewed |
 | M015828 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeightsStatement` | volunteer-build-reviewed |
 | M015829 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBound` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M016603 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSectionAtlas` | volunteer-build-reviewed |
 | M016604 | P1504 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSectionAtlasStatement` | build-observed |
 | M016605 | P1644 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSectionBound` | build-observed |
-| M016606 | P1667 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSectionBoundStatement` | build-observed |
-| M016607 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSmoothOffDivisor` | volunteer-build-reviewed |
-| M016608 | P0394 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPotentialSmoothOffDivisorStatement` | volunteer-build-reviewed |
-| M016609 | P0583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPshExhaustionWeights` | build-observed |
-| M016610 | P0617 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundaryPshExhaustionWeightsStatement` | build-observed |
-| M016611 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionDiagonalInteriorEmpty` | volunteer-build-reviewed |
-| M016613 | P1446 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBound` | build-observed |
-| M016614 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundStatement` | volunteer-build-reviewed |
-| M016615 | P1534 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwo` | build-observed |
-| M016616 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwoStatement` | volunteer-build-reviewed |

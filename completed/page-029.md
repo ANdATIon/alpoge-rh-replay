@@ -2,11 +2,32 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019691 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMatrixCoefficientStatement` | volunteer-build-reviewed |
+| M019692 | P0242 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMetaplecticSchwartzActionProd` | build-observed |
+| M019693 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMetaplecticSchwartzActionProdStatement` | build-observed |
+| M019694 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMixedSymm` | volunteer-build-reviewed |
+| M019696 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMulTopChernFormIsTopDegreeStatement` | volunteer-build-reviewed |
+| M019697 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMultilinearMapNormLeSumBasisValues` | volunteer-build-reviewed |
+| M019698 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousMultilinearMapNormLeSumBasisValuesStatement` | volunteer-build-reviewed |
+| M019700 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfForallExistsFix` | volunteer-build-reviewed |
+| M019701 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfIsBlockEmb` | volunteer-build-reviewed |
+| M019702 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfLieIntertwineL2` | volunteer-build-reviewed |
+| M019703 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfLieIntertwineL2Statement` | volunteer-build-reviewed |
+| M019704 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfMemSchA` | volunteer-build-reviewed |
+| M019706 | P0584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOfVal` | build-observed |
+| M019707 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnComplexHessianOfContDiffOnTwo` | volunteer-build-reviewed |
+| M019708 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnComplexHessianOfContDiffOnTwoStatement` | volunteer-build-reviewed |
+| M019709 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCoordsOfLinearIndependent` | volunteer-build-reviewed |
+| M019710 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCoordsOfLinearIndependentStatement` | volunteer-build-reviewed |
+| M019711 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCosSq` | volunteer-build-reviewed |
+| M019712 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnDens` | volunteer-build-reviewed |
+| M019718 | P2278 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnReadingIntegerExponentSection` | build-observed |
 | M019721 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOneAddLowRankEmbeddingQuaternionMatrixStatement` | volunteer-build-reviewed |
 | M019722 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPhaseAt` | volunteer-build-reviewed |
 | M019724 | P1351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlace` | build-observed |
 | M019725 | P1374 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlaceStatement` | build-observed |
 | M019727 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousReGLSymm` | volunteer-build-reviewed |
+| M019728 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRestr` | volunteer-build-reviewed |
 | M019729 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRestrStatement` | volunteer-build-reviewed |
 | M019730 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApply` | volunteer-build-reviewed |
 | M019731 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApplyStatement` | volunteer-build-reviewed |
@@ -90,6 +111,7 @@
 | M019870 | P1644 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CotangentFormOfSqZeroPointLinearNaturalStatement` | build-observed |
 | M019872 | P2420 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CotangentIndepOfIsComplAt` | volunteer-build-reviewed |
 | M019877 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CotangentMapInjectiveOfSquarePresentationAtPoint` | volunteer-build-reviewed |
+| M019878 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CotangentMapInjectiveOfSquarePresentationAtPointStatement` | volunteer-build-reviewed |
 | M019887 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CounitCotangentClassPowerSeriesEvalAtNilpotent` | volunteer-build-reviewed |
 | M019888 | P2623 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CounitCotangentClassPowerSeriesEvalAtNilpotentStatement` | volunteer-build-reviewed |
 | M019889 | P0948 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CounitFormalChartEvSubConstantCoeffDvd` | build-observed |
@@ -362,6 +384,7 @@
 | M020357 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutoffInterpolationAgreesFarStatement` | build-observed |
 | M020358 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutoffInterpolationUniformLimit` | build-observed |
 | M020359 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutoffInterpolationUniformLimitStatement` | build-observed |
+| M020361 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CutoffPolynomialConjugationDerivMemShapeSpan` | volunteer-build-reviewed |
 | M020363 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CycleListPermInvariant` | volunteer-build-reviewed |
 | M020364 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CyclicGeneratorsInvariantTop` | wave-reused |
 | M020365 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CyclicGeneratorsInvariantTopStatement` | wave-reused |
@@ -379,26 +402,3 @@
 | M020377 | P0438 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.D10ProductRuleSymmetric` | build-observed |
 | M020378 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.D10ProductRuleSymmetricStatement` | build-observed |
 | M020379 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DBaseApply` | volunteer-build-reviewed |
-| M020381 | P1739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DHRealAdSmul` | volunteer-build-reviewed |
-| M020382 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DMBlockEntries` | volunteer-build-reviewed |
-| M020383 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DMDetbPEqZero` | volunteer-build-reviewed |
-| M020384 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DMuEqExtDerivation` | volunteer-build-reviewed |
-| M020385 | P1146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DOnEqZeroOfEqOne` | wave-reused |
-| M020386 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DOpMemDStep` | volunteer-build-reviewed |
-| M020387 | P1374 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DRepAddAndBracket` | build-observed |
-| M020388 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTCompDT` | build-observed |
-| M020389 | P0438 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTCompDTStatement` | build-observed |
-| M020390 | P0617 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DTermOrigin` | build-observed |
-| M020391 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DUnitMemRangeOfMemKerIdeal` | wave-reused |
-| M020392 | P0438 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DadjCombination` | build-observed |
-| M020393 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DadjCombinationStatement` | build-observed |
-| M020394 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxAdaptedPlaneEvaluation` | volunteer-build-reviewed |
-| M020395 | P1816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxAdaptedPlaneEvaluationStatement` | volunteer-build-reviewed |
-| M020396 | P2016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxBasisAdaptedCoordinates` | volunteer-build-reviewed |
-| M020397 | P2035 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxBasisAdaptedCoordinatesStatement` | volunteer-build-reviewed |
-| M020398 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxChangeRealisedCompAndReindex` | volunteer-build-reviewed |
-| M020399 | P1816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxChangeRealisedCompAndReindexStatement` | volunteer-build-reviewed |
-| M020400 | P2122 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinateChangeRealisedWithDouble` | volunteer-build-reviewed |
-| M020401 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinateChangeRealisedWithDoubleStatement` | volunteer-build-reviewed |
-| M020402 | P2122 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDiagonalVanishing` | volunteer-build-reviewed |
-| M020403 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDiagonalVanishingStatement` | volunteer-build-reviewed |

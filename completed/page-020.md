@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012757 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataPsiQuadraticGeneratorsLinearStatement` | build-observed |
+| M012759 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationDataTorsionStructureAlgClosedStatement` | volunteer-build-reviewed |
+| M012761 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationIsoCommInducedLabelMapsStatement` | volunteer-build-reviewed |
+| M012768 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationWeilPairingProperties` | build-observed |
+| M012769 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegenerationWeilPairingPropertiesStatement` | build-observed |
+| M012770 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegreeFormsDimensionGenericFibreLe` | volunteer-build-reviewed |
+| M012771 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DegreeFormsDimensionGenericFibreLeStatement` | volunteer-build-reviewed |
+| M012772 | P1273 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DifferentiableQuot` | build-observed |
+| M012773 | P1085 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocus` | build-observed |
+| M012774 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocusStatement` | volunteer-build-reviewed |
 | M012775 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivMemOfForallPowSuccDivPowMem` | volunteer-build-reviewed |
 | M012776 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EEContainsStableWeightZero` | build-observed |
 | M012783 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq` | wave-reused |
@@ -392,13 +402,3 @@
 | M013425 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsVectorFieldFrameSmoothCommGrpSchemeStatement` | volunteer-build-reviewed |
 | M013426 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsVeryAmplePower` | build-observed |
 | M013427 | P1561 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsVeryAmplePowerStatement` | build-observed |
-| M013428 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsVf` | build-observed |
-| M013432 | P0839 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeakNeronModelStatement` | build-observed |
-| M013434 | P1902 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightZeroSectionUnitIntegralTorsionPointStatement` | build-observed |
-| M013435 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightZeroSumOne` | build-observed |
-| M013437 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsWeightedRelationOfMinimalSupportStatement` | build-observed |
-| M013439 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsZpowMulIsUnitOfMem` | volunteer-build-reviewed |
-| M013440 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpandsGOfGenericRel` | volunteer-build-reviewed |
-| M013441 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPow` | volunteer-build-reviewed |
-| M013442 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPowStatement` | volunteer-build-reviewed |
-| M013445 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFDivFFMemOOfValuationRing` | volunteer-build-reviewed |

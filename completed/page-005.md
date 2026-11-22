@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002784 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.UniformisationCharts.TorusPointForms` | volunteer-build-reviewed |
+| M002786 | P1419 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.ExistsDimOne` | volunteer-build-reviewed |
+| M002788 | P0838 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.GtBaseChangeSharp` | volunteer-build-reviewed |
+| M002789 | P1501 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.HomExtendsOverDVRHolds` | volunteer-build-reviewed |
+| M002792 | P0810 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.WeilIsUniqueOfLocal` | volunteer-build-reviewed |
+| M002793 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LfacDenominatorNeZero` | volunteer-build-reviewed |
 | M002794 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LocalConditionsOfGlobal` | volunteer-build-reviewed |
 | M002795 | P0173 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.TwoPrimesOfSplitPl` | volunteer-build-reviewed |
 | M002798 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.ExistsStrictAnti` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M003586 | P2731 | `Development.AbelianVarietyTheory.Definitions.Divisors.FromBaseAlt` | volunteer-build-reviewed |
 | M003587 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.FstTszeSec` | volunteer-build-reviewed |
 | M003588 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul` | wave-reused |
-| M003590 | P1472 | `Development.AbelianVarietyTheory.Definitions.Divisors.GaloisRepOfPolarizedCuspidal` | volunteer-build-reviewed |
-| M003596 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.GenericPointAsIdeal` | volunteer-build-reviewed |
-| M003597 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.GhostFrobenius` | wave-reused |
-| M003602 | P1444 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs` | build-observed |
-| M003603 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBoundedPolesGlobalData` | wave-reused |
-| M003604 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect` | volunteer-build-reviewed |

@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011138 | P0679 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatSelfAverageHeisenbergStatement` | build-observed |
+| M011139 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SchwartzBruhatTensorIndicatorCharacterFacts` | volunteer-build-reviewed |
+| M011147 | P1300 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondGelfandInvariantValueEq` | volunteer-build-reviewed |
+| M011149 | P1738 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondModelFinitePartFrameActionMatrix` | volunteer-build-reviewed |
+| M011155 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SecondOnCommonRangeOfSecond` | volunteer-build-reviewed |
+| M011156 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawCommonRealDatumBiThetaVacuumContraction` | volunteer-build-reviewed |
+| M011159 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleLiftCombinationOfLawsStatement` | volunteer-build-reviewed |
+| M011161 | P1836 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleStepFiniteIntegralCollapseTwistPlaceAlt` | volunteer-build-reviewed |
+| M011168 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawDoubleStepLinearRelationsPeriodsStatement` | volunteer-build-reviewed |
+| M011175 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawFixedLevelCombinationEqSinglePlaceOnVacuum` | volunteer-build-reviewed |
 | M011180 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawFlatMapContractionSupportAtLevelPlaceStatement` | volunteer-build-reviewed |
 | M011185 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawIteratedIntegrandVacuumFormBasePoints` | volunteer-build-reviewed |
 | M011190 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawKernelLiftCombinationOfDefiniteClassDataStatement` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M011947 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThetaTermSeriesSummableModerateGrowthUniform` | volunteer-build-reviewed |
 | M011948 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThetaTermSeriesSummableModerateGrowthUniformStatement` | volunteer-build-reviewed |
 | M011953 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThreeOrbitsGluedCoreAtPlace` | volunteer-build-reviewed |
-| M011954 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ThreeOrbitsGluedCoreAtPlaceStatement` | volunteer-build-reviewed |
-| M011955 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TmulOneMemIntAt` | volunteer-build-reviewed |
-| M011956 | P0006 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ToBlocksMulFinZero` | volunteer-build-reviewed |
-| M011960 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TopReadOfTrueQ` | volunteer-build-reviewed |
-| M011968 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TopVectorMemExtraProjectionStatement` | volunteer-build-reviewed |
-| M011969 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TorusEntryRatioIntegralAtUnramifiedPlace` | volunteer-build-reviewed |
-| M011970 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TorusEntryRatioIntegralAtUnramifiedPlaceStatement` | volunteer-build-reviewed |
-| M011975 | P1445 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TraceFormRealCoordinatesIntegralGramStatement` | volunteer-build-reviewed |
-| M011981 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TranslateToSecondModelCuspFormMapValueAutomorphiStatement` | volunteer-build-reviewed |
-| M011984 | P0296 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TranslationInvariantSchwartzBruhatMapFactorsInte` | volunteer-build-reviewed |

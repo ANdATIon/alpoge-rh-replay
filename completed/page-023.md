@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M014992 | P1921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzMemL2` | volunteer-build-reviewed |
+| M014994 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzPointValuesAdmitted` | volunteer-build-reviewed |
+| M014995 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzPointValuesAdmittedStatement` | volunteer-build-reviewed |
+| M014996 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictFinitePlaceMemSchwartzBruh` | volunteer-build-reviewed |
+| M014997 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictFinitePlaceMemSchwartzBruhStatement` | volunteer-build-reviewed |
+| M014999 | P1445 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzRestrictTranslatedDiagonalMemStatement` | volunteer-build-reviewed |
+| M015000 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceClosedUnderConjReflection` | volunteer-build-reviewed |
+| M015001 | P0241 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceClosedUnderConjReflectionStatement` | volunteer-build-reviewed |
+| M015002 | P2094 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensors` | volunteer-build-reviewed |
+| M015003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensorsStatement` | volunteer-build-reviewed |
 | M015005 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMem` | volunteer-build-reviewed |
 | M015006 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMemStatement` | volunteer-build-reviewed |
 | M015008 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSupportCompactInvariance` | volunteer-build-reviewed |
@@ -392,13 +402,3 @@
 | M015796 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelLowerBoundSemiPosNefOnFibresStatement` | volunteer-build-reviewed |
 | M015797 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelNefOfAmple` | volunteer-build-reviewed |
 | M015799 | P2807 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelOfPrincipalisation` | volunteer-build-reviewed |
-| M015800 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelRankDegreeShareLe` | volunteer-build-reviewed |
-| M015802 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetric` | volunteer-build-reviewed |
-| M015803 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetricStatement` | volunteer-build-reviewed |
-| M015810 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionCalculusCycleHeightsOfAnalytic` | volunteer-build-reviewed |
-| M015817 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionFormsOfArchimedeanStatements` | volunteer-build-reviewed |
-| M015819 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionNumberExistsOfMixedHeights` | volunteer-build-reviewed |
-| M015820 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionNumberExistsOfMixedHeightsStatement` | volunteer-build-reviewed |
-| M015821 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanHeightNefOfIsNef` | volunteer-build-reviewed |
-| M015824 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanSelfIntersectionNonnegStatement` | volunteer-build-reviewed |
-| M015825 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithLogSmallSectionsUpperBound` | volunteer-build-reviewed |
