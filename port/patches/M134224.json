@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MetricProofs.PoissonIntegralPuncturedDisc",
+  "source_sha256": "dd0dae0b79b87057d8f3f7b648e780a802d8d2a60055bd0c172ae3f0d9ace44f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-32856"
+}

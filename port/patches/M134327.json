@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminant",
+  "source_sha256": "201aca2939d5a59ae3fc30229b490ce03fcb41da0ce3d91f08031bbd1afdcbb7",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-32856"
+}

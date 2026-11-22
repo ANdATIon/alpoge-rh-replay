@@ -1,0 +1,8 @@
+{
+  "module": "Development.WeilBound.CoreStatements.EqualVolumeCompactOpens.InclAdInjective",
+  "source_sha256": "24f7f47bb51851329e09a97859f8f974925528a660ff6525b15afe0f6c7adb1b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-32856"
+}
