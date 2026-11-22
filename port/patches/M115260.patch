@@ -1,0 +1,8 @@
+--- a/src/Development/AutomorphicArithmetic/IntegralCasts/CapelliIdentities/FinitelyGeneratedHomology.lean
++++ b/src/Development/AutomorphicArithmetic/IntegralCasts/CapelliIdentities/FinitelyGeneratedHomology.lean
+@@ -14,4 +14,4 @@
+     have h1 : Set.range D.h = (Submodule.span ℤ (S : Set Ω) : Set Ω) := by
+       rw [hS]; rfl
+     rw [h1, Submodule.span_span_of_tower]
+-  exact (hA.sup (D.om_lat.fg.map _)).map _
++  exact (hA.sup (D.om_lat.1.map _)).map _
