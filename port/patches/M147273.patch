@@ -1,0 +1,30 @@
+--- a/src/Formalism/HermitianLattices/HermitianLatticesProofs/IndexBasic.lean
++++ b/src/Formalism/HermitianLattices/HermitianLatticesProofs/IndexBasic.lean
+@@ -274,12 +274,12 @@
+     obtain ⟨d, hd, hdY⟩ :=
+       indexBasic_denom (nonZeroDivisors R) X Y hX (by rw [hY]; exact le_top)
+     exact Module.length_ne_top_iff.mpr (indexBasic_finLen p X Y hX hd hdY)
+-  have hAt := indexBasic_locS_top (K := K) A (Submodule.IsLattice.span_eq_top (self := hA))
+-  have hBt := indexBasic_locS_top (K := K) B (Submodule.IsLattice.span_eq_top (self := hB))
+-  have hCt := indexBasic_locS_top (K := K) C (Submodule.IsLattice.span_eq_top (self := hC))
+-  have hAfg : A.FG := Submodule.IsLattice.fg (self := hA)
+-  have hBfg : B.FG := Submodule.IsLattice.fg (self := hB)
+-  have hCfg : C.FG := Submodule.IsLattice.fg (self := hC)
++  have hAt := indexBasic_locS_top (K := K) A (Submodule.IsFullLattice.span_eq_top (self := hA))
++  have hBt := indexBasic_locS_top (K := K) B (Submodule.IsFullLattice.span_eq_top (self := hB))
++  have hCt := indexBasic_locS_top (K := K) C (Submodule.IsFullLattice.span_eq_top (self := hC))
++  have hAfg : A.FG := Submodule.IsLattice.fg (self := hA.toIsLattice)
++  have hBfg : B.FG := Submodule.IsLattice.fg (self := hB.toIsLattice)
++  have hCfg : C.FG := Submodule.IsLattice.fg (self := hC.toIsLattice)
+   refine ⟨?_, ?_, ?_, ?_, ?_, ?_⟩
+   · unfold lidx
+     exact sub_self _
+@@ -316,7 +316,7 @@
+       exact hI y hy x hx
+     have hDfg : (dual h A).FG := by
+       obtain ⟨F, hF, hDF⟩ :=
+-        indexBasic_dual_le_fg h hnd A (Submodule.IsLattice.span_eq_top (self := hA))
++        indexBasic_dual_le_fg h hnd A (Submodule.IsFullLattice.span_eq_top (self := hA))
+       exact hF.of_le hDF
+     have hDfin := hfin (dual h A) A hDfg hAt
+     unfold jIdx lidx

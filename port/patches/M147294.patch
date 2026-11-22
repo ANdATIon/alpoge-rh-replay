@@ -1,0 +1,29 @@
+--- a/src/Formalism/HermitianLattices/StatementMaj.lean
++++ b/src/Formalism/HermitianLattices/StatementMaj.lean
+@@ -152,7 +152,7 @@
+     (∀ v, IsFrame h b v (X v)) →
+     (∀ x y : V, inner ℝ (realize b X x) (jW h b X (realize b X y)) =
+       ((Algebra.trace ℚ K (h x y) : ℚ) : ℝ) / 2) ∧
+-    ∀ L : Submodule (RingOfIntegers K) V, Submodule.IsLattice K L →
++    ∀ L : Submodule (RingOfIntegers K) V, Submodule.IsFullLattice K L →
+       (∃ _ : DiscreteTopology (zmap (realize b X) L), IsZLattice ℝ (zmap (realize b X) L)) ∧
+       (∀ w, w ∈ Formalism.HadamardInequality.zdual (zmap (realize b X) L) ↔
+         ∃ y : V, (∀ x ∈ L, ∃ z : ℤ, Algebra.trace ℚ K (h x y) = 2 * z) ∧
+@@ -165,7 +165,7 @@
+     [Module K V] [Fintype ι] [DecidableEq ι] [Module (RingOfIntegers K) V]
+     [IsScalarTower (RingOfIntegers K) K V] (b : Module.Basis ι K V)
+     (X : InfinitePlace K → Matrix ι ι ℂ) (L : Submodule (RingOfIntegers K) V),
+-    Submodule.IsLattice K L → ∀ y ∈ L, y ≠ 0 →
++    Submodule.IsFullLattice K L → ∀ y ∈ L, y ≠ 0 →
+       y ∈ idealSmul (content L y) L ∧ content L y ≤ 1 ∧
+       1 ≤ Ideal.absNorm (contentIdeal L y) ∧
+       heightMaj b X L y ≤ (∏ v, normAt b X v y ^ 2) ^ ((1 : ℝ) / (2 * Fintype.card (InfinitePlace K))) ∧
+@@ -197,7 +197,7 @@
+     [Module K V] [Fintype ι] [DecidableEq ι] [Module (RingOfIntegers K) V]
+     [IsScalarTower (RingOfIntegers K) K V] (b : Module.Basis ι K V)
+     (X : InfinitePlace K → Matrix ι ι ℂ), (∀ v, IsUnit (X v).det) →
+-    ∀ L : Submodule (RingOfIntegers K) V, Submodule.IsLattice K L →
++    ∀ L : Submodule (RingOfIntegers K) V, Submodule.IsFullLattice K L →
+       DiscreteTopology (zmap (realize b X) L) ∧
+       Submodule.span ℝ ((zmap (realize b X) L : Set (EuclideanSpace ℝ (InfinitePlace K × ι × Fin 2)))) = ⊤
+ 

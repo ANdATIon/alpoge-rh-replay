@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.HermitianLattices.HermitianLatticesProofs.IndexBasic",
+  "source_sha256": "d52ded1e050ec2bf09bffacd59abfa06c07f76b29c80de7cb1592e3bfca7f1b5",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The imported statement (StatementLat, M147293) now states these hypotheses as Submodule.IsFullLattice K, the fraction-field form of the pinned IsLattice (K is the fraction field of R). In the proof, take span_eq_top from IsFullLattice and fg from its parent IsLattice (hA.toIsLattice). Proof-only change; no statements, definitions or instances changed."
+}
