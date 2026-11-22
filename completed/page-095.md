@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064554 | P0120 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope` | volunteer-build-reviewed |
 | M064558 | P0845 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrime` | build-observed |
 | M064559 | P0872 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrimeStatement` | build-observed |
 | M064561 | P2463 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepConjugateInvariant` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M065340 | P1945 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormalizedVectorTranslatesPrimeOrderIntegralStatement` | volunteer-build-reviewed |
 | M065342 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotDvdDifferent` | build-observed |
 | M065343 | P0555 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit` | build-observed |
-| M065344 | P0588 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplitStatement` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130785 | P2644 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionTowerStatement` | volunteer-build-reviewed |
+| M130786 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginModelComponentBound` | volunteer-build-reviewed |
 | M130787 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginModelComponentBoundStatement` | volunteer-build-reviewed |
 | M130792 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodProjExistsStatementHolds` | build-observed |
 | M130795 | P2776 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodTowerVolumeTheoremAlt` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M131490 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocRatio` | volunteer-build-reviewed |
 | M131491 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHolomorphicExponentialChart` | build-observed |
 | M131492 | P1134 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHolomorphicExponentialChartStatement` | build-observed |
-| M131493 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHomCharZeroUnits` | volunteer-build-reviewed |
-| M131494 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHomCharZeroUnitsStatement` | volunteer-build-reviewed |

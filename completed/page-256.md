@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164708 | P0574 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDisc` | build-observed |
+| M164709 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorChartGeneric` | volunteer-build-reviewed |
 | M164710 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorGoodPoint` | volunteer-build-reviewed |
 | M164711 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelExists` | volunteer-build-reviewed |
 | M164712 | P0427 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelGoodPointChart` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M165210 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRepresentative` | wave-reused |
 | M165211 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PScalarQuotient` | wave-reused |
 | M165215 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureModel` | build-observed |
-| M165217 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureTrdeg` | build-observed |
-| M165218 | P0640 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagConeAlg` | build-observed |

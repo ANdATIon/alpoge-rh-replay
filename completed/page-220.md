@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146241 | P0602 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationUnipotentWeylMeasure` | wave-reused |
+| M146242 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DirectionsInParabolic` | wave-reused |
 | M146243 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiscMeanValue` | build-observed |
 | M146244 | P0774 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiscreteSeriesFormOneReduction` | build-observed |
 | M146245 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DminStarPd` | build-observed |
@@ -400,5 +402,3 @@
 | M146893 | P1390 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityBundleFromHypotheses` | build-observed |
 | M146894 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RelevantMonotoneOfParts` | build-observed |
 | M146895 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RemainderNormLeStrictUpper` | wave-reused |
-| M146896 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RepIntCastMul` | wave-reused |
-| M146897 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ReproducingFormulaReduction` | wave-reused |

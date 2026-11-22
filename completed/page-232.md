@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153426 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.ZReuse` | build-observed |
+| M153427 | P0603 | `Formalism.PairingDivisors.PairingDivisorProofs.Height` | build-observed |
 | M153428 | P0571 | `Formalism.PairingDivisors.PairingDivisorProofs.SumValuationNat` | build-observed |
 | M153429 | P0636 | `Formalism.PairingDivisors.PairingDivisorProofs.ValAdd` | build-observed |
 | M153430 | P0538 | `Formalism.PairingDivisors.StatementA` | build-observed |
@@ -400,5 +402,3 @@
 | M153868 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhSchurConv` | build-observed |
 | M153869 | P0463 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhiCubeOfFactor` | build-observed |
 | M153870 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PinHostLoc` | build-observed |
-| M153871 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesFinite` | build-observed |
-| M153872 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesInner` | build-observed |

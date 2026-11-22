@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046672 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompact` | volunteer-build-reviewed |
 | M046673 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompactStatement` | volunteer-build-reviewed |
 | M046674 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdSubConjEqZero` | wave-reused |
 | M046675 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdTw` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M047383 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingSpanEqSpanWordsStatement` | volunteer-build-reviewed |
 | M047385 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingWordSpanStableOfLoweringKillStatement` | volunteer-build-reviewed |
 | M047386 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelConstLattices` | volunteer-build-reviewed |
-| M047388 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelOfHypotheses` | volunteer-build-reviewed |

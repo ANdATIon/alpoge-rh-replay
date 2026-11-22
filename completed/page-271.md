@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173484 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PullSec` | volunteer-build-reviewed |
+| M173486 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.RegTie` | build-observed |
 | M173487 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.RegTieAsm` | build-observed |
 | M173489 | P1113 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.Semichar` | volunteer-build-reviewed |
 | M173490 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ShortPlace` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M173940 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecSum` | wave-reused |
 | M173941 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivG` | wave-reused |
 | M173942 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivGA` | wave-reused |
-| M173943 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExistsMu` | wave-reused |
-| M173944 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExpInPPosDef` | wave-reused |

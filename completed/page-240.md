@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157019 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SiegelWeilNarrowOfWide` | wave-reused |
+| M157020 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.TensAll` | wave-reused |
 | M157021 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.TensTop` | wave-reused |
 | M157022 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.TopoAF` | wave-reused |
 | M157023 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.TopoClose` | wave-reused |
@@ -400,5 +402,3 @@
 | M157518 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE` | volunteer-build-reviewed |
 | M157519 | P0573 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContSplit` | build-observed |
 | M157520 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousHAIff` | build-observed |
-| M157521 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousMeasureSplitting` | build-observed |
-| M157522 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousTensMap` | build-observed |

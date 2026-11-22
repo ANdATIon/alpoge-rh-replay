@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115913 | P2652 | `Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp` | volunteer-build-reviewed |
 | M115914 | P2263 | `Development.AutomorphicArithmetic.LocalEmbeddings.SplitLin` | volunteer-build-reviewed |
 | M115916 | P2129 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoDefs` | volunteer-build-reviewed |
 | M115918 | P2140 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoUnit` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M116493 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogSumBadPrimesBoundOfCovering` | volunteer-build-reviewed |
 | M116494 | P2739 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogTopDimensionBoundCovering` | volunteer-build-reviewed |
 | M116497 | P2652 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.PlugPairs` | volunteer-build-reviewed |
-| M116498 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ProportionalityOfLocalCharts` | volunteer-build-reviewed |

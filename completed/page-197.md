@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130141 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorFieldEmbeddingStatement` | volunteer-build-reviewed |
+| M130144 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenspaceDecompositionInternal` | build-observed |
 | M130145 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenspaceDecompositionInternalStatement` | volunteer-build-reviewed |
 | M130147 | P0596 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenspaceFieldExtensionStatement` | volunteer-build-reviewed |
 | M130148 | P0596 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenvectorComplexPoint` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M130781 | P2552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginComponentSectionsStatement` | volunteer-build-reviewed |
 | M130782 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionRelay` | volunteer-build-reviewed |
 | M130784 | P2633 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionTower` | volunteer-build-reviewed |
-| M130785 | P2644 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionTowerStatement` | volunteer-build-reviewed |
-| M130786 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginModelComponentBound` | volunteer-build-reviewed |

@@ -254,6 +254,7 @@
 | M037916 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCuspProdCharTransport` | build-observed |
 | M037918 | P1088 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCuspidalLieActionOfIsCuspForm` | volunteer-build-reviewed |
 | M037920 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsCutFnIteratedDerivScale` | volunteer-build-reviewed |
+| M037921 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsDPMorphismOfComp` | volunteer-build-reviewed |
 | M037925 | P1861 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsDblCoordDblD` | volunteer-build-reviewed |
 | M037929 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsDeformationChartPointSpecMap` | volunteer-build-reviewed |
 | M037932 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsDetProdConstAt` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M038209 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIndexRelOfHasSigFrames` | volunteer-build-reviewed |
 | M038211 | P1376 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntBTmulBasis` | build-observed |
 | M038212 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntIntCast` | volunteer-build-reviewed |
-| M038214 | P1399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntVZero` | volunteer-build-reviewed |

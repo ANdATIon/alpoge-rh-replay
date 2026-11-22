@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098874 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFLinear` | wave-reused |
 | M098875 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfExpT` | wave-reused |
 | M098876 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfPull` | volunteer-build-reviewed |
 | M098877 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOneDim` | wave-reused |
@@ -401,4 +402,3 @@
 | M099513 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFactorOpenImmersion` | wave-reused |
 | M099514 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFgSubalgebraDescAway` | volunteer-build-reviewed |
 | M099515 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTriple` | wave-reused |
-| M099516 | P1103 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTripleStatement` | wave-reused |

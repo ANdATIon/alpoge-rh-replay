@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113150 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.BallLev` | volunteer-build-reviewed |
 | M113151 | P2705 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.ConjEntry` | volunteer-build-reviewed |
 | M113152 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.CosetSum` | volunteer-build-reviewed |
 | M113154 | P1826 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.CptCpt` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M113704 | P2783 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PInfStep` | volunteer-build-reviewed |
 | M113705 | P2724 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PMixedOf` | volunteer-build-reviewed |
 | M113706 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PRecChars` | volunteer-build-reviewed |
-| M113707 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PToTor` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163509 | P0081 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.Statements` | wave-reused |
+| M163510 | P0282 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.StatementsGluing` | volunteer-build-reviewed |
 | M163511 | P0282 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.StatementsNefRelabel` | wave-reused |
 | M163512 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithDegree` | wave-reused |
 | M163514 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ArithDegreeExact` | wave-reused |
@@ -400,5 +402,3 @@
 | M164109 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFlatNormalFibres` | volunteer-build-reviewed |
 | M164110 | P0508 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntLelong` | wave-reused |
 | M164111 | P0639 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntPos` | wave-reused |
-| M164113 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntSymm` | wave-reused |
-| M164114 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormalFibreQuotient` | volunteer-build-reviewed |

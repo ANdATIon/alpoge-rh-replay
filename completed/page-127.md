@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090136 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescends` | volunteer-build-reviewed |
 | M090137 | P2139 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescendsStatement` | volunteer-build-reviewed |
 | M090139 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSpanningHypotheses` | volunteer-build-reviewed |
 | M090140 | P1231 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSplitIdempotentsOfRelTraceOneModTwo` | build-observed |
@@ -401,4 +402,3 @@
 | M090839 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SiegelSmoothOfRelativeDimensionCharZeroStatement` | build-observed |
 | M090840 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignInsert` | wave-reused |
 | M090841 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignSwap` | wave-reused |
-| M090842 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFrames` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044662 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuum` | volunteer-build-reviewed |
 | M044663 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuumStatement` | volunteer-build-reviewed |
 | M044664 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyNonzeroThetaVectorsNumberField` | volunteer-build-reviewed |
 | M044665 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyNonzeroThetaVectorsNumberFieldStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M045349 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedTwistEquiv` | volunteer-build-reviewed |
 | M045350 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedTwistEquivStatement` | volunteer-build-reviewed |
 | M045351 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntAt` | volunteer-build-reviewed |
-| M045352 | P2225 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariant` | volunteer-build-reviewed |

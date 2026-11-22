@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090842 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFrames` | wave-reused |
 | M090843 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFramesStatement` | wave-reused |
 | M090844 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChange` | wave-reused |
 | M090845 | P1180 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChangeStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M091481 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BorelDiagNeZero` | wave-reused |
 | M091484 | P0932 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChangeDifferentiableOn` | wave-reused |
 | M091485 | P1948 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChosenFormsRestrictBasisFunctionField` | volunteer-build-reviewed |
-| M091491 | P0904 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContDiffAtLogMinorProd` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159320 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultAt` | build-observed |
+| M159321 | P1296 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity` | build-observed |
 | M159322 | P1417 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CthMonomial` | build-observed |
 | M159323 | P1321 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.DegSplit` | build-observed |
 | M159324 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.DivDerZero` | build-observed |
@@ -400,5 +402,3 @@
 | M159731 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankEqSpanGen` | wave-reused |
 | M159732 | P1641 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankLjjSpan` | wave-reused |
 | M159733 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankSpanImageLe` | wave-reused |
-| M159734 | P1664 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FockKSmulRight` | wave-reused |
-| M159735 | P1442 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.GoodCountMem` | wave-reused |

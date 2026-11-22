@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144857 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LValEtaEqLValEtaF` | wave-reused |
+| M144858 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LamGEqOneOfOrtho` | wave-reused |
 | M144859 | P1136 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LaurentAdjoinEqOfImageEq` | wave-reused |
 | M144860 | P1468 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LiPin` | wave-reused |
 | M144861 | P1497 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LiStatOf` | wave-reused |
@@ -400,5 +402,3 @@
 | M145258 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSBasis` | wave-reused |
 | M145259 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSIdxFinite` | wave-reused |
 | M145260 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTExists` | wave-reused |
-| M145261 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTPeel` | wave-reused |
-| M145262 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.StandardMonomialSpanOf` | wave-reused |

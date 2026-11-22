@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096544 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShift` | volunteer-build-reviewed |
 | M096545 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShiftStatement` | volunteer-build-reviewed |
 | M096546 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhds` | volunteer-build-reviewed |
 | M096547 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhdsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M097071 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModel` | volunteer-build-reviewed |
 | M097072 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModelStatement` | volunteer-build-reviewed |
 | M097077 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentity` | volunteer-build-reviewed |
-| M097078 | P2775 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentityStatement` | volunteer-build-reviewed |

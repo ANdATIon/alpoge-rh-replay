@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062070 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunction` | build-observed |
 | M062071 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunctionStatement` | build-observed |
 | M062076 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZMod` | wave-reused |
 | M062077 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZModStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M062688 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiamondMatrixConjMemGamma1InterGamma0Level` | volunteer-build-reviewed |
 | M062689 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiamondMatrixConjMemGamma1InterGamma0LevelStatement` | volunteer-build-reviewed |
 | M062692 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure` | wave-reused |
-| M062693 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt` | wave-reused |

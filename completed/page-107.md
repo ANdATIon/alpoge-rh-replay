@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072752 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjectiveStatement` | build-observed |
 | M072756 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonoidAlgebraExistsRightInvOfMapField` | volunteer-build-reviewed |
 | M072758 | P0684 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEnds` | build-observed |
 | M072759 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEndsStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M073395 | P1697 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PureTensorOTransSumLin` | volunteer-build-reviewed |
 | M073396 | P1098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushouts` | build-observed |
 | M073397 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushoutsStatement` | build-observed |
-| M073400 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice` | volunteer-build-reviewed |

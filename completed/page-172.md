@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115474 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPFSum` | build-observed |
 | M115475 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPrecompleteFiniteModule` | wave-reused |
 | M115476 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmooth` | volunteer-build-reviewed |
 | M115477 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmoothTwAct` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M115910 | P2499 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootInCore` | volunteer-build-reviewed |
 | M115911 | P2745 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootSymSupport` | volunteer-build-reviewed |
 | M115912 | P1578 | `Development.AutomorphicArithmetic.LocalEmbeddings.SemiUnfold` | volunteer-build-reviewed |
-| M115913 | P2652 | `Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp` | volunteer-build-reviewed |

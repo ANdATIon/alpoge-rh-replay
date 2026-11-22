@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123909 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUniqueStatement` | build-observed |
+| M123912 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentatives` | volunteer-build-reviewed |
 | M123913 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentativesStatement` | volunteer-build-reviewed |
 | M123915 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetSumCompactStatement` | volunteer-build-reviewed |
 | M123923 | P1608 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorCosetFormula` | build-observed |
@@ -400,5 +402,3 @@
 | M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |
 | M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
 | M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
-| M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
-| M124608 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOutStatement` | volunteer-build-reviewed |

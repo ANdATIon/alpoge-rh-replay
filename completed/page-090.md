@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061413 | P0521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwineStatement` | volunteer-build-reviewed |
 | M061414 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigIdxFiniteTypesCOf` | volunteer-build-reviewed |
 | M061415 | P0844 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehner` | wave-reused |
 | M061416 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehnerStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M062059 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitEvalEqKummerClassStatement` | volunteer-build-reviewed |
 | M062060 | P1927 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitMulPowOfKummerVanishesOnInertiaCurve` | build-observed |
 | M062066 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUpperTriangularConjIntegralCompact` | volunteer-build-reviewed |
-| M062070 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunction` | build-observed |

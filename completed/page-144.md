@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100182 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupport` | build-observed |
 | M100183 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupportStatement` | build-observed |
 | M100184 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetPowDiagonalRowsBlockJetRestrict` | build-observed |
 | M100185 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBound` | build-observed |
@@ -401,4 +402,3 @@
 | M100751 | P1892 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InterNumDetNonposSplitTorus` | volunteer-build-reviewed |
 | M100752 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IrreducibleAdmissibleGL` | build-observed |
 | M100753 | P1206 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal` | wave-reused |
-| M100755 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar` | volunteer-build-reviewed |

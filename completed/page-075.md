@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050900 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingPreservesLocalSchwartzStatement` | volunteer-build-reviewed |
 | M050901 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisation` | volunteer-build-reviewed |
 | M050902 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisationStatement` | volunteer-build-reviewed |
 | M050910 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadTorsorToEtaleAlgebraStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M051567 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumTransversalLeftTranslateInvariant` | volunteer-build-reviewed |
 | M051572 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumValuationLogLeLogDiscriminant` | volunteer-build-reviewed |
 | M051574 | P1251 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWIffGoodFormsOrthSum` | build-observed |
-| M051575 | P0978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIff` | build-observed |

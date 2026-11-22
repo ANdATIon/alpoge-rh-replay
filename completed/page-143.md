@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099516 | P1103 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTripleStatement` | wave-reused |
 | M099519 | P0712 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAway` | wave-reused |
 | M099520 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAwayStatement` | wave-reused |
 | M099522 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFiniteAdelicElementMarkingComponent` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M100173 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CubeTrivialAndFiniteFlatSurjectiveMulAbelianSche` | volunteer-build-reviewed |
 | M100177 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMem` | build-observed |
 | M100178 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMemStatement` | build-observed |
-| M100182 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupport` | build-observed |

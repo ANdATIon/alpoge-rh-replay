@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091491 | P0904 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContDiffAtLogMinorProd` | wave-reused |
 | M091492 | P0822 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousInvLeadingBlockEntry` | wave-reused |
 | M091494 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnOfCharts` | wave-reused |
 | M091495 | P1072 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnRmul` | build-observed |
@@ -401,4 +402,3 @@
 | M092321 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommuteOfWittFrameWeights` | volunteer-build-reviewed |
 | M092323 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvector` | volunteer-build-reviewed |
 | M092324 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvectorStatement` | volunteer-build-reviewed |
-| M092326 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompAtMtOfMemGfC` | volunteer-build-reviewed |

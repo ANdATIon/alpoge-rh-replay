@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170150 | P0342 | `GroundTheory.PAdicHodge.TiltAlgebra` | wave-reused |
+| M170151 | P0579 | `GroundTheory.PAdicHodge.TiltEquiv` | build-observed |
 | M170152 | P0231 | `GroundTheory.PAdicHodge.TiltField` | wave-reused |
 | M170153 | P0289 | `GroundTheory.PAdicHodge.TiltMap` | wave-reused |
 | M170154 | P0166 | `GroundTheory.PAdicHodge.TiltValuation` | wave-reused |
@@ -400,5 +402,3 @@
 | M170997 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSIsoSat` | volunteer-build-reviewed |
 | M170998 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSNormPow` | volunteer-build-reviewed |
 | M170999 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSSmo` | volunteer-build-reviewed |
-| M171000 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSTwSat` | volunteer-build-reviewed |
-| M171002 | P2473 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.SConjSpaceC` | volunteer-build-reviewed |

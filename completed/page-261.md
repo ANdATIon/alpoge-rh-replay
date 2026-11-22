@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167745 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreMore` | build-observed |
+| M167746 | P0834 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreRest` | build-observed |
 | M167747 | P0834 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreSide` | build-observed |
 | M167748 | P0780 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreTail` | build-observed |
 | M167749 | P0780 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreTer` | build-observed |
@@ -400,5 +402,3 @@
 | M168362 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension` | wave-reused |
 | M168366 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteSections` | wave-reused |
 | M168367 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteTwists` | wave-reused |
-| M168368 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenFibNef` | wave-reused |
-| M168369 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenerated` | wave-reused |

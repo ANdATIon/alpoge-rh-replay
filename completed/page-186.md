@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122693 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinates` | volunteer-build-reviewed |
 | M122694 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinatesStatement` | volunteer-build-reviewed |
 | M122695 | P1133 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegral` | wave-reused |
 | M122696 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegralStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |
 | M123308 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBoundStatement` | build-observed |
 | M123311 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePropagationSpeedHolds` | build-observed |
-| M123313 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexing` | volunteer-build-reviewed |

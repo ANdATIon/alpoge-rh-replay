@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039752 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensorStatement` | build-observed |
 | M039753 | P1538 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernSum` | volunteer-build-reviewed |
 | M039756 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelAtFittedPoints` | volunteer-build-reviewed |
 | M039758 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelBoundGivesConstantBound` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M040465 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentKummerCupProductMapBijectiveFiniteStrictHStatement` | volunteer-build-reviewed |
 | M040466 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentMapIsIntegral` | volunteer-build-reviewed |
 | M040468 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishing` | volunteer-build-reviewed |
-| M040469 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishingStatement` | volunteer-build-reviewed |

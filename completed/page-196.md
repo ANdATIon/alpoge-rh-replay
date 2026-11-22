@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129321 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumDeltaDecompositionStatement` | volunteer-build-reviewed |
+| M129322 | P0907 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumHeightChangeModel` | wave-reused |
 | M129323 | P0935 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumHeightChangeModelStatement` | wave-reused |
 | M129324 | P0369 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumMixedExpansion` | wave-reused |
 | M129325 | P0414 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumMixedExpansionStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M130138 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominator` | build-observed |
 | M130139 | P1104 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominatorStatement` | build-observed |
 | M130140 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorFieldEmbedding` | volunteer-build-reviewed |
-| M130141 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorFieldEmbeddingStatement` | volunteer-build-reviewed |
-| M130144 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenspaceDecompositionInternal` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062693 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt` | wave-reused |
 | M062694 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingStalkGeneric` | wave-reused |
 | M062696 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAug` | volunteer-build-reviewed |
 | M062697 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAugStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M063238 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAddOfLt` | volunteer-build-reviewed |
 | M063239 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOne` | volunteer-build-reviewed |
 | M063240 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOneBis` | volunteer-build-reviewed |
-| M063241 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapPadicIntLeOne` | volunteer-build-reviewed |

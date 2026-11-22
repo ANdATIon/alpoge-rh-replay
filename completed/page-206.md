@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136177 | P0498 | `Development.EtaleCohomology.TateTwists.EtaleCochainComplexBasicPropertiesOfComponents` | wave-reused |
+| M136178 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleCochainCupAssocOfCupSpecAndAlexanderWhitney` | wave-reused |
 | M136179 | P0416 | `Development.EtaleCohomology.TateTwists.EtaleCochainCupAssociativeOfPairing` | wave-reused |
 | M136180 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleCochainDifferentialEvaluationDegreeZero` | wave-reused |
 | M136181 | P0416 | `Development.EtaleCohomology.TateTwists.EtaleCochainEvaluationCoboundaryFormula` | wave-reused |
@@ -400,5 +402,3 @@
 | M136621 | P0937 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MaxOrderReduction` | wave-reused |
 | M136622 | P1047 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialCenterHypotheses` | wave-reused |
 | M136623 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialFactorTransform` | wave-reused |
-| M136624 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialSplittingFunctoriality` | wave-reused |
-| M136625 | P0773 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.NonMonomialOrderReduction` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066692 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodCharsStatement` | volunteer-build-reviewed |
 | M066697 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleJOfParams` | volunteer-build-reviewed |
 | M066699 | P0621 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmetic` | build-observed |
 | M066700 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmeticStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M067348 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacterValuesInjectiveLength` | build-observed |
 | M067349 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacteristicFunctionIntegralApply` | volunteer-build-reviewed |
 | M067350 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevel` | build-observed |
-| M067351 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevelStatement` | build-observed |

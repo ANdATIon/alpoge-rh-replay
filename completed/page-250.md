@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161770 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColChain` | wave-reused |
+| M161771 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColTwoStep` | wave-reused |
 | M161772 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CountBd` | wave-reused |
 | M161773 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CutsExist` | wave-reused |
 | M161774 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ExpBound` | wave-reused |
@@ -400,5 +402,3 @@
 | M162173 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LaurentAtOne` | build-observed |
 | M162174 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LdrInvSubOneLe` | build-observed |
 | M162175 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LdrMid` | build-observed |
-| M162176 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivBound` | build-observed |
-| M162177 | P0465 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivRegionOf` | build-observed |

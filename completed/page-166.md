@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112490 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubPerm` | volunteer-build-reviewed |
 | M112491 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubQuot` | volunteer-build-reviewed |
 | M112492 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TorusCharComp` | volunteer-build-reviewed |
 | M112493 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TraceExp` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M113146 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.BaseCase` | volunteer-build-reviewed |
 | M113147 | P2791 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.Closed` | volunteer-build-reviewed |
 | M113148 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.CountExpandMap` | volunteer-build-reviewed |
-| M113150 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.FrobeniusLocalPairs.BallLev` | volunteer-build-reviewed |

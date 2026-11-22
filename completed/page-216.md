@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144054 | P1415 | `Formalism.AdmissibleDesigns.YtRepZero` | build-observed |
+| M144055 | P1368 | `Formalism.AdmissibleDesigns.YtTarget` | build-observed |
 | M144056 | P1440 | `Formalism.AdmissibleDesigns.YtTargetOf` | build-observed |
 | M144057 | P0324 | `Formalism.AlgebraicWeights.InertDatumExists` | build-observed |
 | M144058 | P0270 | `Formalism.AlgebraicWeights.IsAlgWeight` | build-observed |
@@ -400,5 +402,3 @@
 | M144452 | P0271 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SumComplexEmbeddingsEqSumInfinitePlace` | build-observed |
 | M144453 | P0325 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SuperdiagonalAdditionInvariance` | build-observed |
 | M144454 | P0325 | `Formalism.FlagUnipotentLattices.OmSumLong` | build-observed |
-| M144455 | P0147 | `Formalism.FlagUnipotentLattices.PairingOrthogonalComplement` | build-observed |
-| M144456 | P0420 | `Formalism.FlagUnipotentLattices.QDetNegTranspose` | build-observed |

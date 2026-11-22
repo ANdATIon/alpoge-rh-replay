@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095563 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecondStatement` | volunteer-build-reviewed |
 | M095564 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThird` | volunteer-build-reviewed |
 | M095565 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThirdStatement` | volunteer-build-reviewed |
 | M095566 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeLevelEqUnitaryInfFrameStabilizer` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M096037 | P1628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRangeMapSubtypeOfContr` | volunteer-build-reviewed |
 | M096038 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntri` | volunteer-build-reviewed |
 | M096039 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntriStatement` | build-observed |
-| M096040 | P2684 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSBOfIsNatDatum` | volunteer-build-reviewed |

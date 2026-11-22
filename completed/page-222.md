@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147438 | P0148 | `Formalism.LatticeLocalGlobal.LatticeLocalGlobalOfGlobal` | wave-reused |
+| M147439 | P0069 | `Formalism.LatticeLocalGlobal.Statement` | wave-reused |
 | M147440 | P0069 | `Formalism.LatticeRigidity.HeightMin` | build-observed |
 | M147441 | P0148 | `Formalism.LatticeRigidity.HeightMinimum.BlockEquationHolds` | build-observed |
 | M147442 | P0148 | `Formalism.LatticeRigidity.HeightMinimum.ChebyshevLeadingCoeffHolds` | build-observed |
@@ -400,5 +402,3 @@
 | M147875 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePEmbIntSt` | build-observed |
 | M147876 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePFBMapSt` | build-observed |
 | M147877 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGaugeMapSt` | build-observed |
-| M147878 | P0635 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm` | wave-reused |
-| M147879 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGmExLem` | wave-reused |

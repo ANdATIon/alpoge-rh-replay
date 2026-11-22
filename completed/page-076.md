@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051575 | P0978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIff` | build-observed |
 | M051576 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIffStatement` | build-observed |
 | M051577 | P1943 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianScheme` | build-observed |
 | M051578 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianSchemeStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M052375 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorIsLocalRingOfUniquePrimeOverStatement` | volunteer-build-reviewed |
 | M052378 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGenerato` | volunteer-build-reviewed |
 | M052379 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGeneratoStatement` | volunteer-build-reviewed |
-| M052380 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlaceParts` | volunteer-build-reviewed |

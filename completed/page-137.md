@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096040 | P2684 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSBOfIsNatDatum` | volunteer-build-reviewed |
 | M096042 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSelfDualLatticeOfMemAllLatticeCompletionsStatement` | volunteer-build-reviewed |
 | M096043 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIff` | volunteer-build-reviewed |
 | M096044 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIffStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M096541 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefOfNode` | volunteer-build-reviewed |
 | M096542 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplits` | volunteer-build-reviewed |
 | M096543 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplitsStatement` | volunteer-build-reviewed |
-| M096544 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShift` | volunteer-build-reviewed |

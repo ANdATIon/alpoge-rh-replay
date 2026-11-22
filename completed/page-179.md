@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M118717 | P2384 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RatAtUpper` | volunteer-build-reviewed |
 | M118718 | P2414 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RatAtUpperStatement` | volunteer-build-reviewed |
 | M118719 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RatDatumAddTwistPlaces` | volunteer-build-reviewed |
 | M118720 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RatDatumAddTwistPlacesStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M119133 | P2174 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaFireRowRecTieStatement` | volunteer-build-reviewed |
 | M119134 | P2787 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftHypothesesOfNonvanishing` | volunteer-build-reviewed |
 | M119135 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftOfReference` | volunteer-build-reviewed |
-| M119136 | P2746 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLocalInputs` | volunteer-build-reviewed |

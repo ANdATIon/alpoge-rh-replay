@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069929 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbedding` | volunteer-build-reviewed |
 | M069930 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbeddingStatement` | volunteer-build-reviewed |
 | M069931 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExt` | build-observed |
 | M069932 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExtStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M070576 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilO` | build-observed |
 | M070577 | P1200 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilOStatement` | build-observed |
 | M070580 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionExtendsToAinfDiscRings` | wave-reused |
-| M070582 | P1381 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionSubMemFiltrationZeroOfMonodromy` | build-observed |

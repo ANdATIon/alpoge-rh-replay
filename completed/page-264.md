@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169623 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecMax` | wave-reused |
+| M169624 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecResidue` | wave-reused |
 | M169625 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PVertSpec` | wave-reused |
 | M169626 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PVertTermEq` | wave-reused |
 | M169627 | P0166 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Statements` | wave-reused |
@@ -400,5 +402,3 @@
 | M170147 | P0546 | `GroundTheory.PAdicHodge.ThetaBDeRhamPlusFieldCycloUnitBdRZpow` | wave-reused |
 | M170148 | P0231 | `GroundTheory.PAdicHodge.ThetaPlus` | wave-reused |
 | M170149 | P0289 | `GroundTheory.PAdicHodge.TiltAlgClosed` | wave-reused |
-| M170150 | P0342 | `GroundTheory.PAdicHodge.TiltAlgebra` | wave-reused |
-| M170151 | P0579 | `GroundTheory.PAdicHodge.TiltEquiv` | build-observed |

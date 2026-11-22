@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M105088 | P1158 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.FirstFace` | build-observed |
 | M105089 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.HasVal` | volunteer-build-reviewed |
 | M105090 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.LatticeBlockClasses.BlkEquiv` | volunteer-build-reviewed |
 | M105091 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ClassCounting.LatticeBlockClasses.CBetaDiv` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M105630 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LiftOk` | volunteer-build-reviewed |
 | M105631 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LiftPush` | volunteer-build-reviewed |
 | M105632 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LiftsWith` | volunteer-build-reviewed |
-| M105633 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.KatoQuadraticCharacters.EulerFactorBounds.LineCoh` | volunteer-build-reviewed |

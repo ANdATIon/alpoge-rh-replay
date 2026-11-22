@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135484 | P0566 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing` | wave-reused |
+| M135485 | P0532 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing.SecondBlockUnimodularLocusInclusionMono` | wave-reused |
 | M135486 | P0631 | `Development.EtaleCohomology.EtaleSheaves.HasLimPf` | wave-reused |
 | M135487 | P0532 | `Development.EtaleCohomology.EtaleSheaves.HensCut` | wave-reused |
 | M135488 | P0496 | `Development.EtaleCohomology.EtaleSheaves.HensIdemCut` | build-observed |
@@ -400,5 +402,3 @@
 | M136171 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalDifferentialFormulaHolds` | wave-reused |
 | M136172 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainExistsOfEvalData` | wave-reused |
 | M136173 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainsMayerVietorisShortExactOfFree` | build-observed |
-| M136177 | P0498 | `Development.EtaleCohomology.TateTwists.EtaleCochainComplexBasicPropertiesOfComponents` | wave-reused |
-| M136178 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleCochainCupAssocOfCupSpecAndAlexanderWhitney` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107092 | P2804 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WindowBoundOfLiteratureLevel` | volunteer-build-reviewed |
 | M107093 | P2686 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WoConj` | volunteer-build-reviewed |
 | M107094 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WsLink` | volunteer-build-reviewed |
 | M107095 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ZEqDimE` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M107616 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfFrobeniusPowEigenvectorMemFilZero` | volunteer-build-reviewed |
 | M107617 | P1339 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfMemSpectrumFrobeniusMatrixFilZero` | build-observed |
 | M107618 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OpenField` | build-observed |
-| M107619 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdCharIff` | volunteer-build-reviewed |

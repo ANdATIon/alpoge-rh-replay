@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162176 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivBound` | build-observed |
+| M162177 | P0465 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivRegionOf` | build-observed |
 | M162178 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LogDerivRight` | build-observed |
 | M162179 | P0080 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.NormCpowSubLePoint` | build-observed |
 | M162180 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.NormIntegralComplLe` | build-observed |
@@ -400,5 +402,3 @@
 | M162620 | P0080 | `GroundTheory.AutomorphicForms.GL2.GJGlobalEntire` | volunteer-build-reviewed |
 | M162621 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalHaar` | wave-reused |
 | M162622 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLattice` | build-observed |
-| M162623 | P1242 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeBounds` | build-observed |
-| M162624 | P1270 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeCont` | build-observed |

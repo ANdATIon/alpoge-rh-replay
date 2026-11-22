@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049419 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleIdentity` | volunteer-build-reviewed |
 | M049421 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecond` | volunteer-build-reviewed |
 | M049422 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecondStatement` | volunteer-build-reviewed |
 | M049423 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleThird` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M050138 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPairVanishingStatement` | volunteer-build-reviewed |
 | M050143 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverse` | volunteer-build-reviewed |
 | M050144 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverseStatement` | volunteer-build-reviewed |
-| M050145 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairDual` | volunteer-build-reviewed |

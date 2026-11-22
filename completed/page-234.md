@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154321 | P1557 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FixIffSpan` | build-observed |
+| M154322 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FourierSD` | volunteer-build-reviewed |
 | M154324 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.GinfTestHolds` | build-observed |
 | M154325 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.GoodChartExOfStd` | build-observed |
 | M154327 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.GrpChartC` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M154828 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.AugmentationDegreeZero` | volunteer-build-reviewed |
 | M154829 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.BasisZeroEqSingle` | volunteer-build-reviewed |
 | M154830 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.CardFilterLtInsert` | volunteer-build-reviewed |
-| M154831 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.DivisionLowersSecondDegree` | volunteer-build-reviewed |
-| M154832 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.DivisionPartitionTotal` | volunteer-build-reviewed |

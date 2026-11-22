@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076501 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContainsRayFieldSub` | volunteer-build-reviewed |
 | M076502 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP` | volunteer-build-reviewed |
 | M076504 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousAdicCompletionEquivUniformiserStatement` | volunteer-build-reviewed |
 | M076509 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCellMap` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M077302 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcrete` | volunteer-build-reviewed |
 | M077303 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtension` | volunteer-build-reviewed |
 | M077304 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtensionStatement` | volunteer-build-reviewed |
-| M077305 | P0848 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteType` | build-observed |

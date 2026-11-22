@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165217 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureTrdeg` | build-observed |
+| M165218 | P0640 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagConeAlg` | build-observed |
 | M165219 | P0671 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagCutChart` | build-observed |
 | M165220 | P0779 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagCutChartSection` | build-observed |
 | M165221 | P0752 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagCutChartSectionChart` | build-observed |
@@ -400,5 +402,3 @@
 | M165724 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreFinite` | wave-reused |
 | M165725 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreNonempty` | wave-reused |
 | M165726 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreRelDim` | wave-reused |
-| M165727 | P0083 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFiniteAlgebraLengthSum` | wave-reused |
-| M165728 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFunctionFieldFinite` | wave-reused |

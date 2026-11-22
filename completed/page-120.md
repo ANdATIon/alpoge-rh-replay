@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083716 | P1310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPointStatement` | wave-reused |
 | M083717 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLimitPowerSeriesAgreeOnAnnulusPoints` | volunteer-build-reviewed |
 | M083718 | P0309 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLimitPowerSeriesAgreeOnAnnulusPointsStatement` | volunteer-build-reviewed |
 | M083720 | P0407 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLinearEquivOfIrreducibleIsHW` | build-observed |
@@ -401,4 +402,3 @@
 | M084552 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslateCoprimeOrderNotIncreaseThetaCombNormStatement` | volunteer-build-reviewed |
 | M084553 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TranslatePullbackEigensection` | wave-reused |
 | M084559 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TwistedMeasureMomentsEqShiftedSeriesJets` | volunteer-build-reviewed |
-| M084560 | P0310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TwistedMeasureMomentsEqShiftedSeriesJetsStatement` | volunteer-build-reviewed |

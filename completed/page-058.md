@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038999 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAddStatement` | volunteer-build-reviewed |
 | M039000 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyMulLeft` | volunteer-build-reviewed |
 | M039001 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyMulLeftStatement` | volunteer-build-reviewed |
 | M039002 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyOfSigmaOnly` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M039749 | P0016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSmulLeIdealSmulOfFree` | volunteer-build-reviewed |
 | M039750 | P0109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSmulLeIdealSmulOfFreeStatement` | volunteer-build-reviewed |
 | M039751 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensor` | build-observed |
-| M039752 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensorStatement` | build-observed |

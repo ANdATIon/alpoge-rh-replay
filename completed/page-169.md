@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114172 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepCut` | volunteer-build-reviewed |
 | M114173 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepDefs` | volunteer-build-reviewed |
 | M114174 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepDeg` | volunteer-build-reviewed |
 | M114176 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepFc` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M114587 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiUniv` | wave-reused |
 | M114588 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtCommon` | wave-reused |
 | M114589 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtInj` | wave-reused |
-| M114590 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtLift` | wave-reused |

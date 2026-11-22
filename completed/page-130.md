@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092326 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompAtMtOfMemGfC` | volunteer-build-reviewed |
 | M092328 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacter` | volunteer-build-reviewed |
 | M092329 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacterStatement` | volunteer-build-reviewed |
 | M092330 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopPairMovedVectorRowCharacter` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M093010 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyHermitianIntegrallyCongruentCmExtStatement` | volunteer-build-reviewed |
 | M093011 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyInv` | volunteer-build-reviewed |
 | M093012 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyLocalIntegersIffPowerBasisCoordsAll` | volunteer-build-reviewed |
-| M093018 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocal` | volunteer-build-reviewed |

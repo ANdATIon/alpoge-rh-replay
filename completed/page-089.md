@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060779 | P0025 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsReducedGenericFibreOfIsReduced` | volunteer-build-reviewed |
 | M060782 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsUniversalChartOfFormalGroupChart` | build-observed |
 | M060786 | P0117 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JacobianSmulKaehlerEqZero` | volunteer-build-reviewed |
 | M060787 | P0735 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetChartCoordinatesUniqueCommGroup` | wave-reused |
@@ -401,4 +402,3 @@
 | M061410 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraPotentialSubmoduleAndBaseChange` | build-observed |
 | M061411 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraPotentialSubmoduleAndBaseChangeStatement` | build-observed |
 | M061412 | P0482 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwine` | volunteer-build-reviewed |
-| M061413 | P0521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwineStatement` | volunteer-build-reviewed |

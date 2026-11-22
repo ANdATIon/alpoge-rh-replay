@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131493 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHomCharZeroUnits` | volunteer-build-reviewed |
+| M131494 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHomCharZeroUnitsStatement` | volunteer-build-reviewed |
 | M131495 | P0320 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalIndexAtSinglePlace` | volunteer-build-reviewed |
 | M131501 | P1367 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalPointSpecializesComponent` | build-observed |
 | M131502 | P1388 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalPointSpecializesComponentStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M132169 | P0854 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChange` | build-observed |
 | M132170 | P0881 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChangeStatement` | build-observed |
 | M132172 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoDatumExistsStatement` | volunteer-build-reviewed |
-| M132173 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquiv` | build-observed |
-| M132174 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquivStatement` | build-observed |

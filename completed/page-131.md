@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093018 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocal` | volunteer-build-reviewed |
 | M093019 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocalStatement` | volunteer-build-reviewed |
 | M093020 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExDownExUpAndExUpExDown` | build-observed |
 | M093021 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExFieldOfKeyFinExKey` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M093552 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNatMulIntegralMatricesSubsetOpenAddSubgrou` | volunteer-build-reviewed |
 | M093553 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNatMulIntegralMatricesSubsetOpenAddSubgrouStatement` | volunteer-build-reviewed |
 | M093554 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeOfMemSpan` | volunteer-build-reviewed |
-| M093555 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroAtZero` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084560 | P0310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.TwistedMeasureMomentsEqShiftedSeriesJetsStatement` | volunteer-build-reviewed |
 | M084568 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelOffDiagNormSqLe` | wave-reused |
 | M084569 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelOffDiagNormSqLeStatement` | build-observed |
 | M084570 | P0590 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelSumNormSqLe` | build-observed |
@@ -401,4 +402,3 @@
 | M085253 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulMemSpanInvariantsSup` | volunteer-build-reviewed |
 | M085255 | P0958 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulSecNonzeroOnSpecialFibreStatement` | volunteer-build-reviewed |
 | M085259 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPoint` | volunteer-build-reviewed |
-| M085260 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPointStatement` | volunteer-build-reviewed |

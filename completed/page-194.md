@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
+| M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |
 | M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
 | M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
 | M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M128634 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExistsStatement` | volunteer-build-reviewed |
 | M128635 | P1637 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySwapReduction` | volunteer-build-reviewed |
 | M128640 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniversalCoefficientDegreeZeroStatement` | volunteer-build-reviewed |
-| M128641 | P1755 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducible` | volunteer-build-reviewed |
-| M128642 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducibleStatement` | volunteer-build-reviewed |

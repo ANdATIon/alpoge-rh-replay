@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053787 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRigiditySndEqZeroCanonicalChartStatement` | volunteer-build-reviewed |
 | M053788 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSaturatedStatement` | volunteer-build-reviewed |
 | M053790 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSemicharacterEqNegOnePowTraceExponent` | volunteer-build-reviewed |
 | M053792 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSpreadLatticeMapCommutesEndomorphisms` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M054515 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormConjNormalizeAndDegreeOneStatement` | volunteer-build-reviewed |
 | M054516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecomposition` | volunteer-build-reviewed |
 | M054517 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecompositionStatement` | volunteer-build-reviewed |
-| M054520 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConj` | build-observed |

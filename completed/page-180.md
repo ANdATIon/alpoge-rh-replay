@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119136 | P2746 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLocalInputs` | volunteer-build-reviewed |
 | M119137 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaValueOnCuspNeighbourhood` | volunteer-build-reviewed |
 | M119138 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentFitsIntegralLattice` | volunteer-build-reviewed |
 | M119139 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentHeckeCharacterTuple` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M119665 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatFamilyLineFamZero` | volunteer-build-reviewed |
 | M119666 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatticeFamily` | volunteer-build-reviewed |
 | M119667 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars` | wave-reused |
-| M119668 | P0203 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight` | volunteer-build-reviewed |

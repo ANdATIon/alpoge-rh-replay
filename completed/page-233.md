@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153871 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesFinite` | build-observed |
+| M153872 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesInner` | build-observed |
 | M153873 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesMemLp` | build-observed |
 | M153874 | P0538 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PolyCoef` | wave-reused |
 | M153875 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PowBddInt` | build-observed |
@@ -400,5 +402,3 @@
 | M154311 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolve` | volunteer-build-reviewed |
 | M154317 | P1369 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInv` | build-observed |
 | M154318 | P1391 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInvT` | build-observed |
-| M154321 | P1557 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FixIffSpan` | build-observed |
-| M154322 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FourierSD` | volunteer-build-reviewed |

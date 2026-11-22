@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054520 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConj` | build-observed |
 | M054521 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConjStatement` | volunteer-build-reviewed |
 | M054522 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormUnitCommutation` | volunteer-build-reviewed |
 | M054523 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitNormBounds` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M055244 | P2775 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCompactificationIsModelOfCharts` | volunteer-build-reviewed |
 | M055246 | P2772 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryComparisonLatticePeriodsAtPoint` | volunteer-build-reviewed |
 | M055247 | P2775 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryComparisonLatticePeriodsAtPointStatement` | volunteer-build-reviewed |
-| M055249 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruenceDetEqOneOfThreeLeStatement` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086002 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfDirectionsLe` | volunteer-build-reviewed |
 | M086003 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfFinrankDerivatio` | build-observed |
 | M086004 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLe` | volunteer-build-reviewed |
 | M086005 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLeStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M087065 | P1516 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DenseFrobOutside` | volunteer-build-reviewed |
 | M087084 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DeterminantIdealCharacterClassLatticeEqStatement` | volunteer-build-reviewed |
 | M087089 | P2138 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagUniformizerBlockEqDiagonalPowMulIntegralGL` | volunteer-build-reviewed |
-| M087091 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtale` | volunteer-build-reviewed |

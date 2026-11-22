@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158869 | P1052 | `Formalism.SharpRestriction.Divisibility.ProductFirstParts` | build-observed |
+| M158870 | P0969 | `Formalism.SharpRestriction.Divisibility.ProductZerothFirstParts` | build-observed |
 | M158871 | P0078 | `Formalism.SharpRestriction.Divisibility.RankTruncation.KapDLemma` | volunteer-build-reviewed |
 | M158872 | P1080 | `Formalism.SharpRestriction.Divisibility.RankTruncation.KapDLemmaBridge` | build-observed |
 | M158873 | P0078 | `Formalism.SharpRestriction.Divisibility.RankTruncation.LocalAdditiveCharacterExpansion` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M159317 | P1470 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockWithThresholds` | build-observed |
 | M159318 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.ChainEmbInj` | build-observed |
 | M159319 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CharZeroOfW` | build-observed |
-| M159320 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultAt` | build-observed |
-| M159321 | P1296 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity` | build-observed |

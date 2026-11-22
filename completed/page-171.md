@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115040 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleCoboundaryFiniteIndex` | volunteer-build-reviewed |
 | M115041 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleMultiplicative` | volunteer-build-reviewed |
 | M115042 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoeffProdOneAdd` | volunteer-build-reviewed |
 | M115044 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoerciveOfPositiveDefinite` | wave-reused |
@@ -401,4 +402,3 @@
 | M115471 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerLinearMap` | volunteer-build-reviewed |
 | M115472 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenValuationLtOne` | volunteer-build-reviewed |
 | M115473 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPF` | build-observed |
-| M115474 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPFSum` | build-observed |

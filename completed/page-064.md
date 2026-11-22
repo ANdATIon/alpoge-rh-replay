@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043248 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalNormsOfLiftUFEq` | volunteer-build-reviewed |
 | M043249 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalSubringGenericPoint` | build-observed |
 | M043252 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLowLat` | build-observed |
 | M043253 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLsB` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M043932 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInf` | volunteer-build-reviewed |
 | M043933 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInfStatement` | volunteer-build-reviewed |
 | M043935 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecInv` | volunteer-build-reviewed |
-| M043939 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecVecMulVec` | volunteer-build-reviewed |

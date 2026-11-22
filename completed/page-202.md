@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133530 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionSeventh` | volunteer-build-reviewed |
+| M133531 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionSeventhStatement` | volunteer-build-reviewed |
 | M133534 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionStatement` | wave-reused |
 | M133537 | P1046 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwoFramesOrbit` | wave-reused |
 | M133538 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwoFramesOrbitStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M134168 | P1237 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSum` | build-observed |
 | M134169 | P1265 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSumStatement` | build-observed |
 | M134170 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeBoundedMap` | volunteer-build-reviewed |
-| M134175 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeLeRankMulSlopeStatement` | volunteer-build-reviewed |
-| M134176 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeOrthogonalSum` | volunteer-build-reviewed |

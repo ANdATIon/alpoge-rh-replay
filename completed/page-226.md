@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149553 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapEq` | build-observed |
+| M149554 | P1319 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapT` | build-observed |
 | M149555 | P0537 | `Formalism.LocalToGlobal.IndefiniteReal.OpNormAtLeOfPoints` | build-observed |
 | M149556 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.OrthogonalComplementCharacterisation` | build-observed |
 | M149557 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.PGoodOfRho` | build-observed |
@@ -400,5 +402,3 @@
 | M150407 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.LawA13OfContinuous` | build-observed |
 | M150408 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.LevelPb` | build-observed |
 | M150409 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.LieAlg` | wave-reused |
-| M150410 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.LieArcSt` | wave-reused |
-| M150411 | P0831 | `Formalism.LocalToGlobal.ProjectiveLattices.LieFreePf` | wave-reused |

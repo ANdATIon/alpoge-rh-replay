@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168973 | P0340 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PInvertibleProductRep` | volunteer-build-reviewed |
+| M168974 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLatticeCountVolume` | volunteer-build-reviewed |
 | M168975 | P0287 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLatticeImageZLattice` | volunteer-build-reviewed |
 | M168984 | P0807 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLiftGraphFactor` | build-observed |
 | M168985 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLiftGraphMetric` | build-observed |
@@ -400,5 +402,3 @@
 | M169620 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecCompDim` | wave-reused |
 | M169621 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecFirstNeField` | wave-reused |
 | M169622 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecLength` | wave-reused |
-| M169623 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecMax` | wave-reused |
-| M169624 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecResidue` | wave-reused |

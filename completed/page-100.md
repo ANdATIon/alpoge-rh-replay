@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068028 | P0555 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterCongrRootOfUnityPow` | build-observed |
 | M068030 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPow` | build-observed |
 | M068031 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPowStatement` | build-observed |
 | M068032 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPadicBasicProperties` | wave-reused |
@@ -401,4 +402,3 @@
 | M068679 | P1797 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrExtensionQkPointsRational` | volunteer-build-reviewed |
 | M068681 | P2098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidue` | volunteer-build-reviewed |
 | M068682 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidueStatement` | volunteer-build-reviewed |
-| M068683 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCellPartUnfoldedIntegralPositive` | volunteer-build-reviewed |

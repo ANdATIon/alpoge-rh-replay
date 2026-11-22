@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M141749 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.UnipBEqUnipotent` | volunteer-build-reviewed |
+| M141750 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.WhitCuspOfSegCuspGeneric` | volunteer-build-reviewed |
 | M141751 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.WhitLeOneOfDict` | volunteer-build-reviewed |
 | M141753 | P1831 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerRankHeredity.ProdFL` | volunteer-build-reviewed |
 | M141754 | P1554 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerRankHeredity.WhitStd` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M142421 | P0067 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.ParamCD` | volunteer-build-reviewed |
 | M142423 | P1784 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.ReConjMulLe` | volunteer-build-reviewed |
 | M142424 | P1661 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.RhoPSmul` | volunteer-build-reviewed |
-| M142425 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SecondCoordMulInner` | volunteer-build-reviewed |
-| M142426 | P1638 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SingularTestsKillVacuum` | build-observed |

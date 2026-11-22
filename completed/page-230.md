@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152387 | P2143 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ThmBChainG` | build-observed |
+| M152388 | P1240 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ThmBTies` | build-observed |
 | M152392 | P1878 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ThresholdOrder` | build-observed |
 | M152393 | P1499 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ToTermAct` | build-observed |
 | M152395 | P0776 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.TriangularProducts` | build-observed |
@@ -400,5 +402,3 @@
 | M152950 | P0859 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitBall` | build-observed |
 | M152951 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitaryInverseIdentity` | wave-reused |
 | M152952 | P0150 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.ChordSecondLogDeriv` | wave-reused |
-| M152953 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoAll` | build-observed |
-| M152954 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoUnitBall` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
+| M124608 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOutStatement` | volunteer-build-reviewed |
 | M124609 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine` | volunteer-build-reviewed |
 | M124612 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSup` | wave-reused |
 | M124613 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSupStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
 | M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
 | M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
-| M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
-| M125394 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionSupport` | volunteer-build-reviewed |

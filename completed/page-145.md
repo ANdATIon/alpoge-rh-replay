@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100755 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar` | volunteer-build-reviewed |
 | M100757 | P1603 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsConstAlongSingleton` | volunteer-build-reviewed |
 | M100760 | P0933 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsHolFormConst` | volunteer-build-reviewed |
 | M100761 | P1931 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M101406 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CmFree` | wave-reused |
 | M101407 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Cohen` | wave-reused |
 | M101408 | P0487 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CompDim` | wave-reused |
-| M101409 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CorePowMem` | wave-reused |

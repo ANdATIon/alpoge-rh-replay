@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174352 | P1992 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundOfCompact` | build-observed |
+| M174353 | P1000 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecSmOfDecBoundJ` | build-observed |
 | M174354 | P1297 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.ExistsNearSmooth` | build-observed |
 | M174355 | P1141 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.FinAlgSepKG` | build-observed |
 | M174356 | P1833 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.FormBSelfLe` | wave-reused |
@@ -400,5 +402,3 @@
 | M174940 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnWp` | build-observed |
 | M174941 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic` | build-observed |
 | M174942 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgClose` | build-observed |
-| M174943 | P0474 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgDefs` | build-observed |
-| M174944 | P0548 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgFinA` | build-observed |

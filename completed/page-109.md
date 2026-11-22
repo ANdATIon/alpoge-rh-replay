@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074112 | P1013 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsionStatement` | wave-reused |
 | M074113 | P0957 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanTopOfResidue` | build-observed |
 | M074118 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimeThresholdNumericsAlongFamilyStatement` | volunteer-build-reviewed |
 | M074120 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimesSmallAlongFamilyStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M074796 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TsumSetIntegralProdEqZeroOfInnerStatement` | volunteer-build-reviewed |
 | M074797 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TupMemLatT` | volunteer-build-reviewed |
 | M074800 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHecke` | volunteer-build-reviewed |
-| M074801 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHeckeStatement` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172868 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.TangentLinearity.FnOfComp` | wave-reused |
+| M172869 | P0729 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.TangentLinearity.Imports` | wave-reused |
 | M172870 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.TangentLinearity.OrbitMapConjSmulZero` | wave-reused |
 | M172871 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.TangentLinearity.PairProp` | wave-reused |
 | M172872 | P0782 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.TangentLinearity.ResEqOfResEq` | wave-reused |
@@ -400,5 +402,3 @@
 | M173481 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIdem` | volunteer-build-reviewed |
 | M173482 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramified` | build-observed |
 | M173483 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramifiedOfCharts` | build-observed |
-| M173484 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PullSec` | volunteer-build-reviewed |
-| M173486 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.RegTie` | build-observed |

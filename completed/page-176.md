@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M117380 | P2242 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjTwOfOne` | volunteer-build-reviewed |
 | M117381 | P2762 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjugatePlacesCompletion` | volunteer-build-reviewed |
 | M117382 | P2046 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ContainsWithLoc` | volunteer-build-reviewed |
 | M117383 | P2062 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ContainsWithLocStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M117837 | P2230 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodBFOfNormalFramesStatement` | volunteer-build-reviewed |
 | M117838 | P2718 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodEOfBuiltE` | volunteer-build-reviewed |
 | M117839 | P2766 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodFTAllOfLocal` | volunteer-build-reviewed |
-| M117840 | P2770 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodFTAllStA` | volunteer-build-reviewed |

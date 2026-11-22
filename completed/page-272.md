@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173943 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExistsMu` | wave-reused |
+| M173944 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExpInPPosDef` | wave-reused |
 | M173945 | P0730 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.GelfandG` | wave-reused |
 | M173946 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.GelfandGA` | wave-reused |
 | M173947 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.GelfandGB` | wave-reused |
@@ -400,5 +402,3 @@
 | M174349 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJ` | wave-reused |
 | M174350 | P1937 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJOfSigLam` | build-observed |
 | M174351 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJSigLam` | build-observed |
-| M174352 | P1992 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundOfCompact` | build-observed |
-| M174353 | P1000 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecSmOfDecBoundJ` | build-observed |

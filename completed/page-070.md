@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047388 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelOfHypotheses` | volunteer-build-reviewed |
 | M047389 | P1277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationBoundOverDvr` | build-observed |
 | M047391 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationIdxDvdOfGaloisDegreeDvdUnitDvr` | volunteer-build-reviewed |
 | M047392 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationIdxDvdOfGaloisDegreeDvdUnitDvrStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M048076 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexISupMapEqPow` | volunteer-build-reviewed |
 | M048077 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexISupMapEqPowStatement` | volunteer-build-reviewed |
 | M048080 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexInfConjEqFinprodRestrictedProduct` | volunteer-build-reviewed |
-| M048081 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexInfConjEqFinprodRestrictedProductStatement` | volunteer-build-reviewed |

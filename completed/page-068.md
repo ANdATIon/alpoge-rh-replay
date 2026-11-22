@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046009 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleIsoGenericExtendsNormalLocalStatement` | volunteer-build-reviewed |
 | M046010 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisat` | volunteer-build-reviewed |
 | M046011 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisatStatement` | volunteer-build-reviewed |
 | M046013 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDetStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M046669 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdOfFnEqSingle` | volunteer-build-reviewed |
 | M046670 | P0301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEq` | wave-reused |
 | M046671 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEqStatement` | wave-reused |
-| M046672 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompact` | volunteer-build-reviewed |

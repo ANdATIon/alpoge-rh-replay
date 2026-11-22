@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142425 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SecondCoordMulInner` | volunteer-build-reviewed |
+| M142426 | P1638 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SingularTestsKillVacuum` | build-observed |
 | M142428 | P1732 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SmoothTop` | volunteer-build-reviewed |
 | M142429 | P0067 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SpanUnitaryMatrix` | volunteer-build-reviewed |
 | M142430 | P1582 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.SphU` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M143144 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiBiUnion` | volunteer-build-reviewed |
 | M143145 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiCosets` | volunteer-build-reviewed |
 | M143146 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.UnifLC` | volunteer-build-reviewed |
-| M143148 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.HomomorphismContinuity.T2SpaceLocalField` | volunteer-build-reviewed |
-| M143150 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.ModulusHeights.StepModH` | volunteer-build-reviewed |

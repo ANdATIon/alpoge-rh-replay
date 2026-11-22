@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097667 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGrid` | volunteer-build-reviewed |
 | M097668 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGridStatement` | volunteer-build-reviewed |
 | M097669 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelFiniteVectorNeZero` | volunteer-build-reviewed |
 | M097671 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelGridRationalLeftInvariant` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M098289 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionSplitSupportStatement` | volunteer-build-reviewed |
 | M098290 | P2075 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionUnitaryCompact` | volunteer-build-reviewed |
 | M098292 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionVacuumEqResidueDetCharOfFrameStabilize` | volunteer-build-reviewed |
-| M098294 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitution` | volunteer-build-reviewed |

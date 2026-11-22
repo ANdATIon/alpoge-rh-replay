@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087091 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtale` | volunteer-build-reviewed |
 | M087092 | P0486 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtaleStatement` | volunteer-build-reviewed |
 | M087096 | P0407 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRight` | build-observed |
 | M087097 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRightStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M088129 | P0257 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosed` | volunteer-build-reviewed |
 | M088130 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosedStatement` | volunteer-build-reviewed |
 | M088131 | P2658 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrin` | volunteer-build-reviewed |
-| M088132 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrinStatement` | volunteer-build-reviewed |

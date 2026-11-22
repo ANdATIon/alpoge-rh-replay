@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152953 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoAll` | build-observed |
+| M152954 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoUnitBall` | build-observed |
 | M152955 | P0886 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveJetsUnitBall` | build-observed |
 | M152956 | P0831 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveSecondLogDerivative` | build-observed |
 | M152957 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.FirstLevelFromUniversal` | wave-reused |
@@ -400,5 +402,3 @@
 | M153423 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg` | build-observed |
 | M153424 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZCircleCharExtends` | build-observed |
 | M153425 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZGoodCuspidal` | build-observed |
-| M153426 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.ZReuse` | build-observed |
-| M153427 | P0603 | `Formalism.PairingDivisors.PairingDivisorProofs.Height` | build-observed |

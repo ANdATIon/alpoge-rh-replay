@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132173 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquiv` | build-observed |
+| M132174 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquivStatement` | build-observed |
 | M132175 | P2318 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoTorsionTower` | volunteer-build-reviewed |
 | M132176 | P2336 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoTorsionTowerStatement` | volunteer-build-reviewed |
 | M132181 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TensorWedgeDetChange` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M132908 | P1018 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProduct` | build-observed |
 | M132909 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProductStatement` | build-observed |
 | M132910 | P2385 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOfCommute` | volunteer-build-reviewed |
-| M132911 | P2416 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOperatorBoundedByPolynomialRoots` | volunteer-build-reviewed |
-| M132912 | P2444 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOperatorBoundedByPolynomialRootsStatement` | volunteer-build-reviewed |

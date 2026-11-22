@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057349 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantDataStatement` | wave-reused |
 | M057350 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacter` | wave-reused |
 | M057351 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacterStatement` | wave-reused |
 | M057352 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMoveScalarFibreMeasureOne` | wave-reused |
@@ -401,4 +402,3 @@
 | M058115 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FrameUnipotentUnitriangular` | wave-reused |
 | M058116 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliser` | wave-reused |
 | M058117 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliserStatement` | wave-reused |
-| M058118 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliser` | wave-reused |

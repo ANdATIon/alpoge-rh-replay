@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063832 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperTriangularHeckeReindexCoprimeUnitStatement` | volunteer-build-reviewed |
 | M063835 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumCompSurjective` | volunteer-build-reviewed |
 | M063836 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumDivSubLeTwoLogOfPartialSums` | volunteer-build-reviewed |
 | M063837 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumEqZeroAddUnits` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M064545 | P1797 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissiblePeriodZeroOfClassPeriodDecompositionAlStatement` | volunteer-build-reviewed |
 | M064546 | P1254 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraMapMemMaximalRealSubfieldIff` | volunteer-build-reviewed |
 | M064549 | P0736 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraicIsogenyConstantOfIsogenyFormula` | volunteer-build-reviewed |
-| M064554 | P0120 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope` | volunteer-build-reviewed |

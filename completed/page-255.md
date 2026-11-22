@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164113 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormIntSymm` | wave-reused |
+| M164114 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormalFibreQuotient` | volunteer-build-reviewed |
 | M164115 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFormalFibresRegular` | volunteer-build-reviewed |
 | M164117 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFrameJacobianSum` | wave-reused |
 | M164118 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFunctionFieldDegree` | wave-reused |
@@ -400,5 +402,3 @@
 | M164705 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalLocallyIrreducible` | volunteer-build-reviewed |
 | M164706 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalMaximumPrinciple` | volunteer-build-reviewed |
 | M164707 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModel` | volunteer-build-reviewed |
-| M164708 | P0574 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDisc` | build-observed |
-| M164709 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorChartGeneric` | volunteer-build-reviewed |

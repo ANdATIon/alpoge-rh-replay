@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101409 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CorePowMem` | wave-reused |
 | M101410 | P0796 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CplFinite` | wave-reused |
 | M101411 | P0852 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CutDimCongr` | wave-reused |
 | M101412 | P0449 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.DimFormula` | wave-reused |
@@ -401,4 +402,3 @@
 | M102161 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactCOfOfExactBase` | volunteer-build-reviewed |
 | M102163 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAlgebraicHeckeCharCyclotomic` | volunteer-build-reviewed |
 | M102165 | P0043 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicFunctionWithValuesOnCosetReps` | volunteer-build-reviewed |
-| M102166 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicRepTwistByCharacter` | volunteer-build-reviewed |

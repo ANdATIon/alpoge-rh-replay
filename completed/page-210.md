@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138933 | P0269 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.SmoothSndOfIsStrictlySemistable` | build-observed |
+| M138934 | P0535 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.SsModelAlgebraMapInjective` | build-observed |
 | M138935 | P1237 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.StmtPhi` | build-observed |
 | M138936 | P0535 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.ThetaSetupAlgebraMaps` | wave-reused |
 | M138939 | P0065 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.TiltSectionUnits.ResAbs` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M139943 | P2705 | `Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NadelVanishingPairsOfPrincipalisation` | volunteer-build-reviewed |
 | M139944 | P2701 | `Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NadelVanishingTheorem` | volunteer-build-reviewed |
 | M139945 | P2416 | `Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NefPullbackIsNef` | volunteer-build-reviewed |
-| M139946 | P0419 | `Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.NumberFieldToModPSquared` | volunteer-build-reviewed |
-| M139948 | P2416 | `Development.WeilBound.CoreStatements.PublishedTheorems.NadelVanishingPairs.NadelVanishingLemmas.OrderAtCodimOneEqOne` | volunteer-build-reviewed |

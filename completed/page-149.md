@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103402 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownZero` | volunteer-build-reviewed |
 | M103403 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.EventuallyNotMem` | volunteer-build-reviewed |
 | M103404 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.ExistsEigenform` | volunteer-build-reviewed |
 | M103407 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.FinOfKer` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M103958 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2SmulKey` | volunteer-build-reviewed |
 | M103959 | P2549 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.MemCongruenceSubgroupIff` | volunteer-build-reviewed |
 | M103960 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.ModuleStructureOfCommuting` | volunteer-build-reviewed |
-| M103962 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NeTeichEx` | volunteer-build-reviewed |

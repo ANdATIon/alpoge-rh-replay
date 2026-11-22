@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155286 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.Assemble` | build-observed |
+| M155287 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.IdealBasis` | build-observed |
 | M155288 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.IdealBasisAlt` | build-observed |
 | M155289 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.OKArea` | build-observed |
 | M155290 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.BorelGL` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M155720 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.SplitInvInjective` | wave-reused |
 | M155721 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.Development` | volunteer-build-reviewed |
 | M155722 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVMemTensInt` | volunteer-build-reviewed |
-| M155723 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVSumTmul` | volunteer-build-reviewed |
-| M155724 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVTmulEqTmulApply` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112010 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.FrEx` | build-observed |
 | M112013 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PBaseFacts` | build-observed |
 | M112014 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PClopenAt` | build-observed |
 | M112015 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrComm` | build-observed |
@@ -401,4 +402,3 @@
 | M112487 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.LocGal` | volunteer-build-reviewed |
 | M112488 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.NormDom` | volunteer-build-reviewed |
 | M112489 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.QuotEmb` | volunteer-build-reviewed |
-| M112490 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubPerm` | volunteer-build-reviewed |

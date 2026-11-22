@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078054 | P2353 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelWithRatio` | build-observed |
 | M078057 | P0819 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModulusBbDisjoint` | build-observed |
 | M078061 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMaps` | volunteer-build-reviewed |
 | M078062 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMapsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M078874 | P0711 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteIntegralClosureOfEssFiniteTypeIntDomainStatement` | build-observed |
 | M078875 | P2755 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecond` | volunteer-build-reviewed |
 | M078876 | P2761 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecondStatement` | volunteer-build-reviewed |
-| M078877 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteNonemptyOffCharts` | volunteer-build-reviewed |

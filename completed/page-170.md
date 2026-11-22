@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114590 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtLift` | wave-reused |
 | M114591 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtOne` | wave-reused |
 | M114592 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRedZero` | wave-reused |
 | M114593 | P1073 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRingSplit` | wave-reused |
@@ -401,4 +402,3 @@
 | M115035 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureUpperUni` | build-observed |
 | M115037 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryCriterion` | volunteer-build-reviewed |
 | M115038 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryOfGenerator` | volunteer-build-reviewed |
-| M115040 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleCoboundaryFiniteIndex` | volunteer-build-reviewed |

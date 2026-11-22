@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045352 | P2225 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariant` | volunteer-build-reviewed |
 | M045353 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariantStatement` | volunteer-build-reviewed |
 | M045354 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralRatioOfHyp` | volunteer-build-reviewed |
 | M045355 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairLinearBarVector` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M046004 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolUnitNeZero` | volunteer-build-reviewed |
 | M046006 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExp` | build-observed |
 | M046007 | P0786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExpStatement` | build-observed |
-| M046009 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleIsoGenericExtendsNormalLocalStatement` | volunteer-build-reviewed |

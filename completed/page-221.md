@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146896 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RepIntCastMul` | wave-reused |
+| M146897 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ReproducingFormulaReduction` | wave-reused |
 | M146900 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ResidueForm` | build-observed |
 | M146903 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictOrthogonalComplementNondeg` | build-observed |
 | M146904 | P0537 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RestrictedDualKernel` | build-observed |
@@ -400,5 +402,3 @@
 | M147435 | P0570 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAP` | build-observed |
 | M147436 | P0774 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAPOfSiegelLower` | build-observed |
 | M147437 | P0069 | `Formalism.LandauZeroFreeBounds.Statement` | build-observed |
-| M147438 | P0148 | `Formalism.LatticeLocalGlobal.LatticeLocalGlobalOfGlobal` | wave-reused |
-| M147439 | P0069 | `Formalism.LatticeLocalGlobal.Statement` | wave-reused |

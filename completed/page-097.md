@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066106 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasExpOfLayer` | volunteer-build-reviewed |
 | M066108 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasFDerivAtDerFamProdExpStatement` | volunteer-build-reviewed |
 | M066109 | P0190 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpData` | build-observed |
 | M066110 | P0252 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpDataStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M066689 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionA` | volunteer-build-reviewed |
 | M066690 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionAStatement` | volunteer-build-reviewed |
 | M066691 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodChars` | volunteer-build-reviewed |
-| M066692 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodCharsStatement` | volunteer-build-reviewed |

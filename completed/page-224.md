@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148382 | P1318 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBNum` | build-observed |
+| M148383 | P1318 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.ShiftOfColTie` | build-observed |
 | M148384 | P0885 | `Formalism.LocalToGlobal.Divisibility.DivisibilityProofs.NumbersP` | build-observed |
 | M148385 | P0602 | `Formalism.LocalToGlobal.Divisibility.DivisibilityProofs.TuplesP` | build-observed |
 | M148386 | P2221 | `Formalism.LocalToGlobal.Divisibility.DivisibilityRemainder.AdmissibleClasses.LinkGCl` | build-observed |
@@ -400,5 +402,3 @@
 | M148916 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb` | build-observed |
 | M148917 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsRec` | build-observed |
 | M148918 | P1187 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsStab` | build-observed |
-| M148919 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemFunMod` | build-observed |
-| M148920 | P1267 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemMIff` | build-observed |

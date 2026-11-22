@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103962 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NeTeichEx` | volunteer-build-reviewed |
 | M103963 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NonemptyUnitaryHeckeParts` | volunteer-build-reviewed |
 | M103964 | P2549 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NtExpand` | volunteer-build-reviewed |
 | M103968 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.OrdLevel` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M104521 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.ProjectivePermTensorFree` | volunteer-build-reviewed |
 | M104522 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.ProjectiveRepGroupHomologyPosVanishes` | volunteer-build-reviewed |
 | M104523 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.ProjectiveResFreeRepOfInjective` | volunteer-build-reviewed |
-| M104524 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.HomologicalStability.LinkExactnessStability.PtHCompPermMapOfEquivariant` | volunteer-build-reviewed |

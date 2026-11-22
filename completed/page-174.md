@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M116498 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ProportionalityOfLocalCharts` | volunteer-build-reviewed |
 | M116499 | P2751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ProportionalityPrincipleCompactification` | volunteer-build-reviewed |
 | M116500 | P2785 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RankGrowthBoundSmallScale` | volunteer-build-reviewed |
 | M116501 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RankPosNegativeWeightBundle` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M116941 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaKernelLocalOperatorAction` | volunteer-build-reviewed |
 | M116942 | P2705 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaKernelMatchOnOppositeParabolic` | volunteer-build-reviewed |
 | M116943 | P2573 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftApproxOfApproxData` | volunteer-build-reviewed |
-| M116945 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftGeneralLinear` | volunteer-build-reviewed |

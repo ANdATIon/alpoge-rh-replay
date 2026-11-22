@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080647 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecomposition` | volunteer-build-reviewed |
 | M080648 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecompositionStatement` | volunteer-build-reviewed |
 | M080653 | P1596 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSum` | build-observed |
 | M080654 | P1625 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSumStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M081615 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormula` | volunteer-build-reviewed |
 | M081616 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormulaStatement` | volunteer-build-reviewed |
 | M081617 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBound` | volunteer-build-reviewed |
-| M081618 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBoundStatement` | build-observed |

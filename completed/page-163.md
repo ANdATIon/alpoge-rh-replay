@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111109 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ChirpInf` | volunteer-build-reviewed |
 | M111110 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ChirpQ` | volunteer-build-reviewed |
 | M111111 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContEntry` | volunteer-build-reviewed |
 | M111112 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContKer` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M111534 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.PhiMem` | volunteer-build-reviewed |
 | M111535 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.ShiftM` | volunteer-build-reviewed |
 | M111537 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UMeasEx` | volunteer-build-reviewed |
-| M111538 | P2027 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UnfOf` | volunteer-build-reviewed |

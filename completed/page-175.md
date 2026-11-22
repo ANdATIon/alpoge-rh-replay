@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M116945 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftGeneralLinear` | volunteer-build-reviewed |
 | M116947 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftGlOfZelevinskyClassification` | volunteer-build-reviewed |
 | M116948 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftHasTypeAtPlaces` | volunteer-build-reviewed |
 | M116949 | P2633 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.ThetaLiftPeterssonNormEqRallisIntegral` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M117376 | P2230 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjMemRowsIffStatement` | volunteer-build-reviewed |
 | M117378 | P2687 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjRootStatement` | volunteer-build-reviewed |
 | M117379 | P2384 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjSelfDualGaloisRepCMDatum` | volunteer-build-reviewed |
-| M117380 | P2242 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjTwOfOne` | volunteer-build-reviewed |

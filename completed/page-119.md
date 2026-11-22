@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082669 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePowerStatement` | volunteer-build-reviewed |
 | M082670 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesRationalOnGoodCoversOfUntwisted` | volunteer-build-reviewed |
 | M082676 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TiedSKOfStd` | volunteer-build-reviewed |
 | M082677 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TildeCharacterOnUnitary` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M083713 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRoot` | volunteer-build-reviewed |
 | M083714 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRootStatement` | build-observed |
 | M083715 | P1283 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPoint` | wave-reused |
-| M083716 | P1310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPointStatement` | wave-reused |

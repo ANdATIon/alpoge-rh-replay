@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078877 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteNonemptyOffCharts` | volunteer-build-reviewed |
 | M078879 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOfResidueFiniteComplete` | volunteer-build-reviewed |
 | M078881 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOrbitsOfFiniteFibres` | volunteer-build-reviewed |
 | M078882 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePartAtOwnWeightNeBot` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M079750 | P2409 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InRealConeSummandsOfEvalZAdditiveCell` | build-observed |
 | M079752 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InclMulInvMul` | volunteer-build-reviewed |
 | M079753 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncludeLInjective` | volunteer-build-reviewed |
-| M079754 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncreasingRowChoicePerColumn` | volunteer-build-reviewed |

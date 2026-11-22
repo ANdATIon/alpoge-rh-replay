@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067351 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevelStatement` | build-observed |
 | M067352 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparable` | volunteer-build-reviewed |
 | M067353 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparableStatement` | volunteer-build-reviewed |
 | M067354 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyDvdPowOfAevalEqZero` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M068020 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicActionOnRootTowerStatement` | build-observed |
 | M068021 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicAdmissibleSemistable` | build-observed |
 | M068024 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharInertiaSurjective` | wave-reused |
-| M068028 | P0555 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterCongrRootOfUnityPow` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097078 | P2775 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentityStatement` | volunteer-build-reviewed |
 | M097079 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModel` | volunteer-build-reviewed |
 | M097080 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModelStatement` | volunteer-build-reviewed |
 | M097081 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawFramesWeilEquivalence` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M097664 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelAlgebraicExpansionStatement` | volunteer-build-reviewed |
 | M097665 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariant` | volunteer-build-reviewed |
 | M097666 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariantStatement` | volunteer-build-reviewed |
-| M097667 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGrid` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111538 | P2027 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UnfOf` | volunteer-build-reviewed |
 | M111541 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.LatSum` | volunteer-build-reviewed |
 | M111542 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanLaws` | volunteer-build-reviewed |
 | M111543 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanZero` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M112007 | P2807 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsStepHolds` | volunteer-build-reviewed |
 | M112008 | P1207 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsTotHolds` | build-observed |
 | M112009 | P2102 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EtOfRestrict` | volunteer-build-reviewed |
-| M112010 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.FrEx` | build-observed |

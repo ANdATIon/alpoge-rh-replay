@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041181 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAddStatement` | build-observed |
 | M041182 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionEqOfCohomologousCocycles` | volunteer-build-reviewed |
 | M041188 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlong` | volunteer-build-reviewed |
 | M041190 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlongOfSmoothInj` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M041918 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelVerticalLettersSetupStatement` | volunteer-build-reviewed |
 | M041919 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransform` | volunteer-build-reviewed |
 | M041920 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransformStatement` | volunteer-build-reviewed |
-| M041922 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormGaussianWeightForm` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158340 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfGluingFacts` | build-observed |
+| M158341 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfIsoAutCountGenus` | build-observed |
 | M158342 | P1347 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfLiftNumberGenus` | build-observed |
 | M158343 | P1052 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.HypothesesNumericalConsequences` | build-observed |
 | M158346 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.InnerMemOneOfMemDualOrthLattice` | build-observed |
@@ -400,5 +402,3 @@
 | M158866 | P0969 | `Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne` | build-observed |
 | M158867 | P0913 | `Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant` | build-observed |
 | M158868 | P0969 | `Formalism.SharpRestriction.Divisibility.PrinLevClass` | build-observed |
-| M158869 | P1052 | `Formalism.SharpRestriction.Divisibility.ProductFirstParts` | build-observed |
-| M158870 | P0969 | `Formalism.SharpRestriction.Divisibility.ProductZerothFirstParts` | build-observed |

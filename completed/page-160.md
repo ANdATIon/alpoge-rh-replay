@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109505 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsBijectiveCohomologyClassProductAdjunction` | build-observed |
 | M109506 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfClopRepOfRank` | volunteer-build-reviewed |
 | M109507 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfDisjointOpenCover` | volunteer-build-reviewed |
 | M109508 | P2441 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfIsSplitOfRank` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M110074 | P1949 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianQuotientInheritsAction` | volunteer-build-reviewed |
 | M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
 | M110076 | P2045 | `Development.AutomorphicArithmetic.DivisorFrames.AbsHcExponentLeAndAbsCenterLeOfSizeRows` | volunteer-build-reviewed |
-| M110077 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.AdaptedPlaneHermitianRestrict` | volunteer-build-reviewed |

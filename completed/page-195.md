@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128641 | P1755 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducible` | volunteer-build-reviewed |
+| M128642 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducibleStatement` | volunteer-build-reviewed |
 | M128643 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedLayersHold` | volunteer-build-reviewed |
 | M128644 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedLayersHoldStatement` | volunteer-build-reviewed |
 | M128645 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedProductIrreducible` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M129316 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PointIdealComapPrimeLift` | volunteer-build-reviewed |
 | M129317 | P0529 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PointIdealComapPrimeLiftStatement` | wave-reused |
 | M129319 | P0267 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PolarizationPolynomialCoeffBoundStatement` | volunteer-build-reviewed |
-| M129321 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumDeltaDecompositionStatement` | volunteer-build-reviewed |
-| M129322 | P0907 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PowerSumHeightChangeModel` | wave-reused |

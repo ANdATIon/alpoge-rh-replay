@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147878 | P0635 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm` | wave-reused |
+| M147879 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGmExLem` | wave-reused |
 | M147880 | P0830 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePHStab` | build-observed |
 | M147881 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePHStabSelf` | build-observed |
 | M147882 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePHaDefs` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M148379 | P1854 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.GammaSizeOfParameters` | build-observed |
 | M148380 | P1163 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBDGam` | build-observed |
 | M148381 | P1136 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBLam` | build-observed |
-| M148382 | P1318 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBNum` | build-observed |
-| M148383 | P1318 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.ShiftOfColTie` | build-observed |

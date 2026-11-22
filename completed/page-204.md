@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134940 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvSepR` | volunteer-build-reviewed |
+| M134947 | P1829 | `Development.DiscreteGroups.GlobalIrreducibility.LTw` | volunteer-build-reviewed |
 | M134949 | P1782 | `Development.DiscreteGroups.GlobalIrreducibility.LongEltCornerEqCyc` | volunteer-build-reviewed |
 | M134955 | P1829 | `Development.DiscreteGroups.GlobalIrreducibility.NeTopOfConj` | volunteer-build-reviewed |
 | M134960 | P2142 | `Development.DiscreteGroups.GlobalIrreducibility.RegularLocalOfDepthZero` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M135480 | P0662 | `Development.EtaleCohomology.EtaleSheaves.H1FiniteCoefficients` | wave-reused |
 | M135481 | P0532 | `Development.EtaleCohomology.EtaleSheaves.H1MultiplicativeGroup` | build-observed |
 | M135483 | P0496 | `Development.EtaleCohomology.EtaleSheaves.HZeroPf` | wave-reused |
-| M135484 | P0566 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing` | wave-reused |
-| M135485 | P0532 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing.SecondBlockUnimodularLocusInclusionMono` | wave-reused |

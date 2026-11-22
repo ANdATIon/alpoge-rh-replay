@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058118 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliser` | wave-reused |
 | M058119 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliserStatement` | wave-reused |
 | M058120 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnesses` | wave-reused |
 | M058121 | P0521 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnessesStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M058766 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIntegralValIntegerIff` | wave-reused |
 | M058767 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIrrAndDenseOfIsFdegG` | build-observed |
 | M058769 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubspaceRingOfIntegersStatement` | volunteer-build-reviewed |
-| M058770 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubtype` | volunteer-build-reviewed |

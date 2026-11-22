@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
+| M127228 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite` | volunteer-build-reviewed |
 | M127229 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfiniteStatement` | volunteer-build-reviewed |
 | M127230 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFactorizableDecomposition` | volunteer-build-reviewed |
 | M127233 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFiniteSumOfProductsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |
 | M127931 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficientsStatement` | volunteer-build-reviewed |
 | M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |
-| M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
-| M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |

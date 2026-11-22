@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071991 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelUniqueOfIrreducibleStatement` | build-observed |
 | M071992 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZero` | volunteer-build-reviewed |
 | M071993 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZeroStatement` | volunteer-build-reviewed |
 | M071994 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicCharacterRestrictCmFieldEqCyclotomicPow` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M072745 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVector` | build-observed |
 | M072746 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVectorStatement` | build-observed |
 | M072751 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjective` | build-observed |
-| M072752 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjectiveStatement` | build-observed |

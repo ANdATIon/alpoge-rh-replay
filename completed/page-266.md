@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171000 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSTwSat` | volunteer-build-reviewed |
+| M171002 | P2473 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.SConjSpaceC` | volunteer-build-reviewed |
 | M171003 | P2653 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChangeLifts.QuadraticBaseChangeOfLiterature` | volunteer-build-reviewed |
 | M171005 | P2608 | `PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.AbsPInfModuleSection` | volunteer-build-reviewed |
 | M171006 | P2634 | `PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.AbsoluteConvergenceHolds` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M171465 | P0915 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChart` | wave-reused |
 | M171466 | P0862 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA` | wave-reused |
 | M171467 | P0889 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartB` | wave-reused |
-| M171468 | P0915 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ContinuousOnOfCharts` | build-observed |
-| M171469 | P0232 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheaf` | wave-reused |

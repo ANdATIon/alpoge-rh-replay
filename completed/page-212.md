@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M140987 | P0884 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.CasselmanStrictlyDominantExample` | build-observed |
+| M140988 | P0269 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.IsJointGenEig` | build-observed |
 | M140989 | P1809 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.JacquetLemma` | volunteer-build-reviewed |
 | M140993 | P0856 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.UnitaryExtremality.IsStrictDom` | build-observed |
 | M140994 | P0884 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.UnitaryExtremality.SatPowNonvan` | build-observed |
@@ -400,5 +402,3 @@
 | M141746 | P1582 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.ProdIotaRev` | volunteer-build-reviewed |
 | M141747 | P1554 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.StdIrrQuotGeneric` | volunteer-build-reviewed |
 | M141748 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.RankDual` | volunteer-build-reviewed |
-| M141749 | P1496 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.UnipBEqUnipotent` | volunteer-build-reviewed |
-| M141750 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.WhittakerCuspidal.WhitCuspOfSegCuspGeneric` | volunteer-build-reviewed |

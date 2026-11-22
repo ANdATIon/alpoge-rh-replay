@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166260 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTermEq` | volunteer-build-reviewed |
+| M166261 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTransportFirst` | volunteer-build-reviewed |
 | M166262 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTransportLast` | volunteer-build-reviewed |
 | M166263 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTransportPsum` | volunteer-build-reviewed |
 | M166264 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestTop` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M167051 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedEffectiveSection` | build-observed |
 | M167052 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedMixedNonneg` | build-observed |
 | M167053 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedNefF` | build-observed |
-| M167056 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedOne` | build-observed |
-| M167058 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedProductNonneg` | pilot-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108440 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.LiftSmul` | volunteer-build-reviewed |
 | M108441 | P2641 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.LinkedRig` | volunteer-build-reviewed |
 | M108442 | P2659 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.MapOfRep` | volunteer-build-reviewed |
 | M108443 | P2641 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.MapReducibleThreeDim` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M109008 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.RayChar` | volunteer-build-reviewed |
 | M109009 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.RootChar` | volunteer-build-reviewed |
 | M109010 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.UnitDivNear` | volunteer-build-reviewed |
-| M109011 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.Adj2` | volunteer-build-reviewed |

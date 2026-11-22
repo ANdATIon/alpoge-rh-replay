@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136624 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialSplittingFunctoriality` | wave-reused |
+| M136625 | P0773 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.NonMonomialOrderReduction` | wave-reused |
 | M136626 | P0693 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.OrderAlongBlowupSequence` | wave-reused |
 | M136627 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.OrderPullbackInvariance` | wave-reused |
 | M136628 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.OrderReductionAlgorithm` | wave-reused |
@@ -400,5 +402,3 @@
 | M137206 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LanglandsMultisegmentsOfSeg` | volunteer-build-reviewed |
 | M137211 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.Outright` | volunteer-build-reviewed |
 | M137215 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalCompatibilityHolds` | volunteer-build-reviewed |
-| M137216 | P1466 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalOfIwahori` | volunteer-build-reviewed |
-| M137221 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CharPolyRestriction` | volunteer-build-reviewed |

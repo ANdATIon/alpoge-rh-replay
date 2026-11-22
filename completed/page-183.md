@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120911 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExists` | volunteer-build-reviewed |
 | M120912 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExistsStatement` | volunteer-build-reviewed |
 | M120914 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchSmoothCompTransposeInvStatement` | volunteer-build-reviewed |
 | M120919 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterInCoordinates` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M121475 | P0797 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsCongr` | build-observed |
 | M121476 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsEqOfEq` | wave-reused |
 | M121477 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationProperties` | volunteer-build-reviewed |
-| M121478 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationPropertiesStatement` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079754 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncreasingRowChoicePerColumn` | volunteer-build-reviewed |
 | M079765 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlaces` | volunteer-build-reviewed |
 | M079766 | P2215 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlacesStatement` | volunteer-build-reviewed |
 | M079767 | P2191 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndicesPairingLengthsVanishOffTwistedPlaces` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M080636 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeFormOrderStatement` | volunteer-build-reviewed |
 | M080640 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeRegularPointStatement` | volunteer-build-reviewed |
 | M080643 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalDualEqAddSpan` | volunteer-build-reviewed |
-| M080647 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecomposition` | volunteer-build-reviewed |

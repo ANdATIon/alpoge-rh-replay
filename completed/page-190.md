@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
+| M125394 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionSupport` | volunteer-build-reviewed |
 | M125395 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionTranslation` | volunteer-build-reviewed |
 | M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
 | M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |
 | M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
 | M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
-| M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
-| M126013 | P2573 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInert` | volunteer-build-reviewed |

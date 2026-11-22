@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168368 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenFibNef` | wave-reused |
+| M168369 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenerated` | wave-reused |
 | M168370 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGeneratedAmple` | wave-reused |
 | M168372 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGlobalFunctionsIntegral` | wave-reused |
 | M168373 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGradedPres` | wave-reused |
@@ -400,5 +402,3 @@
 | M168968 | P0971 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartDim` | wave-reused |
 | M168969 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartModel` | wave-reused |
 | M168970 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet` | wave-reused |
-| M168973 | P0340 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PInvertibleProductRep` | volunteer-build-reviewed |
-| M168974 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PLatticeCountVolume` | volunteer-build-reviewed |

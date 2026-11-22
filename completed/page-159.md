@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109011 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.Adj2` | volunteer-build-reviewed |
 | M109012 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.BarFacts` | volunteer-build-reviewed |
 | M109013 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.CharacterSubgroupOpenEvenIndexTamePower` | volunteer-build-reviewed |
 | M109014 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.Elts2` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M109502 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceSectionsStatement` | volunteer-build-reviewed |
 | M109503 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleLocallyHoldsOfPointwiseCoverOrAffineLocal` | volunteer-build-reviewed |
 | M109504 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtalePurityFreeCover` | wave-reused |
-| M109505 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsBijectiveCohomologyClassProductAdjunction` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074801 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHeckeStatement` | volunteer-build-reviewed |
 | M074802 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHecke` | volunteer-build-reviewed |
 | M074803 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHeckeStatement` | volunteer-build-reviewed |
 | M074804 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterUnramifiedInf` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M075531 | P2678 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfHyp` | volunteer-build-reviewed |
 | M075532 | P2684 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfPublishedStatement` | volunteer-build-reviewed |
 | M075536 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedExistsStatement` | volunteer-build-reviewed |
-| M075537 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinear` | volunteer-build-reviewed |

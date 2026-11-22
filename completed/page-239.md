@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156609 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.StabilizerFixesFrameVector` | volunteer-build-reviewed |
+| M156610 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.SubgroupLocallyCompactHolds` | build-observed |
 | M156611 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.TensTopOf` | wave-reused |
 | M156612 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.TraceGramNondegenerate` | build-observed |
 | M156613 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.UniHaar` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M157016 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdDual` | wave-reused |
 | M157017 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdTestInf` | wave-reused |
 | M157018 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdUniq` | wave-reused |
-| M157019 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SiegelWeilNarrowOfWide` | wave-reused |
-| M157020 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.TensAll` | wave-reused |

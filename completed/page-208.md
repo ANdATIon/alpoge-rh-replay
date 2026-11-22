@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137216 | P1466 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalOfIwahori` | volunteer-build-reviewed |
+| M137221 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CharPolyRestriction` | volunteer-build-reviewed |
 | M137223 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CyclicCMExtension` | volunteer-build-reviewed |
 | M137224 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CyclicComposition` | volunteer-build-reviewed |
 | M137226 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.FrobeniusTraceNorm` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M138153 | P2164 | `Development.WeilBound.CoreStatements.FlagImmersions.FlagImmersion` | volunteer-build-reviewed |
 | M138157 | P2592 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelRealTower` | volunteer-build-reviewed |
 | M138160 | P2735 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelTowerFifthCondition` | volunteer-build-reviewed |
-| M138162 | P2552 | `Development.WeilBound.CoreStatements.FlagImmersions.HasPerConj` | volunteer-build-reviewed |
-| M138173 | P2552 | `Development.WeilBound.CoreStatements.FlagImmersions.IsHolToOfLocal` | volunteer-build-reviewed |

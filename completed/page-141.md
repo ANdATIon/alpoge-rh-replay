@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098294 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitution` | volunteer-build-reviewed |
 | M098295 | P2129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitutionStatement` | volunteer-build-reviewed |
 | M098297 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompatibleOfSameSplittingCharacterStatement` | volunteer-build-reviewed |
 | M098298 | P2204 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompositionLines` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M098869 | P1823 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsWeightPoints` | build-observed |
 | M098870 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijFAndExpandsFLin` | build-observed |
 | M098873 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijOfOnto` | wave-reused |
-| M098874 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFLinear` | wave-reused |

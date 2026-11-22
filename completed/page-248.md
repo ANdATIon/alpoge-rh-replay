@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160646 | P0942 | `Formalism.SharpRestriction.LevelLetterCocycles.FinrankEqOneOfBijective` | wave-reused |
+| M160647 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.FinrankMaxUnramifiedSubfieldPadicFinExtPos` | build-observed |
 | M160648 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.FirstFrameStepImplication` | build-observed |
 | M160651 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.FontExAll` | build-observed |
 | M160652 | P0860 | `Formalism.SharpRestriction.LevelLetterCocycles.FourthHypothesisOfLifting` | build-observed |
@@ -400,5 +402,3 @@
 | M161359 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbits` | build-observed |
 | M161360 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbitsRefined` | build-observed |
 | M161361 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.MarkedRun` | build-observed |
-| M161362 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.QVandermonde` | build-observed |
-| M161363 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.SaturatedMember` | build-observed |

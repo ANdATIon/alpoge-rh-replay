@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134175 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeLeRankMulSlopeStatement` | volunteer-build-reviewed |
+| M134176 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeOrthogonalSum` | volunteer-build-reviewed |
 | M134177 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeOrthogonalSumStatement` | volunteer-build-reviewed |
 | M134181 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NzEqNzOfAndPos` | build-observed |
 | M134182 | P0909 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NzEqNzOfAndPosStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M134917 | P1438 | `Development.DiscreteGroups.GlobalIrreducibility.LConvCut` | volunteer-build-reviewed |
 | M134927 | P0064 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKMCore` | volunteer-build-reviewed |
 | M134932 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKirStep` | volunteer-build-reviewed |
-| M134940 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvSepR` | volunteer-build-reviewed |
-| M134947 | P1829 | `Development.DiscreteGroups.GlobalIrreducibility.LTw` | volunteer-build-reviewed |

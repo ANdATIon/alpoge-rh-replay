@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107619 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdCharIff` | volunteer-build-reviewed |
 | M107621 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlag` | volunteer-build-reviewed |
 | M107622 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlagU` | volunteer-build-reviewed |
 | M107623 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdinaryDeformation` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M108437 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.Imports` | volunteer-build-reviewed |
 | M108438 | P2673 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IntIffNorm` | volunteer-build-reviewed |
 | M108439 | P2667 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IsIrrOfMatIrr` | volunteer-build-reviewed |
-| M108440 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.LiftSmul` | volunteer-build-reviewed |

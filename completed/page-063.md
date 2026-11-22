@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042562 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapHaarEqOfLattice` | volunteer-build-reviewed |
 | M042565 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterate` | build-observed |
 | M042566 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterateStatement` | build-observed |
 | M042568 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapLiftEEqZero` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M043245 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalIdealOfCountLeOrderStatement` | volunteer-build-reviewed |
 | M043246 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGenerator` | volunteer-build-reviewed |
 | M043247 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGeneratorStatement` | volunteer-build-reviewed |
-| M043248 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalNormsOfLiftUFEq` | volunteer-build-reviewed |

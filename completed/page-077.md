@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052380 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlaceParts` | volunteer-build-reviewed |
 | M052381 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlacePartsStatement` | volunteer-build-reviewed |
 | M052382 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDual` | volunteer-build-reviewed |
 | M052383 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDualStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M053062 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSumInvariantRationalUnitaryStatement` | volunteer-build-reviewed |
 | M053063 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSumNeZeroIndicator` | volunteer-build-reviewed |
 | M053073 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsIntegralUnitNormalLocalDo` | volunteer-build-reviewed |
-| M053074 | P2638 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsIntegralUnitNormalLocalDoStatement` | volunteer-build-reviewed |

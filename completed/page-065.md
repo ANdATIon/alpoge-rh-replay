@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043939 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecVecMulVec` | volunteer-build-reviewed |
 | M043942 | P1400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultRealElt` | build-observed |
 | M043945 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiDifferenceVanishesOfInvarianceStatement` | volunteer-build-reviewed |
 | M043946 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiPlaceStep` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M044658 | P0247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationMulEqAevalRootStatement` | wave-reused |
 | M044660 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactification` | volunteer-build-reviewed |
 | M044661 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactificationStatement` | volunteer-build-reviewed |
-| M044662 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuum` | volunteer-build-reviewed |

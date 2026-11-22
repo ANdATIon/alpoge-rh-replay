@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055249 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruenceDetEqOneOfThreeLeStatement` | volunteer-build-reviewed |
 | M055254 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConj` | volunteer-build-reviewed |
 | M055255 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConjStatement` | volunteer-build-reviewed |
 | M055256 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjMapsKerAevalBasisAndGram` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M055898 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolConjEqOneOfMassCNeZero` | volunteer-build-reviewed |
 | M055900 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolEqIndexMulMass` | volunteer-build-reviewed |
 | M055901 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolGeOfHilbertSamuel` | volunteer-build-reviewed |
-| M055902 | P0443 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeChartChange` | build-observed |

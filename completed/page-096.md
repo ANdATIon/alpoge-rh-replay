@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065344 | P0588 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplitStatement` | build-observed |
 | M065345 | P1036 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NuRowNonnegLeTenMul` | build-observed |
 | M065348 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OneLeLetterBlockLength` | volunteer-build-reviewed |
 | M065349 | P2724 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OpenAndLinkedMonoExtension` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M066100 | P0404 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HaarUpqIsMulRightInvariantStatement` | build-observed |
 | M066102 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasAllKTypesOfClosureDiscreteSeriesCoefficientsStatement` | volunteer-build-reviewed |
 | M066104 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasDerivAtMatrixExpEntryReal` | volunteer-build-reviewed |
-| M066106 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasExpOfLayer` | volunteer-build-reviewed |

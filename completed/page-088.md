@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060104 | P1672 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanCoefficientIdealEqSpanFrameScaleStatement` | volunteer-build-reviewed |
 | M060105 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanDecay` | volunteer-build-reviewed |
 | M060108 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanEqMap` | wave-reused |
 | M060110 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanInfEq` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M060774 | P0871 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsFormalGroupLawOfChartOfJetChart` | build-observed |
 | M060777 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsFrameGCoefficientRingBaseChangeStatement` | build-observed |
 | M060778 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsNilpotentOfMemKerJetTruncR` | wave-reused |
-| M060779 | P0025 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsReducedGenericFibreOfIsReduced` | volunteer-build-reviewed |

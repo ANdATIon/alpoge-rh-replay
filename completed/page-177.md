@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M117840 | P2770 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodFTAllStA` | volunteer-build-reviewed |
 | M117841 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodGenericRows` | volunteer-build-reviewed |
 | M117842 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodGenericRowsStatement` | volunteer-build-reviewed |
 | M117843 | P2129 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.GoodNotMemBadPl` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M118271 | P2206 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkZeroOfChartZeroAlt` | volunteer-build-reviewed |
 | M118272 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkZeroOfChartZeroStatement` | volunteer-build-reviewed |
 | M118273 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkedBundlesGoodOfLocalLanglands` | volunteer-build-reviewed |
-| M118274 | P2729 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LinkedBundlesL3OfOpen` | volunteer-build-reviewed |

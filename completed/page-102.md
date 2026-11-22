@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069321 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFinIdem` | volunteer-build-reviewed |
 | M069322 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitriangu` | volunteer-build-reviewed |
 | M069323 | P2214 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitrianguStatement` | volunteer-build-reviewed |
 | M069325 | P1843 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsGrpPullbackOfLattice` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M069926 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPowStatement` | build-observed |
 | M069927 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegers` | volunteer-build-reviewed |
 | M069928 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegersStatement` | volunteer-build-reviewed |
-| M069929 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbedding` | volunteer-build-reviewed |

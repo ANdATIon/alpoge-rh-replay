@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110077 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.AdaptedPlaneHermitianRestrict` | volunteer-build-reviewed |
 | M110078 | P0046 | `Development.AutomorphicArithmetic.DivisorFrames.AdeleUnitsPolarCircles` | volunteer-build-reviewed |
 | M110079 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleFlagValuation` | volunteer-build-reviewed |
 | M110080 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleLevelMatch` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M110538 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracAlg` | volunteer-build-reviewed |
 | M110539 | P1826 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracCh` | volunteer-build-reviewed |
 | M110541 | P1848 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracW` | volunteer-build-reviewed |
-| M110542 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DivSupp` | volunteer-build-reviewed |

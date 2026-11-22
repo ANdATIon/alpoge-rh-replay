@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157521 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousMeasureSplitting` | build-observed |
+| M157522 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousTensMap` | build-observed |
 | M157523 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.HermitianMeasureSplitting` | build-observed |
 | M157524 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.MapSplitEq` | build-observed |
 | M157525 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.MemSpanRIffSplit` | build-observed |
@@ -400,5 +402,3 @@
 | M157924 | P0279 | `Formalism.ProductFormula.StatementOCCM` | build-observed |
 | M157925 | P0540 | `Formalism.QuotientMetricDivisors.BoundsChain` | wave-reused |
 | M157926 | P0505 | `Formalism.QuotientMetricDivisors.ClassSumDualGeF` | wave-reused |
-| M157927 | P0464 | `Formalism.QuotientMetricDivisors.ClassSumDualLe` | wave-reused |
-| M157928 | P0505 | `Formalism.QuotientMetricDivisors.Complement2Normaliser` | build-observed |

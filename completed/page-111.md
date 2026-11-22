@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075537 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinear` | volunteer-build-reviewed |
 | M075538 | P2671 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinearStatement` | volunteer-build-reviewed |
 | M075539 | P2649 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedNeg` | build-observed |
 | M075549 | P1513 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicHeightGrowthOfCosetGrowthUnitaryPair` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M076498 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffOfContinuousOneParameter` | volunteer-build-reviewed |
 | M076499 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffOfContinuousOneParameterStatement` | volunteer-build-reviewed |
 | M076500 | P1201 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetIntegralNat` | build-observed |
-| M076501 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContainsRayFieldSub` | volunteer-build-reviewed |

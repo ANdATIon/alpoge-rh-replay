@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148919 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemFunMod` | build-observed |
+| M148920 | P1267 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemMIff` | build-observed |
 | M148921 | P0995 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpLApply` | build-observed |
 | M148922 | P0967 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ColSpanMap` | build-observed |
 | M148923 | P1049 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CompFintype` | build-observed |
@@ -400,5 +402,3 @@
 | M149550 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.LiftHeckeOperators` | build-observed |
 | M149551 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.PairingCommutesLiftOperators` | build-observed |
 | M149552 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.UnitaryTwoPackage` | build-observed |
-| M149553 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapEq` | build-observed |
-| M149554 | P1319 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapT` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154831 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.DivisionLowersSecondDegree` | volunteer-build-reviewed |
+| M154832 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.DivisionPartitionTotal` | volunteer-build-reviewed |
 | M154833 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.EagonNorthcottExactOf` | volunteer-build-reviewed |
 | M154834 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.ExactSecondDegreeZero` | volunteer-build-reviewed |
 | M154835 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.ExactSecondDegreeZeroOf` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M155280 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookBoundOfSteps` | build-observed |
 | M155281 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookNorm` | build-observed |
 | M155282 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.ProdFactorialLe` | build-observed |
-| M155286 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.Assemble` | build-observed |
-| M155287 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.IdealBasis` | build-observed |

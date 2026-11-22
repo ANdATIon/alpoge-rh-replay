@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160134 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.GainBoundAt` | build-observed |
+| M160135 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.GoodRankOfPrim` | build-observed |
 | M160136 | P1190 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.InitialLevelMonoWeights` | build-observed |
 | M160137 | P1140 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.LeviInductionForms` | build-observed |
 | M160138 | P1024 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ManyEdges` | build-observed |
@@ -400,5 +402,3 @@
 | M160640 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.FamilyStatementsLocal` | build-observed |
 | M160643 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.FiltrationSaturationKiller` | wave-reused |
 | M160645 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.FinalLevelsOf` | wave-reused |
-| M160646 | P0942 | `Formalism.SharpRestriction.LevelLetterCocycles.FinrankEqOneOfBijective` | wave-reused |
-| M160647 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.FinrankMaxUnramifiedSubfieldPadicFinExtPos` | build-observed |

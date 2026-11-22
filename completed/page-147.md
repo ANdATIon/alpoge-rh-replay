@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102166 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicRepTwistByCharacter` | volunteer-build-reviewed |
 | M102169 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCMExtension` | volunteer-build-reviewed |
 | M102170 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCMIntegralOfExistsCM` | volunteer-build-reviewed |
 | M102171 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCharacterSeparation` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M102733 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GGram` | volunteer-build-reviewed |
 | M102734 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHommem` | wave-reused |
 | M102735 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHomprime` | wave-reused |
-| M102737 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GRatliff` | wave-reused |

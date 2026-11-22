@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M106652 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DeRhamWeightsOfLocalArtinCharacters` | volunteer-build-reviewed |
 | M106653 | P2794 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DirGNeOne` | volunteer-build-reviewed |
 | M106654 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DiscreteSeriesCoefficientsCuspidal` | volunteer-build-reviewed |
 | M106657 | P2797 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.DnEnds` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M107089 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinDefs` | volunteer-build-reviewed |
 | M107090 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinPairs` | volunteer-build-reviewed |
 | M107091 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinTop` | volunteer-build-reviewed |
-| M107092 | P2804 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WindowBoundOfLiteratureLevel` | volunteer-build-reviewed |

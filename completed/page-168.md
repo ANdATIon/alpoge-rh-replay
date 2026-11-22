@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113707 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.PToTor` | volunteer-build-reviewed |
 | M113708 | P2713 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.R2g` | volunteer-build-reviewed |
 | M113709 | P2572 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.ToralDeRham.AwayEqOfPlainTor` | volunteer-build-reviewed |
 | M113710 | P2621 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.ToralDeRham.ExistsCuspidalCharLiftOfSolvableCmExtension` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M114169 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepCOne` | volunteer-build-reviewed |
 | M114170 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepCOneB` | volunteer-build-reviewed |
 | M114171 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepCOneC` | volunteer-build-reviewed |
-| M114172 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelWeilAstepCut` | volunteer-build-reviewed |

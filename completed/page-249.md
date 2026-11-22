@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161362 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.QVandermonde` | build-observed |
+| M161363 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.SaturatedMember` | build-observed |
 | M161364 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.SubspaceCount` | build-observed |
 | M161365 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.TailConcavity` | build-observed |
 | M161366 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.TailSums` | build-observed |
@@ -400,5 +402,3 @@
 | M161767 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelC` | wave-reused |
 | M161768 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelQ` | wave-reused |
 | M161769 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColAssembly` | wave-reused |
-| M161770 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColChain` | wave-reused |
-| M161771 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColTwoStep` | wave-reused |

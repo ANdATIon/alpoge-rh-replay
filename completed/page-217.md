@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144455 | P0147 | `Formalism.FlagUnipotentLattices.PairingOrthogonalComplement` | build-observed |
+| M144456 | P0420 | `Formalism.FlagUnipotentLattices.QDetNegTranspose` | build-observed |
 | M144457 | P0460 | `Formalism.FlagUnipotentLattices.SignaturePreservingEntryNorms` | build-observed |
 | M144458 | P0374 | `Formalism.FlagUnipotentLattices.StabiliserComplementDecomposition` | wave-reused |
 | M144459 | P0211 | `Formalism.FlagUnipotentLattices.SubmoduleGeneratorsBound` | build-observed |
@@ -400,5 +402,3 @@
 | M144854 | P0664 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtAdjoinIff` | wave-reused |
 | M144855 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtIffVd` | wave-reused |
 | M144856 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsoCountOneInert` | wave-reused |
-| M144857 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LValEtaEqLValEtaF` | wave-reused |
-| M144858 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LamGEqOneOfOrtho` | wave-reused |

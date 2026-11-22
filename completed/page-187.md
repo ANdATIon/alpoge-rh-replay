@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123313 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexing` | volunteer-build-reviewed |
 | M123314 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexingStatement` | volunteer-build-reviewed |
 | M123317 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishing` | volunteer-build-reviewed |
 | M123318 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishingStatement` | volunteer-build-reviewed |
@@ -122,6 +123,7 @@
 | M123494 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierParameterDerivative` | volunteer-build-reviewed |
 | M123496 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierTransformMatrixSpaceInvolution` | volunteer-build-reviewed |
 | M123499 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FourierZeroHoldsStatement` | volunteer-build-reviewed |
+| M123501 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FractionFieldTranscendenceBasisExtStatement` | volunteer-build-reviewed |
 | M123503 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FrameBlockZeroStabilizesFlagStatement` | volunteer-build-reviewed |
 | M123504 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FrameCompletes` | volunteer-build-reviewed |
 | M123505 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FrameFormCoboundaryRelation` | build-observed |
@@ -400,5 +402,3 @@
 | M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |
 | M123907 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaConditionStatement` | volunteer-build-reviewed |
 | M123908 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUnique` | build-observed |
-| M123909 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUniqueStatement` | build-observed |
-| M123912 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentatives` | volunteer-build-reviewed |

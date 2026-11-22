@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121478 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationPropertiesStatement` | volunteer-build-reviewed |
 | M121479 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGenerator` | build-observed |
 | M121480 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGeneratorStatement` | build-observed |
 | M121481 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmpPutSucc` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M122054 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIso` | build-observed |
 | M122055 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIsoStatement` | volunteer-build-reviewed |
 | M122056 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanish` | volunteer-build-reviewed |
-| M122057 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanishStatement` | volunteer-build-reviewed |

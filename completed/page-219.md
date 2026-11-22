@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145261 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTPeel` | wave-reused |
+| M145262 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.StandardMonomialSpanOf` | wave-reused |
 | M145263 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SumIcoTsubTelescope` | wave-reused |
 | M145264 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.TensorBasis` | wave-reused |
 | M145265 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.TwoColumn` | wave-reused |
@@ -400,5 +402,3 @@
 | M146238 | P1733 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentiableAtOfPuncturedSmooth` | build-observed |
 | M146239 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket` | wave-reused |
 | M146240 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationScalesHeisenbergMeasure` | wave-reused |
-| M146241 | P0602 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationUnipotentWeylMeasure` | wave-reused |
-| M146242 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DirectionsInParabolic` | wave-reused |

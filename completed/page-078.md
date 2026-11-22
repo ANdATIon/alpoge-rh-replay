@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053074 | P2638 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsIntegralUnitNormalLocalDoStatement` | volunteer-build-reviewed |
 | M053075 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsMemNormalDomain` | volunteer-build-reviewed |
 | M053077 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctions` | volunteer-build-reviewed |
 | M053078 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctionsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M053780 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusPointSectionAlongSpreadingTrait` | volunteer-build-reviewed |
 | M053783 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRankEqRankThetaGroupOfPointPerpStatement` | volunteer-build-reviewed |
 | M053785 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRealMultAppellHumbertStatement` | volunteer-build-reviewed |
-| M053787 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRigiditySndEqZeroCanonicalChartStatement` | volunteer-build-reviewed |

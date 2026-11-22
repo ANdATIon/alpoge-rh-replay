@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085260 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPointStatement` | volunteer-build-reviewed |
 | M085262 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsStableBasOfPullback` | build-observed |
 | M085263 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupEqRangeOfLists` | volunteer-build-reviewed |
 | M085264 | P0127 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupOfFinite` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M085998 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionAndGeometricallyConnect` | build-observed |
 | M085999 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionDescendsEtaleCover` | volunteer-build-reviewed |
 | M086001 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfCharZero` | volunteer-build-reviewed |
-| M086002 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfDirectionsLe` | volunteer-build-reviewed |

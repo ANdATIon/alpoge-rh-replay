@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073400 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice` | volunteer-build-reviewed |
 | M073402 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticStarStructure` | volunteer-build-reviewed |
 | M073404 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticUnitAtRamifiedPlaceStatement` | volunteer-build-reviewed |
 | M073410 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilFourierPreservesTestAdditiveStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M074109 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanRestrictEqTopOfSimpleStatement` | build-observed |
 | M074110 | P0193 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSelfDual` | volunteer-build-reviewed |
 | M074111 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsion` | wave-reused |
-| M074112 | P1013 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsionStatement` | wave-reused |

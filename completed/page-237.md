@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155723 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVSumTmul` | volunteer-build-reviewed |
+| M155724 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVTmulEqTmulApply` | volunteer-build-reviewed |
 | M155726 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.ZeroMemLatSet` | volunteer-build-reviewed |
 | M155727 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.CompVInvMulVec` | volunteer-build-reviewed |
 | M155728 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.ConjDefs` | build-observed |
@@ -400,5 +402,3 @@
 | M156170 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.HermitianOrthogonalProjectionVector` | build-observed |
 | M156171 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.PRowWSColW` | build-observed |
 | M156172 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.UnitaryP` | build-observed |
-| M156173 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormOneCharacters.NormOneCharacterApply` | build-observed |
-| M156174 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormOneInverseMembership.UnitBallK` | build-observed |
