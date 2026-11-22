@@ -188,7 +188,8 @@ class PortBuildTest(unittest.TestCase):
 
     def test_check_ready_only_skips_members_with_unported_imports(self):
         (self.patches / 'M000001.json').write_text('{}')
-        args = SimpleNamespace(packet='M000002', work=self.work, out=self.root / 'out', ready_only=True)
+        args = SimpleNamespace(packet='M000002', work=self.work, out=self.root / 'out', ready_only=True,
+                               exclude=[])
         built = []
         with patch.object(port_build.tasks, 'load', return_value=self.rows), \
                 patch.object(port_build, 'target', return_value={}), \
@@ -230,7 +231,8 @@ class PortBuildTest(unittest.TestCase):
     def test_check_warns_about_unchanged_modules_with_reused_names(self):
         (self.tree / 'src/Base.lean').write_text('def L : Prop := Submodule.IsLattice K M\n')
         self.rows[0]['source_sha256'] = sha((self.tree / 'src/Base.lean').read_bytes())
-        args = SimpleNamespace(packet='M000001', work=self.work, out=self.root / 'out', ready_only=False)
+        args = SimpleNamespace(packet='M000001', work=self.work, out=self.root / 'out', ready_only=False,
+                               exclude=[])
         with patch.object(port_build.tasks, 'load', return_value=self.rows), \
                 patch.object(port_build, 'target', return_value={}), \
                 patch.object(port_build, 'toolchain'), \
@@ -240,13 +242,13 @@ class PortBuildTest(unittest.TestCase):
         self.assertIn('line 1: IsLattice, whose pinned meaning is now Submodule.IsFullLattice', output.getvalue())
         self.assertEqual(json.loads((self.root / 'out/results.json').read_text())[0]['reused_names'], ['1:IsLattice'])
 
-    def records(self, selection, note_map, reviewed=(), ready_only=False):
+    def records(self, selection, note_map, reviewed=(), ready_only=False, exclude=()):
         pins = dict(lean='leanprover/lean4:v4.36.0', mathlib='new')
         notes = self.root / 'notes.json'
         notes.write_text(json.dumps(note_map))
         args = SimpleNamespace(packet=selection, work=self.work, evidence='https://example.test/receipt.json',
                                notes=notes, patches=None, force=False, reviewed=list(reviewed),
-                               ready_only=ready_only)
+                               ready_only=ready_only, exclude=list(exclude))
         with patch.object(port_build.tasks, 'load', return_value=self.rows), \
                 patch.object(port_build, 'target', return_value=pins), \
                 contextlib.redirect_stdout(io.StringIO()):
@@ -276,6 +278,35 @@ class PortBuildTest(unittest.TestCase):
         self.assertEqual(port_build.ready_selection(members, True), (members, []))
         waiting = dict(id='M000004', module='Waiting', packet='P0002', depth=1, imports=['M000099'])
         self.assertEqual(port_build.ready_selection(members + [waiting], True), (members, [waiting]))
+
+    def test_ready_selection_excludes_members_and_their_dependents(self):
+        self.rows[2]['packet'] = 'P0002'
+        (self.patches / 'M000001.json').write_text('{}')
+        side = dict(id='M000005', module='Side', packet='P0002', depth=1, imports=['M000001'])
+        mid, top = port_build.packet(self.rows, 'P0002')
+        members = [mid, top, side]
+        # Top imports the excluded Mid, so it waits as remaining; Mid itself is listed by neither.
+        self.assertEqual(port_build.ready_selection(members, True, ['M000002']), ([side], [top]))
+        with self.assertRaises(SystemExit):
+            port_build.ready_selection(members, False, ['M000002'])
+        with self.assertRaises(SystemExit):
+            port_build.ready_selection(members, True, ['M000099'])
+
+    def test_ready_selection_does_not_list_ported_members_as_remaining(self):
+        self.rows[2]['packet'] = 'P0002'
+        (self.patches / 'M000001.json').write_text('{}')
+        (self.patches / 'M000002.json').write_text('{}')
+        mid, top = port_build.packet(self.rows, 'P0002')
+        self.assertEqual(port_build.ready_selection([mid, top], True), ([top], []))
+
+    def test_records_skip_excluded_members(self):
+        (self.patches / 'M000001.json').write_text('{}')
+        (self.tree / 'src/Side.lean').write_text('import Base\n')
+        self.rows += [dict(id='M000006', module='Side', packet='P0002', depth=1, imports=['M000001'],
+                           source_sha256=sha(b'import Base\n'))]
+        self.records('P0002', {}, ready_only=True, exclude=['M000006'])
+        self.assertTrue((self.patches / 'M000002.json').exists())
+        self.assertFalse((self.patches / 'M000006.json').exists())
 
     def test_records_ready_only_leaves_waiting_members_unrecorded(self):
         (self.patches / 'M000001.json').write_text('{}')
