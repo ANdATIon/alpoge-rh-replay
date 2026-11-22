@@ -48,3 +48,15 @@
 | [@user42245](https://github.com/user42245) | [M163709](https://github.com/rohanarun/alpoge-rh-replay/issues/28973) | Claimed |
 | [@user42245](https://github.com/user42245) | [M168805](https://github.com/rohanarun/alpoge-rh-replay/issues/28987) | Claimed |
 | [@UnityChaos](https://github.com/UnityChaos) | [P2771](https://github.com/rohanarun/alpoge-rh-replay/issues/30424) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M098682](https://github.com/rohanarun/alpoge-rh-replay/issues/34961) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M098886](https://github.com/rohanarun/alpoge-rh-replay/issues/34962) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M098905](https://github.com/rohanarun/alpoge-rh-replay/issues/34963) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M098907](https://github.com/rohanarun/alpoge-rh-replay/issues/34965) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M120353](https://github.com/rohanarun/alpoge-rh-replay/issues/34966) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M120905](https://github.com/rohanarun/alpoge-rh-replay/issues/34967) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M121703](https://github.com/rohanarun/alpoge-rh-replay/issues/34968) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M121924](https://github.com/rohanarun/alpoge-rh-replay/issues/34971) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M122297](https://github.com/rohanarun/alpoge-rh-replay/issues/34973) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M123553](https://github.com/rohanarun/alpoge-rh-replay/issues/34974) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M123658](https://github.com/rohanarun/alpoge-rh-replay/issues/34975) | Claimed |
+| [@JamCh01](https://github.com/JamCh01) | [M124867](https://github.com/rohanarun/alpoge-rh-replay/issues/34976) | Claimed |
