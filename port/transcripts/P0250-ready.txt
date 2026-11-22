@@ -1,0 +1,190 @@
+== archive: all 14 parts match parts.sha256
+== sources: all 55 packet and 102 import source hashes match
+== remaining: 9 members wait for unported imports and are not built: M060953 M060968 M061036 M061682 M061789 M061978 M062021 M062302 M062314
+== toolchain: Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release); Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+== patch M004021: patching file src/Development/AbelianVarietyTheory/Definitions/Foundations/CyclotomicDvdExpandOfCoprime.lean
+== patch M004142: patching file src/Development/AbelianVarietyTheory/Definitions/Foundations/SamePartIffOfNeZero.lean
+== patch M005020: patching file src/Development/AbelianVarietyTheory/Definitions/ShimuraVarieties/IsOpenOfMemIrreducibleComponentsOfFinite.lean
+== patch M061275: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/DeformMultipleZerosLinearFamily.lean
+== patch M061349: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/DivisorDescentModUnramifiedGaloisSubmodule.lean
+== patch M061388: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/EichlerIntegralChangeOfVariablesIntMatrixSlash.lean
+== patch M061392: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/EichlerIntegralFromISlashChangeOfVariables.lean
+== patch M061464: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/EvalPolyDegreeSlashAction.lean
+== patch M062055: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsUnitAlgebraMapEqOfValuationEqOne.lean
+== patch M157820: patching file src/Formalism/PieriBlockIdeals/PieriColumnMinors/HeightDescentMinors.lean
+== patch M169983: patching file src/GroundTheory/PAdicHodge/AxLemma.lean
+== patch M060982: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/CardIrreducibleSamePrimeToPartRootsLe.lean
+== patch M060987: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/CardMonicSquarefreeUnitConstPolysGe.lean
+== patch M061011: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/CentralBinomLePowCardPrimesBetween.lean
+== patch M061766: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsIrreducible.lean
+== patch M061805: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsLatticeAdelicMatrixIntegralTranslate.lean
+== patch M061949: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsQRootPolyOfFixedGeometricStabilizer.lean
+== patch M062054: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsUniqueZpowMulAppLE.lean
+== patch M062166: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/FixedFieldAlmostEtaleOfMovesIntegers.lean
+== build: lake --no-cache build +<Module>:olean for each of 55 modules
+M060972 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardCycleTypeConsMul exit=0 33.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardCycleTypeConsMul (5.4s)
+    Build completed successfully (18256 jobs).
+M060982 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardIrreducibleSamePrimeToPartRootsLe exit=0 12.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardIrreducibleSamePrimeToPartRootsLe (6.0s)
+    Build completed successfully (18256 jobs).
+M060987 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardMonicSquarefreeUnitConstPolysGe exit=0 12.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardMonicSquarefreeUnitConstPolysGe (5.5s)
+    Build completed successfully (18256 jobs).
+M060995 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardPermPartitionPartsMulCentralizer exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CardPermPartitionPartsMulCentralizer (5.2s)
+    Build completed successfully (18256 jobs).
+M061011 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CentralBinomLePowCardPrimesBetween exit=0 17.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CentralBinomLePowCardPrimesBetween (10s)
+    Build completed successfully (18256 jobs).
+M061095 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CoefPosEqZero exit=0 28.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CoefPosEqZero (6.4s)
+    Build completed successfully (18256 jobs).
+M061133 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ColemanNormOperatorPowerSeriesCoeffAutMapComm exit=0 1151.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ColemanNormOperatorPowerSeriesCoeffAutMapComm (5.5s)
+    Build completed successfully (18256 jobs).
+M061230 Development.AbelianVarietyTheory.Proofs.FoundationProofs.CuspFormIsCuspidalAtAllCuspsSL2Statement exit=0 28.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.CuspFormIsCuspidalAtAllCuspsSL2Statement (5.2s)
+    Build completed successfully (18256 jobs).
+M061276 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DeformMultipleZerosLinearFamilyStatement exit=0 34.5s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DeformMultipleZerosLinearFamilyStatement (4.0s)
+    Build completed successfully (18260 jobs).
+M061278 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DegreeCountMaximalIdealGeneratesProductStatement exit=0 27.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DegreeCountMaximalIdealGeneratesProductStatement (4.0s)
+    Build completed successfully (18256 jobs).
+M061291 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationEqZeroOfIsAlgebraicOverPadicIntegers exit=0 33.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationEqZeroOfIsAlgebraicOverPadicIntegers (5.2s)
+    Build completed successfully (18256 jobs).
+M061294 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationModIntegralAlmostDualPSqIsIntStatement exit=0 22.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationModIntegralAlmostDualPSqIsIntStatement (5.0s)
+    Build completed successfully (18256 jobs).
+M061296 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationOnAdjoinMemSpanImageStatement exit=0 23.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationOnAdjoinMemSpanImageStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061298 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationOnVanishingOnSubalgebraKilledSqStatement exit=0 17.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DerivationOnVanishingOnSubalgebraKilledSqStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061325 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DiamondOperatorOfMatrixCongr exit=0 27.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DiamondOperatorOfMatrixCongr (4.0s)
+    Build completed successfully (18256 jobs).
+M061350 Development.AbelianVarietyTheory.Proofs.FoundationProofs.DivisorDescentModUnramifiedGaloisSubmoduleStatement exit=0 36.8s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.DivisorDescentModUnramifiedGaloisSubmoduleStatement (5.0s)
+    Build completed successfully (18262 jobs).
+M061389 Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralChangeOfVariablesIntMatrixSlashStatement exit=0 77.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralChangeOfVariablesIntMatrixSlashStatement (4.0s)
+    Build completed successfully (18256 jobs).
+M061395 Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromITailExponentialDecayStatement exit=0 30.1s
+    ⚠ [18266/18266] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromITailExponentialDecayStatement (4.9s)
+    Build completed successfully (18266 jobs).
+M061396 Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodCocycleMemCocyclesAndEq exit=0 24.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodCocycleMemCocyclesAndEq (12s)
+    Build completed successfully (18256 jobs).
+M061463 Development.AbelianVarietyTheory.Proofs.FoundationProofs.EvalDiagPolyValuedInvariantTranslationTZpowMulStatement exit=0 22.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.EvalDiagPolyValuedInvariantTranslationTZpowMulStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061490 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsAdjacentSelfDualLatticeTowardStatement exit=0 27.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsAdjacentSelfDualLatticeTowardStatement (4.8s)
+    Build completed successfully (18256 jobs).
+M061553 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsColemanLevelRingBasisOneAddXPow exit=0 12.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsColemanLevelRingBasisOneAddXPow (6.0s)
+    Build completed successfully (18256 jobs).
+M061565 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCompletedLaurentQuotPrimeEquivLaurentFp exit=0 12.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCompletedLaurentQuotPrimeEquivLaurentFp (5.7s)
+    Build completed successfully (18256 jobs).
+M061594 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCuspFormGammaOneOfNebentypusCuspidalStatement exit=0 16.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsCuspFormGammaOneOfNebentypusCuspidalStatement (4.8s)
+    Build completed successfully (18256 jobs).
+M061603 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDegreeLtTwoCorrectionSimpleZeroStatement exit=0 17.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDegreeLtTwoCorrectionSimpleZeroStatement (5.0s)
+    Build completed successfully (18256 jobs).
+M061606 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationExtendPadicLaurentToClosure exit=0 13.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationExtendPadicLaurentToClosure (7.2s)
+    Build completed successfully (18256 jobs).
+M061609 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationModIntegralExtensionPCubeStatement exit=0 16.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationModIntegralExtensionPCubeStatement (4.8s)
+    Build completed successfully (18256 jobs).
+M061611 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationOnExtensionCubeDefectStatement exit=0 17.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationOnExtensionCubeDefectStatement (4.8s)
+    Build completed successfully (18256 jobs).
+M061613 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationOnISupOfCompatibleStatement exit=0 16.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDerivationOnISupOfCompatibleStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061623 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDlogDerivationsGluedTowerLevelsStatement exit=0 17.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDlogDerivationsGluedTowerLevelsStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061652 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsEqPrimePowMulNotDvdCompletedLaurent exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsEqPrimePowMulNotDvdCompletedLaurent (5.3s)
+    Build completed successfully (18256 jobs).
+M061733 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsImprovedApproxKummerGenerator exit=0 27.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsImprovedApproxKummerGenerator (5.5s)
+    Build completed successfully (18256 jobs).
+M061745 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntegerCosetRepresentativeTraceEqOfLtOne exit=0 21.6s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntegerCosetRepresentativeTraceEqOfLtOne (5.1s)
+    Build completed successfully (18258 jobs).
+M061766 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducible exit=0 30.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducible (7.1s)
+    Build completed successfully (18256 jobs).
+M061803 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLagrangeResolventOfPGroupFaithful exit=0 22.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLagrangeResolventOfPGroupFaithful (5.6s)
+    Build completed successfully (18256 jobs).
+M061805 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLatticeAdelicMatrixIntegralTranslate exit=0 23.9s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLatticeAdelicMatrixIntegralTranslate (6.2s)
+    Build completed successfully (18258 jobs).
+M061823 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLinearLimitOfCompatibleFamilyStatement exit=0 32.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLinearLimitOfCompatibleFamilyStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M061836 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMapConstEqOfIsAlgClosed exit=0 29.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMapConstEqOfIsAlgClosed (5.7s)
+    Build completed successfully (18256 jobs).
+M061854 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMulLinearIndependentAlgebraicOverPadicInte exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMulLinearIndependentAlgebraicOverPadicInte (5.3s)
+    Build completed successfully (18256 jobs).
+M061856 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMulMemSpanAlgebraicOverPadicIntegers exit=0 12.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsMulMemSpanAlgebraicOverPadicIntegers (5.0s)
+    Build completed successfully (18256 jobs).
+M061896 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsOfRedEqZero exit=0 13.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsOfRedEqZero (6.8s)
+    Build completed successfully (18256 jobs).
+M061949 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsQRootPolyOfFixedGeometricStabilizer exit=0 13.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsQRootPolyOfFixedGeometricStabilizer (6.4s)
+    Build completed successfully (18256 jobs).
+M061951 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsQRootPolyOfFixedGeometricStabilizerTau exit=0 13.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsQRootPolyOfFixedGeometricStabilizerTau (6.3s)
+    Build completed successfully (18256 jobs).
+M062002 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsSquarefreePolyDistinctZerosOnCurveStatement exit=0 28.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsSquarefreePolyDistinctZerosOnCurveStatement (4.0s)
+    Build completed successfully (18256 jobs).
+M062054 Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueZpowMulAppLE exit=0 36.0s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueZpowMulAppLE (7.3s)
+    Build completed successfully (18260 jobs).
+M062105 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FactorialLeTwoMulCardPermWithFixedPoint exit=0 12.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FactorialLeTwoMulCardPermWithFixedPoint (5.4s)
+    Build completed successfully (18256 jobs).
+M062120 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteDimensionalOfGammaLe exit=0 23.7s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FiniteDimensionalOfGammaLe (4.9s)
+    Build completed successfully (18258 jobs).
+M062141 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankCocycleExtensionLeOrderThreeRelationAddStatement exit=0 27.4s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankCocycleExtensionLeOrderThreeRelationAddStatement (4.9s)
+    Build completed successfully (18258 jobs).
+M062143 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankCocyclesAddTwistedInvariantLeExtensionStatement exit=0 17.2s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankCocyclesAddTwistedInvariantLeExtensionStatement (4.9s)
+    Build completed successfully (18258 jobs).
+M062152 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankOrderThreeRelationAddTwistedInvariantLeStatement exit=0 17.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankOrderThreeRelationAddTwistedInvariantLeStatement (4.0s)
+    Build completed successfully (18258 jobs).
+M062156 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankTwistedLeftInvariantMulOfFreeActionStatement exit=0 17.2s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankTwistedLeftInvariantMulOfFreeActionStatement (4.9s)
+    Build completed successfully (18258 jobs).
+M062166 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FixedFieldAlmostEtaleOfMovesIntegers exit=0 21.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FixedFieldAlmostEtaleOfMovesIntegers (5.2s)
+    Build completed successfully (18256 jobs).
+M062172 Development.AbelianVarietyTheory.Proofs.FoundationProofs.FixingSubgroupOfIntermediateFieldPropertiesStatement exit=0 27.5s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.FixingSubgroupOfIntermediateFieldPropertiesStatement (4.8s)
+    Build completed successfully (18260 jobs).
+M062307 Development.AbelianVarietyTheory.Proofs.FoundationProofs.GeometricGaloisDenseTauPowMulFixingQRoots exit=0 14.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.GeometricGaloisDenseTauPowMulFixingQRoots (7.4s)
+    Build completed successfully (18256 jobs).
+M062362 Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangular exit=0 23.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangular (5.0s)
+    Build completed successfully (18256 jobs).
+== done: 55 of 55 modules built

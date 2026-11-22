@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducible",
+  "source_sha256": "a25bcda9c928ee326d77fb8a4e3e7a38d418011530c6e420e1b0948ed3d36ee3",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof only: pass isIntegral_algebraMap_iff its algebras as named arguments instead of the injectivity proof, and state a proof-local `have` with Ideal.ramificationIdx (the primed ramificationIdx' API is gone). Theorem statements unchanged.",
+  "evidence": "https://github.com/sp20262026/alpoge-rh-replay/releases/download/port-P0250-issue-32329/P0250-receipt.json"
+}
