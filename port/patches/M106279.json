@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.GlobalUnitaryForms.HodgeTateFromSandwich",
+  "source_sha256": "2ca0274a71c80196ae7b2694169190fcb800d7a1380b412308242997fbe58285",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0315 packet build transcript linked from the PR."
+}
