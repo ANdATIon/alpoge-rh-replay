@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098290 | P2075 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionUnitaryCompact` | volunteer-build-reviewed |
+| M098292 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionVacuumEqResidueDetCharOfFrameStabilize` | volunteer-build-reviewed |
 | M098294 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitution` | volunteer-build-reviewed |
 | M098295 | P2129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitutionStatement` | volunteer-build-reviewed |
 | M098297 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompatibleOfSameSplittingCharacterStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M098865 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsUnitValEqMul` | volunteer-build-reviewed |
 | M098866 | P1520 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsVeryAmpleH1Zero` | build-observed |
 | M098869 | P1823 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsWeightPoints` | build-observed |
-| M098870 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijFAndExpandsFLin` | build-observed |
-| M098873 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijOfOnto` | wave-reused |

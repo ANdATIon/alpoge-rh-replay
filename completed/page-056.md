@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M037406 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinear` | build-observed |
+| M037407 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinearStatement` | build-observed |
 | M037408 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawLeibniz` | build-observed |
 | M037409 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawLeibnizStatement` | build-observed |
 | M037410 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDifferentialsConnectedPDivGroupCoordina` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M038207 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIndEtaleAlgebraOfStrictlyHenselianEtaleStalkAfStatement` | build-observed |
 | M038208 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIndEtaleOfEtaleAtPrime` | wave-reused |
 | M038209 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIndexRelOfHasSigFrames` | volunteer-build-reviewed |
-| M038211 | P1376 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntBTmulBasis` | build-observed |
-| M038212 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntIntCast` | volunteer-build-reviewed |

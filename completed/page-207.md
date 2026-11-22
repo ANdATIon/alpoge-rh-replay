@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136622 | P1047 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialCenterHypotheses` | wave-reused |
+| M136623 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialFactorTransform` | wave-reused |
 | M136624 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialSplittingFunctoriality` | wave-reused |
 | M136625 | P0773 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.NonMonomialOrderReduction` | wave-reused |
 | M136626 | P0693 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.OrderAlongBlowupSequence` | wave-reused |
@@ -400,5 +402,3 @@
 | M137197 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.IsLAddSegmentOfInjectiveOfNotPrecedes` | volunteer-build-reviewed |
 | M137205 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LUnlinkedIrrOfSeg` | volunteer-build-reviewed |
 | M137206 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LanglandsMultisegmentsOfSeg` | volunteer-build-reviewed |
-| M137211 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.Outright` | volunteer-build-reviewed |
-| M137215 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalCompatibilityHolds` | volunteer-build-reviewed |

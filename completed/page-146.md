@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101407 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Cohen` | wave-reused |
+| M101408 | P0487 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CompDim` | wave-reused |
 | M101409 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CorePowMem` | wave-reused |
 | M101410 | P0796 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CplFinite` | wave-reused |
 | M101411 | P0852 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CutDimCongr` | wave-reused |
@@ -400,5 +402,3 @@
 | M102159 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EventuallyMemHeckeLevelAndIwahoriCongruence` | volunteer-build-reviewed |
 | M102160 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactBaseIntegralToComplex` | volunteer-build-reviewed |
 | M102161 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactCOfOfExactBase` | volunteer-build-reviewed |
-| M102163 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAlgebraicHeckeCharCyclotomic` | volunteer-build-reviewed |
-| M102165 | P0043 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicFunctionWithValuesOnCosetReps` | volunteer-build-reviewed |

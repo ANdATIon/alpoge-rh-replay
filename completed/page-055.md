@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036614 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceBothStabilisersFixVacuumStatement` | volunteer-build-reviewed |
+| M036616 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledEigenfunctionsLineVacuumStatement` | volunteer-build-reviewed |
 | M036617 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledFirstFactorMemSiegelClosure` | volunteer-build-reviewed |
 | M036618 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledFirstFactorMemSiegelClosureStatement` | volunteer-build-reviewed |
 | M036619 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledUnitaryVacuumTensorEigen` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M037395 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantBilinearFullRankVanishesStatement` | volunteer-build-reviewed |
 | M037402 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationCoeffEqZeroOfDegreeLt` | build-observed |
 | M037403 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationCoeffEqZeroOfDegreeLtStatement` | build-observed |
-| M037406 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinear` | build-observed |
-| M037407 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinearStatement` | build-observed |

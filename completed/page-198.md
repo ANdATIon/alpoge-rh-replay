@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130782 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionRelay` | volunteer-build-reviewed |
+| M130784 | P2633 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionTower` | volunteer-build-reviewed |
 | M130785 | P2644 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginIntersectionTowerStatement` | volunteer-build-reviewed |
 | M130786 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginModelComponentBound` | volunteer-build-reviewed |
 | M130787 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginModelComponentBoundStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M131488 | P2142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineOfKeyDegree` | volunteer-build-reviewed |
 | M131489 | P2152 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineOfKeyDegreeStatement` | volunteer-build-reviewed |
 | M131490 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocRatio` | volunteer-build-reviewed |
-| M131491 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHolomorphicExponentialChart` | build-observed |
-| M131492 | P1134 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocalHolomorphicExponentialChartStatement` | build-observed |

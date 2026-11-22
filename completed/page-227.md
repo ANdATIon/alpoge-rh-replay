@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150408 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.LevelPb` | build-observed |
+| M150409 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.LieAlg` | wave-reused |
 | M150410 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.LieArcSt` | wave-reused |
 | M150411 | P0831 | `Formalism.LocalToGlobal.ProjectiveLattices.LieFreePf` | wave-reused |
 | M150412 | P0802 | `Formalism.LocalToGlobal.ProjectiveLattices.LieRel` | wave-reused |
@@ -400,5 +402,3 @@
 | M150921 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviPos` | build-observed |
 | M150922 | P1556 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviSteps` | build-observed |
 | M150923 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviWFin` | build-observed |
-| M150924 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfSratZ` | build-observed |
-| M150925 | P1498 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfSteps` | build-observed |

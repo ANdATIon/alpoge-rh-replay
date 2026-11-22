@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073396 | P1098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushouts` | build-observed |
+| M073397 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushoutsStatement` | build-observed |
 | M073400 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice` | volunteer-build-reviewed |
 | M073402 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticStarStructure` | volunteer-build-reviewed |
 | M073404 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticUnitAtRamifiedPlaceStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M074107 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanRepresentationDensityOfIsInternalConstituentStatement` | build-observed |
 | M074108 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanRestrictEqTopOfSimple` | build-observed |
 | M074109 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanRestrictEqTopOfSimpleStatement` | build-observed |
-| M074110 | P0193 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSelfDual` | volunteer-build-reviewed |
-| M074111 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsion` | wave-reused |

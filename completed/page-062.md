@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041919 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransform` | volunteer-build-reviewed |
+| M041920 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransformStatement` | volunteer-build-reviewed |
 | M041922 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormGaussianWeightForm` | volunteer-build-reviewed |
 | M041924 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormOfValuationProfile` | volunteer-build-reviewed |
 | M041925 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormOfValuationProfileStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M042552 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapEqZeroOfCommuteDoubling` | volunteer-build-reviewed |
 | M042553 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapEqZeroOfFiberIntegral` | volunteer-build-reviewed |
 | M042558 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapFrobeniusCharP` | wave-reused |
-| M042560 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotients` | volunteer-build-reviewed |
-| M042561 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotientsStatement` | volunteer-build-reviewed |

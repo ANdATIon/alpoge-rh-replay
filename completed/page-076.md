@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051572 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumValuationLogLeLogDiscriminant` | volunteer-build-reviewed |
+| M051574 | P1251 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWIffGoodFormsOrthSum` | build-observed |
 | M051575 | P0978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIff` | build-observed |
 | M051576 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIffStatement` | build-observed |
 | M051577 | P1943 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianScheme` | build-observed |
@@ -400,5 +402,3 @@
 | M052372 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorInvolutionAlgebraProperties` | volunteer-build-reviewed |
 | M052374 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorIsLocalRingOfUniquePrimeOver` | volunteer-build-reviewed |
 | M052375 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorIsLocalRingOfUniquePrimeOverStatement` | volunteer-build-reviewed |
-| M052378 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGenerato` | volunteer-build-reviewed |
-| M052379 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGeneratoStatement` | volunteer-build-reviewed |

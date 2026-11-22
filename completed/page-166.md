@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112488 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.NormDom` | volunteer-build-reviewed |
+| M112489 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.QuotEmb` | volunteer-build-reviewed |
 | M112490 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubPerm` | volunteer-build-reviewed |
 | M112491 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubQuot` | volunteer-build-reviewed |
 | M112492 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TorusCharComp` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M113144 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RowOf` | volunteer-build-reviewed |
 | M113145 | P2751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.UnrAtOfIsoTwist` | volunteer-build-reviewed |
 | M113146 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.BaseCase` | volunteer-build-reviewed |
-| M113147 | P2791 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.Closed` | volunteer-build-reviewed |
-| M113148 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.CountExpandMap` | volunteer-build-reviewed |

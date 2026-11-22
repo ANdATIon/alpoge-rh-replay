@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059432 | P0554 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnesses` | wave-reused |
+| M059433 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnessesStatement` | wave-reused |
 | M059435 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedDualVectorPairingBoundedMajorantStatement` | volunteer-build-reviewed |
 | M059436 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangular` | volunteer-build-reviewed |
 | M059437 | P1279 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangularStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M060091 | P1007 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SmoothVectorsDenseInvariant` | build-observed |
 | M060092 | P1034 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SmoothVectorsDenseInvariantStatement` | build-observed |
 | M060095 | P1149 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SmulOneMem` | build-observed |
-| M060100 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevIteratedOneParameterSubgroups` | volunteer-build-reviewed |
-| M060102 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevValueAtOneFixedCompactDiagSignUnitaryStatement` | volunteer-build-reviewed |

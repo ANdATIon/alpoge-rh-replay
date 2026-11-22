@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045350 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedTwistEquivStatement` | volunteer-build-reviewed |
+| M045351 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntAt` | volunteer-build-reviewed |
 | M045352 | P2225 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariant` | volunteer-build-reviewed |
 | M045353 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariantStatement` | volunteer-build-reviewed |
 | M045354 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralRatioOfHyp` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M046002 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolMatchIntegralScalar` | volunteer-build-reviewed |
 | M046003 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolMatchLinearCombination` | volunteer-build-reviewed |
 | M046004 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolUnitNeZero` | volunteer-build-reviewed |
-| M046006 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExp` | build-observed |
-| M046007 | P0786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExpStatement` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047385 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingWordSpanStableOfLoweringKillStatement` | volunteer-build-reviewed |
+| M047386 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelConstLattices` | volunteer-build-reviewed |
 | M047388 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelOfHypotheses` | volunteer-build-reviewed |
 | M047389 | P1277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationBoundOverDvr` | build-observed |
 | M047391 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationIdxDvdOfGaloisDegreeDvdUnitDvr` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M048074 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexEqOfMulEquivSubgroupStatement` | volunteer-build-reviewed |
 | M048075 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexEqOfSurj` | volunteer-build-reviewed |
 | M048076 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexISupMapEqPow` | volunteer-build-reviewed |
-| M048077 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexISupMapEqPowStatement` | volunteer-build-reviewed |
-| M048080 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexInfConjEqFinprodRestrictedProduct` | volunteer-build-reviewed |

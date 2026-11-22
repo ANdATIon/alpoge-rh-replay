@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040466 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentMapIsIntegral` | volunteer-build-reviewed |
+| M040468 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishing` | volunteer-build-reviewed |
 | M040469 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishingStatement` | volunteer-build-reviewed |
 | M040471 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialTateTwistCohomologyVanishingIndStatement` | volunteer-build-reviewed |
 | M040472 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentSeriesAdaptedBasisCoordsVanishBeyondFinra` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M041173 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftZero` | volunteer-build-reviewed |
 | M041174 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftedHodgeFiltrationEqOfSameLifts` | volunteer-build-reviewed |
 | M041175 | P2798 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftedHodgeFiltrationEqOfSameLiftsStatement` | volunteer-build-reviewed |
-| M041176 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftedPolarisationKernelKilledOfUnit` | volunteer-build-reviewed |
-| M041180 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAdd` | build-observed |

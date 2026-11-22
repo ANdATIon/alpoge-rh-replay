@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039750 | P0109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSmulLeIdealSmulOfFreeStatement` | volunteer-build-reviewed |
+| M039751 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensor` | build-observed |
 | M039752 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensorStatement` | build-observed |
 | M039753 | P1538 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernSum` | volunteer-build-reviewed |
 | M039756 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelAtFittedPoints` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M040462 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentKummerCupProductBijectiveStrictlyHenselia` | volunteer-build-reviewed |
 | M040463 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentKummerCupProductBijectiveStrictlyHenseliaStatement` | volunteer-build-reviewed |
 | M040465 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentKummerCupProductMapBijectiveFiniteStrictHStatement` | volunteer-build-reviewed |
-| M040466 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentMapIsIntegral` | volunteer-build-reviewed |
-| M040468 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishing` | volunteer-build-reviewed |

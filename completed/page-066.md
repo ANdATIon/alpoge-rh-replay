@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044660 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactification` | volunteer-build-reviewed |
+| M044661 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactificationStatement` | volunteer-build-reviewed |
 | M044662 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuum` | volunteer-build-reviewed |
 | M044663 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuumStatement` | volunteer-build-reviewed |
 | M044664 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyNonzeroThetaVectorsNumberField` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M045347 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedEquivProd` | volunteer-build-reviewed |
 | M045348 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedEquivProdStatement` | volunteer-build-reviewed |
 | M045349 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedTwistEquiv` | volunteer-build-reviewed |
-| M045350 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairInducedTwistEquivStatement` | volunteer-build-reviewed |
-| M045351 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntAt` | volunteer-build-reviewed |

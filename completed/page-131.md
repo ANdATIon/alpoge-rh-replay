@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093011 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyInv` | volunteer-build-reviewed |
+| M093012 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyLocalIntegersIffPowerBasisCoordsAll` | volunteer-build-reviewed |
 | M093018 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocal` | volunteer-build-reviewed |
 | M093019 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocalStatement` | volunteer-build-reviewed |
 | M093020 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExDownExUpAndExUpExDown` | build-observed |
@@ -400,5 +402,3 @@
 | M093550 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsMultiplierStandardLatticeOfMoverTrivial` | volunteer-build-reviewed |
 | M093551 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsMultiplierStandardLatticeOfMoverTrivialStatement` | volunteer-build-reviewed |
 | M093552 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNatMulIntegralMatricesSubsetOpenAddSubgrou` | volunteer-build-reviewed |
-| M093553 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNatMulIntegralMatricesSubsetOpenAddSubgrouStatement` | volunteer-build-reviewed |
-| M093554 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeOfMemSpan` | volunteer-build-reviewed |

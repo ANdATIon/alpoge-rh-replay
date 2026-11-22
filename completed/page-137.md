@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096038 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntri` | volunteer-build-reviewed |
+| M096039 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntriStatement` | build-observed |
 | M096040 | P2684 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSBOfIsNatDatum` | volunteer-build-reviewed |
 | M096042 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSelfDualLatticeOfMemAllLatticeCompletionsStatement` | volunteer-build-reviewed |
 | M096043 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIff` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M096539 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefConjTransposeMulSelfEqExpPolynomial` | volunteer-build-reviewed |
 | M096540 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefConjTransposeMulSelfEqExpPolynomialStatement` | volunteer-build-reviewed |
 | M096541 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosDefOfNode` | volunteer-build-reviewed |
-| M096542 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplits` | volunteer-build-reviewed |
-| M096543 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplitsStatement` | volunteer-build-reviewed |

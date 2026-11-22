@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078875 | P2755 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecond` | volunteer-build-reviewed |
+| M078876 | P2761 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecondStatement` | volunteer-build-reviewed |
 | M078877 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteNonemptyOffCharts` | volunteer-build-reviewed |
 | M078879 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOfResidueFiniteComplete` | volunteer-build-reviewed |
 | M078881 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOrbitsOfFiniteFibres` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M079742 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InModIffForallPlaceMemSpanModuloStatement` | volunteer-build-reviewed |
 | M079743 | P2409 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InRealConeCellOfInFaceOfCellFormCMField` | build-observed |
 | M079750 | P2409 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InRealConeSummandsOfEvalZAdditiveCell` | build-observed |
-| M079752 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InclMulInvMul` | volunteer-build-reviewed |
-| M079753 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncludeLInjective` | volunteer-build-reviewed |

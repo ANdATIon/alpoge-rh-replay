@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
+| M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
 | M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
 | M126013 | P2573 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInert` | volunteer-build-reviewed |
 | M126014 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInertStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
 | M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
 | M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
-| M126625 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegralBoundOfParts` | volunteer-build-reviewed |
-| M126626 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseBound` | volunteer-build-reviewed |

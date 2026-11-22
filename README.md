@@ -67,10 +67,12 @@ Thank you to all volunteers and agent contributors who helped replay and port th
 
 <!-- pending-volunteers-start -->
 
-[7,852 entries. View the full table](tracker/volunteer-tables/pending/README.md).
+[7,850 entries. View the full table](tracker/volunteer-tables/pending/README.md).
 
 | Contributor | Task | Review |
 |---|---|---|
+| [@gilad12-coder](https://github.com/gilad12-coder) | [M104721](https://github.com/rohanarun/alpoge-rh-replay/issues/34732#issuecomment-7083109918) | Pending review |
+| [@JamCh01](https://github.com/JamCh01) | [M012765](https://github.com/rohanarun/alpoge-rh-replay/issues/34733#issuecomment-7083148376) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M025811](https://github.com/rohanarun/alpoge-rh-replay/issues/34734#issuecomment-7083146743) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M027043](https://github.com/rohanarun/alpoge-rh-replay/issues/34735#issuecomment-7083162657) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M027588](https://github.com/rohanarun/alpoge-rh-replay/issues/34736#issuecomment-7083164170) | Pending review |
@@ -83,8 +85,6 @@ Thank you to all volunteers and agent contributors who helped replay and port th
 | [@JamCh01](https://github.com/JamCh01) | [M032538](https://github.com/rohanarun/alpoge-rh-replay/issues/34743#issuecomment-7083167290) | Pending review |
 | [@hipotures](https://github.com/hipotures) | [M022885](https://github.com/rohanarun/alpoge-rh-replay/issues/34744#issuecomment-7083163089) | Pending review |
 | [@BenCaunt](https://github.com/BenCaunt) | [M142750](https://github.com/rohanarun/alpoge-rh-replay/issues/34747#issuecomment-7083127369) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [M032791](https://github.com/rohanarun/alpoge-rh-replay/issues/34748#issuecomment-7083208342) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [M034792](https://github.com/rohanarun/alpoge-rh-replay/issues/34749#issuecomment-7083201969) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M035537](https://github.com/rohanarun/alpoge-rh-replay/issues/34750#issuecomment-7083199792) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M036480](https://github.com/rohanarun/alpoge-rh-replay/issues/34751#issuecomment-7083200370) | Pending review |
 | [@hipotures](https://github.com/hipotures) | [M026102](https://github.com/rohanarun/alpoge-rh-replay/issues/34754#issuecomment-7083176755) | Pending review |
@@ -101,12 +101,10 @@ Thank you to all volunteers and agent contributors who helped replay and port th
 
 <!-- volunteers-start -->
 
-[15,251 entries. View the full table](tracker/volunteer-tables/reviewed/README.md).
+[15,253 entries. View the full table](tracker/volunteer-tables/reviewed/README.md).
 
 | Contributor | Task | Modules | Review |
 |---|---|---:|---|
-| [@hipotures](https://github.com/hipotures) | [P2825](https://github.com/rohanarun/alpoge-rh-replay/issues/32662#issuecomment-7079636717) | 3 | [Build evidence verified](evidence/volunteers/P2825.json) |
-| [@hipotures](https://github.com/hipotures) | [P2824](https://github.com/rohanarun/alpoge-rh-replay/issues/32563#issuecomment-7079348682) | 4 | [Build evidence verified](evidence/volunteers/P2824.json) |
 | [@hipotures](https://github.com/hipotures) | [P2212](https://github.com/rohanarun/alpoge-rh-replay/issues/32423#issuecomment-7079232382) | 64 | [Build evidence verified](evidence/volunteers/P2212.json) |
 | [@hipotures](https://github.com/hipotures) | [P2823](https://github.com/rohanarun/alpoge-rh-replay/issues/32509#issuecomment-7079303608) | 5 | [Build evidence verified](evidence/volunteers/P2823.json) |
 | [@hipotures](https://github.com/hipotures) | [P2118](https://github.com/rohanarun/alpoge-rh-replay/issues/32372#issuecomment-7079123483) | 64 | [Build evidence verified](evidence/volunteers/P2118.json) |
@@ -125,6 +123,8 @@ Thank you to all volunteers and agent contributors who helped replay and port th
 | [@JamCh01](https://github.com/JamCh01) | [M042507](https://github.com/rohanarun/alpoge-rh-replay/issues/34756#issuecomment-7083203610) | 1 | [Build evidence verified](evidence/volunteers/M042507.json) |
 | [@JamCh01](https://github.com/JamCh01) | [M037921](https://github.com/rohanarun/alpoge-rh-replay/issues/34753#issuecomment-7083211648) | 1 | [Build evidence verified](evidence/volunteers/M037921.json) |
 | [@gilad12-coder](https://github.com/gilad12-coder) | [M123501](https://github.com/rohanarun/alpoge-rh-replay/issues/34752#issuecomment-7083139794) | 1 | [Build evidence verified](evidence/volunteers/M123501.json) |
+| [@JamCh01](https://github.com/JamCh01) | [M034792](https://github.com/rohanarun/alpoge-rh-replay/issues/34749#issuecomment-7083201969) | 1 | [Build evidence verified](evidence/volunteers/M034792.json) |
+| [@JamCh01](https://github.com/JamCh01) | [M032791](https://github.com/rohanarun/alpoge-rh-replay/issues/34748#issuecomment-7083208342) | 1 | [Build evidence verified](evidence/volunteers/M032791.json) |
 
 <!-- volunteers-end -->
 
@@ -140,9 +140,9 @@ Thank you to all volunteers and agent contributors who helped replay and port th
 | Pilot proof object reused | 150 |
 | Pilot downstream module kernel-checked | 1 |
 | Distributed proof object reused | 16,970 |
-| Volunteer build evidence reviewed | 65,654 |
+| Volunteer build evidence reviewed | 65,656 |
 | Worker target kernel replay reviewed | 72 |
-| **Total with recorded module evidence** | **109,438 / 175,187** |
+| **Total with recorded module evidence** | **109,440 / 175,187** |
 
 [See each completed part and its evidence](completed/README.md) · [Machine-readable ledger](tracker/completed.tsv)
 

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146894 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RelevantMonotoneOfParts` | build-observed |
+| M146895 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RemainderNormLeStrictUpper` | wave-reused |
 | M146896 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RepIntCastMul` | wave-reused |
 | M146897 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ReproducingFormulaReduction` | wave-reused |
 | M146900 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ResidueForm` | build-observed |
@@ -400,5 +402,3 @@
 | M147433 | P0273 | `Formalism.LandauZeroFreeBounds.NoZeroComplexOf` | build-observed |
 | M147434 | P0635 | `Formalism.LandauZeroFreeBounds.SameCharacterLFunctionOne` | build-observed |
 | M147435 | P0570 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAP` | build-observed |
-| M147436 | P0774 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAPOfSiegelLower` | build-observed |
-| M147437 | P0069 | `Formalism.LandauZeroFreeBounds.Statement` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122055 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIsoStatement` | volunteer-build-reviewed |
+| M122056 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanish` | volunteer-build-reviewed |
 | M122057 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanishStatement` | volunteer-build-reviewed |
 | M122059 | P2674 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverRestrictionBaseChangeStatement` | volunteer-build-reviewed |
 | M122060 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverStarIsCosieve` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M122686 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrder` | volunteer-build-reviewed |
 | M122687 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrderStatement` | volunteer-build-reviewed |
 | M122689 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChainsOfRange` | volunteer-build-reviewed |
-| M122690 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLattice` | volunteer-build-reviewed |
-| M122691 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLatticeStatement` | volunteer-build-reviewed |

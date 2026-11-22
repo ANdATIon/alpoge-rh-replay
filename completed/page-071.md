@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048077 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexISupMapEqPowStatement` | volunteer-build-reviewed |
+| M048080 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexInfConjEqFinprodRestrictedProduct` | volunteer-build-reviewed |
 | M048081 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexInfConjEqFinprodRestrictedProductStatement` | volunteer-build-reviewed |
 | M048083 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexLocalCongruenceEqAbsNormPowStatement` | volunteer-build-reviewed |
 | M048084 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexMapMulRelIndexKer` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M048822 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLatticeIntegralNonvanishingStatement` | volunteer-build-reviewed |
 | M048823 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLatticeSumIntegrable` | volunteer-build-reviewed |
 | M048824 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLatticeSumIntegrableStatement` | volunteer-build-reviewed |
-| M048825 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMem` | volunteer-build-reviewed |
-| M048826 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMemStatement` | volunteer-build-reviewed |

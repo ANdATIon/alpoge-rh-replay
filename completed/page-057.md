@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038211 | P1376 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntBTmulBasis` | build-observed |
+| M038212 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntIntCast` | volunteer-build-reviewed |
 | M038214 | P1399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntVZero` | volunteer-build-reviewed |
 | M038215 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegerOfMaximalIdealPowSmulIsInteger` | volunteer-build-reviewed |
 | M038216 | P0245 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegerOfMaximalIdealPowSmulIsIntegerStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M038992 | P0109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothEventuallyZeroCutoffIntervalIntegralDeri` | volunteer-build-reviewed |
 | M038993 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothEventuallyZeroCutoffIntervalIntegralDeriStatement` | volunteer-build-reviewed |
 | M038996 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothFunIntegralMulRight` | build-observed |
-| M038997 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothFunIntegralMulRightStatement` | build-observed |
-| M038998 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAdd` | volunteer-build-reviewed |

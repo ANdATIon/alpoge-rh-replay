@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082665 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaOfOfIsCharLab` | build-observed |
+| M082668 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePower` | volunteer-build-reviewed |
 | M082669 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePowerStatement` | volunteer-build-reviewed |
 | M082670 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesRationalOnGoodCoversOfUntwisted` | volunteer-build-reviewed |
 | M082676 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TiedSKOfStd` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M083706 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsKTypeNonzeroBesselStatement` | volunteer-build-reviewed |
 | M083707 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLeadingMinorsGeOfLeRank` | volunteer-build-reviewed |
 | M083713 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRoot` | volunteer-build-reviewed |
-| M083714 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRootStatement` | build-observed |
-| M083715 | P1283 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPoint` | wave-reused |

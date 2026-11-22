@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152951 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitaryInverseIdentity` | wave-reused |
+| M152952 | P0150 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.ChordSecondLogDeriv` | wave-reused |
 | M152953 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoAll` | build-observed |
 | M152954 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoUnitBall` | build-observed |
 | M152955 | P0886 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveJetsUnitBall` | build-observed |
@@ -400,5 +402,3 @@
 | M153421 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWUnitBallLattice` | build-observed |
 | M153422 | P0215 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbitt` | build-observed |
 | M153423 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg` | build-observed |
-| M153424 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZCircleCharExtends` | build-observed |
-| M153425 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZGoodCuspidal` | build-observed |

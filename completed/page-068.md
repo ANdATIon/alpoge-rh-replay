@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046006 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExp` | build-observed |
+| M046007 | P0786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExpStatement` | build-observed |
 | M046009 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleIsoGenericExtendsNormalLocalStatement` | volunteer-build-reviewed |
 | M046010 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisat` | volunteer-build-reviewed |
 | M046011 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisatStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M046667 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdMinorsMemInv` | volunteer-build-reviewed |
 | M046668 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdNormSq` | build-observed |
 | M046669 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdOfFnEqSingle` | volunteer-build-reviewed |
-| M046670 | P0301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEq` | wave-reused |
-| M046671 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEqStatement` | wave-reused |

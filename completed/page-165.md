@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112008 | P1207 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsTotHolds` | build-observed |
+| M112009 | P2102 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EtOfRestrict` | volunteer-build-reviewed |
 | M112010 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.FrEx` | build-observed |
 | M112013 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PBaseFacts` | build-observed |
 | M112014 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PClopenAt` | build-observed |
@@ -400,5 +402,3 @@
 | M112485 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.JacNorm` | volunteer-build-reviewed |
 | M112486 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.KerKill` | volunteer-build-reviewed |
 | M112487 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.LocGal` | volunteer-build-reviewed |
-| M112488 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.NormDom` | volunteer-build-reviewed |
-| M112489 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.QuotEmb` | volunteer-build-reviewed |

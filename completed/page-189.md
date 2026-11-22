@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
+| M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
 | M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
 | M124608 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOutStatement` | volunteer-build-reviewed |
 | M124609 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
 | M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |
 | M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
-| M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
-| M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |

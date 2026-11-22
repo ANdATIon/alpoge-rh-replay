@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080640 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeRegularPointStatement` | volunteer-build-reviewed |
+| M080643 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalDualEqAddSpan` | volunteer-build-reviewed |
 | M080647 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecomposition` | volunteer-build-reviewed |
 | M080648 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecompositionStatement` | volunteer-build-reviewed |
 | M080653 | P1596 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSum` | build-observed |
@@ -400,5 +402,3 @@
 | M081609 | P2298 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProperRelAmpleOfSystem` | build-observed |
 | M081611 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ProvisionalRowsFurtherCompatibilitiesAtState` | volunteer-build-reviewed |
 | M081615 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormula` | volunteer-build-reviewed |
-| M081616 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormulaStatement` | volunteer-build-reviewed |
-| M081617 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBound` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146239 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket` | wave-reused |
+| M146240 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationScalesHeisenbergMeasure` | wave-reused |
 | M146241 | P0602 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationUnipotentWeylMeasure` | wave-reused |
 | M146242 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DirectionsInParabolic` | wave-reused |
 | M146243 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiscMeanValue` | build-observed |
@@ -400,5 +402,3 @@
 | M146891 | P0635 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularisedPairingViaPhase` | wave-reused |
 | M146892 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityAtPlaceOfSubadditive` | volunteer-build-reviewed |
 | M146893 | P1390 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityBundleFromHypotheses` | build-observed |
-| M146894 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RelevantMonotoneOfParts` | build-observed |
-| M146895 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RemainderNormLeStrictUpper` | wave-reused |

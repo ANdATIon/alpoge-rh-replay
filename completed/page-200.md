@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132170 | P0881 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChangeStatement` | build-observed |
+| M132172 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoDatumExistsStatement` | volunteer-build-reviewed |
 | M132173 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquiv` | build-observed |
 | M132174 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoPullbackEquivStatement` | build-observed |
 | M132175 | P2318 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoTorsionTower` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M132906 | P1105 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTiling` | build-observed |
 | M132907 | P1135 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilingStatement` | build-observed |
 | M132908 | P1018 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProduct` | build-observed |
-| M132909 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SizePowerLeInverseSquareProductStatement` | build-observed |
-| M132910 | P2385 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SkewOfCommute` | volunteer-build-reviewed |

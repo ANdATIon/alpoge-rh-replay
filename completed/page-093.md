@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063239 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOne` | volunteer-build-reviewed |
+| M063240 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOneBis` | volunteer-build-reviewed |
 | M063241 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapPadicIntLeOne` | volunteer-build-reviewed |
 | M063242 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZero` | volunteer-build-reviewed |
 | M063243 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZeroStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M063823 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubgroupCharacterIdempotentProperties` | wave-reused |
 | M063824 | P0358 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubgroupCharacterIdempotentPropertiesStatement` | wave-reused |
 | M063828 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubstUpperTriangularHahnMulAndOne` | volunteer-build-reviewed |
-| M063829 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubstUpperTriangularHahnMulAndOneStatement` | volunteer-build-reviewed |
-| M063830 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperRep` | volunteer-build-reviewed |

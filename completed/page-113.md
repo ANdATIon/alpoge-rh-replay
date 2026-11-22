@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077303 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtension` | volunteer-build-reviewed |
+| M077304 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtensionStatement` | volunteer-build-reviewed |
 | M077305 | P0848 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteType` | build-observed |
 | M077306 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteTypeStatement` | build-observed |
 | M077307 | P0406 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCongOfCongOnFixed` | build-observed |
@@ -400,5 +402,3 @@
 | M078044 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMiddleStepLevelInverseLiftsStatement` | volunteer-build-reviewed |
 | M078045 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMinorProductTranslateJointLowestWeight` | volunteer-build-reviewed |
 | M078047 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMkTauE` | volunteer-build-reviewed |
-| M078049 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelOfAtlasStatement` | volunteer-build-reviewed |
-| M078051 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelPresentingDivisorStatement` | volunteer-build-reviewed |

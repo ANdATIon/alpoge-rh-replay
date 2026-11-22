@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098870 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijFAndExpandsFLin` | build-observed |
+| M098873 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijOfOnto` | wave-reused |
 | M098874 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFLinear` | wave-reused |
 | M098875 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfExpT` | wave-reused |
 | M098876 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfPull` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M099511 | P0487 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsEqNsmulOfDvdPairing` | build-observed |
 | M099512 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsEquivariantFunOnSpanningFamilies` | volunteer-build-reviewed |
 | M099513 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFactorOpenImmersion` | wave-reused |
-| M099514 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFgSubalgebraDescAway` | volunteer-build-reviewed |
-| M099515 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTriple` | wave-reused |

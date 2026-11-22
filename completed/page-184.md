@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121476 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsEqOfEq` | wave-reused |
+| M121477 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationProperties` | volunteer-build-reviewed |
 | M121478 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationPropertiesStatement` | volunteer-build-reviewed |
 | M121479 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGenerator` | build-observed |
 | M121480 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGeneratorStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M122052 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasis` | volunteer-build-reviewed |
 | M122053 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasisStatement` | volunteer-build-reviewed |
 | M122054 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIso` | build-observed |
-| M122055 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIsoStatement` | volunteer-build-reviewed |
-| M122056 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanish` | volunteer-build-reviewed |

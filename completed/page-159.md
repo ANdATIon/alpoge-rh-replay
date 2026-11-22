@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109009 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.RootChar` | volunteer-build-reviewed |
+| M109010 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.UnitDivNear` | volunteer-build-reviewed |
 | M109011 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.Adj2` | volunteer-build-reviewed |
 | M109012 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.BarFacts` | volunteer-build-reviewed |
 | M109013 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.CharacterSubgroupOpenEvenIndexTamePower` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M109500 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceFunctionFieldStatementTwo` | volunteer-build-reviewed |
 | M109501 | P2693 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceLocalParametersStatement` | volunteer-build-reviewed |
 | M109502 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceSectionsStatement` | volunteer-build-reviewed |
-| M109503 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleLocallyHoldsOfPointwiseCoverOrAffineLocal` | volunteer-build-reviewed |
-| M109504 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtalePurityFreeCover` | wave-reused |

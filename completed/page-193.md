@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127224 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2Sum` | volunteer-build-reviewed |
+| M127225 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2SumStatement` | volunteer-build-reviewed |
 | M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
 | M127228 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite` | volunteer-build-reviewed |
 | M127229 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfiniteStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M127925 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOverLatticeQuotientLocallyConstant` | volunteer-build-reviewed |
 | M127929 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableProdPowMultiIndex` | volunteer-build-reviewed |
 | M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |
-| M127931 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficientsStatement` | volunteer-build-reviewed |
-| M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |

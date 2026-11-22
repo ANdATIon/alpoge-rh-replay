@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043933 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInfStatement` | volunteer-build-reviewed |
+| M043935 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecInv` | volunteer-build-reviewed |
 | M043939 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecVecMulVec` | volunteer-build-reviewed |
 | M043942 | P1400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultRealElt` | build-observed |
 | M043945 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiDifferenceVanishesOfInvarianceStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M044656 | P0247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationDvrTensorSeparableFiniteStatement` | wave-reused |
 | M044657 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationMulEqAevalRoot` | wave-reused |
 | M044658 | P0247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationMulEqAevalRootStatement` | wave-reused |
-| M044660 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactification` | volunteer-build-reviewed |
-| M044661 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactificationStatement` | volunteer-build-reviewed |

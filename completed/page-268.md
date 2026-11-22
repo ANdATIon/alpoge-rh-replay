@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171942 | P0389 | `ReciprocityTheory.GroupCohomology.ConnNatHolds` | volunteer-build-reviewed |
+| M171943 | P0233 | `ReciprocityTheory.GroupCohomology.ContinuousContractNth` | wave-reused |
 | M171945 | P0389 | `ReciprocityTheory.GroupCohomology.ContractNthCastAddCastSucc` | volunteer-build-reviewed |
 | M171946 | P0290 | `ReciprocityTheory.GroupCohomology.CupConnRightStatement` | wave-reused |
 | M171950 | P0343 | `ReciprocityTheory.GroupCohomology.DEqZeroOfMemB` | wave-reused |
@@ -400,5 +402,3 @@
 | M172421 | P1112 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfO` | wave-reused |
 | M172422 | P1141 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfP` | wave-reused |
 | M172423 | P1168 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfQ` | wave-reused |
-| M172424 | P1191 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfR` | wave-reused |
-| M172425 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfS` | wave-reused |

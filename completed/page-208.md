@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137211 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.Outright` | volunteer-build-reviewed |
+| M137215 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalCompatibilityHolds` | volunteer-build-reviewed |
 | M137216 | P1466 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.LocalGlobalOfIwahori` | volunteer-build-reviewed |
 | M137221 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CharPolyRestriction` | volunteer-build-reviewed |
 | M137223 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LocalGlobalCompatibility.TemperedLocalGlobal.WeilGroupRestriction.CyclicCMExtension` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M138144 | P1438 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsResDegree` | volunteer-build-reviewed |
 | M138145 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsRightInv` | volunteer-build-reviewed |
 | M138153 | P2164 | `Development.WeilBound.CoreStatements.FlagImmersions.FlagImmersion` | volunteer-build-reviewed |
-| M138157 | P2592 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelRealTower` | volunteer-build-reviewed |
-| M138160 | P2735 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelTowerFifthCondition` | volunteer-build-reviewed |

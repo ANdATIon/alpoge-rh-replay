@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089158 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquot` | volunteer-build-reviewed |
+| M089159 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquotStatement` | volunteer-build-reviewed |
 | M089163 | P2127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PublishedInputsCombined` | volunteer-build-reviewed |
 | M089164 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PublishedInputsCombinedStatement` | volunteer-build-reviewed |
 | M089165 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullPreservesFiniteLimits` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M090128 | P0524 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRationalSymplecticOfUnitaryCmFieldStatement` | wave-reused |
 | M090129 | P1043 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRationalSymplecticUnitaryColumns` | build-observed |
 | M090130 | P1071 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRationalSymplecticUnitaryColumnsStatement` | build-observed |
-| M090131 | P1015 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRowHighestHarmonicPolyDerivUnitaryAction` | volunteer-build-reviewed |
-| M090133 | P1867 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSabMapOfIsAH` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115911 | P2745 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootSymSupport` | volunteer-build-reviewed |
+| M115912 | P1578 | `Development.AutomorphicArithmetic.LocalEmbeddings.SemiUnfold` | volunteer-build-reviewed |
 | M115913 | P2652 | `Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp` | volunteer-build-reviewed |
 | M115914 | P2263 | `Development.AutomorphicArithmetic.LocalEmbeddings.SplitLin` | volunteer-build-reviewed |
 | M115916 | P2129 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoDefs` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M116490 | P2718 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogCanonicalReflOfBoundary` | volunteer-build-reviewed |
 | M116492 | P2661 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogMeasureRatioBounded` | volunteer-build-reviewed |
 | M116493 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogSumBadPrimesBoundOfCovering` | volunteer-build-reviewed |
-| M116494 | P2739 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogTopDimensionBoundCovering` | volunteer-build-reviewed |
-| M116497 | P2652 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.PlugPairs` | volunteer-build-reviewed |

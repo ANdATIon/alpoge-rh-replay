@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042560 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotients` | volunteer-build-reviewed |
+| M042561 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotientsStatement` | volunteer-build-reviewed |
 | M042562 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapHaarEqOfLattice` | volunteer-build-reviewed |
 | M042565 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterate` | build-observed |
 | M042566 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterateStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M043241 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLinearSystemConeAlgebraIffCoeffStatement` | volunteer-build-reviewed |
 | M043244 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalIdealOfCountLeOrder` | volunteer-build-reviewed |
 | M043245 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalIdealOfCountLeOrderStatement` | volunteer-build-reviewed |
-| M043246 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGenerator` | volunteer-build-reviewed |
-| M043247 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGeneratorStatement` | volunteer-build-reviewed |

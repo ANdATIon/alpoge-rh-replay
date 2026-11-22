@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163078 | P1026 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityGalois` | build-observed |
+| M163079 | P0942 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityHom` | build-observed |
 | M163080 | P0833 | `GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraic` | build-observed |
 | M163081 | P0805 | `GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraicConverse` | build-observed |
 | M163082 | P0081 | `GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraicGerm` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M163504 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability` | wave-reused |
 | M163505 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AddBlockPullbackOfChartBundlePullback` | volunteer-build-reviewed |
 | M163506 | P0381 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AlgebraMapMemChartRingJoinPt` | volunteer-build-reviewed |
-| M163507 | P0282 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.LocallyFreeSpreadHyp` | volunteer-build-reviewed |
-| M163508 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.PNefOnFibresRelabel` | wave-reused |

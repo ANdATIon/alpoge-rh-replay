@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071986 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacter` | volunteer-build-reviewed |
+| M071987 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacterStatement` | volunteer-build-reviewed |
 | M071991 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelUniqueOfIrreducibleStatement` | build-observed |
 | M071992 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZero` | volunteer-build-reviewed |
 | M071993 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZeroStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M072743 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyIrreducibleElementaryWeightModification` | build-observed |
 | M072744 | P1568 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyIrreducibleElementaryWeightModificationStatement` | build-observed |
 | M072745 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVector` | build-observed |
-| M072746 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVectorStatement` | build-observed |
-| M072751 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjective` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153424 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZCircleCharExtends` | build-observed |
+| M153425 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZGoodCuspidal` | build-observed |
 | M153426 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.ZReuse` | build-observed |
 | M153427 | P0603 | `Formalism.PairingDivisors.PairingDivisorProofs.Height` | build-observed |
 | M153428 | P0571 | `Formalism.PairingDivisors.PairingDivisorProofs.SumValuationNat` | build-observed |
@@ -400,5 +402,3 @@
 | M153866 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormUnits` | build-observed |
 | M153867 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhProdConv` | build-observed |
 | M153868 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhSchurConv` | build-observed |
-| M153869 | P0463 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhiCubeOfFactor` | build-observed |
-| M153870 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PinHostLoc` | build-observed |

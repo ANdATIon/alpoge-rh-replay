@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069319 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsComplOfSaturated` | volunteer-build-reviewed |
+| M069320 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsDetRootFinPartOne` | volunteer-build-reviewed |
 | M069321 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFinIdem` | volunteer-build-reviewed |
 | M069322 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitriangu` | volunteer-build-reviewed |
 | M069323 | P2214 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitrianguStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M069924 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiser` | volunteer-build-reviewed |
 | M069925 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPow` | build-observed |
 | M069926 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserEisensteinNotInXPowStatement` | build-observed |
-| M069927 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegers` | volunteer-build-reviewed |
-| M069928 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegersStatement` | volunteer-build-reviewed |

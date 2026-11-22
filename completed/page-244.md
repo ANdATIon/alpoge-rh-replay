@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158867 | P0913 | `Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant` | build-observed |
+| M158868 | P0969 | `Formalism.SharpRestriction.Divisibility.PrinLevClass` | build-observed |
 | M158869 | P1052 | `Formalism.SharpRestriction.Divisibility.ProductFirstParts` | build-observed |
 | M158870 | P0969 | `Formalism.SharpRestriction.Divisibility.ProductZerothFirstParts` | build-observed |
 | M158871 | P0078 | `Formalism.SharpRestriction.Divisibility.RankTruncation.KapDLemma` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M159315 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Beyond44OfRestRawTail` | build-observed |
 | M159316 | P1615 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockForm` | build-observed |
 | M159317 | P1470 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockWithThresholds` | build-observed |
-| M159318 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.ChainEmbInj` | build-observed |
-| M159319 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CharZeroOfW` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095561 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourthStatement` | volunteer-build-reviewed |
+| M095562 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecond` | volunteer-build-reviewed |
 | M095563 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecondStatement` | volunteer-build-reviewed |
 | M095564 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThird` | volunteer-build-reviewed |
 | M095565 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThirdStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M096035 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemOffP` | volunteer-build-reviewed |
 | M096036 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemPrincGLOfCong` | volunteer-build-reviewed |
 | M096037 | P1628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRangeMapSubtypeOfContr` | volunteer-build-reviewed |
-| M096038 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntri` | volunteer-build-reviewed |
-| M096039 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntriStatement` | build-observed |

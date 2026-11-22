@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145259 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSIdxFinite` | wave-reused |
+| M145260 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTExists` | wave-reused |
 | M145261 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTPeel` | wave-reused |
 | M145262 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.StandardMonomialSpanOf` | wave-reused |
 | M145263 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SumIcoTsubTelescope` | wave-reused |
@@ -400,5 +402,3 @@
 | M146236 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTopBlock` | build-observed |
 | M146237 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTransferAction` | build-observed |
 | M146238 | P1733 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentiableAtOfPuncturedSmooth` | build-observed |
-| M146239 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket` | wave-reused |
-| M146240 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationScalesHeisenbergMeasure` | wave-reused |

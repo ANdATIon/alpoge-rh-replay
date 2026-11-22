@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119134 | P2787 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftHypothesesOfNonvanishing` | volunteer-build-reviewed |
+| M119135 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLiftOfReference` | volunteer-build-reviewed |
 | M119136 | P2746 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaLocalInputs` | volunteer-build-reviewed |
 | M119137 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaValueOnCuspNeighbourhood` | volunteer-build-reviewed |
 | M119138 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentFitsIntegralLattice` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M119663 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub` | build-observed |
 | M119664 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsGroupHomog` | volunteer-build-reviewed |
 | M119665 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatFamilyLineFamZero` | volunteer-build-reviewed |
-| M119666 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatticeFamily` | volunteer-build-reviewed |
-| M119667 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars` | wave-reused |

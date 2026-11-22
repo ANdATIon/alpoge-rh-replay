@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096542 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplits` | volunteer-build-reviewed |
+| M096543 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplitsStatement` | volunteer-build-reviewed |
 | M096544 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShift` | volunteer-build-reviewed |
 | M096545 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShiftStatement` | volunteer-build-reviewed |
 | M096546 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhds` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M097067 | P1846 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SectionValueAtMultipleOfBaseChangedGenerator` | volunteer-build-reviewed |
 | M097069 | P1846 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SectionValuePulledBackAlongGroupMap` | volunteer-build-reviewed |
 | M097071 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModel` | volunteer-build-reviewed |
-| M097072 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModelStatement` | volunteer-build-reviewed |
-| M097077 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentity` | volunteer-build-reviewed |

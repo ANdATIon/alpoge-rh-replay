@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168366 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteSections` | wave-reused |
+| M168367 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteTwists` | wave-reused |
 | M168368 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenFibNef` | wave-reused |
 | M168369 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenerated` | wave-reused |
 | M168370 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGeneratedAmple` | wave-reused |
@@ -400,5 +402,3 @@
 | M168965 | P0862 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PFibreMultiHomog` | build-observed |
 | M168967 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGenFibreChartDeg` | build-observed |
 | M168968 | P0971 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartDim` | wave-reused |
-| M168969 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartModel` | wave-reused |
-| M168970 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet` | wave-reused |

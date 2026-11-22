@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046670 | P0301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEq` | wave-reused |
+| M046671 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEqStatement` | wave-reused |
 | M046672 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompact` | volunteer-build-reviewed |
 | M046673 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompactStatement` | volunteer-build-reviewed |
 | M046674 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdSubConjEqZero` | wave-reused |
@@ -400,5 +402,3 @@
 | M047379 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RadicalEltMovingDualToMajorantStatement` | volunteer-build-reviewed |
 | M047380 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaiseFirstWeightSectionsLociValuesNorms` | volunteer-build-reviewed |
 | M047383 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingSpanEqSpanWordsStatement` | volunteer-build-reviewed |
-| M047385 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingWordSpanStableOfLoweringKillStatement` | volunteer-build-reviewed |
-| M047386 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelConstLattices` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135481 | P0532 | `Development.EtaleCohomology.EtaleSheaves.H1MultiplicativeGroup` | build-observed |
+| M135483 | P0496 | `Development.EtaleCohomology.EtaleSheaves.HZeroPf` | wave-reused |
 | M135484 | P0566 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing` | wave-reused |
 | M135485 | P0532 | `Development.EtaleCohomology.EtaleSheaves.HalfDegreeVanishing.SecondBlockUnimodularLocusInclusionMono` | wave-reused |
 | M135486 | P0631 | `Development.EtaleCohomology.EtaleSheaves.HasLimPf` | wave-reused |
@@ -400,5 +402,3 @@
 | M136167 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupLeibnizOfPairing` | wave-reused |
 | M136170 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalBasicPropertiesHold` | wave-reused |
 | M136171 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalDifferentialFormulaHolds` | wave-reused |
-| M136172 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainExistsOfEvalData` | wave-reused |
-| M136173 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainsMayerVietorisShortExactOfFree` | build-observed |

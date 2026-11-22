@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122690 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLattice` | volunteer-build-reviewed |
+| M122691 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLatticeStatement` | volunteer-build-reviewed |
 | M122693 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinates` | volunteer-build-reviewed |
 | M122694 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinatesStatement` | volunteer-build-reviewed |
 | M122695 | P1133 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegral` | wave-reused |
@@ -400,5 +402,3 @@
 | M123305 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupport` | build-observed |
 | M123306 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupportStatement` | build-observed |
 | M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |
-| M123308 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBoundStatement` | build-observed |
-| M123311 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePropagationSpeedHolds` | build-observed |

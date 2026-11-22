@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156171 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.PRowWSColW` | build-observed |
+| M156172 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.UnitaryP` | build-observed |
 | M156173 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormOneCharacters.NormOneCharacterApply` | build-observed |
 | M156174 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormOneInverseMembership.UnitBallK` | build-observed |
 | M156175 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormOnePowerPrincipal.PowPrincipal` | build-observed |
@@ -400,5 +402,3 @@
 | M156604 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjHA` | build-observed |
 | M156605 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjRat` | build-observed |
 | M156606 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ProjStep` | build-observed |
-| M156607 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ReflectionFixesNormal` | build-observed |
-| M156608 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.SemiDefs` | build-observed |

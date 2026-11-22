@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088130 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosedStatement` | volunteer-build-reviewed |
+| M088131 | P2658 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrin` | volunteer-build-reviewed |
 | M088132 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrinStatement` | volunteer-build-reviewed |
 | M088133 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZero` | build-observed |
 | M088134 | P0931 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZeroStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M089151 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PrincipalCongruenceSubgroupMemLevelTwistPrime` | volunteer-build-reviewed |
 | M089155 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.ProdFinEqProdCastLE` | volunteer-build-reviewed |
 | M089157 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.ProjectiveChartAffineCover` | volunteer-build-reviewed |
-| M089158 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquot` | volunteer-build-reviewed |
-| M089159 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquotStatement` | volunteer-build-reviewed |

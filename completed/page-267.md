@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171466 | P0862 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartA` | wave-reused |
+| M171467 | P0889 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChartB` | wave-reused |
 | M171468 | P0915 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ContinuousOnOfCharts` | build-observed |
 | M171469 | P0232 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheaf` | wave-reused |
 | M171470 | P0167 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.DivSheafA` | wave-reused |
@@ -400,5 +402,3 @@
 | M171939 | P0090 | `ReciprocityTheory.GroupCohomology.ChiRkA` | volunteer-build-reviewed |
 | M171940 | P0090 | `ReciprocityTheory.GroupCohomology.CofinA` | volunteer-build-reviewed |
 | M171941 | P0290 | `ReciprocityTheory.GroupCohomology.ComapZeroCoboundariesEqBot` | wave-reused |
-| M171942 | P0389 | `ReciprocityTheory.GroupCohomology.ConnNatHolds` | volunteer-build-reviewed |
-| M171943 | P0233 | `ReciprocityTheory.GroupCohomology.ContinuousContractNth` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064546 | P1254 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraMapMemMaximalRealSubfieldIff` | volunteer-build-reviewed |
+| M064549 | P0736 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraicIsogenyConstantOfIsogenyFormula` | volunteer-build-reviewed |
 | M064554 | P0120 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope` | volunteer-build-reviewed |
 | M064558 | P0845 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrime` | build-observed |
 | M064559 | P0872 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrimeStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M065335 | P2002 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormalisedThetaFamilyVectorsLatticesThetaZeroStatement` | volunteer-build-reviewed |
 | M065336 | P1199 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormalizedAreaClassInvariant` | build-observed |
 | M065340 | P1945 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NormalizedVectorTranslatesPrimeOrderIntegralStatement` | volunteer-build-reviewed |
-| M065342 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotDvdDifferent` | build-observed |
-| M065343 | P0555 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit` | build-observed |

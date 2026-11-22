@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032929 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompat` | volunteer-build-reviewed |
 | M032930 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompatStatement` | build-observed |
 | M032931 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMatrixCompositionUnique` | wave-reused |
 | M032932 | P0299 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMatrixCompositionUniqueStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M033604 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFibreTorsionRationalOfBase` | volunteer-build-reviewed |
 | M033605 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFibreTorsionRationalOfBaseStatement` | volunteer-build-reviewed |
 | M033607 | P2454 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFibreUniformisedModelPointGroupPullbackStatement` | volunteer-build-reviewed |
-| M033608 | P2054 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFormalPathEqScalingValuationRingPath` | volunteer-build-reviewed |

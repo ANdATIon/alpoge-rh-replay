@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043246 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGenerator` | volunteer-build-reviewed |
+| M043247 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalLatticeIdealMapSmulIffGeneratorStatement` | volunteer-build-reviewed |
 | M043248 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalNormsOfLiftUFEq` | volunteer-build-reviewed |
 | M043249 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalSubringGenericPoint` | build-observed |
 | M043252 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLowLat` | build-observed |
@@ -400,5 +402,3 @@
 | M043928 | P2515 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulPullOfRigOfSym` | volunteer-build-reviewed |
 | M043929 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulRealAdEqZero` | volunteer-build-reviewed |
 | M043932 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInf` | volunteer-build-reviewed |
-| M043933 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInfStatement` | volunteer-build-reviewed |
-| M043935 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecInv` | volunteer-build-reviewed |

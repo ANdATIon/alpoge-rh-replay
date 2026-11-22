@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050898 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingAbsenceSpreadsStatement` | volunteer-build-reviewed |
+| M050899 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingPreservesLocalSchwartz` | volunteer-build-reviewed |
 | M050900 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingPreservesLocalSchwartzStatement` | volunteer-build-reviewed |
 | M050901 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisation` | volunteer-build-reviewed |
 | M050902 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisationStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M051565 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumTranslatesEqDoubleCosetAverage` | volunteer-build-reviewed |
 | M051566 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumTranslatesEqDoubleCosetAverageStatement` | volunteer-build-reviewed |
 | M051567 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumTransversalLeftTranslateInvariant` | volunteer-build-reviewed |
-| M051572 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumValuationLogLeLogDiscriminant` | volunteer-build-reviewed |
-| M051574 | P1251 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWIffGoodFormsOrthSum` | build-observed |

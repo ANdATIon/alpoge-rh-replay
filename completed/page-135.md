@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095079 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightTranslate` | volunteer-build-reviewed |
+| M095084 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicator` | build-observed |
 | M095085 | P0487 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicatorStatement` | build-observed |
 | M095086 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTsumOfFactor` | volunteer-build-reviewed |
 | M095087 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralUnfoldingVariablesMemFieldRange` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M095558 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFirst` | volunteer-build-reviewed |
 | M095559 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFirstStatement` | volunteer-build-reviewed |
 | M095560 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourth` | volunteer-build-reviewed |
-| M095561 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourthStatement` | volunteer-build-reviewed |
-| M095562 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecond` | volunteer-build-reviewed |

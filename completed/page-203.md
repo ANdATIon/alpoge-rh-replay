@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134169 | P1265 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSumStatement` | build-observed |
+| M134170 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeBoundedMap` | volunteer-build-reviewed |
 | M134175 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeLeRankMulSlopeStatement` | volunteer-build-reviewed |
 | M134176 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeOrthogonalSum` | volunteer-build-reviewed |
 | M134177 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeOrthogonalSumStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M134904 | P1706 | `Development.DiscreteGroups.GlobalIrreducibility.IneEqOfHasGreenLe` | volunteer-build-reviewed |
 | M134907 | P1552 | `Development.DiscreteGroups.GlobalIrreducibility.KmatMulKinv` | volunteer-build-reviewed |
 | M134917 | P1438 | `Development.DiscreteGroups.GlobalIrreducibility.LConvCut` | volunteer-build-reviewed |
-| M134927 | P0064 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKMCore` | volunteer-build-reviewed |
-| M134932 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKirStep` | volunteer-build-reviewed |

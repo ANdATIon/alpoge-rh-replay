@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114588 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtCommon` | wave-reused |
+| M114589 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtInj` | wave-reused |
 | M114590 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtLift` | wave-reused |
 | M114591 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtOne` | wave-reused |
 | M114592 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRedZero` | wave-reused |
@@ -400,5 +402,3 @@
 | M115033 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClearDenominatorsLattice` | volunteer-build-reviewed |
 | M115034 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureSpanCoefficients` | volunteer-build-reviewed |
 | M115035 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureUpperUni` | build-observed |
-| M115037 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryCriterion` | volunteer-build-reviewed |
-| M115038 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryOfGenerator` | volunteer-build-reviewed |

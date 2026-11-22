@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134927 | P0064 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKMCore` | volunteer-build-reviewed |
+| M134932 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvKirStep` | volunteer-build-reviewed |
 | M134940 | P1637 | `Development.DiscreteGroups.GlobalIrreducibility.LConvSepR` | volunteer-build-reviewed |
 | M134947 | P1829 | `Development.DiscreteGroups.GlobalIrreducibility.LTw` | volunteer-build-reviewed |
 | M134949 | P1782 | `Development.DiscreteGroups.GlobalIrreducibility.LongEltCornerEqCyc` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M135477 | P0532 | `Development.EtaleCohomology.EtaleSheaves.GoalOf` | wave-reused |
 | M135479 | P0456 | `Development.EtaleCohomology.EtaleSheaves.H0TwistOverClosedField` | wave-reused |
 | M135480 | P0662 | `Development.EtaleCohomology.EtaleSheaves.H1FiniteCoefficients` | wave-reused |
-| M135481 | P0532 | `Development.EtaleCohomology.EtaleSheaves.H1MultiplicativeGroup` | build-observed |
-| M135483 | P0496 | `Development.EtaleCohomology.EtaleSheaves.HZeroPf` | wave-reused |

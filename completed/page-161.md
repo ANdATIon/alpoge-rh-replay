@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
+| M110076 | P2045 | `Development.AutomorphicArithmetic.DivisorFrames.AbsHcExponentLeAndAbsCenterLeOfSizeRows` | volunteer-build-reviewed |
 | M110077 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.AdaptedPlaneHermitianRestrict` | volunteer-build-reviewed |
 | M110078 | P0046 | `Development.AutomorphicArithmetic.DivisorFrames.AdeleUnitsPolarCircles` | volunteer-build-reviewed |
 | M110079 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleFlagValuation` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M110534 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChiInj` | volunteer-build-reviewed |
 | M110536 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ClifMod` | volunteer-build-reviewed |
 | M110538 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracAlg` | volunteer-build-reviewed |
-| M110539 | P1826 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracCh` | volunteer-build-reviewed |
-| M110541 | P1848 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracW` | volunteer-build-reviewed |

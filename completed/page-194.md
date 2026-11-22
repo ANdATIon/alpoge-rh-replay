@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127931 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficientsStatement` | volunteer-build-reviewed |
+| M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |
 | M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
 | M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |
 | M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M128625 | P1706 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundFinite` | volunteer-build-reviewed |
 | M128633 | P2175 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExists` | volunteer-build-reviewed |
 | M128634 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExistsStatement` | volunteer-build-reviewed |
-| M128635 | P1637 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySwapReduction` | volunteer-build-reviewed |
-| M128640 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniversalCoefficientDegreeZeroStatement` | volunteer-build-reviewed |

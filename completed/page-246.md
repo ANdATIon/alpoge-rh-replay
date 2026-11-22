@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159732 | P1641 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankLjjSpan` | wave-reused |
+| M159733 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankSpanImageLe` | wave-reused |
 | M159734 | P1664 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FockKSmulRight` | wave-reused |
 | M159735 | P1442 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.GoodCountMem` | wave-reused |
 | M159736 | P1711 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.GoodLeSmallMat` | wave-reused |
@@ -400,5 +402,3 @@
 | M160129 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgePlane` | build-observed |
 | M160130 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EvensBeforePairwise` | build-observed |
 | M160131 | P1167 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ExistsPolFamilyOfMemGenOfVsDegLe` | build-observed |
-| M160132 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FlatSrc` | build-observed |
-| M160133 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FramesOf` | build-observed |

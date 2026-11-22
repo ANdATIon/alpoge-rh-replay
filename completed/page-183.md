@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120909 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Aq` | volunteer-build-reviewed |
+| M120910 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchExponentEqZeroOfMulSelf` | build-observed |
 | M120911 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExists` | volunteer-build-reviewed |
 | M120912 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExistsStatement` | volunteer-build-reviewed |
 | M120914 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchSmoothCompTransposeInvStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M121471 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernel` | volunteer-build-reviewed |
 | M121472 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernelStatement` | volunteer-build-reviewed |
 | M121475 | P0797 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsCongr` | build-observed |
-| M121476 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsEqOfEq` | wave-reused |
-| M121477 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationProperties` | volunteer-build-reviewed |

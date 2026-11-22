@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097072 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModelStatement` | volunteer-build-reviewed |
+| M097077 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentity` | volunteer-build-reviewed |
 | M097078 | P2775 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentityStatement` | volunteer-build-reviewed |
 | M097079 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModel` | volunteer-build-reviewed |
 | M097080 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModelStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M097662 | P1206 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKORatLeftAndEigenRight` | volunteer-build-reviewed |
 | M097663 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelAlgebraicExpansion` | volunteer-build-reviewed |
 | M097664 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelAlgebraicExpansionStatement` | volunteer-build-reviewed |
-| M097665 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariant` | volunteer-build-reviewed |
-| M097666 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariantStatement` | volunteer-build-reviewed |

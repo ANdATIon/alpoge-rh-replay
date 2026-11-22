@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120241 | P0412 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariantsStatement` | volunteer-build-reviewed |
+| M120242 | P2472 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersion` | volunteer-build-reviewed |
 | M120243 | P2500 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersionStatement` | volunteer-build-reviewed |
 | M120244 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCover` | build-observed |
 | M120245 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCoverStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M120904 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApplyMulOfCoprime` | volunteer-build-reviewed |
 | M120907 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumps` | volunteer-build-reviewed |
 | M120908 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumpsStatement` | volunteer-build-reviewed |
-| M120909 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Aq` | volunteer-build-reviewed |
-| M120910 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchExponentEqZeroOfMulSelf` | build-observed |

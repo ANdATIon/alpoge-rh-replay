@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143145 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiCosets` | volunteer-build-reviewed |
+| M143146 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.UnifLC` | volunteer-build-reviewed |
 | M143148 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.HomomorphismContinuity.T2SpaceLocalField` | volunteer-build-reviewed |
 | M143150 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.ModulusHeights.StepModH` | volunteer-build-reviewed |
 | M143152 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.ModulusSquares.HaarEqOneOfSq` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M144049 | P1527 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfPsi` | build-observed |
 | M144050 | P1468 | `Formalism.AdmissibleDesigns.TwistedTargetOfInputs` | build-observed |
 | M144051 | P1468 | `Formalism.AdmissibleDesigns.URecApply` | build-observed |
-| M144052 | P1497 | `Formalism.AdmissibleDesigns.URepApply` | build-observed |
-| M144053 | P1639 | `Formalism.AdmissibleDesigns.UnramifiedInputOfAdmitted` | volunteer-build-reviewed |

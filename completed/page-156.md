@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107090 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinPairs` | volunteer-build-reviewed |
+| M107091 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WinTop` | volunteer-build-reviewed |
 | M107092 | P2804 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WindowBoundOfLiteratureLevel` | volunteer-build-reviewed |
 | M107093 | P2686 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WoConj` | volunteer-build-reviewed |
 | M107094 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WsLink` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M107609 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.MemFiniteCocyclesIffRestrictSubgroupMem` | volunteer-build-reviewed |
 | M107615 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfFrobeniusEigenvectorMemFilZero` | volunteer-build-reviewed |
 | M107616 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfFrobeniusPowEigenvectorMemFilZero` | volunteer-build-reviewed |
-| M107617 | P1339 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfMemSpectrumFrobeniusMatrixFilZero` | build-observed |
-| M107618 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OpenField` | build-observed |

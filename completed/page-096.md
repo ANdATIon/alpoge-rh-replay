@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065342 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotDvdDifferent` | build-observed |
+| M065343 | P0555 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit` | build-observed |
 | M065344 | P0588 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplitStatement` | build-observed |
 | M065345 | P1036 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NuRowNonnegLeTenMul` | build-observed |
 | M065348 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OneLeLetterBlockLength` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M066098 | P1064 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HaarUpqEqOfOmegaDensity` | build-observed |
 | M066099 | P0358 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HaarUpqIsMulRightInvariant` | build-observed |
 | M066100 | P0404 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HaarUpqIsMulRightInvariantStatement` | build-observed |
-| M066102 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasAllKTypesOfClosureDiscreteSeriesCoefficientsStatement` | volunteer-build-reviewed |
-| M066104 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasDerivAtMatrixExpEntryReal` | volunteer-build-reviewed |

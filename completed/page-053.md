@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035175 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormula` | volunteer-build-reviewed |
+| M035176 | P1817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormulaStatement` | volunteer-build-reviewed |
 | M035177 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanWeilRepIntertwine` | volunteer-build-reviewed |
 | M035178 | P1817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanWeilRepIntertwineStatement` | volunteer-build-reviewed |
 | M035180 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivativeEquivarianceStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M035908 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomDescent` | volunteer-build-reviewed |
 | M035915 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomExtSpecProdSelfOfBasicOpenPreimageEq` | volunteer-build-reviewed |
 | M035916 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomExtSpecProdSelfOfBasicOpenPreimageEqStatement` | volunteer-build-reviewed |
-| M035917 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomFactorsThroughMulN` | volunteer-build-reviewed |
-| M035918 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomFiniteFreeFinrankLeFourMulDim` | volunteer-build-reviewed |

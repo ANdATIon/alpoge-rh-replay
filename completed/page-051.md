@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033608 | P2054 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFormalPathEqScalingValuationRingPath` | volunteer-build-reviewed |
 | M033609 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericFormalPathEqScalingValuationRingPathStatement` | volunteer-build-reviewed |
 | M033610 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericGaussFactorisationCoeffSmulInjective` | volunteer-build-reviewed |
 | M033611 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericGaussFactorisationCoeffSmulInjectiveStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M034459 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorIntegralModelIsProperOfCompact` | volunteer-build-reviewed |
 | M034461 | P2832 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorIntegralModelNonempty` | volunteer-build-reviewed |
 | M034462 | P2833 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorIntegralModelNonemptyStatement` | volunteer-build-reviewed |
-| M034467 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorKodairaSpencerDirectionsDim` | volunteer-build-reviewed |

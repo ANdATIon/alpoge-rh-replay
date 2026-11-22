@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038997 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothFunIntegralMulRightStatement` | build-observed |
+| M038998 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAdd` | volunteer-build-reviewed |
 | M038999 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAddStatement` | volunteer-build-reviewed |
 | M039000 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyMulLeft` | volunteer-build-reviewed |
 | M039001 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyMulLeftStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M039747 | P2663 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerRigExtMapRelFrobLeRangeRigOfOmegaStatement` | volunteer-build-reviewed |
 | M039748 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSizesOfStdKer` | volunteer-build-reviewed |
 | M039749 | P0016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSmulLeIdealSmulOfFree` | volunteer-build-reviewed |
-| M039750 | P0109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerSmulLeIdealSmulOfFreeStatement` | volunteer-build-reviewed |
-| M039751 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerTensor` | build-observed |

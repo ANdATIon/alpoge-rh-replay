@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159318 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.ChainEmbInj` | build-observed |
+| M159319 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CharZeroOfW` | build-observed |
 | M159320 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultAt` | build-observed |
 | M159321 | P1296 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultiplicityAtIdentity` | build-observed |
 | M159322 | P1417 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CthMonomial` | build-observed |
@@ -400,5 +402,3 @@
 | M159729 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExponentMatrixFirstDepthEq` | wave-reused |
 | M159730 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinPosEqCast` | wave-reused |
 | M159731 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankEqSpanGen` | wave-reused |
-| M159732 | P1641 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankLjjSpan` | wave-reused |
-| M159733 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankSpanImageLe` | wave-reused |

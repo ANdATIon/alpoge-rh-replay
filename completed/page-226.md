@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149551 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.PairingCommutesLiftOperators` | build-observed |
+| M149552 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.UnitaryTwoPackage` | build-observed |
 | M149553 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapEq` | build-observed |
 | M149554 | P1319 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapT` | build-observed |
 | M149555 | P0537 | `Formalism.LocalToGlobal.IndefiniteReal.OpNormAtLeOfPoints` | build-observed |
@@ -400,5 +402,3 @@
 | M150405 | P1108 | `Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms` | build-observed |
 | M150406 | P1050 | `Formalism.LocalToGlobal.ProjectiveLattices.LatPAddRight` | build-observed |
 | M150407 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.LawA13OfContinuous` | build-observed |
-| M150408 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.LevelPb` | build-observed |
-| M150409 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.LieAlg` | wave-reused |

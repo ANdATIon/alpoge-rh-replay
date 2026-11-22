@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090131 | P1015 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRowHighestHarmonicPolyDerivUnitaryAction` | volunteer-build-reviewed |
+| M090133 | P1867 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSabMapOfIsAH` | volunteer-build-reviewed |
 | M090136 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescends` | volunteer-build-reviewed |
 | M090137 | P2139 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescendsStatement` | volunteer-build-reviewed |
 | M090139 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSpanningHypotheses` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M090837 | P1845 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SiegelFamilyStandardLevelPointsSameComponentStatement` | build-observed |
 | M090838 | P1408 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SiegelSmoothOfRelativeDimensionCharZero` | build-observed |
 | M090839 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SiegelSmoothOfRelativeDimensionCharZeroStatement` | build-observed |
-| M090840 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignInsert` | wave-reused |
-| M090841 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignSwap` | wave-reused |

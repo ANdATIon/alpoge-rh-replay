@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034467 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorKodairaSpencerDirectionsDim` | volunteer-build-reviewed |
 | M034470 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLevelForgettingFiniteEtaleSurjectiveStatement` | volunteer-build-reviewed |
 | M034475 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLieConditionIdentityOfHodgeSummand` | volunteer-build-reviewed |
 | M034476 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLieConditionIdentityOfHodgeSummandStatement` | volunteer-build-reviewed |
@@ -180,6 +181,7 @@
 | M034789 | P0181 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumGaussianConvolutionSeriesTermIntegralStatement` | volunteer-build-reviewed |
 | M034790 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumHilbertEisensteinConstantTermPartialZeta` | volunteer-build-reviewed |
 | M034791 | P0181 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumHilbertEisensteinConstantTermPartialZetaStatement` | volunteer-build-reviewed |
+| M034792 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumHilbertEisensteinJetSplitLattice` | volunteer-build-reviewed |
 | M034794 | P0812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumHilbertEisensteinMovedPoint` | build-observed |
 | M034805 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumIteratedDerivHilbertEisensteinSplitLatticeStatement` | build-observed |
 | M034806 | P0181 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasSumLambertDoubleSeriesDivisors` | wave-reused |
@@ -400,5 +402,3 @@
 | M035168 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergCharacterMinusOneStatement` | volunteer-build-reviewed |
 | M035171 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergCosetRepTranslatesOrthogonal` | build-observed |
 | M035172 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergCosetRepTranslatesOrthogonalStatement` | build-observed |
-| M035175 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormula` | volunteer-build-reviewed |
-| M035176 | P1817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormulaStatement` | volunteer-build-reviewed |

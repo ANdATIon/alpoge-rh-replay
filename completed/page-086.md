@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058767 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIrrAndDenseOfIsFdegG` | build-observed |
+| M058769 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubspaceRingOfIntegersStatement` | volunteer-build-reviewed |
 | M058770 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubtype` | volunteer-build-reviewed |
 | M058771 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeLatIn` | build-observed |
 | M058772 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeOfSqueezedBetweenNatMultiples` | wave-reused |
@@ -400,5 +402,3 @@
 | M059427 | P0788 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MirabolicInductionPhiPlusInductionFromBlockUni` | wave-reused |
 | M059428 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MirabolicInductionPhiPlusInductionFromBlockUniStatement` | wave-reused |
 | M059429 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ModerateLogFactorAbsorbed` | volunteer-build-reviewed |
-| M059432 | P0554 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnesses` | wave-reused |
-| M059433 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnessesStatement` | wave-reused |

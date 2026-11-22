@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162621 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalHaar` | wave-reused |
+| M162622 | P1215 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLattice` | build-observed |
 | M162623 | P1242 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeBounds` | build-observed |
 | M162624 | P1270 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeCont` | build-observed |
 | M162625 | P1296 | `GroundTheory.AutomorphicForms.GL2.GJGlobalLatticeSummable` | build-observed |
@@ -400,5 +402,3 @@
 | M163075 | P0971 | `GroundTheory.GlobalFields.ComplexMultiplication.Algebraicity` | build-observed |
 | M163076 | P0999 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityClass` | build-observed |
 | M163077 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityDescent` | build-observed |
-| M163078 | P1026 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityGalois` | build-observed |
-| M163079 | P0942 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityHom` | build-observed |

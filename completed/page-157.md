@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107617 | P1339 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfMemSpectrumFrobeniusMatrixFilZero` | build-observed |
+| M107618 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OpenField` | build-observed |
 | M107619 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdCharIff` | volunteer-build-reviewed |
 | M107621 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlag` | volunteer-build-reviewed |
 | M107622 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlagU` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M108434 | P2641 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.FreePU` | volunteer-build-reviewed |
 | M108436 | P2693 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.HidaX` | volunteer-build-reviewed |
 | M108437 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.Imports` | volunteer-build-reviewed |
-| M108438 | P2673 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IntIffNorm` | volunteer-build-reviewed |
-| M108439 | P2667 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IsIrrOfMatIrr` | volunteer-build-reviewed |

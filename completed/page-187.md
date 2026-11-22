@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123308 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBoundStatement` | build-observed |
+| M123311 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePropagationSpeedHolds` | build-observed |
 | M123313 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexing` | volunteer-build-reviewed |
 | M123314 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexingStatement` | volunteer-build-reviewed |
 | M123317 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishing` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M123904 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure` | volunteer-build-reviewed |
 | M123905 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructureStatement` | volunteer-build-reviewed |
 | M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |
-| M123907 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaConditionStatement` | volunteer-build-reviewed |
-| M123908 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUnique` | build-observed |

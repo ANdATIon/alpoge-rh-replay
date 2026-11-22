@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076499 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffOfContinuousOneParameterStatement` | volunteer-build-reviewed |
+| M076500 | P1201 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetIntegralNat` | build-observed |
 | M076501 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContainsRayFieldSub` | volunteer-build-reviewed |
 | M076502 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP` | volunteer-build-reviewed |
 | M076504 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousAdicCompletionEquivUniformiserStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M077298 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsComplexificationOfDefiniteGroupForms` | volunteer-build-reviewed |
 | M077299 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsComplexificationOfDefiniteGroupFormsStatement` | volunteer-build-reviewed |
 | M077302 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcrete` | volunteer-build-reviewed |
-| M077303 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtension` | volunteer-build-reviewed |
-| M077304 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtensionStatement` | volunteer-build-reviewed |

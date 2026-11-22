@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102734 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHommem` | wave-reused |
+| M102735 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHomprime` | wave-reused |
 | M102737 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GRatliff` | wave-reused |
 | M102738 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GammaOneGammaZeroHomogeneousCocyclesFinite` | volunteer-build-reviewed |
 | M102741 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HighestWeightIntegral` | wave-reused |
@@ -400,5 +402,3 @@
 | M103397 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CuspSet` | volunteer-build-reviewed |
 | M103398 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.Deadel` | volunteer-build-reviewed |
 | M103399 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownChar` | volunteer-build-reviewed |
-| M103400 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownHol` | volunteer-build-reviewed |
-| M103401 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownLift` | volunteer-build-reviewed |

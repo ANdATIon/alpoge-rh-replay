@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081616 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormulaStatement` | volunteer-build-reviewed |
+| M081617 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBound` | volunteer-build-reviewed |
 | M081618 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBoundStatement` | build-observed |
 | M081619 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBound` | volunteer-build-reviewed |
 | M081620 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBoundStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M082661 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaMapHilbertModelEqConcreteThetaMapFamilyThre` | volunteer-build-reviewed |
 | M082662 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaMapHilbertModelEqConcreteThetaMapFamilyThreStatement` | volunteer-build-reviewed |
 | M082664 | P1544 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaMultiplierUnitary` | volunteer-build-reviewed |
-| M082665 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaOfOfIsCharLab` | build-observed |
-| M082668 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePower` | volunteer-build-reviewed |

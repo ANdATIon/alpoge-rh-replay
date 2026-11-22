@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123907 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaConditionStatement` | volunteer-build-reviewed |
+| M123908 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUnique` | build-observed |
 | M123909 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUniqueStatement` | build-observed |
 | M123912 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentatives` | volunteer-build-reviewed |
 | M123913 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentativesStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
 | M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
 | M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |
-| M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
-| M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |

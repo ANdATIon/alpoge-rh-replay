@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056557 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderActionRosatiAdjointStatement` | volunteer-build-reviewed |
+| M056558 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderIsRingActionOnProduct` | volunteer-build-reviewed |
 | M056559 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderIsRingActionOnProductStatement` | volunteer-build-reviewed |
 | M056560 | P2734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernel` | volunteer-build-reviewed |
 | M056561 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernelStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M057339 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.DualInterSelfDualHermitianLatticeSubspaceStatement` | wave-reused |
 | M057340 | P0842 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.DualLatticeLocalCharacterization` | build-observed |
 | M057341 | P0869 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.DualLatticeLocalCharacterizationStatement` | build-observed |
-| M057347 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerIsometry` | wave-reused |
-| M057348 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantData` | wave-reused |

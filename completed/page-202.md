@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133526 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionFifth` | volunteer-build-reviewed |
+| M133527 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionFifthStatement` | volunteer-build-reviewed |
 | M133530 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionSeventh` | volunteer-build-reviewed |
 | M133531 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionSeventhStatement` | volunteer-build-reviewed |
 | M133534 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M134159 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditions` | build-observed |
 | M134160 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditionsStatement` | build-observed |
 | M134168 | P1237 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSum` | build-observed |
-| M134169 | P1265 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormSqEqAdaptedFrameSumStatement` | build-observed |
-| M134170 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NormalizedDegreeBoundedMap` | volunteer-build-reviewed |

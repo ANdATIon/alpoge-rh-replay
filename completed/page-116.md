@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079752 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InclMulInvMul` | volunteer-build-reviewed |
+| M079753 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncludeLInjective` | volunteer-build-reviewed |
 | M079754 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncreasingRowChoicePerColumn` | volunteer-build-reviewed |
 | M079765 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlaces` | volunteer-build-reviewed |
 | M079766 | P2215 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlacesStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M080634 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeExistenceAtPointStatement` | volunteer-build-reviewed |
 | M080635 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeFormOrder` | volunteer-build-reviewed |
 | M080636 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeFormOrderStatement` | volunteer-build-reviewed |
-| M080640 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeRegularPointStatement` | volunteer-build-reviewed |
-| M080643 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalDualEqAddSpan` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147436 | P0774 | `Formalism.LandauZeroFreeBounds.SiegelWalfiszAPOfSiegelLower` | build-observed |
+| M147437 | P0069 | `Formalism.LandauZeroFreeBounds.Statement` | build-observed |
 | M147438 | P0148 | `Formalism.LatticeLocalGlobal.LatticeLocalGlobalOfGlobal` | wave-reused |
 | M147439 | P0069 | `Formalism.LatticeLocalGlobal.Statement` | wave-reused |
 | M147440 | P0069 | `Formalism.LatticeRigidity.HeightMin` | build-observed |
@@ -400,5 +402,3 @@
 | M147873 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanFinal` | build-observed |
 | M147874 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanSt` | build-observed |
 | M147875 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePEmbIntSt` | build-observed |
-| M147876 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePFBMapSt` | build-observed |
-| M147877 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePGaugeMapSt` | build-observed |

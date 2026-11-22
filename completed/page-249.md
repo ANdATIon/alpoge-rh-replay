@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161360 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ManyOrbitsRefined` | build-observed |
+| M161361 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.MarkedRun` | build-observed |
 | M161362 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.QVandermonde` | build-observed |
 | M161363 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.SaturatedMember` | build-observed |
 | M161364 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.SubspaceCount` | build-observed |
@@ -400,5 +402,3 @@
 | M161765 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ArcExp` | wave-reused |
 | M161766 | P0332 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.BridgeDet` | wave-reused |
 | M161767 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelC` | wave-reused |
-| M161768 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelQ` | wave-reused |
-| M161769 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColAssembly` | wave-reused |

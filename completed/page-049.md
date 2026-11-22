@@ -318,6 +318,7 @@
 | M032782 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormallySmoothStalkUnitSmoothGroupSchemeStatement` | volunteer-build-reviewed |
 | M032787 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormallyUnramifiedKernelIsogenyTangentInjective` | volunteer-build-reviewed |
 | M032788 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FormallyUnramifiedKernelIsogenyTangentInjectiveStatement` | volunteer-build-reviewed |
+| M032791 | P0920 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FourFRLeMinGOfSizeG` | volunteer-build-reviewed |
 | M032796 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FourierBijOnSchwartzBruhatFinitePlace` | volunteer-build-reviewed |
 | M032797 | P2018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FourierBijOnSchwartzBruhatFinitePlaceStatement` | volunteer-build-reviewed |
 | M032798 | P0299 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FourierCoeffExpDecayOnCompact` | build-observed |
@@ -401,4 +402,3 @@
 | M032926 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameLiftsBasisDeRhamHomologyModHodgeFiltrationStatement` | volunteer-build-reviewed |
 | M032927 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapContraction` | volunteer-build-reviewed |
 | M032928 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapContractionStatement` | build-observed |
-| M032929 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompat` | volunteer-build-reviewed |

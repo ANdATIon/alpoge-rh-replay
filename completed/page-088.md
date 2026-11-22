@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060100 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevIteratedOneParameterSubgroups` | volunteer-build-reviewed |
+| M060102 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevValueAtOneFixedCompactDiagSignUnitaryStatement` | volunteer-build-reviewed |
 | M060104 | P1672 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanCoefficientIdealEqSpanFrameScaleStatement` | volunteer-build-reviewed |
 | M060105 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanDecay` | volunteer-build-reviewed |
 | M060108 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanEqMap` | wave-reused |
@@ -400,5 +402,3 @@
 | M060772 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsCanonicalGaugeSubBiadditive` | build-observed |
 | M060773 | P0953 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsCanonicalGaugeSubBiadditiveStatement` | build-observed |
 | M060774 | P0871 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsFormalGroupLawOfChartOfJetChart` | build-observed |
-| M060777 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsFrameGCoefficientRingBaseChangeStatement` | build-observed |
-| M060778 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsNilpotentOfMemKerJetTruncR` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085255 | P0958 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulSecNonzeroOnSpecialFibreStatement` | volunteer-build-reviewed |
+| M085259 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPoint` | volunteer-build-reviewed |
 | M085260 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPointStatement` | volunteer-build-reviewed |
 | M085262 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsStableBasOfPullback` | build-observed |
 | M085263 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupEqRangeOfLists` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M085994 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothGrpSchemeDescendsToFgSubring` | volunteer-build-reviewed |
 | M085996 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothModelsIsoOverFgSubalgebraStatement` | volunteer-build-reviewed |
 | M085998 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionAndGeometricallyConnect` | build-observed |
-| M085999 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionDescendsEtaleCover` | volunteer-build-reviewed |
-| M086001 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfCharZero` | volunteer-build-reviewed |

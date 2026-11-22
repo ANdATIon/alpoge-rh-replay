@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041176 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftedPolarisationKernelKilledOfUnit` | volunteer-build-reviewed |
+| M041180 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAdd` | build-observed |
 | M041181 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAddStatement` | build-observed |
 | M041182 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionEqOfCohomologousCocycles` | volunteer-build-reviewed |
 | M041188 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftsAlong` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M041914 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelLettersPresentationStatement` | volunteer-build-reviewed |
 | M041915 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelLettersPullback` | volunteer-build-reviewed |
 | M041918 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalModelVerticalLettersSetupStatement` | volunteer-build-reviewed |
-| M041919 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransform` | volunteer-build-reviewed |
-| M041920 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalMomentMatrixTransformStatement` | volunteer-build-reviewed |

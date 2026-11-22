@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048825 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMem` | volunteer-build-reviewed |
+| M048826 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMemStatement` | volunteer-build-reviewed |
 | M048827 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealNotMem` | volunteer-build-reviewed |
 | M048829 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstant` | volunteer-build-reviewed |
 | M048830 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstantStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M049413 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartHypothesis` | volunteer-build-reviewed |
 | M049414 | P2213 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartHypothesisStatement` | volunteer-build-reviewed |
 | M049415 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartStabilizer` | volunteer-build-reviewed |
-| M049416 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartStabilizerStatement` | volunteer-build-reviewed |
-| M049417 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartTriple` | volunteer-build-reviewed |

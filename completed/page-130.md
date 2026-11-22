@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092323 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvector` | volunteer-build-reviewed |
+| M092324 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvectorStatement` | volunteer-build-reviewed |
 | M092326 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompAtMtOfMemGfC` | volunteer-build-reviewed |
 | M092328 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacter` | volunteer-build-reviewed |
 | M092329 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacterStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M093006 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyEqOfIsZetaCont` | volunteer-build-reviewed |
 | M093009 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyHermitianIntegrallyCongruentCmExt` | volunteer-build-reviewed |
 | M093010 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyHermitianIntegrallyCongruentCmExtStatement` | volunteer-build-reviewed |
-| M093011 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyInv` | volunteer-build-reviewed |
-| M093012 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyLocalIntegersIffPowerBasisCoordsAll` | volunteer-build-reviewed |

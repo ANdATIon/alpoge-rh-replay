@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165725 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreNonempty` | wave-reused |
+| M165726 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreRelDim` | wave-reused |
 | M165727 | P0083 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFiniteAlgebraLengthSum` | wave-reused |
 | M165728 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFunctionFieldFinite` | wave-reused |
 | M165730 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsLocalIntegralClosureFinite` | wave-reused |
@@ -400,5 +402,3 @@
 | M166255 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutPsiFlag` | volunteer-build-reviewed |
 | M166256 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutRealSyzygy` | volunteer-build-reviewed |
 | M166257 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutRestHom` | volunteer-build-reviewed |
-| M166258 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairHom` | volunteer-build-reviewed |
-| M166259 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairNonzero` | volunteer-build-reviewed |

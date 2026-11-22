@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136172 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainExistsOfEvalData` | wave-reused |
+| M136173 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainsMayerVietorisShortExactOfFree` | build-observed |
 | M136177 | P0498 | `Development.EtaleCohomology.TateTwists.EtaleCochainComplexBasicPropertiesOfComponents` | wave-reused |
 | M136178 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleCochainCupAssocOfCupSpecAndAlexanderWhitney` | wave-reused |
 | M136179 | P0416 | `Development.EtaleCohomology.TateTwists.EtaleCochainCupAssociativeOfPairing` | wave-reused |
@@ -400,5 +402,3 @@
 | M136619 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MarkedSchemeWithCenter` | wave-reused |
 | M136620 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MaxOrder` | wave-reused |
 | M136621 | P0937 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MaxOrderReduction` | wave-reused |
-| M136622 | P1047 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialCenterHypotheses` | wave-reused |
-| M136623 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MonomialFactorTransform` | wave-reused |

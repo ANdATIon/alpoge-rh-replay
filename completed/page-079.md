@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053783 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRankEqRankThetaGroupOfPointPerpStatement` | volunteer-build-reviewed |
+| M053785 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRealMultAppellHumbertStatement` | volunteer-build-reviewed |
 | M053787 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRigiditySndEqZeroCanonicalChartStatement` | volunteer-build-reviewed |
 | M053788 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSaturatedStatement` | volunteer-build-reviewed |
 | M053790 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSemicharacterEqNegOnePowTraceExponent` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M054507 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedLevelPointsOfLattice` | volunteer-build-reviewed |
 | M054509 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedLiftInvariantExtensionLocalisationStatement` | volunteer-build-reviewed |
 | M054515 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormConjNormalizeAndDegreeOneStatement` | volunteer-build-reviewed |
-| M054516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecomposition` | volunteer-build-reviewed |
-| M054517 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecompositionStatement` | volunteer-build-reviewed |

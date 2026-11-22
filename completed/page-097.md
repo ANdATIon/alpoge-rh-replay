@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066102 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasAllKTypesOfClosureDiscreteSeriesCoefficientsStatement` | volunteer-build-reviewed |
+| M066104 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasDerivAtMatrixExpEntryReal` | volunteer-build-reviewed |
 | M066106 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasExpOfLayer` | volunteer-build-reviewed |
 | M066108 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasFDerivAtDerFamProdExpStatement` | volunteer-build-reviewed |
 | M066109 | P0190 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpData` | build-observed |
@@ -400,5 +402,3 @@
 | M066687 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleCocyclesCardLeSumDims` | build-observed |
 | M066688 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleCocyclesCardLeSumDimsStatement` | build-observed |
 | M066689 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionA` | volunteer-build-reviewed |
-| M066690 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionAStatement` | volunteer-build-reviewed |
-| M066691 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodChars` | volunteer-build-reviewed |

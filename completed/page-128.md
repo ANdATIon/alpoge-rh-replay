@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090840 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignInsert` | wave-reused |
+| M090841 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignSwap` | wave-reused |
 | M090842 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFrames` | wave-reused |
 | M090843 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFramesStatement` | wave-reused |
 | M090844 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChange` | wave-reused |
@@ -400,5 +402,3 @@
 | M091477 | P0591 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.WeilIsExpRiemannForm` | build-observed |
 | M091479 | P1072 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BasePsiLeviLowerBound` | wave-reused |
 | M091481 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.BorelDiagNeZero` | wave-reused |
-| M091484 | P0932 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChangeDifferentiableOn` | wave-reused |
-| M091485 | P1948 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChosenFormsRestrictBasisFunctionField` | volunteer-build-reviewed |

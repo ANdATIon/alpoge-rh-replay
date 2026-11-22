@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061411 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraPotentialSubmoduleAndBaseChangeStatement` | build-observed |
+| M061412 | P0482 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwine` | volunteer-build-reviewed |
 | M061413 | P0521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwineStatement` | volunteer-build-reviewed |
 | M061414 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigIdxFiniteTypesCOf` | volunteer-build-reviewed |
 | M061415 | P0844 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehner` | wave-reused |
@@ -400,5 +402,3 @@
 | M062056 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitCharacterOfIntegralCyclotomicProduct` | volunteer-build-reviewed |
 | M062058 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitEvalEqKummerClass` | volunteer-build-reviewed |
 | M062059 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitEvalEqKummerClassStatement` | volunteer-build-reviewed |
-| M062060 | P1927 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitMulPowOfKummerVanishesOnInertiaCurve` | build-observed |
-| M062066 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUpperTriangularConjIntegralCompact` | volunteer-build-reviewed |

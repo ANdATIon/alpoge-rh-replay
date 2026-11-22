@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164706 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalMaximumPrinciple` | volunteer-build-reviewed |
+| M164707 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModel` | volunteer-build-reviewed |
 | M164708 | P0574 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDisc` | build-observed |
 | M164709 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorChartGeneric` | volunteer-build-reviewed |
 | M164710 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDivisorGoodPoint` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M165208 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PReesAlgebraDim` | wave-reused |
 | M165209 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRelevantDimGe` | wave-reused |
 | M165210 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRepresentative` | wave-reused |
-| M165211 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PScalarQuotient` | wave-reused |
-| M165215 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureModel` | build-observed |

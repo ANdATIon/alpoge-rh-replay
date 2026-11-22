@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049416 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartStabilizerStatement` | volunteer-build-reviewed |
+| M049417 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartTriple` | volunteer-build-reviewed |
 | M049419 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleIdentity` | volunteer-build-reviewed |
 | M049421 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecond` | volunteer-build-reviewed |
 | M049422 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecondStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M050135 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPairTransfer` | volunteer-build-reviewed |
 | M050137 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPairVanishing` | volunteer-build-reviewed |
 | M050138 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPairVanishingStatement` | volunteer-build-reviewed |
-| M050143 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverse` | volunteer-build-reviewed |
-| M050144 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverseStatement` | volunteer-build-reviewed |

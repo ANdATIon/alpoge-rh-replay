@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058116 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliser` | wave-reused |
+| M058117 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliserStatement` | wave-reused |
 | M058118 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliser` | wave-reused |
 | M058119 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliserStatement` | wave-reused |
 | M058120 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnesses` | wave-reused |
@@ -400,5 +402,3 @@
 | M058764 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIntegralOfMulMem` | build-observed |
 | M058765 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIntegralOfQuad` | wave-reused |
 | M058766 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIntegralValIntegerIff` | wave-reused |
-| M058767 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIrrAndDenseOfIsFdegG` | build-observed |
-| M058769 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubspaceRingOfIntegersStatement` | volunteer-build-reviewed |

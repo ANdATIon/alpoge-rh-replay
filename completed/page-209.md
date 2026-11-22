@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138157 | P2592 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelRealTower` | volunteer-build-reviewed |
+| M138160 | P2735 | `Development.WeilBound.CoreStatements.FlagImmersions.GlobalModelTowerFifthCondition` | volunteer-build-reviewed |
 | M138162 | P2552 | `Development.WeilBound.CoreStatements.FlagImmersions.HasPerConj` | volunteer-build-reviewed |
 | M138173 | P2552 | `Development.WeilBound.CoreStatements.FlagImmersions.IsHolToOfLocal` | volunteer-build-reviewed |
 | M138176 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.LinearRootPowerLipschitz` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M138928 | P0569 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsOpenConnectedComponentOfNoetherianSpace` | build-observed |
 | M138929 | P0065 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsOpenStabilizer` | volunteer-build-reviewed |
 | M138930 | P0210 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.IsStrictlySemistableCompOpenImmersion` | build-observed |
-| M138931 | P0500 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.NormLtOneOfIrreducible` | build-observed |
-| M138932 | P0065 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.RelDim` | volunteer-build-reviewed |

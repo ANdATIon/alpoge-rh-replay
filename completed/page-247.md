@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160132 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FlatSrc` | build-observed |
+| M160133 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.FramesOf` | build-observed |
 | M160134 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.GainBoundAt` | build-observed |
 | M160135 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.GoodRankOfPrim` | build-observed |
 | M160136 | P1190 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.InitialLevelMonoWeights` | build-observed |
@@ -400,5 +402,3 @@
 | M160634 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExponentWindowSubsetShort` | wave-reused |
 | M160638 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExtensionClauses` | wave-reused |
 | M160640 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.FamilyStatementsLocal` | build-observed |
-| M160643 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.FiltrationSaturationKiller` | wave-reused |
-| M160645 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.FinalLevelsOf` | wave-reused |

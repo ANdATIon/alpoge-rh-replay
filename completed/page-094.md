@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063829 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubstUpperTriangularHahnMulAndOneStatement` | volunteer-build-reviewed |
+| M063830 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperRep` | volunteer-build-reviewed |
 | M063832 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperTriangularHeckeReindexCoprimeUnitStatement` | volunteer-build-reviewed |
 | M063835 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumCompSurjective` | volunteer-build-reviewed |
 | M063836 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumDivSubLeTwoLogOfPartialSums` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M064543 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissiblePeriodTwistsReductionPlaceTuplesStatement` | volunteer-build-reviewed |
 | M064544 | P1771 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissiblePeriodZeroOfClassPeriodDecompositionAl` | volunteer-build-reviewed |
 | M064545 | P1797 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissiblePeriodZeroOfClassPeriodDecompositionAlStatement` | volunteer-build-reviewed |
-| M064546 | P1254 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraMapMemMaximalRealSubfieldIff` | volunteer-build-reviewed |
-| M064549 | P0736 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraicIsogenyConstantOfIsogenyFormula` | volunteer-build-reviewed |

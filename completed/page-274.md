@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174941 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic` | build-observed |
+| M174942 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgClose` | build-observed |
 | M174943 | P0474 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgDefs` | build-observed |
 | M174944 | P0548 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgFinA` | build-observed |
 | M174945 | P0548 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgGauss` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099514 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFgSubalgebraDescAway` | volunteer-build-reviewed |
+| M099515 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTriple` | wave-reused |
 | M099516 | P1103 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTripleStatement` | wave-reused |
 | M099519 | P0712 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAway` | wave-reused |
 | M099520 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAwayStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M100170 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubst` | build-observed |
 | M100171 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubstSame` | build-observed |
 | M100173 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CubeTrivialAndFiniteFlatSurjectiveMulAbelianSche` | volunteer-build-reviewed |
-| M100177 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMem` | build-observed |
-| M100178 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMemStatement` | build-observed |

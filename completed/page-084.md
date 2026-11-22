@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057347 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerIsometry` | wave-reused |
+| M057348 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantData` | wave-reused |
 | M057349 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantDataStatement` | wave-reused |
 | M057350 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacter` | wave-reused |
 | M057351 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacterStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M058113 | P1541 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FrameTermCountSublatticeBound` | build-observed |
 | M058114 | P1567 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FrameTermCountSublatticeBoundStatement` | build-observed |
 | M058115 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FrameUnipotentUnitriangular` | wave-reused |
-| M058116 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliser` | wave-reused |
-| M058117 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliserStatement` | wave-reused |

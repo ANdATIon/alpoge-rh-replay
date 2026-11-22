@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109503 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleLocallyHoldsOfPointwiseCoverOrAffineLocal` | volunteer-build-reviewed |
+| M109504 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtalePurityFreeCover` | wave-reused |
 | M109505 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsBijectiveCohomologyClassProductAdjunction` | build-observed |
 | M109506 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfClopRepOfRank` | volunteer-build-reviewed |
 | M109507 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfDisjointOpenCover` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M110072 | P0202 | `Development.AutomorphicArithmetic.DedekindLFunctions.RunBaseDimensionLeRankAddGenusTerm` | build-observed |
 | M110073 | P0714 | `Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia` | build-observed |
 | M110074 | P1949 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianQuotientInheritsAction` | volunteer-build-reviewed |
-| M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
-| M110076 | P2045 | `Development.AutomorphicArithmetic.DivisorFrames.AbsHcExponentLeAndAbsCenterLeOfSizeRows` | volunteer-build-reviewed |

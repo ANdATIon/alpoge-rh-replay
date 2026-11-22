@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115037 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryCriterion` | volunteer-build-reviewed |
+| M115038 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryOfGenerator` | volunteer-build-reviewed |
 | M115040 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleCoboundaryFiniteIndex` | volunteer-build-reviewed |
 | M115041 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleMultiplicative` | volunteer-build-reviewed |
 | M115042 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoeffProdOneAdd` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M115469 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizer` | volunteer-build-reviewed |
 | M115470 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerAddSmul` | volunteer-build-reviewed |
 | M115471 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerLinearMap` | volunteer-build-reviewed |
-| M115472 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenValuationLtOne` | volunteer-build-reviewed |
-| M115473 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPF` | build-observed |

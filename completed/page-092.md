@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062689 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiamondMatrixConjMemGamma1InterGamma0LevelStatement` | volunteer-build-reviewed |
+| M062692 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure` | wave-reused |
 | M062693 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt` | wave-reused |
 | M062694 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingStalkGeneric` | wave-reused |
 | M062696 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAug` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M063234 | P2521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NonzeroClassBoundedTorsion` | volunteer-build-reviewed |
 | M063236 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NonzeroOrdinaryClassOfCompatibleCocyclesModPow` | volunteer-build-reviewed |
 | M063238 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAddOfLt` | volunteer-build-reviewed |
-| M063239 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOne` | volunteer-build-reviewed |
-| M063240 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOneBis` | volunteer-build-reviewed |

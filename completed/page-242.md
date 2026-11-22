@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157925 | P0540 | `Formalism.QuotientMetricDivisors.BoundsChain` | wave-reused |
+| M157926 | P0505 | `Formalism.QuotientMetricDivisors.ClassSumDualGeF` | wave-reused |
 | M157927 | P0464 | `Formalism.QuotientMetricDivisors.ClassSumDualLe` | wave-reused |
 | M157928 | P0505 | `Formalism.QuotientMetricDivisors.Complement2Normaliser` | build-observed |
 | M157929 | P0505 | `Formalism.QuotientMetricDivisors.DivIntoDual` | build-observed |
@@ -400,5 +402,3 @@
 | M158335 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericCountAllConstants` | build-observed |
 | M158336 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenericDetOfFlagProductBound` | build-observed |
 | M158337 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusMassPosOfMassLowerBound` | build-observed |
-| M158338 | P0669 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusOrthonormalIntegralUnimodular` | build-observed |
-| M158339 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfFibreStructure` | build-observed |
