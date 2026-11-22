@@ -1,6 +1,6 @@
 # Submitted for review
 
-7,811 entries.
+7,632 entries.
 
 - [Entries 1–250](page-001.md)
 - [Entries 251–500](page-002.md)
@@ -32,5 +32,4 @@
 - [Entries 6,751–7,000](page-028.md)
 - [Entries 7,001–7,250](page-029.md)
 - [Entries 7,251–7,500](page-030.md)
-- [Entries 7,501–7,750](page-031.md)
-- [Entries 7,751–7,811](page-032.md)
+- [Entries 7,501–7,632](page-031.md)

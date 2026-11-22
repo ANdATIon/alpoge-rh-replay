@@ -48,3 +48,5 @@
 | [@user42245](https://github.com/user42245) | [M163709](https://github.com/rohanarun/alpoge-rh-replay/issues/28973) | Claimed |
 | [@user42245](https://github.com/user42245) | [M168805](https://github.com/rohanarun/alpoge-rh-replay/issues/28987) | Claimed |
 | [@UnityChaos](https://github.com/UnityChaos) | [P2771](https://github.com/rohanarun/alpoge-rh-replay/issues/30424) | Claimed |
+| [@rahulsundar477-star](https://github.com/rahulsundar477-star) | [M171762](https://github.com/rohanarun/alpoge-rh-replay/issues/34472) | Claimed |
+| [@rahulsundar477-star](https://github.com/rahulsundar477-star) | [M040863](https://github.com/rohanarun/alpoge-rh-replay/issues/34475) | Claimed |
