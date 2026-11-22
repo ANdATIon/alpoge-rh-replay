@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.DivisorsOfConstantsAllPrimesOfClosedFibre",
+  "source_sha256": "c7a14f6d17246b48ab1d72007e9f74fc479ebe44c8247b35333fde18e24c990b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The localization ideal lemmas are now stated with Ideal.under, an abbreviation of the same comap: IsLocalization.comap_map_of_isPrime_disjoint is under_map_of_isPrime_disjoint, map_comap is map_under, and AtPrime.comap_maximalIdeal is AtPrime.under_maximalIdeal. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0242-issue-32853"
+}
