@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.WeightTraceProducts.WeightDeterminantTwists.ContRep",
+  "source_sha256": "477711fcea17c7c56f361ee7c77fc4c96069d9f360b190a6047aa58c1cbbc638",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: rename continuous_finset_sum -> continuous_finsetSum and continuous_finset_prod -> continuous_finsetProd for Mathlib 4.36.",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}

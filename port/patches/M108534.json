@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.TorsionBoundsChains.FinGroup",
+  "source_sha256": "9a4b07558115caabcaa59448140c974c6a9d6b9406eb4bed5c26312c17211c63",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}

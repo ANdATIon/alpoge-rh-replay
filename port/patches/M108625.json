@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LtDiag",
+  "source_sha256": "e83cd0321ef9ea3a2c4df332c2488fbd801bde892fd97cb66a8d8f378e2f7c6a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}

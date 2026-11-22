@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CanonGr",
+  "source_sha256": "e163b4581bcd5b92e1693b61c27bbefa41770915277790a394a39f0bf139fe24",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0316-issue-33189-lean436/P0316-receipt.json"
+}
