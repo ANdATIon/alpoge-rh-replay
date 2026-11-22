@@ -1,0 +1,7 @@
+{
+  "module": "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FinitelyGeneratedHomology",
+  "source_sha256": "5b0f4b00d4db94e3ae0308e9ef5c9da4683e92ba8549875c9068fe7574e0b275",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "HTChart.om_lat (in M119662, merged in #32043) is now stated explicitly as om.FG ∧ Submodule.span K om = ⊤, preserving the pinned IsLattice meaning; use D.om_lat.1 for the finite-generation part instead of D.om_lat.fg. Proof-only change; no statements, definitions or instances changed."
+}
