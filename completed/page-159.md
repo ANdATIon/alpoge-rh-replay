@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109005 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.FrobDense` | volunteer-build-reviewed |
+| M109006 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.MuChar` | volunteer-build-reviewed |
 | M109007 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.QuadFacts` | volunteer-build-reviewed |
 | M109008 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.RayChar` | volunteer-build-reviewed |
 | M109009 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusDensity.RootChar` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M109496 | P2693 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceDifferentialsStatement` | volunteer-build-reviewed |
 | M109497 | P2704 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceFamilyStatement` | volunteer-build-reviewed |
 | M109498 | P2693 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceFieldExtensionStatement` | volunteer-build-reviewed |
-| M109499 | P2693 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceFunctionFieldStatementOne` | volunteer-build-reviewed |
-| M109500 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCorrespondenceFunctionFieldStatementTwo` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165717 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegZeroLocalRing` | wave-reused |
+| M165718 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegreeBound` | pilot-reused |
 | M165719 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivCycleMinimal` | wave-reused |
 | M165720 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForward` | pilot-reused |
 | M165721 | P0509 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForwardLocal` | wave-reused |
@@ -400,5 +402,3 @@
 | M166247 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutCompareReal` | volunteer-build-reviewed |
 | M166248 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutFlagKillsIdeal` | volunteer-build-reviewed |
 | M166249 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutHomDecomp` | volunteer-build-reviewed |
-| M166250 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutIKillsIdeal` | volunteer-build-reviewed |
-| M166251 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutIdealSum` | volunteer-build-reviewed |

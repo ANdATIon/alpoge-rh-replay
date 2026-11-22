@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132163 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorSumDualNumber` | wave-reused |
+| M132164 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorSumDualNumberStatement` | wave-reused |
 | M132167 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorsSpreadFromStalk` | build-observed |
 | M132168 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorsSpreadFromStalkStatement` | build-observed |
 | M132169 | P0854 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TateIsoBaseChange` | build-observed |
@@ -400,5 +402,3 @@
 | M132900 | P1074 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.ShintaniValuesNegativeIntegersRational` | build-observed |
 | M132901 | P1105 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.ShintaniValuesNegativeIntegersRationalStatement` | build-observed |
 | M132902 | P2196 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SiegelSetUnitary` | volunteer-build-reviewed |
-| M132904 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilesSign` | build-observed |
-| M132905 | P1074 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.SimplicialConeTilesSignStatement` | build-observed |

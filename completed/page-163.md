@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111101 | P1777 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.StepInv` | volunteer-build-reviewed |
+| M111102 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.VacAnn` | volunteer-build-reviewed |
 | M111103 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.VacForm` | volunteer-build-reviewed |
 | M111105 | P1656 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.XApply` | volunteer-build-reviewed |
 | M111106 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.XEx` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M111528 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.ExtOf` | volunteer-build-reviewed |
 | M111529 | P2651 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.FacOf` | volunteer-build-reviewed |
 | M111530 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.InnerInt` | volunteer-build-reviewed |
-| M111531 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.Landau` | volunteer-build-reviewed |
-| M111532 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.OneAddXNe` | volunteer-build-reviewed |

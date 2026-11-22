@@ -285,6 +285,7 @@
 | M099954 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointArithmeticGroupInvariantSig` | volunteer-build-reviewed |
 | M099956 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointTriangularFrameWeightRule` | volunteer-build-reviewed |
 | M099958 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedPointsSatisfySingleFrame` | build-observed |
+| M099961 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NotWeilIsGrpPullbackNoncomm` | volunteer-build-reviewed |
 | M099962 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NsmulIntegralMemNhdsZero` | build-observed |
 | M099965 | P1044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjIsAbelianSchemeDimRigidifiedSym` | build-observed |
 | M099966 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjMapIdCompCancel` | wave-reused |
@@ -296,6 +297,7 @@
 | M099976 | P2027 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsion` | volunteer-build-reviewed |
 | M099977 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsionStatement` | volunteer-build-reviewed |
 | M099978 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PointsDetectFrobeniusSections` | volunteer-build-reviewed |
+| M099981 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalGroupActsFreelyOnFlags` | volunteer-build-reviewed |
 | M099982 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalGroupActsFreelyOnFlagsStatement` | volunteer-build-reviewed |
 | M099986 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalLevelGroupFiniteIndexUnitaryStabiliserStatement` | volunteer-build-reviewed |
 | M099987 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordExistsUniqueUpToUnitLocal` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M100167 | P0851 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffDerivationPolynomialEqJetAt0` | build-observed |
 | M100168 | P0878 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffDerivationPolynomialEqJetAt0Statement` | build-observed |
 | M100169 | P0525 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffDmonOfEigen` | build-observed |
-| M100170 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubst` | build-observed |
-| M100171 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubstSame` | build-observed |

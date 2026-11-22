@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123301 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupport` | volunteer-build-reviewed |
+| M123302 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupportStatement` | volunteer-build-reviewed |
 | M123305 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupport` | build-observed |
 | M123306 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupportStatement` | build-observed |
 | M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |
@@ -400,5 +402,3 @@
 | M123899 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitian` | volunteer-build-reviewed |
 | M123900 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitianStatement` | volunteer-build-reviewed |
 | M123901 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTrace` | build-observed |
-| M123902 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTraceStatement` | build-observed |
-| M123903 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleStatement` | volunteer-build-reviewed |

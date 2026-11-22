@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147429 | P0665 | `Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ZetaNegReal` | build-observed |
+| M147430 | P0748 | `Formalism.LandauZeroFreeBounds.FinalSiegel` | build-observed |
 | M147431 | P0602 | `Formalism.LandauZeroFreeBounds.LogDerivRegionChiOf` | build-observed |
 | M147432 | P0694 | `Formalism.LandauZeroFreeBounds.NoZeroComplex` | build-observed |
 | M147433 | P0273 | `Formalism.LandauZeroFreeBounds.NoZeroComplexOf` | build-observed |
@@ -400,5 +402,3 @@
 | M147866 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqDer` | build-observed |
 | M147867 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqEx` | build-observed |
 | M147868 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqM2` | build-observed |
-| M147869 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqOf` | build-observed |
-| M147870 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqSum2` | build-observed |

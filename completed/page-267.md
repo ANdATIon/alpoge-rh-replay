@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171458 | P0646 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.AnChartA` | wave-reused |
+| M171459 | P0703 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.AtlasA` | wave-reused |
 | M171460 | P0612 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeC` | wave-reused |
 | M171461 | P0089 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCA` | wave-reused |
 | M171462 | P0579 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB` | wave-reused |
@@ -400,5 +402,3 @@
 | M171926 | P0343 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.MorseGenSt` | volunteer-build-reviewed |
 | M171927 | P0090 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.MorseGenStA` | volunteer-build-reviewed |
 | M171930 | P0168 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.PolydiscSt` | volunteer-build-reviewed |
-| M171931 | P0090 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.TaylorLeviSt` | volunteer-build-reviewed |
-| M171932 | P0168 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.ChiPSt` | pilot-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127921 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOfLatticeDecay` | volunteer-build-reviewed |
+| M127922 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOfLatticeDecayStatement` | volunteer-build-reviewed |
 | M127925 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableOverLatticeQuotientLocallyConstant` | volunteer-build-reviewed |
 | M127929 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableProdPowMultiIndex` | volunteer-build-reviewed |
 | M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M128618 | P0907 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMemGLs` | build-observed |
 | M128620 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryModelHoldsStatement` | volunteer-build-reviewed |
 | M128621 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMovingUnitVector` | volunteer-build-reviewed |
-| M128622 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMovingUnitVectorStatement` | volunteer-build-reviewed |
-| M128623 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundCompact` | volunteer-build-reviewed |

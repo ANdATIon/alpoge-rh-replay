@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123902 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTraceStatement` | build-observed |
+| M123903 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleStatement` | volunteer-build-reviewed |
 | M123904 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure` | volunteer-build-reviewed |
 | M123905 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructureStatement` | volunteer-build-reviewed |
 | M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M124580 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNMapAdd` | volunteer-build-reviewed |
 | M124581 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNormalisedOfDualIsConj` | volunteer-build-reviewed |
 | M124582 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernel` | volunteer-build-reviewed |
-| M124583 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernelStatement` | volunteer-build-reviewed |
-| M124587 | P1523 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup` | build-observed |

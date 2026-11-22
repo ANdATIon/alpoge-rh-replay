@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147869 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqOf` | build-observed |
+| M147870 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCEqSum2` | build-observed |
 | M147871 | P0830 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePCartSelfSt` | wave-reused |
 | M147872 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescJet` | build-observed |
 | M147873 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePDescSpanFinal` | build-observed |
@@ -400,5 +402,3 @@
 | M148369 | P0748 | `Formalism.LocalToGlobal.Divisibility.CoefMod` | build-observed |
 | M148370 | P0775 | `Formalism.LocalToGlobal.Divisibility.CoefModLemmas` | build-observed |
 | M148371 | P0635 | `Formalism.LocalToGlobal.Divisibility.CoeffLemmas` | build-observed |
-| M148372 | P1899 | `Formalism.LocalToGlobal.Divisibility.ColPins` | build-observed |
-| M148374 | P0602 | `Formalism.LocalToGlobal.Divisibility.ConjugationAtDistinguishedPlace` | build-observed |

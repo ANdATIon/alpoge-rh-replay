@@ -220,8 +220,6 @@
 | [@JamCh01](https://github.com/JamCh01) | [M099331](https://github.com/rohanarun/alpoge-rh-replay/issues/34588#issuecomment-7082867161) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M099376](https://github.com/rohanarun/alpoge-rh-replay/issues/34589#issuecomment-7082860760) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M099951](https://github.com/rohanarun/alpoge-rh-replay/issues/34590#issuecomment-7082862275) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [M099961](https://github.com/rohanarun/alpoge-rh-replay/issues/34591#issuecomment-7082869113) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [M099981](https://github.com/rohanarun/alpoge-rh-replay/issues/34592#issuecomment-7082870312) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M100450](https://github.com/rohanarun/alpoge-rh-replay/issues/34594#issuecomment-7082879920) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M100454](https://github.com/rohanarun/alpoge-rh-replay/issues/34595#issuecomment-7082863986) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M101204](https://github.com/rohanarun/alpoge-rh-replay/issues/34597#issuecomment-7082883178) | Pending review |
@@ -254,3 +252,5 @@
 | [@hipotures](https://github.com/hipotures) | [M173741](https://github.com/rohanarun/alpoge-rh-replay/issues/34631#issuecomment-7082925694) | Pending review |
 | [@hipotures](https://github.com/hipotures) | [M173742](https://github.com/rohanarun/alpoge-rh-replay/issues/34632#issuecomment-7082939805) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M132340](https://github.com/rohanarun/alpoge-rh-replay/issues/34633#issuecomment-7082937411) | Pending review |
+| [@gilad12-coder](https://github.com/gilad12-coder) | [M067266](https://github.com/rohanarun/alpoge-rh-replay/issues/34634#issuecomment-7082901929) | Pending review |
+| [@JamCh01](https://github.com/JamCh01) | [M132401](https://github.com/rohanarun/alpoge-rh-replay/issues/34635#issuecomment-7082980981) | Pending review |

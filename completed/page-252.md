@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162614 | P1168 | `GroundTheory.AutomorphicForms.GL2.GJFELeviMulti` | build-observed |
+| M162615 | P1141 | `GroundTheory.AutomorphicForms.GL2.GJFELeviPeel` | build-observed |
 | M162616 | P0914 | `GroundTheory.AutomorphicForms.GL2.GJFERat` | build-observed |
 | M162617 | P1370 | `GroundTheory.AutomorphicForms.GL2.GJGlobal` | build-observed |
 | M162618 | P1348 | `GroundTheory.AutomorphicForms.GL2.GJGlobalBound` | build-observed |
@@ -400,5 +402,3 @@
 | M163068 | P1112 | `GroundTheory.GlobalFields.ClassFieldConsequences.RayClassFieldLocal` | build-observed |
 | M163069 | P1558 | `GroundTheory.GlobalFields.ClassFieldConsequences.TrivialModulus` | build-observed |
 | M163070 | P0225 | `GroundTheory.GlobalFields.CompletionAtPlace` | wave-reused |
-| M163071 | P0334 | `GroundTheory.GlobalFields.CompletionAtPlace.Degree` | wave-reused |
-| M163072 | P0380 | `GroundTheory.GlobalFields.CompletionAtPlace.Galois` | wave-reused |

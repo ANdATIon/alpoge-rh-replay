@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100748 | P1912 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InfiniteOfConcl` | volunteer-build-reviewed |
+| M100750 | P0592 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InjectiveOfSmulMemRange` | wave-reused |
 | M100751 | P1892 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InterNumDetNonposSplitTorus` | volunteer-build-reviewed |
 | M100752 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IrreducibleAdmissibleGL` | build-observed |
 | M100753 | P1206 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal` | wave-reused |
@@ -400,5 +402,3 @@
 | M101401 | P0824 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.BaseExistsPrime` | wave-reused |
 | M101402 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Bridge` | wave-reused |
 | M101403 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClChain` | wave-reused |
-| M101404 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClComp` | wave-reused |
-| M101405 | P1017 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClConn` | wave-reused |

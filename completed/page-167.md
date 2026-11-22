@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113143 | P2756 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RatioWOfHasSat` | volunteer-build-reviewed |
+| M113144 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RowOf` | volunteer-build-reviewed |
 | M113145 | P2751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.UnrAtOfIsoTwist` | volunteer-build-reviewed |
 | M113146 | P2700 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.BaseCase` | volunteer-build-reviewed |
 | M113147 | P2791 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RegularSemisimpleFibres.Closed` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M113696 | P2766 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.WitSys` | volunteer-build-reviewed |
 | M113697 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.Chl` | volunteer-build-reviewed |
 | M113698 | P2796 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.GaloisCompatUnlinkedSupportOfSpherical` | volunteer-build-reviewed |
-| M113699 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.InfLifts` | volunteer-build-reviewed |
-| M113701 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.PAdicSplitting.LocalGlobalCompatAtIwahoriFixedPlaces` | volunteer-build-reviewed |

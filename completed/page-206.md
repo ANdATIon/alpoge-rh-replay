@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136164 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupCochainExistsHolds` | wave-reused |
+| M136165 | P0663 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupExistsOfComponents` | wave-reused |
 | M136166 | P0416 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupLeibniz` | wave-reused |
 | M136167 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleAlexanderWhitneyCupLeibnizOfPairing` | wave-reused |
 | M136170 | P0457 | `Development.EtaleCohomology.TateTwists.EtaleChainCochainEvalBasicPropertiesHold` | wave-reused |
@@ -400,5 +402,3 @@
 | M136613 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.DisjointCentersPullback` | wave-reused |
 | M136614 | P0883 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.FieldExtensionBaseChange` | wave-reused |
 | M136615 | P1106 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.GeometricPrincipalization` | wave-reused |
-| M136616 | P0693 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.GeometryHypotheses` | wave-reused |
-| M136617 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.MarkedOrderReduction.MapToEarlierScheme` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130129 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeDedekindTwistStatement` | volunteer-build-reviewed |
+| M130132 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLieModelCompleteDvr` | volunteer-build-reviewed |
 | M130134 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicBound` | volunteer-build-reviewed |
 | M130137 | P1706 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLinePAdicFrameStatement` | volunteer-build-reviewed |
 | M130138 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenProjectorDenominator` | build-observed |
@@ -400,5 +402,3 @@
 | M130769 | P2633 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GlobalSncChartSystemStatement` | volunteer-build-reviewed |
 | M130774 | P0320 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GluedLatticeLocalization` | volunteer-build-reviewed |
 | M130776 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodDatumParameters` | volunteer-build-reviewed |
-| M130777 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodDatumParametersStatement` | volunteer-build-reviewed |
-| M130778 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodEmbeddingComponentSections` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120234 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionBallIndicator` | volunteer-build-reviewed |
+| M120236 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionConeCoarea` | volunteer-build-reviewed |
 | M120238 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibres` | build-observed |
 | M120239 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GeneratedLineBundleNefOnFibresStatement` | build-observed |
 | M120240 | P0368 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariants` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M120897 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnihilatorSpannedByWeightVectors` | volunteer-build-reviewed |
 | M120898 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnihilatorSpannedByWeightVectorsStatement` | volunteer-build-reviewed |
 | M120899 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneDiagonalConjugate` | volunteer-build-reviewed |
-| M120901 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZero` | volunteer-build-reviewed |
-| M120902 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZeroStatement` | volunteer-build-reviewed |

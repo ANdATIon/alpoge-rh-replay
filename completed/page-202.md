@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133521 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentSwapVarietiesArithmeticStatement` | build-observed |
+| M133522 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedMeasure` | wave-reused |
 | M133523 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedMeasureStatement` | wave-reused |
 | M133524 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolution` | wave-reused |
 | M133525 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagAdjacentTwistedResolutionAltBis` | wave-reused |
@@ -400,5 +402,3 @@
 | M134145 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MongeAmpereRegularizationLogLogBound` | build-observed |
 | M134146 | P0909 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MongeAmpereRegularizationLogLogBoundStatement` | build-observed |
 | M134147 | P0630 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MongeAmpereSingularTotalMassDegree` | volunteer-build-reviewed |
-| M134148 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MulVecEqZeroOfPair` | volunteer-build-reviewed |
-| M134157 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonempty` | build-observed |

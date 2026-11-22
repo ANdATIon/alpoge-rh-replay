@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137183 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.IntegralCoefficientBaseChange.UnitaryBaseChangeCharacters.UnitaryBaseChangeLinks.UnitaryMassFormula` | volunteer-build-reviewed |
+| M137192 | P2152 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.EssSquareIntegrableSegmentsOfSeg` | volunteer-build-reviewed |
 | M137194 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.ExhaustionOfThree` | volunteer-build-reviewed |
 | M137197 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.IsLAddSegmentOfInjectiveOfNotPrecedes` | volunteer-build-reviewed |
 | M137205 | P2130 | `Development.WeilBound.CoreStatements.AutomorphicKernels.LanglandsExhaustion.LUnlinkedIrrOfSeg` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M138128 | P2164 | `Development.WeilBound.CoreStatements.FlagImmersions.CountableBall` | volunteer-build-reviewed |
 | M138131 | P0269 | `Development.WeilBound.CoreStatements.FlagImmersions.DegFlPowerSumMul` | volunteer-build-reviewed |
 | M138133 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.DegLApply` | volunteer-build-reviewed |
-| M138137 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.EqZeroOfTri` | volunteer-build-reviewed |
-| M138138 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsDegreeOneClass` | volunteer-build-reviewed |

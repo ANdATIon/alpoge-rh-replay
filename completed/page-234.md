@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154303 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetMulRCReal` | volunteer-build-reviewed |
+| M154304 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetNZHolds` | build-observed |
 | M154306 | P1469 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqOneOfToHAFin` | build-observed |
 | M154307 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqZeroOfSetIntegral` | build-observed |
 | M154309 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLieCompl` | build-observed |
@@ -400,5 +402,3 @@
 | M154814 | P0152 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicPrimeIntervals.ThetaDiff` | build-observed |
 | M154815 | P0152 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.AlgebraMapMkO` | volunteer-build-reviewed |
 | M154816 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.ChainPA` | volunteer-build-reviewed |
-| M154820 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.ExistsNormEqTwoPow` | volunteer-build-reviewed |
-| M154822 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.RatIntOfIntegral` | volunteer-build-reviewed |

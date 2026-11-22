@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154820 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.ExistsNormEqTwoPow` | volunteer-build-reviewed |
+| M154822 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DyadicStableLattices.RatIntOfIntegral` | volunteer-build-reviewed |
 | M154824 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.Assemble` | volunteer-build-reviewed |
 | M154825 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StBaseOf` | volunteer-build-reviewed |
 | M154826 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StSpecOf` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M155271 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliAbs` | build-observed |
 | M155272 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliDefs` | build-observed |
 | M155273 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliMain` | build-observed |
-| M155274 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.CapelliOps` | build-observed |
-| M155275 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.DetShift` | build-observed |

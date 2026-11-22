@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153417 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexDet` | build-observed |
+| M153418 | P0376 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexScale` | build-observed |
 | M153419 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWLengthBaseChange` | build-observed |
 | M153420 | P0462 | `Formalism.PadicSubsetSums.StableGradedCounts.TWReuse` | build-observed |
 | M153421 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWUnitBallLattice` | build-observed |
@@ -400,5 +402,3 @@
 | M153859 | P0912 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.OrbRestrOne` | build-observed |
 | M153860 | P0859 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PairCorankPos` | build-observed |
 | M153861 | P0538 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ParahoricIdxZ` | build-observed |
-| M153862 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhConvProj` | build-observed |
-| M153863 | P0462 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhDualGram` | build-observed |

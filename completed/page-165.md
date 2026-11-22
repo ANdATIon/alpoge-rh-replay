@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112003 | P0714 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.BaseFacts` | build-observed |
+| M112004 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.CorrOpEq` | build-observed |
 | M112005 | P1183 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.CycAllHolds` | build-observed |
 | M112007 | P2807 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsStepHolds` | volunteer-build-reviewed |
 | M112008 | P1207 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsTotHolds` | build-observed |
@@ -400,5 +402,3 @@
 | M112481 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.ExpLev` | volunteer-build-reviewed |
 | M112482 | P2705 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.ExpSub` | volunteer-build-reviewed |
 | M112483 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.HeckeMul` | volunteer-build-reviewed |
-| M112484 | P2705 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.ImStab` | volunteer-build-reviewed |
-| M112485 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.JacNorm` | volunteer-build-reviewed |

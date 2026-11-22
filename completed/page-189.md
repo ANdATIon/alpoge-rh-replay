@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124583 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernelStatement` | volunteer-build-reviewed |
+| M124587 | P1523 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup` | build-observed |
 | M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
 | M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
 | M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M125381 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierTransformIdentity` | volunteer-build-reviewed |
 | M125382 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompat` | build-observed |
 | M125383 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompatStatement` | build-observed |
-| M125384 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEq` | build-observed |
-| M125385 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEqStatement` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134148 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MulVecEqZeroOfPair` | volunteer-build-reviewed |
+| M134157 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonempty` | build-observed |
 | M134158 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.MultiprojectivePointsNonemptyStatement` | build-observed |
 | M134159 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditions` | build-observed |
 | M134160 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.NearTriangularOfStepConditionsStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M134886 | P1706 | `Development.DiscreteGroups.GlobalIrreducibility.EntriesOfMemUnipRad` | volunteer-build-reviewed |
 | M134889 | P1552 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsBallMem` | volunteer-build-reviewed |
 | M134890 | P0531 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsCellFunctional` | volunteer-build-reviewed |
-| M134895 | P1782 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne` | volunteer-build-reviewed |
-| M134896 | P1755 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne` | volunteer-build-reviewed |

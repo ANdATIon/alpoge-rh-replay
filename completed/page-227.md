@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150398 | P0537 | `Formalism.LocalToGlobal.ProjectiveLattices.IsThRule` | wave-reused |
+| M150399 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.JFDFree` | wave-reused |
 | M150401 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KapTrdegPfA` | volunteer-build-reviewed |
 | M150404 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KsHecke` | volunteer-build-reviewed |
 | M150405 | P1108 | `Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms` | build-observed |
@@ -400,5 +402,3 @@
 | M150913 | P1369 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SigmaFiniteOfB` | build-observed |
 | M150914 | P0071 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SigmaFiniteOfFcG` | build-observed |
 | M150915 | P1686 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SkewHermitianApproximation` | build-observed |
-| M150917 | P1528 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPf` | build-observed |
-| M150918 | P1640 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfFinal` | build-observed |

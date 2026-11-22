@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149544 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.MultLemmas` | volunteer-build-reviewed |
+| M149545 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.NearConstantMultiplicities` | build-observed |
 | M149546 | P0602 | `Formalism.LocalToGlobal.IndefiniteReal.NonGenericAndKTwoTheorems` | build-observed |
 | M149547 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.NonzeroIndexPlaceIndepConstants` | volunteer-build-reviewed |
 | M149548 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.Decomp` | build-observed |
@@ -400,5 +402,3 @@
 | M150395 | P0537 | `Formalism.LocalToGlobal.ProjectiveLattices.IsGenFrGenFr` | wave-reused |
 | M150396 | P0537 | `Formalism.LocalToGlobal.ProjectiveLattices.IsLevMove` | build-observed |
 | M150397 | P0995 | `Formalism.LocalToGlobal.ProjectiveLattices.IsProbabilityMeasureAutQuotientNormalized` | build-observed |
-| M150398 | P0537 | `Formalism.LocalToGlobal.ProjectiveLattices.IsThRule` | wave-reused |
-| M150399 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.JFDFree` | wave-reused |

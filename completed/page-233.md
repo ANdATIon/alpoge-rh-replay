@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153862 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhConvProj` | build-observed |
+| M153863 | P0462 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhDualGram` | build-observed |
 | M153864 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhGram` | build-observed |
 | M153865 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormLimit` | build-observed |
 | M153866 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormUnits` | build-observed |
@@ -400,5 +402,3 @@
 | M154300 | P1557 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DensMuF` | build-observed |
 | M154301 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DensMuP` | build-observed |
 | M154302 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DensNu` | build-observed |
-| M154303 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetMulRCReal` | volunteer-build-reviewed |
-| M154304 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.DetNZHolds` | build-observed |

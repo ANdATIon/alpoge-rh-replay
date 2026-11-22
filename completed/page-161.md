@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110071 | P0135 | `Development.AutomorphicArithmetic.DedekindLFunctions.LandauZeroFreeCriterion` | build-observed |
+| M110072 | P0202 | `Development.AutomorphicArithmetic.DedekindLFunctions.RunBaseDimensionLeRankAddGenusTerm` | build-observed |
 | M110073 | P0714 | `Development.AutomorphicArithmetic.DedekindLFunctions.SplitInertia` | build-observed |
 | M110074 | P1949 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianQuotientInheritsAction` | volunteer-build-reviewed |
 | M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M110530 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.AsymExp` | volunteer-build-reviewed |
 | M110531 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.CfBasic` | volunteer-build-reviewed |
 | M110532 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.CfMulSum` | volunteer-build-reviewed |
-| M110533 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChSymAnti` | volunteer-build-reviewed |
-| M110534 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChiInj` | volunteer-build-reviewed |

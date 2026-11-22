@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100170 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubst` | build-observed |
+| M100171 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ConstantCoeffSubstSame` | build-observed |
 | M100173 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CubeTrivialAndFiniteFlatSurjectiveMulAbelianSche` | volunteer-build-reviewed |
 | M100177 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMem` | build-observed |
 | M100178 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMemStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M100744 | P1410 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityReal` | build-observed |
 | M100745 | P1410 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary` | build-observed |
 | M100746 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IdentityComponentOpen` | volunteer-build-reviewed |
-| M100748 | P1912 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InfiniteOfConcl` | volunteer-build-reviewed |
-| M100750 | P0592 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.InjectiveOfSmulMemRange` | wave-reused |

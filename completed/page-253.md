@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163071 | P0334 | `GroundTheory.GlobalFields.CompletionAtPlace.Degree` | wave-reused |
+| M163072 | P0380 | `GroundTheory.GlobalFields.CompletionAtPlace.Galois` | wave-reused |
 | M163073 | P0425 | `GroundTheory.GlobalFields.CompletionAtPlace.Inertia` | build-observed |
 | M163074 | P0282 | `GroundTheory.GlobalFields.CompletionAtPlace.Integers` | wave-reused |
 | M163075 | P0971 | `GroundTheory.GlobalFields.ComplexMultiplication.Algebraicity` | build-observed |
@@ -400,5 +402,3 @@
 | M163497 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.StatementsPullback` | wave-reused |
 | M163498 | P0779 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.SystemIndependence` | wave-reused |
 | M163499 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailBound` | wave-reused |
-| M163500 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailDimZero` | wave-reused |
-| M163501 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Telescoping` | wave-reused |

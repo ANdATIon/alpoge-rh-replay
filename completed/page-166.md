@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112484 | P2705 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.ImStab` | volunteer-build-reviewed |
+| M112485 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.JacNorm` | volunteer-build-reviewed |
 | M112486 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.KerKill` | volunteer-build-reviewed |
 | M112487 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.LocGal` | volunteer-build-reviewed |
 | M112488 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.NormDom` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M113140 | P2762 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.REGOrd` | volunteer-build-reviewed |
 | M113141 | P2762 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.ROrdIrr` | volunteer-build-reviewed |
 | M113142 | P2718 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RatioT` | volunteer-build-reviewed |
-| M113143 | P2756 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RatioWOfHasSat` | volunteer-build-reviewed |
-| M113144 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.RankTwoPatching.RowOf` | volunteer-build-reviewed |

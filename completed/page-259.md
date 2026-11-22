@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166250 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutIKillsIdeal` | volunteer-build-reviewed |
+| M166251 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutIdealSum` | volunteer-build-reviewed |
 | M166252 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutLieFirst` | volunteer-build-reviewed |
 | M166253 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutLieLast` | volunteer-build-reviewed |
 | M166254 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutPrimeEq` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M167032 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreNormRoots` | build-observed |
 | M167034 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreRepresentatives` | build-observed |
 | M167035 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreSectionLift` | wave-reused |
-| M167036 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiltrationHilbSum` | wave-reused |
-| M167037 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiniteSeparatingModel` | wave-reused |

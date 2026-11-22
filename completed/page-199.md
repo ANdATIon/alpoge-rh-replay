@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131486 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineLatticeGenericSections` | volunteer-build-reviewed |
+| M131487 | P0597 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineLatticeGenericSectionsStatement` | volunteer-build-reviewed |
 | M131488 | P2142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineOfKeyDegree` | volunteer-build-reviewed |
 | M131489 | P2152 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineOfKeyDegreeStatement` | volunteer-build-reviewed |
 | M131490 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LocRatio` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M132157 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorLieModelLift` | volunteer-build-reviewed |
 | M132161 | P0321 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorOfDualHom` | wave-reused |
 | M132162 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorOfDualHomStatement` | wave-reused |
-| M132163 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorSumDualNumber` | wave-reused |
-| M132164 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TangentVectorSumDualNumberStatement` | wave-reused |

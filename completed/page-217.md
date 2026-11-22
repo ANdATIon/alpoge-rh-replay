@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144446 | P0211 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MeasurePreservingPiCompProd` | build-observed |
+| M144447 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MinkowskiNumberDvdFactorial` | build-observed |
 | M144448 | P0502 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NearFarVolumeBounds` | build-observed |
 | M144449 | P0374 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NormalisationIdentity` | wave-reused |
 | M144450 | P0747 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.OperatorHilbertSchmidtNorm` | build-observed |
@@ -400,5 +402,3 @@
 | M144845 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IntegralOfMemGenus` | wave-reused |
 | M144846 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.InvMemLocROfUnimod` | wave-reused |
 | M144847 | P0721 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsClassRepsMap` | wave-reused |
-| M144848 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsHermSemilocalLocRing` | wave-reused |
-| M144849 | P0993 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsIntegralAtLocF` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138137 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.EqZeroOfTri` | volunteer-build-reviewed |
+| M138138 | P0144 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsDegreeOneClass` | volunteer-build-reviewed |
 | M138143 | P2501 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsModelOfEq` | volunteer-build-reviewed |
 | M138144 | P1438 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsResDegree` | volunteer-build-reviewed |
 | M138145 | P2153 | `Development.WeilBound.CoreStatements.FlagImmersions.ExistsRightInv` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M138922 | P0693 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.CompSm` | build-observed |
 | M138923 | P0569 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.CompactSpaceOfIsProjOver` | build-observed |
 | M138924 | P0601 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.ConnectedSpacePullbackOfIsIntegral` | build-observed |
-| M138925 | P0144 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.ExistsGalMapApply` | build-observed |
-| M138926 | P0746 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.SmoothGaloisGeometry.Geo` | build-observed |

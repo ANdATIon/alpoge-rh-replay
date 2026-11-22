@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144045 | P1344 | `Formalism.AdmissibleDesigns.TrCMemZ1D` | build-observed |
+| M144046 | P1440 | `Formalism.AdmissibleDesigns.TrivialBoundAtRowsOfAdmTB` | build-observed |
 | M144047 | P1468 | `Formalism.AdmissibleDesigns.TrivialBoundGeneral` | build-observed |
 | M144048 | P1415 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfDict` | build-observed |
 | M144049 | P1527 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfPsi` | build-observed |
@@ -400,5 +402,3 @@
 | M144443 | P0325 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LatticeSumTupleOfLatticeSumTuple` | build-observed |
 | M144444 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LiftingDecomposition` | build-observed |
 | M144445 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.LocalIntegralStructure` | build-observed |
-| M144446 | P0211 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MeasurePreservingPiCompProd` | build-observed |
-| M144447 | P0420 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.MinkowskiNumberDvdFactorial` | build-observed |

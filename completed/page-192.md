@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
+| M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |
 | M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
 | M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
 | M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M127211 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltrationStatement` | build-observed |
 | M127212 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarOnWeightSpace` | volunteer-build-reviewed |
 | M127213 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExists` | volunteer-build-reviewed |
-| M127214 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExistsStatement` | volunteer-build-reviewed |
-| M127215 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScaledIntegralHermitianInOpenSubgroup` | volunteer-build-reviewed |

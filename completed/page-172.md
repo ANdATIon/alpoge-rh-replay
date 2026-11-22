@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115467 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsLCProd` | volunteer-build-reviewed |
+| M115468 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenRightInvariance` | volunteer-build-reviewed |
 | M115469 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizer` | volunteer-build-reviewed |
 | M115470 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerAddSmul` | volunteer-build-reviewed |
 | M115471 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizerLinearMap` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M115900 | P2218 | `Development.AutomorphicArithmetic.LocalEmbeddings.OppLagr` | volunteer-build-reviewed |
 | M115901 | P2724 | `Development.AutomorphicArithmetic.LocalEmbeddings.PairMain` | volunteer-build-reviewed |
 | M115902 | P2526 | `Development.AutomorphicArithmetic.LocalEmbeddings.PointDiff` | volunteer-build-reviewed |
-| M115903 | P2550 | `Development.AutomorphicArithmetic.LocalEmbeddings.RankCover` | volunteer-build-reviewed |
-| M115904 | P2206 | `Development.AutomorphicArithmetic.LocalEmbeddings.ReBaseArch` | volunteer-build-reviewed |

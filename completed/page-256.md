@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164698 | P0542 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalCurvePointDVR` | volunteer-build-reviewed |
+| M164700 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDivisorChartGeneric` | volunteer-build-reviewed |
 | M164701 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalDoublePointsGeneric` | volunteer-build-reviewed |
 | M164702 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIntegrallyClosed` | volunteer-build-reviewed |
 | M164703 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalGermIrreducible` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M165199 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPolynomialDimensionInequality` | wave-reused |
 | M165200 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPolynomialLocalizedLength` | build-observed |
 | M165201 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPolynomialPrimeOverZeroHeight` | wave-reused |
-| M165202 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPowSpanFinrankBounded` | build-observed |
-| M165204 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PPrimeFiltration` | wave-reused |

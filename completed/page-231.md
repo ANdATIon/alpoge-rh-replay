@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152944 | P0274 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.Points` | wave-reused |
+| M152945 | P0214 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.SecondCoeffConsistency` | wave-reused |
 | M152946 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.SigmaConstantAgrees` | build-observed |
 | M152947 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.TraceDiagonalBis` | build-observed |
 | M152948 | P0274 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.USideA` | wave-reused |
@@ -400,5 +402,3 @@
 | M153414 | P0422 | `Formalism.PadicSubsetSums.StableGradedCounts.TWExportTransfer` | build-observed |
 | M153415 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWHeckeDetFactors` | build-observed |
 | M153416 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexAdditive` | build-observed |
-| M153417 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexDet` | build-observed |
-| M153418 | P0376 | `Formalism.PadicSubsetSums.StableGradedCounts.TWIndexScale` | build-observed |

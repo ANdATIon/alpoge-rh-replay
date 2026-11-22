@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162167 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfLarge` | build-observed |
+| M162168 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfOneLe` | build-observed |
 | M162169 | P0159 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.DzDifferentiableOn` | build-observed |
 | M162170 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.GzPNTOf` | build-observed |
 | M162171 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.IntegralEqIntervalIntegralAddCompl` | build-observed |
@@ -400,5 +402,3 @@
 | M162611 | P1026 | `GroundTheory.AutomorphicForms.GL2.GJFEInducedTensor` | build-observed |
 | M162612 | P1191 | `GroundTheory.AutomorphicForms.GL2.GJFELevi` | build-observed |
 | M162613 | P0999 | `GroundTheory.AutomorphicForms.GL2.GJFELeviConv` | build-observed |
-| M162614 | P1168 | `GroundTheory.AutomorphicForms.GL2.GJFELeviMulti` | build-observed |
-| M162615 | P1141 | `GroundTheory.AutomorphicForms.GL2.GJFELeviPeel` | build-observed |

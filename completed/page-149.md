@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103397 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CuspSet` | volunteer-build-reviewed |
+| M103398 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.Deadel` | volunteer-build-reviewed |
 | M103399 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownChar` | volunteer-build-reviewed |
 | M103400 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownHol` | volunteer-build-reviewed |
 | M103401 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownLift` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M103953 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2LevEq` | volunteer-build-reviewed |
 | M103954 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2LevOut` | volunteer-build-reviewed |
 | M103955 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2LocEq` | volunteer-build-reviewed |
-| M103956 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2LocSub` | volunteer-build-reviewed |
-| M103957 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.LevelUR2OrdPt` | volunteer-build-reviewed |

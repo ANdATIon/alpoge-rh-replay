@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115031 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceFunction` | volunteer-build-reviewed |
+| M115032 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceOfModulusAndDiscriminant` | volunteer-build-reviewed |
 | M115033 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClearDenominatorsLattice` | volunteer-build-reviewed |
 | M115034 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureSpanCoefficients` | volunteer-build-reviewed |
 | M115035 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ClosureUpperUni` | build-observed |
@@ -400,5 +402,3 @@
 | M115464 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsIntegralNatCast` | build-observed |
 | M115465 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsIntegralOfNormLe` | volunteer-build-reviewed |
 | M115466 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsIntegralOfNormLeOne` | volunteer-build-reviewed |
-| M115467 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsLCProd` | volunteer-build-reviewed |
-| M115468 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenRightInvariance` | volunteer-build-reviewed |

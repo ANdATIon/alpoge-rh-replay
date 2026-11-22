@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115903 | P2550 | `Development.AutomorphicArithmetic.LocalEmbeddings.RankCover` | volunteer-build-reviewed |
+| M115904 | P2206 | `Development.AutomorphicArithmetic.LocalEmbeddings.ReBaseArch` | volunteer-build-reviewed |
 | M115906 | P2206 | `Development.AutomorphicArithmetic.LocalEmbeddings.ReBaseReal` | volunteer-build-reviewed |
 | M115909 | P2470 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootFrame` | volunteer-build-reviewed |
 | M115910 | P2499 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootInCore` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M116481 | P2413 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KodairaSpencerMapCompatibilities` | volunteer-build-reviewed |
 | M116482 | P2441 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KodairaSpencerOfDirectSumDeformation` | volunteer-build-reviewed |
 | M116484 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KodairaSpencerUniversalFamily` | volunteer-build-reviewed |
-| M116485 | P2301 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.KoecherPrincipleUnitConstant` | volunteer-build-reviewed |
-| M116489 | P2729 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogCanonicalCriterionBoundary` | volunteer-build-reviewed |

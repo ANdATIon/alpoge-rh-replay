@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173468 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LieBridgeD` | build-observed |
+| M173470 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LieBridgeF` | build-observed |
 | M173472 | P1348 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LieBridgeH` | build-observed |
 | M173474 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ModelLat` | build-observed |
 | M173476 | P1083 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.NonemptyUnitAt` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M173930 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousConjProjection` | wave-reused |
 | M173931 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousOnFderivPhiM` | wave-reused |
 | M173932 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousOnFderivPhiP` | wave-reused |
-| M173933 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DTauFacts` | wave-reused |
-| M173934 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecALogLower` | wave-reused |

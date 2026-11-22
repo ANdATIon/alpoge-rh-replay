@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122050 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovOfAlgHom` | volunteer-build-reviewed |
+| M122051 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverByAcyclicPair` | volunteer-build-reviewed |
 | M122052 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasis` | volunteer-build-reviewed |
 | M122053 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverCupActionBasisStatement` | volunteer-build-reviewed |
 | M122054 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIso` | build-observed |
@@ -400,5 +402,3 @@
 | M122681 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBlocksOfUpper` | volunteer-build-reviewed |
 | M122682 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBoundOfIsBigO` | volunteer-build-reviewed |
 | M122683 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegral` | volunteer-build-reviewed |
-| M122684 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegralStatement` | volunteer-build-reviewed |
-| M122685 | P1551 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue` | build-observed |

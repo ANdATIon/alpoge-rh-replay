@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126004 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactorsStatement` | build-observed |
+| M126005 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnCone` | volunteer-build-reviewed |
 | M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
 | M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
 | M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M126612 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtraction` | wave-reused |
 | M126613 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtractionStatement` | wave-reused |
 | M126614 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowersDiagonalAtTBlock` | volunteer-build-reviewed |
-| M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
-| M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |

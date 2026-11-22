@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167726 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraBis` | build-observed |
+| M167729 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherBis` | wave-reused |
 | M167731 | P0727 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherFurther` | wave-reused |
 | M167733 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherMore` | build-observed |
 | M167736 | P0643 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTail` | wave-reused |
@@ -400,5 +402,3 @@
 | M168350 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCutMultPos` | wave-reused |
 | M168351 | P0544 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCutNonempty` | wave-reused |
 | M168352 | P0544 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCutOneGenerator` | wave-reused |
-| M168353 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCutZeroNotLe` | wave-reused |
-| M168354 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplit` | build-observed |

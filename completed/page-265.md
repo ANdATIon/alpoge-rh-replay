@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170129 | P0943 | `GroundTheory.PAdicHodge.SenTateCharStep` | build-observed |
+| M170130 | P0972 | `GroundTheory.PAdicHodge.SenTateCharTower` | build-observed |
 | M170131 | P1026 | `GroundTheory.PAdicHodge.SenTateCharTrace` | build-observed |
 | M170132 | P0703 | `GroundTheory.PAdicHodge.SenTateCharUnitPow` | build-observed |
 | M170134 | P1054 | `GroundTheory.PAdicHodge.SenTateCharacters` | build-observed |
@@ -400,5 +402,3 @@
 | M170984 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SummableUnitBounds.SBoundOf` | build-observed |
 | M170985 | P1735 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.GammaZeroLevelMembership` | build-observed |
 | M170988 | P1760 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.VerticalStrips.UnramifiedEulerProductIntegral` | build-observed |
-| M170989 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.ConjIsoOf` | volunteer-build-reviewed |
-| M170991 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PBasic` | volunteer-build-reviewed |

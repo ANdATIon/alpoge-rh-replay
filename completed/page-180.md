@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119129 | P2253 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaEV0EqICPq` | volunteer-build-reviewed |
+| M119130 | P2264 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaEV0EqICPqStatement` | volunteer-build-reviewed |
 | M119131 | P2763 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaEigenCompatibilitySixth` | volunteer-build-reviewed |
 | M119132 | P2163 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaFireRowRecTie` | volunteer-build-reviewed |
 | M119133 | P2174 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaFireRowRecTieStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M119658 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.FlagMinor` | wave-reused |
 | M119659 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GapCondExample` | wave-reused |
 | M119660 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.GermComp1ZeroPointLeft` | wave-reused |
-| M119661 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IntStable` | volunteer-build-reviewed |
-| M119662 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact` | wave-reused |

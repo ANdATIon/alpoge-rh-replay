@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M141740 | P1554 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.CuspPairSubGeneric` | volunteer-build-reviewed |
+| M141741 | P1582 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.DerivJac` | volunteer-build-reviewed |
 | M141742 | P1612 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SegmentDerivatives.DerivSub` | volunteer-build-reviewed |
 | M141743 | P1809 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.SwapProducts.SwapProd` | volunteer-build-reviewed |
 | M141744 | P2118 | `Development.WeilBound.RepresentationTheoryGL.GenericUnitaryGL.UnlinkedIrreducibility.LUnlinkedCommPole` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M142412 | P1685 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LamTrace` | build-observed |
 | M142414 | P1708 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LocTau` | build-observed |
 | M142415 | P1390 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LocTauAlt` | build-observed |
-| M142416 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.LoweringDerivativeVacuum` | volunteer-build-reviewed |
-| M142417 | P0324 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.MatInv` | volunteer-build-reviewed |

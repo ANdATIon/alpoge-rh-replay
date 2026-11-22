@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148372 | P1899 | `Formalism.LocalToGlobal.Divisibility.ColPins` | build-observed |
+| M148374 | P0602 | `Formalism.LocalToGlobal.Divisibility.ConjugationAtDistinguishedPlace` | build-observed |
 | M148375 | P1077 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEight` | build-observed |
 | M148376 | P1899 | `Formalism.LocalToGlobal.Divisibility.ConstantGeTwentyEightAlt` | build-observed |
 | M148377 | P0775 | `Formalism.LocalToGlobal.Divisibility.DefGroup` | wave-reused |
@@ -400,5 +402,3 @@
 | M148903 | P0995 | `Formalism.LocalToGlobal.GroupLattices.CloudFilling.LamMEqLamZero` | build-observed |
 | M148906 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmApply` | build-observed |
 | M148907 | P0939 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CastGLSymmBc` | build-observed |
-| M148910 | P0149 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsFib` | build-observed |
-| M148911 | P1163 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsGat` | build-observed |

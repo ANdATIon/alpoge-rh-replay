@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134895 | P1782 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne` | volunteer-build-reviewed |
+| M134896 | P1755 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsOfMemKOne` | volunteer-build-reviewed |
 | M134897 | P1413 | `Development.DiscreteGroups.GlobalIrreducibility.ExistsUniformizerValuation` | volunteer-build-reviewed |
 | M134904 | P1706 | `Development.DiscreteGroups.GlobalIrreducibility.IneEqOfHasGreenLe` | volunteer-build-reviewed |
 | M134907 | P1552 | `Development.DiscreteGroups.GlobalIrreducibility.KmatMulKinv` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M135469 | P0496 | `Development.EtaleCohomology.EtaleSheaves.GlobalPf` | volunteer-build-reviewed |
 | M135470 | P0532 | `Development.EtaleCohomology.EtaleSheaves.GlueOf` | build-observed |
 | M135471 | P0598 | `Development.EtaleCohomology.EtaleSheaves.GluePf` | wave-reused |
-| M135472 | P0692 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPf` | build-observed |
-| M135473 | P0719 | `Development.EtaleCohomology.EtaleSheaves.GlueRelPfCone` | build-observed |

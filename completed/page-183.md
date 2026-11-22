@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120901 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZero` | volunteer-build-reviewed |
+| M120902 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AntitoneWeightedSumZeroStatement` | volunteer-build-reviewed |
 | M120904 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApplyMulOfCoprime` | volunteer-build-reviewed |
 | M120907 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumps` | volunteer-build-reviewed |
 | M120908 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ApproximateIdentityProductBumpsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M121466 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedUnipotentCompactExhaustion` | volunteer-build-reviewed |
 | M121467 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureConjugationInvariant` | build-observed |
 | M121468 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureConjugationInvariantStatement` | build-observed |
-| M121469 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVariety` | volunteer-build-reviewed |
-| M121470 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVarietyStatement` | volunteer-build-reviewed |

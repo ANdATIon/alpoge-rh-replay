@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119661 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IntStable` | volunteer-build-reviewed |
+| M119662 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact` | wave-reused |
 | M119663 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub` | build-observed |
 | M119664 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsGroupHomog` | volunteer-build-reviewed |
 | M119665 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatFamilyLineFamZero` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M120230 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussSumValuationTeichmuller` | volunteer-build-reviewed |
 | M120231 | P0264 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussSumValuationTeichmullerStatement` | volunteer-build-reviewed |
 | M120232 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianMatrixMeasurePosFinite` | volunteer-build-reviewed |
-| M120234 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionBallIndicator` | volunteer-build-reviewed |
-| M120236 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GaussianProjectionConeCoarea` | volunteer-build-reviewed |

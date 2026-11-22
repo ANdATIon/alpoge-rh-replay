@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146230 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantGeneric` | wave-reused |
+| M146231 | P0721 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantReindex` | build-observed |
 | M146234 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteOfEntries` | wave-reused |
 | M146235 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteTransposedRMatrix` | wave-reused |
 | M146236 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTopBlock` | build-observed |
@@ -400,5 +402,3 @@
 | M146883 | P0537 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RealWeightedForms` | build-observed |
 | M146884 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RearrApply` | build-observed |
 | M146885 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RearrSymm` | build-observed |
-| M146886 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RecText` | build-observed |
-| M146887 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RecursionGivesUniformBoundsForm` | build-observed |

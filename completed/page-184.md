@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121469 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVariety` | volunteer-build-reviewed |
+| M121470 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureDimIffArithmeticVarietyStatement` | volunteer-build-reviewed |
 | M121471 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernel` | volunteer-build-reviewed |
 | M121472 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureKernelMemJacquetKernelStatement` | volunteer-build-reviewed |
 | M121475 | P0797 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsCongr` | build-observed |
@@ -400,5 +402,3 @@
 | M122046 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountingFormulaOfComponentsStatement` | volunteer-build-reviewed |
 | M122048 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovGlue` | volunteer-build-reviewed |
 | M122049 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovMap` | volunteer-build-reviewed |
-| M122050 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovOfAlgHom` | volunteer-build-reviewed |
-| M122051 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverByAcyclicPair` | volunteer-build-reviewed |

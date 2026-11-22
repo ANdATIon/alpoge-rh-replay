@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174933 | P0292 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsPowerMulUnitNorm` | volunteer-build-reviewed |
+| M174934 | P0345 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsTeichmullerRepModPrime` | volunteer-build-reviewed |
 | M174935 | P1027 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnEndo` | build-observed |
 | M174936 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnIso` | build-observed |
 | M174937 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnLat` | build-observed |

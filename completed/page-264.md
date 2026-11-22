@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169613 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecIdealOfPrime` | wave-reused |
+| M169614 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecLinNZD` | wave-reused |
 | M169615 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecPointSeparable` | wave-reused |
 | M169616 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChart` | wave-reused |
 | M169617 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartBack` | wave-reused |
@@ -400,5 +402,3 @@
 | M170103 | P0086 | `GroundTheory.PAdicHodge.LogPowSeries` | wave-reused |
 | M170110 | P0086 | `GroundTheory.PAdicHodge.PerfectoidField` | wave-reused |
 | M170127 | P0999 | `GroundTheory.PAdicHodge.SenTateCharLevels` | build-observed |
-| M170129 | P0943 | `GroundTheory.PAdicHodge.SenTateCharStep` | build-observed |
-| M170130 | P0972 | `GroundTheory.PAdicHodge.SenTateCharTower` | build-observed |

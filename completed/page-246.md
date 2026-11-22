@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159725 | P1500 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DimYOvr` | wave-reused |
+| M159726 | P1811 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.DirectionsOfPositivePart` | wave-reused |
 | M159727 | P1759 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.EpsilonBoundMConstant` | wave-reused |
 | M159728 | P1734 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExistsHigh` | wave-reused |
 | M159729 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExponentMatrixFirstDepthEq` | wave-reused |
@@ -400,5 +402,3 @@
 | M160122 | P1347 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges` | build-observed |
 | M160123 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.ColSpanMap` | build-observed |
 | M160124 | P0078 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.DvdOfAdd` | build-observed |
-| M160125 | P1190 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EDelApply` | build-observed |
-| M160126 | P1140 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeFamOf` | build-observed |

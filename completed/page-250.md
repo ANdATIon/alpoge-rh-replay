@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161761 | P0223 | `Formalism.TruncatedSeriesCounting.PowMemSpanOfMemSpanLinearDistinguished` | wave-reused |
+| M161762 | P0158 | `Formalism.TruncatedSeriesCounting.RamifiedValuationInequality` | wave-reused |
 | M161763 | P0223 | `Formalism.TruncatedSeriesCounting.StatementX` | wave-reused |
 | M161764 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.AprimeArith` | wave-reused |
 | M161765 | P0281 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ArcExp` | wave-reused |
@@ -400,5 +402,3 @@
 | M162164 | P0606 | `Formalism.ZeroFreeRegion.LogDerivRegion` | build-observed |
 | M162165 | P0281 | `Formalism.ZeroFreeRegion.SmallHeightLogDeriv` | build-observed |
 | M162166 | P0224 | `Formalism.ZeroFreeRegion.Statement` | build-observed |
-| M162167 | P0380 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfLarge` | build-observed |
-| M162168 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.AbsZetaPrimeSumErrorLeOfOneLe` | build-observed |

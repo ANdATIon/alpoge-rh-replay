@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101404 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClComp` | wave-reused |
+| M101405 | P1017 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ClConn` | wave-reused |
 | M101406 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CmFree` | wave-reused |
 | M101407 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Cohen` | wave-reused |
 | M101408 | P0487 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CompDim` | wave-reused |
@@ -400,5 +402,3 @@
 | M102156 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EulerProductInductionUnramified` | volunteer-build-reviewed |
 | M102157 | P2696 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EulerProductNonvanishingRight` | volunteer-build-reviewed |
 | M102158 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EvenValuationNormCompactUnitsOfSplit` | wave-reused |
-| M102159 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EventuallyMemHeckeLevelAndIwahoriCongruence` | volunteer-build-reviewed |
-| M102160 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactBaseIntegralToComplex` | volunteer-build-reviewed |

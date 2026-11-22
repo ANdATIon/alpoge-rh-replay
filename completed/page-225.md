@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148910 | P0149 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsFib` | build-observed |
+| M148911 | P1163 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsGat` | build-observed |
 | M148912 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHyp` | build-observed |
 | M148913 | P0376 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHypA` | volunteer-build-reviewed |
 | M148914 | P0695 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsLat` | build-observed |
@@ -400,5 +402,3 @@
 | M149540 | P0858 | `Formalism.LocalToGlobal.IndefiniteReal.MemRangeAdjointOfKerStable` | build-observed |
 | M149541 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.MemSpanOfSmulMem` | build-observed |
 | M149543 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.MultGood` | volunteer-build-reviewed |
-| M149544 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.MultLemmas` | volunteer-build-reviewed |
-| M149545 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.NearConstantMultiplicities` | build-observed |

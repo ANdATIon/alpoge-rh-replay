@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111531 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.Landau` | volunteer-build-reviewed |
+| M111532 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.OneAddXNe` | volunteer-build-reviewed |
 | M111533 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.PairCases` | volunteer-build-reviewed |
 | M111534 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.PhiMem` | volunteer-build-reviewed |
 | M111535 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.ShiftM` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M112000 | P2441 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.UEltOf` | volunteer-build-reviewed |
 | M112001 | P2785 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BaseChangeDescent.BcBackOffT` | volunteer-build-reviewed |
 | M112002 | P2062 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BaseChangeDescent.Strong` | volunteer-build-reviewed |
-| M112003 | P0714 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.BaseFacts` | build-observed |
-| M112004 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.CorrOpEq` | build-observed |

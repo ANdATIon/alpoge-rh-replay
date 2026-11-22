@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158857 | P1111 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.OrbitAdmissibleOfSplitBound` | build-observed |
+| M158858 | P1080 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.OrbitPlaces` | build-observed |
 | M158859 | P0969 | `Formalism.SharpRestriction.Divisibility.LocalNonemptiness.SubsingletonRankIndicatorIff` | build-observed |
 | M158863 | P0997 | `Formalism.SharpRestriction.Divisibility.LocalQuadraticParts` | build-observed |
 | M158864 | P0913 | `Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts` | build-observed |
@@ -400,5 +402,3 @@
 | M159304 | P2234 | `Formalism.SharpRestriction.GrowthBounds.ChartedClasses.LocalClassDataOfTrivialStabilizers` | volunteer-build-reviewed |
 | M159305 | P2222 | `Formalism.SharpRestriction.GrowthBounds.ChartedClasses.OrbitOfPts` | volunteer-build-reviewed |
 | M159310 | P1663 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity` | build-observed |
-| M159311 | P1557 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFCoarse` | build-observed |
-| M159312 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFDefs` | build-observed |

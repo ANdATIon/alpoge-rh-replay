@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157010 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdA` | wave-reused |
+| M157011 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdAlt` | wave-reused |
 | M157012 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdG` | wave-reused |
 | M157013 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RestrProdSt` | wave-reused |
 | M157014 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.RpAbsHolds` | wave-reused |
@@ -400,5 +402,3 @@
 | M157507 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvO` | volunteer-build-reviewed |
 | M157509 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvR` | volunteer-build-reviewed |
 | M157510 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvT` | volunteer-build-reviewed |
-| M157512 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWLimOf` | volunteer-build-reviewed |
-| M157513 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.TBallMeas` | volunteer-build-reviewed |

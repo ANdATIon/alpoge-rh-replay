@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144848 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsHermSemilocalLocRing` | wave-reused |
+| M144849 | P0993 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsIntegralAtLocF` | wave-reused |
 | M144850 | P1020 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsIntegralLatOfForall` | wave-reused |
 | M144851 | P1048 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLatticeOfFibReps` | wave-reused |
 | M144852 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLocUnif` | wave-reused |
@@ -400,5 +402,3 @@
 | M145249 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.PeelDegBound` | wave-reused |
 | M145250 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.PeelHomog` | wave-reused |
 | M145251 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.PeelLead` | wave-reused |
-| M145252 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActDiagWeight` | wave-reused |
-| M145253 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActMul` | wave-reused |

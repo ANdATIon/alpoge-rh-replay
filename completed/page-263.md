@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168935 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordFibreDeg` | build-observed |
+| M168936 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordRatioDeg` | build-observed |
 | M168937 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCovolumeRelIndex` | volunteer-build-reviewed |
 | M168961 | P0165 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PEmbeddingSumPlaces` | volunteer-build-reviewed |
 | M168962 | P0612 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PExistsUniqueRelabel` | build-observed |
@@ -400,5 +402,3 @@
 | M169610 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecBGeneric` | wave-reused |
 | M169611 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecBLinInj` | wave-reused |
 | M169612 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecBTorsionFree` | wave-reused |
-| M169613 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecIdealOfPrime` | wave-reused |
-| M169614 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSecLinNZD` | wave-reused |

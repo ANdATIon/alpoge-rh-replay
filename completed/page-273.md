@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174342 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.UniqueA` | wave-reused |
+| M174343 | P0863 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.UniqueU` | build-observed |
 | M174344 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Weight` | wave-reused |
 | M174345 | P1141 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.WeylBridge` | wave-reused |
 | M174346 | P0972 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.Bridge` | build-observed |
@@ -400,5 +402,3 @@
 | M174929 | P0292 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffRescaleExpandOfNotDvd` | wave-reused |
 | M174930 | P0614 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.DivByPartialYAtZeroSubstAtXAtY` | build-observed |
 | M174931 | P1083 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.EndIntegral` | build-observed |
-| M174933 | P0292 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsPowerMulUnitNorm` | volunteer-build-reviewed |
-| M174934 | P0345 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ExistsTeichmullerRepModPrime` | volunteer-build-reviewed |

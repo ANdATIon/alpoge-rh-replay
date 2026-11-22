@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171931 | P0090 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.TaylorLeviSt` | volunteer-build-reviewed |
+| M171932 | P0168 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.ChiPSt` | pilot-reused |
 | M171933 | P0168 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.GaussSt` | volunteer-build-reviewed |
 | M171934 | P0090 | `ReciprocityTheory.GeometryOfNumbers.SphericalMonomials.MonoNormSq` | pilot-reused |
 | M171938 | P0389 | `ReciprocityTheory.GroupCohomology.CardLenStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M172413 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfF` | wave-reused |
 | M172414 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfG` | wave-reused |
 | M172415 | P0835 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfH` | wave-reused |
-| M172416 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfJ` | wave-reused |
-| M172417 | P0999 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.InterpStatementPfK` | wave-reused |

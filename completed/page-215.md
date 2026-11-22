@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143129 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.BezoutHypotheses.Bez2` | volunteer-build-reviewed |
+| M143135 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ContinuousLinearMat` | volunteer-build-reviewed |
 | M143136 | P1809 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ContinuousOnZpart` | volunteer-build-reviewed |
 | M143137 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ValLeOneOfNabsLt` | volunteer-build-reviewed |
 | M143139 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.IntegralPartFibres.ZpartUnique` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M144042 | P1555 | `Formalism.AdmissibleDesigns.TheoremFromNormalizedOpenThree` | build-observed |
 | M144043 | P1266 | `Formalism.AdmissibleDesigns.TheoremN5OfNormalizedItems` | build-observed |
 | M144044 | P1468 | `Formalism.AdmissibleDesigns.ToH1Cocycles` | build-observed |
-| M144045 | P1344 | `Formalism.AdmissibleDesigns.TrCMemZ1D` | build-observed |
-| M144046 | P1440 | `Formalism.AdmissibleDesigns.TrivialBoundAtRowsOfAdmTB` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161353 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ChoiceOfTopsRefined` | build-observed |
+| M161354 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.CramerCofactor` | build-observed |
 | M161355 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetDivides` | build-observed |
 | M161356 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetQuotVal` | build-observed |
 | M161357 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.DetVal` | build-observed |
@@ -400,5 +402,3 @@
 | M161758 | P0379 | `Formalism.TruncatedSeriesCounting.EtaDeterminantPolynomialIdentities` | wave-reused |
 | M161759 | P0281 | `Formalism.TruncatedSeriesCounting.LemmaDetPoly` | wave-reused |
 | M161760 | P0079 | `Formalism.TruncatedSeriesCounting.LengthQuotientLeOfPowSMul` | wave-reused |
-| M161761 | P0223 | `Formalism.TruncatedSeriesCounting.PowMemSpanOfMemSpanLinearDistinguished` | wave-reused |
-| M161762 | P0158 | `Formalism.TruncatedSeriesCounting.RamifiedValuationInequality` | wave-reused |

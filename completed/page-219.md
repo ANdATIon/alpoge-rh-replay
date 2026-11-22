@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145252 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActDiagWeight` | wave-reused |
+| M145253 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowActMul` | wave-reused |
 | M145254 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivClosedGraded` | wave-reused |
 | M145255 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivStable` | wave-reused |
 | M145256 | P0272 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowNuSum` | wave-reused |
@@ -400,5 +402,3 @@
 | M146225 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DerivedCoefficientIntegrable` | build-observed |
 | M146228 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DetRowsZero` | wave-reused |
 | M146229 | P0747 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DetSubmatrixUnitriangularEqOne` | build-observed |
-| M146230 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantGeneric` | wave-reused |
-| M146231 | P0721 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DeterminantReindex` | build-observed |

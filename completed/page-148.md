@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102731 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimcpl` | wave-reused |
+| M102732 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimform` | wave-reused |
 | M102733 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GGram` | volunteer-build-reviewed |
 | M102734 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHommem` | wave-reused |
 | M102735 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHomprime` | wave-reused |
@@ -400,5 +402,3 @@
 | M103394 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CqStmt` | volunteer-build-reviewed |
 | M103395 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CtMoves` | volunteer-build-reviewed |
 | M103396 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CuspMean` | volunteer-build-reviewed |
-| M103397 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.CuspSet` | volunteer-build-reviewed |
-| M103398 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.Deadel` | volunteer-build-reviewed |

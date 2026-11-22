@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102159 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.EventuallyMemHeckeLevelAndIwahoriCongruence` | volunteer-build-reviewed |
+| M102160 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactBaseIntegralToComplex` | volunteer-build-reviewed |
 | M102161 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExactCOfOfExactBase` | volunteer-build-reviewed |
 | M102163 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAlgebraicHeckeCharCyclotomic` | volunteer-build-reviewed |
 | M102165 | P0043 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsAutomorphicFunctionWithValuesOnCosetReps` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M102728 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GChmap` | volunteer-build-reviewed |
 | M102729 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDetps` | wave-reused |
 | M102730 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDetrad` | wave-reused |
-| M102731 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimcpl` | wave-reused |
-| M102732 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDimform` | wave-reused |

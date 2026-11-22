@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167036 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiltrationHilbSum` | wave-reused |
+| M167037 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFiniteSeparatingModel` | wave-reused |
 | M167040 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaOne` | wave-reused |
 | M167041 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFujitaVanishing` | wave-reused |
 | M167042 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple` | build-observed |
@@ -400,5 +402,3 @@
 | M167711 | P0889 | `GroundTheory.HeightsAndTheta.Heights.Intersections.Imports` | build-observed |
 | M167714 | P0727 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsBisAlt` | build-observed |
 | M167725 | P0544 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraAlt` | build-observed |
-| M167726 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsExtraBis` | build-observed |
-| M167729 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherBis` | wave-reused |

@@ -4,8 +4,6 @@
 
 | Contributor | Task | Review |
 |---|---|---|
-| [@JamCh01](https://github.com/JamCh01) | [M091197](https://github.com/rohanarun/alpoge-rh-replay/issues/34943#issuecomment-7083624287) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [M091487](https://github.com/rohanarun/alpoge-rh-replay/issues/34944#issuecomment-7083637060) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M093359](https://github.com/rohanarun/alpoge-rh-replay/issues/34945#issuecomment-7083630700) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M094422](https://github.com/rohanarun/alpoge-rh-replay/issues/34946#issuecomment-7083619457) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [M094426](https://github.com/rohanarun/alpoge-rh-replay/issues/34947#issuecomment-7083645279) | Pending review |

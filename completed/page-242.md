@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157918 | P0221 | `Formalism.PolynomialDimension.MultinomialDepth.WeylDimPosOfAntitone` | build-observed |
+| M157919 | P0332 | `Formalism.PolynomialDimension.MultinomialKLog` | build-observed |
 | M157920 | P0077 | `Formalism.PolynomialDimension.StatementHar` | build-observed |
 | M157921 | P0156 | `Formalism.PolynomialDimension.StatementNum` | wave-reused |
 | M157922 | P0077 | `Formalism.PolynomialDimension.WeylDim` | wave-reused |
@@ -400,5 +402,3 @@
 | M158328 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FibreCountOfFirstSteps` | build-observed |
 | M158329 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FibreCountOfIdentification` | build-observed |
 | M158330 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FibreCountOfPositions` | build-observed |
-| M158331 | P1296 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.FlagStabilizerMemIsotropic` | build-observed |
-| M158332 | P1052 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.ForPrimeFlagLattice` | build-observed |

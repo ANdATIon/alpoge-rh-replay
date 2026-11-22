@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129310 | P0062 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MemSmulOfTmulEqZero` | volunteer-build-reviewed |
+| M129312 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MonomialLinesPermutationStatement` | volunteer-build-reviewed |
 | M129313 | P2415 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.NvalLeOfMul` | volunteer-build-reviewed |
 | M129315 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PerturbedWeightGapBoundsStatement` | volunteer-build-reviewed |
 | M129316 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PointIdealComapPrimeLift` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M130126 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeConstantRank` | build-observed |
 | M130127 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeConstantRankStatement` | build-observed |
 | M130128 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeDedekindTwist` | volunteer-build-reviewed |
-| M130129 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLatticeDedekindTwistStatement` | volunteer-build-reviewed |
-| M130132 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.EigenLieModelCompleteDvr` | volunteer-build-reviewed |

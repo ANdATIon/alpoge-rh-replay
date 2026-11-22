@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128622 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryMovingUnitVectorStatement` | volunteer-build-reviewed |
+| M128623 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundCompact` | volunteer-build-reviewed |
 | M128625 | P1706 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryPointsHeightBoundFinite` | volunteer-build-reviewed |
 | M128633 | P2175 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExists` | volunteer-build-reviewed |
 | M128634 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitarySiegelDomainExistsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M129305 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.LogMulDegFlBracketMul` | volunteer-build-reviewed |
 | M129307 | P0455 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MassFormulaConjugationAction` | wave-reused |
 | M129309 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MeanSlopeProportionalVolumeStatement` | volunteer-build-reviewed |
-| M129310 | P0062 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MemSmulOfTmulEqZero` | volunteer-build-reviewed |
-| M129312 | P0494 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.MonomialLinesPermutationStatement` | volunteer-build-reviewed |

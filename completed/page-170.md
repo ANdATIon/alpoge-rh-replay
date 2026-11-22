@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114583 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PNwtOpen` | wave-reused |
+| M114584 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiEx` | wave-reused |
 | M114585 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiExact` | wave-reused |
 | M114586 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiQis` | wave-reused |
 | M114587 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPhiUniv` | wave-reused |
@@ -400,5 +402,3 @@
 | M115028 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CharpolyCoeffValuation` | volunteer-build-reviewed |
 | M115029 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CharpolyPowersRatios` | volunteer-build-reviewed |
 | M115030 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CharpolySmul` | volunteer-build-reviewed |
-| M115031 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceFunction` | volunteer-build-reviewed |
-| M115032 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ChoiceOfModulusAndDiscriminant` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155712 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftPhaseRule.MulApplyS` | wave-reused |
+| M155713 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftPhaseRule.ReflectionColumnDualIsotropic` | wave-reused |
 | M155714 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LeftQuantumMinor.QuantumMinorLeftHermitian` | wave-reused |
 | M155716 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LengthIndex.LenAtEqZero` | volunteer-build-reviewed |
 | M155718 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelImageArithmetic.GlevImageOf` | wave-reused |
@@ -400,5 +402,3 @@
 | M156161 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.SatDefs` | build-observed |
 | M156162 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.SatFin` | build-observed |
 | M156163 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.SatProj` | build-observed |
-| M156164 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MonomialFrameSpan.StepBack` | build-observed |
-| M156165 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MultiplicityMeasurability.MeasurableMult` | build-observed |

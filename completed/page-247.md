@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160125 | P1190 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EDelApply` | build-observed |
+| M160126 | P1140 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeFamOf` | build-observed |
 | M160127 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeAdaptedBasis` | build-observed |
 | M160128 | P1081 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgeLatticeMulOfWeightSum` | build-observed |
 | M160129 | P1053 | `Formalism.SharpRestriction.GrowthBounds.ScaleEdges.EdgePlane` | build-observed |
@@ -400,5 +402,3 @@
 | M160618 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.EqZeroOfPowDvd` | volunteer-build-reviewed |
 | M160623 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsGoodPlacesEveryConjugate` | build-observed |
 | M160624 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsIdealDenominator` | build-observed |
-| M160625 | P0751 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsInertiaCharpolyFactorOfTameType` | build-observed |
-| M160628 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsMemMapEqSmul` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110533 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChSymAnti` | volunteer-build-reviewed |
+| M110534 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ChiInj` | volunteer-build-reviewed |
 | M110536 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.ClifMod` | volunteer-build-reviewed |
 | M110538 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracAlg` | volunteer-build-reviewed |
 | M110539 | P1826 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracCh` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M111098 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.QuaternaryFormPolarization` | volunteer-build-reviewed |
 | M111099 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.SetIntegralMulRight` | volunteer-build-reviewed |
 | M111100 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.StableOfOrth` | volunteer-build-reviewed |
-| M111101 | P1777 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.StepInv` | volunteer-build-reviewed |
-| M111102 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.VacAnn` | volunteer-build-reviewed |

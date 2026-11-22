@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160625 | P0751 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsInertiaCharpolyFactorOfTameType` | build-observed |
+| M160628 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsMemMapEqSmul` | volunteer-build-reviewed |
 | M160629 | P0832 | `Formalism.SharpRestriction.LevelLetterCocycles.ExistsPosConstLagrangeCondition` | wave-reused |
 | M160633 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.ExpansionFormAll` | build-observed |
 | M160634 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.ExponentWindowSubsetShort` | wave-reused |
@@ -400,5 +402,3 @@
 | M161350 | P0079 | `Formalism.SubspaceCounting.StatementW` | build-observed |
 | M161351 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.AllButLESmith` | build-observed |
 | M161352 | P0222 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ChoiceOfTops` | build-observed |
-| M161353 | P0280 | `Formalism.SubspaceCounting.SubspaceCountingProofs.ChoiceOfTopsRefined` | build-observed |
-| M161354 | P0158 | `Formalism.SubspaceCounting.SubspaceCountingProofs.CramerCofactor` | build-observed |

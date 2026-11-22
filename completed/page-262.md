@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168353 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCutZeroNotLe` | wave-reused |
+| M168354 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplit` | build-observed |
 | M168356 | P0544 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplitFilt` | build-observed |
 | M168357 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCycleSplitFiltStep` | build-observed |
 | M168359 | P0165 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDedekindFibreRank` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M168930 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PComponentsPairPoly` | wave-reused |
 | M168933 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PConeSliceIdeal` | wave-reused |
 | M168934 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PConeVanishingHomog` | wave-reused |
-| M168935 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordFibreDeg` | build-observed |
-| M168936 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PCoordRatioDeg` | build-observed |

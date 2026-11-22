@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130777 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodDatumParametersStatement` | volunteer-build-reviewed |
+| M130778 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodEmbeddingComponentSections` | volunteer-build-reviewed |
 | M130779 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodEmbeddingComponentSectionsStatement` | volunteer-build-reviewed |
 | M130780 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginComponentSections` | volunteer-build-reviewed |
 | M130781 | P2552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.GoodOriginComponentSectionsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M131483 | P0907 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineHeightBoundedUnitStatement` | build-observed |
 | M131484 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineHeightInvariantScaling` | volunteer-build-reviewed |
 | M131485 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineHeightInvariantScalingStatement` | volunteer-build-reviewed |
-| M131486 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineLatticeGenericSections` | volunteer-build-reviewed |
-| M131487 | P0597 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.LineLatticeGenericSectionsStatement` | volunteer-build-reviewed |

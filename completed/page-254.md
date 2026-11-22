@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163500 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TailDimZero` | wave-reused |
+| M163501 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Telescoping` | wave-reused |
 | M163502 | P0574 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.TendstoLocallyUniformlyOnOfNhds` | wave-reused |
 | M163503 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects` | wave-reused |
 | M163504 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability` | wave-reused |
@@ -400,5 +402,3 @@
 | M164099 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionCluster` | volunteer-build-reviewed |
 | M164100 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionOffZerosDense` | volunteer-build-reviewed |
 | M164101 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionProperBall` | volunteer-build-reviewed |
-| M164103 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionSheetsDense` | volunteer-build-reviewed |
-| M164104 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PFiniteProjectionsContainOpen` | wave-reused |
