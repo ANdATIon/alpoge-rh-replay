@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsMulEqMulSqOfFaithfullyFlatHeightOne",
+  "source_sha256": "6999fd07ee922b52446730a0397c83bc0d0778da446756208506a1572e3bd326",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Update List.TFAE.out from zero-based indices 4 0 to one-based indices 5 1, preserving the same implication from a principal maximal ideal to IsDiscreteValuationRing. This changes only the proof; all definitions, theorem statements and hypotheses are unchanged.",
+  "evidence": "https://github.com/CubeJerry/alpoge-rh-replay/blob/3b45185acd95da6a9108d4a3e3a54174da4565ec/port/evidence/P0179/P0179-receipt.json"
+}

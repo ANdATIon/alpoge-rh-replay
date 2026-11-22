@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalQuotientRingVectorAtPointsInjective",
+  "source_sha256": "252989d5ddac000e257d7fb1d5c98c787e73cb9f69cd891d492de1ac43b1c853",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/CubeJerry/alpoge-rh-replay/blob/3b45185acd95da6a9108d4a3e3a54174da4565ec/port/evidence/P0179/P0179-receipt.json"
+}
