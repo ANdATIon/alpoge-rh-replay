@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsLatticeAdelicMatrixIntegralTranslate",
+  "source_sha256": "ae88f7e76babc0278a34ac73bbfb978f164a26dabb709950b59c44ac9baea792",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change (equivalent): isLattice_lat and exists_lattice_integral say Submodule.IsFullLattice E instead of Submodule.IsLattice E, per PORTING.md (Mathlib #44365 reused IsLattice for the weaker notion without span_eq_top). E is a number field and the scalars are its fraction field ([IsFractionRing (𝓞 E) E]), so IsFullLattice E ↔ FG ∧ span E = ⊤, which is the pinned IsLattice. The proof supplies toIsLattice via Submodule.IsLattice.of_fg and the original span_lat for span_eq_top.",
+  "evidence": "https://github.com/sp20262026/alpoge-rh-replay/releases/download/port-P0250-issue-32329/P0250-receipt.json"
+}

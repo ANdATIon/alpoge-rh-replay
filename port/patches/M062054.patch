@@ -1,0 +1,13 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsUniqueZpowMulAppLE.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/ExistsUniqueZpowMulAppLE.lean
+@@ -227,8 +227,8 @@
+     (hβ : Function.Surjective β) {c : A} (hc : RingHom.ker β.hom = Ideal.span {c})
+     {f : X ⟶ Spec A} {i : Z ⟶ X} {f' : Z ⟶ Spec C} (h : IsPullback i f' f (Spec.map β))
+     {U : X.Opens} (hU : IsAffineOpen U) :
+-    RingHom.ker (i.app U).hom = Ideal.span {X.presheaf.map (homOfLE (le_top : U ≤ ⊤)).op
+-      (f.appTop ((Scheme.ΓSpecIso A).inv c))} := by
++    RingHom.ker (i.app U).hom = Ideal.span {(X.presheaf.map (homOfLE (le_top : U ≤ ⊤)).op
++      (f.appTop ((Scheme.ΓSpecIso A).inv c)))} := by
+   have hpo := (isIso_pushoutSection_iff h (US := ⊤) (UT := ⊤) (UX := U) (UY := i ⁻¹ᵁ U) le_top
+     le_top (by simp)).1 (isIso_pushoutSection_of_isAffineOpen h _ _ _ (isAffineOpen_top _)
+       (isAffineOpen_top _) hU)

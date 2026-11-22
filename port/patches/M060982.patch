@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/CardIrreducibleSamePrimeToPartRootsLe.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/CardIrreducibleSamePrimeToPartRootsLe.lean
+@@ -26,7 +26,7 @@
+   obtain ⟨b, -, hb⟩ := (Nat.dvd_prime_pow hl).1 (orderOf_dvd_of_pow_eq_one h2)
+   have h3 : l ^ b ∣ n := hb ▸ orderOf_dvd_of_pow_eq_one h1
+   have h4 : orderOf (x / y) ∣ l ^ padicValNat l n := by
+-    rw [hb]; exact pow_dvd_pow _ ((padicValNat_dvd_iff_le hn).1 h3)
++    rw [hb]; exact pow_dvd_pow _ (Nat.padicValNat_def ▸ (padicValNat_dvd_iff_le hn).1 h3)
+   have h5 := orderOf_dvd_iff_pow_eq_one.1 h4
+   rwa [div_pow, div_eq_one_iff_eq (pow_ne_zero _ hy0)] at h5
+ 

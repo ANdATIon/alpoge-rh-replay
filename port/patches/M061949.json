@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsQRootPolyOfFixedGeometricStabilizer",
+  "source_sha256": "92a3582a8032808489e7ed93c303a9f92fb730d2c1661a6e0e98fc432abea107",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof only: natDegree_X_pow_sub_C now takes the constant as an explicit argument. Statements unchanged.",
+  "evidence": "https://github.com/sp20262026/alpoge-rh-replay/releases/download/port-P0250-issue-32329/P0250-receipt.json"
+}
