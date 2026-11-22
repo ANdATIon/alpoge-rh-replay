@@ -1,0 +1,4 @@
+$ python3 tracker/validate_ports.py
+Validated 15165 port records.
+
+Exit code: 0
