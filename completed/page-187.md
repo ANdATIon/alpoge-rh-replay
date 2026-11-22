@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123314 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexingStatement` | volunteer-build-reviewed |
+| M123317 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishing` | volunteer-build-reviewed |
+| M123318 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishingStatement` | volunteer-build-reviewed |
+| M123326 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportConvolutionTripleStatement` | volunteer-build-reviewed |
+| M123329 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportOfTwist` | volunteer-build-reviewed |
+| M123330 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportOfTwistStatement` | volunteer-build-reviewed |
+| M123332 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportProductQuotientStatement` | volunteer-build-reviewed |
+| M123340 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedDoubleCosets` | volunteer-build-reviewed |
+| M123341 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedDoubleCosetsStatement` | volunteer-build-reviewed |
 | M123342 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedRankQuotient` | volunteer-build-reviewed |
 | M123343 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedRankQuotientStatement` | volunteer-build-reviewed |
 | M123344 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteUnitaryMultiplication` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M123908 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUnique` | build-observed |
 | M123909 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterExistsUniqueStatement` | build-observed |
 | M123912 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentatives` | volunteer-build-reviewed |
-| M123913 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentativesStatement` | volunteer-build-reviewed |
-| M123915 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetSumCompactStatement` | volunteer-build-reviewed |
-| M123923 | P1608 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorCosetFormula` | build-observed |
-| M123924 | P1635 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorCosetFormulaStatement` | build-observed |
-| M123931 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorJacquetEigenRightStatement` | volunteer-build-reviewed |
-| M123933 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckePowerCosetFormula` | build-observed |
-| M123934 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckePowerCosetFormulaStatement` | build-observed |
-| M123935 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeProjectionEigenform` | volunteer-build-reviewed |
-| M123936 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeProjectionEigenformStatement` | volunteer-build-reviewed |

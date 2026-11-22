@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071274 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InfinityTypeOfLiftStatement` | volunteer-build-reviewed |
+| M071275 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjOnCharValuesAndLengthQuotient` | build-observed |
+| M071276 | P1067 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjOnCharValuesAndLengthQuotientStatement` | build-observed |
+| M071277 | P1096 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveAndRangeOfPrismCover` | wave-reused |
+| M071278 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveAndRangeOfPrismCoverStatement` | wave-reused |
+| M071283 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveTensorBcrisToBdR` | build-observed |
+| M071287 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InnerPosOfInnerNe` | volunteer-build-reviewed |
 | M071292 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntCastTraceEqTraceQuotientOfMem` | volunteer-build-reviewed |
 | M071294 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntFormDescentBelow` | volunteer-build-reviewed |
 | M071297 | P0927 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntegerCoboundaryAdditiveModPrimePow` | build-observed |
@@ -395,10 +402,3 @@
 | M071986 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacter` | volunteer-build-reviewed |
 | M071987 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelTameCharacterStatement` | volunteer-build-reviewed |
 | M071991 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelUniqueOfIrreducibleStatement` | build-observed |
-| M071992 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZero` | volunteer-build-reviewed |
-| M071993 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZeroStatement` | volunteer-build-reviewed |
-| M071994 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicCharacterRestrictCmFieldEqCyclotomicPow` | volunteer-build-reviewed |
-| M071995 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicCharacterRestrictCmFieldEqCyclotomicPowStatement` | volunteer-build-reviewed |
-| M071996 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicDescentStepToOE` | wave-reused |
-| M071997 | P1200 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicDescentStepToOEStatement` | wave-reused |
-| M072001 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LagrangianGraphsSumEqMatrixCoeffIntegral` | volunteer-build-reviewed |

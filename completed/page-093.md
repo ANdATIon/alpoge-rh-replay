@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063242 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZero` | volunteer-build-reviewed |
+| M063243 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZeroStatement` | volunteer-build-reviewed |
+| M063244 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormDegreeBoundPolynomialCombination` | volunteer-build-reviewed |
+| M063245 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormDegreeBoundPolynomialCombinationStatement` | volunteer-build-reviewed |
+| M063247 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormEvalSmulMulImRpowPolyDegreeSlash` | volunteer-build-reviewed |
+| M063248 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormEvalSmulMulImRpowPolyDegreeSlashStatement` | volunteer-build-reviewed |
 | M063249 | P2616 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormGaussSumModPrimePowerLeHalfPower` | volunteer-build-reviewed |
 | M063250 | P2628 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormGaussSumModPrimePowerLeHalfPowerStatement` | volunteer-build-reviewed |
 | M063251 | P2521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormIntCastLeOfDvd` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M063829 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SubstUpperTriangularHahnMulAndOneStatement` | volunteer-build-reviewed |
 | M063830 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperRep` | volunteer-build-reviewed |
 | M063832 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumActUpperTriangularHeckeReindexCoprimeUnitStatement` | volunteer-build-reviewed |
-| M063835 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumCompSurjective` | volunteer-build-reviewed |
-| M063836 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumDivSubLeTwoLogOfPartialSums` | volunteer-build-reviewed |
-| M063837 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumEqZeroAddUnits` | volunteer-build-reviewed |
-| M063838 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankCuspFormOfFrame` | volunteer-build-reviewed |
-| M063839 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankCuspFormOfFrameStatement` | volunteer-build-reviewed |
-| M063840 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankOfFrame` | volunteer-build-reviewed |

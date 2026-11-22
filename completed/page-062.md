@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041924 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormOfValuationProfile` | volunteer-build-reviewed |
 | M041925 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormOfValuationProfileStatement` | volunteer-build-reviewed |
 | M041927 | P1277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormResidueSignMul` | build-observed |
 | M041928 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalNormResidueSignMulStatement` | build-observed |
@@ -371,6 +372,7 @@
 | M042504 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LtNatCastOfAddOneLtSucc` | volunteer-build-reviewed |
 | M042505 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LuDecompositionUnitriangularUnique` | volunteer-build-reviewed |
 | M042506 | P0110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LuDecompositionUnitriangularUniqueStatement` | volunteer-build-reviewed |
+| M042507 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LubinTateCharacterContinuous` | volunteer-build-reviewed |
 | M042508 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LubinTateCrystallineOfLocal` | volunteer-build-reviewed |
 | M042512 | P0813 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.M2ModelEstablished` | wave-reused |
 | M042513 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MIntEqDifferencePotentialMeasures` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M042560 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotients` | volunteer-build-reviewed |
 | M042561 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapGenericPointEqOfAlgIndependentQuotientsStatement` | volunteer-build-reviewed |
 | M042562 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapHaarEqOfLattice` | volunteer-build-reviewed |
-| M042565 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterate` | build-observed |
-| M042566 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MapInvariantDerivationFormalGroupLawIterateStatement` | build-observed |

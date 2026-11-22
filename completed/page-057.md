@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038215 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegerOfMaximalIdealPowSmulIsInteger` | volunteer-build-reviewed |
 | M038216 | P0245 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegerOfMaximalIdealPowSmulIsIntegerStatement` | wave-reused |
 | M038217 | P2237 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralAbsNormPowMulOnId` | volunteer-build-reviewed |
 | M038218 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralAbsNormPowMulOnIdStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M038997 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothFunIntegralMulRightStatement` | build-observed |
 | M038998 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAdd` | volunteer-build-reviewed |
 | M038999 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyAddStatement` | volunteer-build-reviewed |
-| M039000 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmoothHolomorphicInSigmaFamilyMulLeft` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M030973 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldDataExistenceOfSums` | volunteer-build-reviewed |
 | M030974 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldDataExistenceOfSumsStatement` | volunteer-build-reviewed |
 | M030977 | P2426 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldFlagsConjugateByAutomorphism` | volunteer-build-reviewed |
 | M030979 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FilLagrangianOfLocal` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M031611 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankHomologyModPrimeUniversalCoefficientsStatement` | build-observed |
 | M031617 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankHopfAlgebraEqRangeMulKernelStatement` | volunteer-build-reviewed |
 | M031618 | P0760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankIInfKerEqOfIsBaseChangeFamily` | build-observed |
-| M031623 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankISupEqOfISupIndep` | volunteer-build-reviewed |

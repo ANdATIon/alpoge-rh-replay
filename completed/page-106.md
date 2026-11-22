@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071992 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZero` | volunteer-build-reviewed |
+| M071993 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LabelsOfDepthZeroStatement` | volunteer-build-reviewed |
+| M071994 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicCharacterRestrictCmFieldEqCyclotomicPow` | volunteer-build-reviewed |
+| M071995 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicCharacterRestrictCmFieldEqCyclotomicPowStatement` | volunteer-build-reviewed |
+| M071996 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicDescentStepToOE` | wave-reused |
+| M071997 | P1200 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LadicDescentStepToOEStatement` | wave-reused |
+| M072001 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LagrangianGraphsSumEqMatrixCoeffIntegral` | volunteer-build-reviewed |
 | M072004 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LagrangianStabilizerNormalizesFrameUnipotentStatement` | volunteer-build-reviewed |
 | M072012 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LangXRoot` | volunteer-build-reviewed |
 | M072013 | P1428 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LanglandsClassificationSupercuspidalSupportMulti` | build-observed |
@@ -395,10 +402,3 @@
 | M072746 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyMemRangeOfInvariantVectorStatement` | build-observed |
 | M072751 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjective` | build-observed |
 | M072752 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonodromyTensorSemistablePeriodRingSurjectiveStatement` | build-observed |
-| M072756 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonoidAlgebraExistsRightInvOfMapField` | volunteer-build-reviewed |
-| M072758 | P0684 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEnds` | build-observed |
-| M072759 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEndsStatement` | build-observed |
-| M072760 | P1332 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantCrisPlusNeZero` | build-observed |
-| M072761 | P1357 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantCrisPlusNeZeroStatement` | build-observed |
-| M072762 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantEqUnramifiedMulPeriod` | build-observed |
-| M072763 | P1153 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantEqUnramifiedMulPeriodStatement` | build-observed |

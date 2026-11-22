@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076502 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP` | volunteer-build-reviewed |
+| M076504 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousAdicCompletionEquivUniformiserStatement` | volunteer-build-reviewed |
+| M076509 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCellMap` | volunteer-build-reviewed |
+| M076510 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCellMapStatement` | volunteer-build-reviewed |
+| M076512 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousChiDet` | volunteer-build-reviewed |
+| M076515 | P1308 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCoordSymm` | volunteer-build-reviewed |
+| M076516 | P1227 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousDistribHaarCharUnits` | volunteer-build-reviewed |
 | M076517 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousGrpHom` | build-observed |
 | M076518 | P0901 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousInfIdele` | build-observed |
 | M076520 | P1455 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousKapSymm` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M077303 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtension` | volunteer-build-reviewed |
 | M077304 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConcretePeriodDatumPadicFiniteExtensionStatement` | volunteer-build-reviewed |
 | M077305 | P0848 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteType` | build-observed |
-| M077306 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteTypeStatement` | build-observed |
-| M077307 | P0406 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCongOfCongOnFixed` | build-observed |
-| M077309 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCongruenceLevelMapsIntoLatticeCongruenceStatement` | volunteer-build-reviewed |
-| M077311 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjCompatibleKaehlerFormsStatement` | volunteer-build-reviewed |
-| M077313 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjCompatibleLieMetricStatement` | volunteer-build-reviewed |
-| M077314 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjIdempotentSumOverLevel` | volunteer-build-reviewed |
-| M077319 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjInvariantDivisorNormStatement` | volunteer-build-reviewed |

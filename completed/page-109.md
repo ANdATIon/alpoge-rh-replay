@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074113 | P0957 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanTopOfResidue` | build-observed |
+| M074118 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimeThresholdNumericsAlongFamilyStatement` | volunteer-build-reviewed |
+| M074120 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimesSmallAlongFamilyStatement` | volunteer-build-reviewed |
+| M074124 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpectralNormClosedBallIsOpenIsCompactNhdsBasisAlStatement` | volunteer-build-reviewed |
+| M074129 | P0034 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpeiserDescentSpan` | volunteer-build-reviewed |
+| M074130 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpeiserDescentSpanStatement` | volunteer-build-reviewed |
+| M074131 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SphericalAwayFromTypes` | volunteer-build-reviewed |
 | M074134 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SphericalHeckeScalarOnTypeSpacesAllPlacesStatement` | volunteer-build-reviewed |
 | M074135 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SphericalInertiaOfIsotypic` | volunteer-build-reviewed |
 | M074137 | P2085 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SphericalKernelNormSqMulLatticeIndexEqOne` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M074797 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TupMemLatT` | volunteer-build-reviewed |
 | M074800 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHecke` | volunteer-build-reviewed |
 | M074801 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterEqGaloisOfLadicUnitaryHeckeStatement` | volunteer-build-reviewed |
-| M074802 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHecke` | volunteer-build-reviewed |
-| M074803 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHeckeStatement` | volunteer-build-reviewed |
-| M074804 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterUnramifiedInf` | volunteer-build-reviewed |
-| M074809 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistDeterminantMulIntegralFormsRayClassCover` | volunteer-build-reviewed |
-| M074810 | P2181 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistDeterminantMulIntegralFormsRayClassCoverStatement` | volunteer-build-reviewed |
-| M074813 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistMRepVCont` | volunteer-build-reviewed |
-| M074815 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistOfCuspParams` | volunteer-build-reviewed |

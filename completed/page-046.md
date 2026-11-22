@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M030329 | P0180 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitZetaAct` | wave-reused |
 | M030331 | P1422 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryAdelicPointOfEventuallyIntegralLocaStatement` | volunteer-build-reviewed |
 | M030332 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryAdelicPointPrescribedFrameImages` | volunteer-build-reviewed |
 | M030333 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryAdelicPointPrescribedFrameImagesStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M030970 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FibresAbelianOfPsiUnitOn` | volunteer-build-reviewed |
 | M030971 | P0012 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldCase` | volunteer-build-reviewed |
 | M030972 | P2690 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldChartOfInj` | volunteer-build-reviewed |
-| M030973 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FieldDataExistenceOfSums` | volunteer-build-reviewed |

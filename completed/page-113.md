@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077306 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConductorAdicCompletionEssFiniteTypeStatement` | build-observed |
+| M077307 | P0406 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCongOfCongOnFixed` | build-observed |
+| M077309 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsCongruenceLevelMapsIntoLatticeCongruenceStatement` | volunteer-build-reviewed |
+| M077311 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjCompatibleKaehlerFormsStatement` | volunteer-build-reviewed |
+| M077313 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjCompatibleLieMetricStatement` | volunteer-build-reviewed |
+| M077314 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjIdempotentSumOverLevel` | volunteer-build-reviewed |
+| M077319 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjInvariantDivisorNormStatement` | volunteer-build-reviewed |
 | M077326 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjugateIntoK1` | volunteer-build-reviewed |
 | M077327 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjugateIntoK1Statement` | volunteer-build-reviewed |
 | M077331 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsConjugateReferenceCharactersGoodEmbeddingsStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M078049 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelOfAtlasStatement` | volunteer-build-reviewed |
 | M078051 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelPresentingDivisorStatement` | volunteer-build-reviewed |
 | M078054 | P2353 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModelWithRatio` | build-observed |
-| M078057 | P0819 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModulusBbDisjoint` | build-observed |
-| M078061 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMaps` | volunteer-build-reviewed |
-| M078062 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMapsStatement` | volunteer-build-reviewed |
-| M078067 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedDataLaterStagesWithNewTwistStatement` | volunteer-build-reviewed |
-| M078070 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedRowLiftDataToFittingStages` | volunteer-build-reviewed |
-| M078071 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedRowLiftDataToFittingStagesStatement` | volunteer-build-reviewed |
-| M078072 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovesOfSelfDual` | volunteer-build-reviewed |

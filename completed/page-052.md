@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034470 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLevelForgettingFiniteEtaleSurjectiveStatement` | volunteer-build-reviewed |
 | M034475 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLieConditionIdentityOfHodgeSummand` | volunteer-build-reviewed |
 | M034476 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLieConditionIdentityOfHodgeSummandStatement` | volunteer-build-reviewed |
 | M034477 | P2795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorLieConditionModHodgeFiltration` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M035172 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergCosetRepTranslatesOrthogonalStatement` | build-observed |
 | M035175 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormula` | volunteer-build-reviewed |
 | M035176 | P1817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanLiftTraceFormulaStatement` | volunteer-build-reviewed |
-| M035177 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanWeilRepIntertwine` | volunteer-build-reviewed |

@@ -2,6 +2,28 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
+| M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
+| M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
+| M127940 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportOfExponentOfCasselman` | volunteer-build-reviewed |
+| M127941 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlaces` | build-observed |
+| M127942 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlacesStatement` | build-observed |
+| M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
+| M127947 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveIntertwinerQuotientEquiv` | volunteer-build-reviewed |
+| M127949 | P2472 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveInvTranspose` | volunteer-build-reviewed |
+| M127951 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparability` | wave-reused |
+| M127952 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparabilityStatement` | wave-reused |
+| M127953 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompact` | volunteer-build-reviewed |
+| M127954 | P2104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompactStatement` | volunteer-build-reviewed |
+| M127956 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapProductSegments` | volunteer-build-reviewed |
+| M127957 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProd` | volunteer-build-reviewed |
+| M127958 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProdStatement` | volunteer-build-reviewed |
+| M127959 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLe` | volunteer-build-reviewed |
+| M127960 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLeStatement` | volunteer-build-reviewed |
+| M127961 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistedCentralizerDiagonal` | volunteer-build-reviewed |
+| M127964 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SymplecticFourierGaussian` | volunteer-build-reviewed |
+| M127968 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero` | volunteer-build-reviewed |
+| M127969 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmall` | build-observed |
 | M127970 | P0414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmallStatement` | build-observed |
 | M127976 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateLocalL1` | volunteer-build-reviewed |
 | M127979 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateShafarevichTransport` | volunteer-build-reviewed |
@@ -20,6 +42,7 @@
 | M128016 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittaker` | volunteer-build-reviewed |
 | M128017 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittakerStatement` | volunteer-build-reviewed |
 | M128018 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedLanglandsFactorsSquareIntegrable` | volunteer-build-reviewed |
+| M128019 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedLanglandsFactorsSquareIntegrableStatement` | volunteer-build-reviewed |
 | M128020 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestriction` | volunteer-build-reviewed |
 | M128021 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestrictionStatement` | volunteer-build-reviewed |
 | M128022 | P2142 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoAbsoluteCharacterOne` | volunteer-build-reviewed |
@@ -55,6 +78,7 @@
 | M128067 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TestAlg` | volunteer-build-reviewed |
 | M128070 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TestFunctionContinuousCompactSupportStatement` | volunteer-build-reviewed |
 | M128071 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TestFunctionDerivativeIsTest` | volunteer-build-reviewed |
+| M128079 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Th` | volunteer-build-reviewed |
 | M128081 | P1494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ThetaAEqOfUnip` | build-observed |
 | M128082 | P2164 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ThetaAutomorphicOfConvergence` | volunteer-build-reviewed |
 | M128083 | P2175 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ThetaAutomorphicOfConvergenceStatement` | volunteer-build-reviewed |
@@ -127,7 +151,9 @@
 | M128194 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsQuot` | volunteer-build-reviewed |
 | M128196 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionCardLeAbsNormPowStatement` | volunteer-build-reviewed |
 | M128197 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionNormZetaBound` | volunteer-build-reviewed |
+| M128198 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionNormZetaBoundStatement` | volunteer-build-reviewed |
 | M128199 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionOrthogonalityIntegralSolution` | volunteer-build-reviewed |
+| M128200 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionOrthogonalityIntegralSolutionStatement` | volunteer-build-reviewed |
 | M128202 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorsionSumZetaBoundDeltaStatement` | volunteer-build-reviewed |
 | M128205 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusArchimedeanFrameConjugation` | volunteer-build-reviewed |
 | M128206 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusArchimedeanFrameConjugationStatement` | volunteer-build-reviewed |
@@ -138,6 +164,7 @@
 | M128215 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusExponentTailStatement` | volunteer-build-reviewed |
 | M128220 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusMonomialMemRangeStatement` | volunteer-build-reviewed |
 | M128223 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusRowRepFactorization` | volunteer-build-reviewed |
+| M128224 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusRowRepFactorizationStatement` | volunteer-build-reviewed |
 | M128225 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TorusSiegelHeightLowerBound` | volunteer-build-reviewed |
 | M128229 | P0414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TotalComplexFlipIsomorphism` | wave-reused |
 | M128230 | P0454 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TotalComplexFlipIsomorphismStatement` | wave-reused |
@@ -229,6 +256,7 @@
 | M128387 | P2104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedLocalThetaBoundedIntegral` | volunteer-build-reviewed |
 | M128389 | P2142 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedLocalThetaLocallyConstant` | volunteer-build-reviewed |
 | M128390 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedLocalThetaLocallyConstantStatement` | volunteer-build-reviewed |
+| M128392 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedOrbitalPairConvolution` | volunteer-build-reviewed |
 | M128394 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedOrbitalSwapConvolution` | volunteer-build-reviewed |
 | M128395 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedOrbitalSwapConvolutionStatement` | volunteer-build-reviewed |
 | M128396 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistedSchwartzFunctionIntegrable` | volunteer-build-reviewed |
@@ -289,6 +317,7 @@
 | M128476 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniformizerOrderEqOne` | volunteer-build-reviewed |
 | M128484 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniformizerResidueFieldFinitePower` | volunteer-build-reviewed |
 | M128486 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniformizerZpowMemIntegersIff` | volunteer-build-reviewed |
+| M128487 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniformizerZpowMemIntegersIffStatement` | volunteer-build-reviewed |
 | M128488 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnimodularHaarRightInvariant` | build-observed |
 | M128489 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnimodularHaarRightInvariantStatement` | build-observed |
 | M128490 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnimodularHermitianRepsCountSucc` | volunteer-build-reviewed |
@@ -307,8 +336,11 @@
 | M128514 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentHeckeSupport` | volunteer-build-reviewed |
 | M128515 | P1637 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentHeckeSupportStatement` | volunteer-build-reviewed |
 | M128522 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalHaarFromProduct` | volunteer-build-reviewed |
+| M128523 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalHaarFromProductStatement` | volunteer-build-reviewed |
 | M128524 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalInfLeviTrivial` | volunteer-build-reviewed |
+| M128525 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalInfLeviTrivialStatement` | volunteer-build-reviewed |
 | M128526 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalStabilizerProperty` | volunteer-build-reviewed |
+| M128527 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentRadicalStabilizerPropertyStatement` | volunteer-build-reviewed |
 | M128529 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentShiftInvariance` | volunteer-build-reviewed |
 | M128532 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnipotentTopMemParabolicStatement` | volunteer-build-reviewed |
 | M128542 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitCocycleLiftMinimalGenerators` | volunteer-build-reviewed |
@@ -316,6 +348,7 @@
 | M128544 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitCocycleLiftModuloMaximal` | volunteer-build-reviewed |
 | M128545 | P2443 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitCocycleLiftModuloMaximalStatement` | volunteer-build-reviewed |
 | M128546 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitConditionsOfEquiv` | volunteer-build-reviewed |
+| M128547 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitConditionsOfEquivStatement` | volunteer-build-reviewed |
 | M128548 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitFundamentalLemmaFirstHolds` | volunteer-build-reviewed |
 | M128549 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitFundamentalLemmaFirstHoldsStatement` | volunteer-build-reviewed |
 | M128550 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitFundamentalLemmaSecondHolds` | volunteer-build-reviewed |
@@ -333,6 +366,7 @@
 | M128569 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryBorelSplitting` | volunteer-build-reviewed |
 | M128570 | P1637 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryBorelSplittingStatement` | volunteer-build-reviewed |
 | M128577 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryEquivariantForm` | volunteer-build-reviewed |
+| M128578 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryEquivariantFormStatement` | volunteer-build-reviewed |
 | M128579 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryEuclideanModel` | volunteer-build-reviewed |
 | M128580 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryEuclideanModelStatement` | volunteer-build-reviewed |
 | M128582 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryExponentialPathExists` | volunteer-build-reviewed |
@@ -349,6 +383,7 @@
 | M128602 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryIwasawaBruhatDecomposition` | build-observed |
 | M128603 | P0991 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryIwasawaBruhatDecompositionStatement` | build-observed |
 | M128604 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryJacquetEigenvectorExists` | volunteer-build-reviewed |
+| M128605 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryJacquetEigenvectorExistsStatement` | volunteer-build-reviewed |
 | M128606 | P1730 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryJacquetNonzero` | build-observed |
 | M128607 | P1754 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryJacquetNonzeroStatement` | build-observed |
 | M128608 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnitaryKTypeFinite` | volunteer-build-reviewed |
@@ -367,38 +402,3 @@
 | M128640 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UniversalCoefficientDegreeZeroStatement` | volunteer-build-reviewed |
 | M128641 | P1755 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducible` | volunteer-build-reviewed |
 | M128642 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedCommuteOfIrreducibleStatement` | volunteer-build-reviewed |
-| M128643 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedLayersHold` | volunteer-build-reviewed |
-| M128644 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedLayersHoldStatement` | volunteer-build-reviewed |
-| M128645 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnlinkedProductIrreducible` | volunteer-build-reviewed |
-| M128649 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterAnnulusIntegral` | volunteer-build-reviewed |
-| M128650 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterAnnulusIntegralStatement` | volunteer-build-reviewed |
-| M128651 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterBlockValue` | volunteer-build-reviewed |
-| M128652 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterBlockValueStatement` | volunteer-build-reviewed |
-| M128653 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterContinuous` | volunteer-build-reviewed |
-| M128655 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedCharacterUniformizerPower` | volunteer-build-reviewed |
-| M128659 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedDictionaryPartB` | volunteer-build-reviewed |
-| M128660 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedDictionaryPartBStatement` | volunteer-build-reviewed |
-| M128662 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedDualFamilyHolds` | volunteer-build-reviewed |
-| M128663 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedDualFamilyHoldsStatement` | volunteer-build-reviewed |
-| M128664 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedExtensionIntegralBasis` | volunteer-build-reviewed |
-| M128665 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedExtensionIntegralBasisStatement` | volunteer-build-reviewed |
-| M128666 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedExtensionWhittakerFormula` | volunteer-build-reviewed |
-| M128670 | P1755 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedFormulaPolynomialGen` | volunteer-build-reviewed |
-| M128671 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedFormulaPolynomialGenStatement` | volunteer-build-reviewed |
-| M128675 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFive` | volunteer-build-reviewed |
-| M128676 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFiveStatement` | volunteer-build-reviewed |
-| M128677 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFour` | volunteer-build-reviewed |
-| M128678 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFourStatement` | volunteer-build-reviewed |
-| M128679 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOne` | volunteer-build-reviewed |
-| M128680 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOneStatement` | volunteer-build-reviewed |
-| M128681 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThree` | volunteer-build-reviewed |
-| M128682 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThreeStatement` | volunteer-build-reviewed |
-| M128683 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwo` | volunteer-build-reviewed |
-| M128684 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwoStatement` | volunteer-build-reviewed |
-| M128685 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuation` | volunteer-build-reviewed |
-| M128686 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuationStatement` | volunteer-build-reviewed |
-| M128687 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipal` | volunteer-build-reviewed |
-| M128688 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipalStatement` | volunteer-build-reviewed |
-| M128691 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticUniformizerOrder` | volunteer-build-reviewed |
-| M128693 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCard` | volunteer-build-reviewed |
-| M128694 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCardStatement` | volunteer-build-reviewed |

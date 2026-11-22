@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112013 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PBaseFacts` | build-observed |
+| M112014 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PClopenAt` | build-observed |
+| M112015 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrComm` | build-observed |
+| M112016 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrOpEq` | build-observed |
+| M112017 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrPull` | build-observed |
+| M112018 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycAll` | build-observed |
+| M112019 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycExt` | build-observed |
+| M112020 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycRes` | build-observed |
 | M112021 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PDenseGen` | build-observed |
 | M112022 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PEsGen` | build-observed |
 | M112023 | P2102 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PEsStep` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M112488 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.NormDom` | volunteer-build-reviewed |
 | M112489 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.QuotEmb` | volunteer-build-reviewed |
 | M112490 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubPerm` | volunteer-build-reviewed |
-| M112491 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.SubQuot` | volunteer-build-reviewed |
-| M112492 | P2708 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TorusCharComp` | volunteer-build-reviewed |
-| M112493 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TraceExp` | volunteer-build-reviewed |
-| M112494 | P2693 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TraceQuot` | volunteer-build-reviewed |
-| M112495 | P2699 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.JacobianTraceQuotients.TraceQuotAlt` | volunteer-build-reviewed |
-| M112496 | P0528 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.BasisOne` | volunteer-build-reviewed |
-| M112497 | P2809 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.CoreHolds` | volunteer-build-reviewed |
-| M112498 | P2807 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.KunnethLefschetz.DiagonalEtaleThreeOfFirst` | volunteer-build-reviewed |

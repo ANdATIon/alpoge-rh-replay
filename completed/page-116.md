@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079765 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlaces` | volunteer-build-reviewed |
+| M079766 | P2215 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlacesStatement` | volunteer-build-reviewed |
+| M079767 | P2191 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndicesPairingLengthsVanishOffTwistedPlaces` | volunteer-build-reviewed |
+| M079768 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndicesPairingLengthsVanishOffTwistedPlacesStatement` | volunteer-build-reviewed |
+| M079769 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricDifferenceLog` | volunteer-build-reviewed |
+| M079770 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricDifferenceLogStatement` | volunteer-build-reviewed |
+| M079771 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPow` | volunteer-build-reviewed |
 | M079772 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPowStatement` | volunteer-build-reviewed |
 | M079773 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPullback` | volunteer-build-reviewed |
 | M079774 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPullbackStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M080640 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalConeRegularPointStatement` | volunteer-build-reviewed |
 | M080643 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalDualEqAddSpan` | volunteer-build-reviewed |
 | M080647 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecomposition` | volunteer-build-reviewed |
-| M080648 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecompositionStatement` | volunteer-build-reviewed |
-| M080653 | P1596 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSum` | build-observed |
-| M080654 | P1625 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSumStatement` | build-observed |
-| M080655 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalFieldNormValuation` | volunteer-build-reviewed |
-| M080659 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalGroupElementEqLevelComponentBadPrimeStatement` | volunteer-build-reviewed |
-| M080660 | P0901 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalIdeleSndSelf` | build-observed |
-| M080661 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalIdentificationPlaceEqInducedRealPlace` | volunteer-build-reviewed |

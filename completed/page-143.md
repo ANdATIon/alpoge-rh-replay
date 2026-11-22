@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099519 | P0712 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAway` | wave-reused |
+| M099520 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAwayStatement` | wave-reused |
+| M099522 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFiniteAdelicElementMarkingComponent` | volunteer-build-reviewed |
+| M099529 | P0525 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameOfIsPeriod` | build-observed |
+| M099530 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFramePeriods` | build-observed |
+| M099531 | P0768 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFramePeriodsStatement` | build-observed |
+| M099532 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameRingOverTestRing` | wave-reused |
 | M099533 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameRingOverTestRingStatement` | wave-reused |
 | M099534 | P1931 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameUniformisationPrescribedSpace` | volunteer-build-reviewed |
 | M099535 | P1949 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameUniformisationPrescribedSpaceStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M100177 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMem` | build-observed |
 | M100178 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.CurveLogarithmsInvNatCastSmulMemStatement` | build-observed |
 | M100182 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupport` | build-observed |
-| M100183 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupportStatement` | build-observed |
-| M100184 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetPowDiagonalRowsBlockJetRestrict` | build-observed |
-| M100185 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBound` | build-observed |
-| M100186 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBoundStatement` | build-observed |
-| M100187 | P0878 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiagonalSplit` | build-observed |
-| M100188 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiagonalSplitStatement` | build-observed |
-| M100189 | P0878 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiscrPowerBasis` | build-observed |

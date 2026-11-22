@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095564 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThird` | volunteer-build-reviewed |
+| M095565 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThirdStatement` | volunteer-build-reviewed |
+| M095566 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeLevelEqUnitaryInfFrameStabilizer` | volunteer-build-reviewed |
+| M095567 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeLevelEqUnitaryInfFrameStabilizerStatement` | volunteer-build-reviewed |
+| M095570 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOfStabiliserMulInvEqStandardLattice` | volunteer-build-reviewed |
+| M095571 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOfStabiliserMulInvEqStandardLatticeStatement` | volunteer-build-reviewed |
+| M095572 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOffS0LastLevelIff` | volunteer-build-reviewed |
 | M095573 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOffS0LastLevelIffStatement` | volunteer-build-reviewed |
 | M095574 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOrbitVectorsMovedPair` | volunteer-build-reviewed |
 | M095575 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOrbitVectorsMovedPairStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M096038 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntri` | volunteer-build-reviewed |
 | M096039 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemRootExchangeParabolicAndFourierJacobiIffEntriStatement` | build-observed |
 | M096040 | P2684 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSBOfIsNatDatum` | volunteer-build-reviewed |
-| M096042 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSelfDualLatticeOfMemAllLatticeCompletionsStatement` | volunteer-build-reviewed |
-| M096043 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIff` | volunteer-build-reviewed |
-| M096044 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIffStatement` | volunteer-build-reviewed |
-| M096045 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmulOfMemFlagSubOne` | volunteer-build-reviewed |
-| M096046 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanAddSmulLatticeOfFrameCoeffsZmod` | volunteer-build-reviewed |
-| M096047 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanAddSmulLatticeOfFrameCoeffsZmodStatement` | volunteer-build-reviewed |
-| M096048 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanThetaSeriesOfBoundedHolomorphic` | volunteer-build-reviewed |

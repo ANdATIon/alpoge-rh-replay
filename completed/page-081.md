@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055254 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConj` | volunteer-build-reviewed |
+| M055255 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConjStatement` | volunteer-build-reviewed |
+| M055256 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjMapsKerAevalBasisAndGram` | volunteer-build-reviewed |
+| M055257 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjMapsKerAevalBasisAndGramStatement` | volunteer-build-reviewed |
+| M055258 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjugateMatrixFamily` | volunteer-build-reviewed |
+| M055259 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjugateMatrixFamilyStatement` | volunteer-build-reviewed |
 | M055262 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryDetIsTA` | volunteer-build-reviewed |
 | M055264 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryDetNormOneBis` | volunteer-build-reviewed |
 | M055265 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryDetNormOneBisStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M055900 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolEqIndexMulMass` | volunteer-build-reviewed |
 | M055901 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolGeOfHilbertSamuel` | volunteer-build-reviewed |
 | M055902 | P0443 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeChartChange` | build-observed |
-| M055903 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeChartChangeStatement` | build-observed |
-| M055904 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeComplexPointsProperClosedChartField` | volunteer-build-reviewed |
-| M055905 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeComplexPointsProperClosedChartFieldStatement` | volunteer-build-reviewed |
-| M055907 | P0116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeCoordinateBoxLeHadamard` | volunteer-build-reviewed |
-| M055908 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeCoordinateBoxLeHadamardStatement` | volunteer-build-reviewed |
-| M055909 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeEqLintegral` | volunteer-build-reviewed |

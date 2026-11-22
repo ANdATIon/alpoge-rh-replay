@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103403 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.EventuallyNotMem` | volunteer-build-reviewed |
+| M103404 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.ExistsEigenform` | volunteer-build-reviewed |
+| M103407 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.FinOfKer` | volunteer-build-reviewed |
+| M103409 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HfStmt` | volunteer-build-reviewed |
+| M103410 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HolCuspFin` | volunteer-build-reviewed |
+| M103411 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HolVec` | volunteer-build-reviewed |
+| M103412 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.Imports` | volunteer-build-reviewed |
 | M103413 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.IwasawaA` | volunteer-build-reviewed |
 | M103415 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.LevelP` | volunteer-build-reviewed |
 | M103416 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.LevelRes` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M103959 | P2549 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.MemCongruenceSubgroupIff` | volunteer-build-reviewed |
 | M103960 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.ModuleStructureOfCommuting` | volunteer-build-reviewed |
 | M103962 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NeTeichEx` | volunteer-build-reviewed |
-| M103963 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NonemptyUnitaryHeckeParts` | volunteer-build-reviewed |
-| M103964 | P2549 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.NtExpand` | volunteer-build-reviewed |
-| M103968 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.OrdLevel` | volunteer-build-reviewed |
-| M103970 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.PartAct0` | volunteer-build-reviewed |
-| M103971 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.PartU` | volunteer-build-reviewed |
-| M103972 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.PartUR2AtW` | volunteer-build-reviewed |
-| M103973 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.OrdinaryHeckeCharacters.PartUR2Fix` | volunteer-build-reviewed |

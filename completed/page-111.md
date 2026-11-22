@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075538 | P2671 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinearStatement` | volunteer-build-reviewed |
+| M075539 | P2649 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedNeg` | build-observed |
+| M075549 | P1513 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicHeightGrowthOfCosetGrowthUnitaryPair` | volunteer-build-reviewed |
+| M075550 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicHeightGrowthOfCosetGrowthUnitaryPairStatement` | volunteer-build-reviewed |
+| M075551 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceBadPrimeIffCompletion` | volunteer-build-reviewed |
+| M075552 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceBadPrimeIffCompletionStatement` | volunteer-build-reviewed |
+| M075553 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceMoveRationalFrame` | volunteer-build-reviewed |
 | M075554 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceMoveRationalFrameStatement` | volunteer-build-reviewed |
 | M075556 | P1513 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicRelationClassesCoordinatesStatement` | volunteer-build-reviewed |
 | M075557 | P2159 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicRowsDivisionTransportSpectralStageLattices` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M076499 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffOfContinuousOneParameterStatement` | volunteer-build-reviewed |
 | M076500 | P1201 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContDiffSetIntegralNat` | build-observed |
 | M076501 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContainsRayFieldSub` | volunteer-build-reviewed |
-| M076502 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousActP` | volunteer-build-reviewed |
-| M076504 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousAdicCompletionEquivUniformiserStatement` | volunteer-build-reviewed |
-| M076509 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCellMap` | volunteer-build-reviewed |
-| M076510 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCellMapStatement` | volunteer-build-reviewed |
-| M076512 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousChiDet` | volunteer-build-reviewed |
-| M076515 | P1308 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousCoordSymm` | volunteer-build-reviewed |
-| M076516 | P1227 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousDistribHaarCharUnits` | volunteer-build-reviewed |

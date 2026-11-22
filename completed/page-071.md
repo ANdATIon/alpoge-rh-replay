@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048083 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexLocalCongruenceEqAbsNormPowStatement` | volunteer-build-reviewed |
+| M048084 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexMapMulRelIndexKer` | volunteer-build-reviewed |
+| M048085 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexMapMulRelIndexKerStatement` | volunteer-build-reviewed |
 | M048086 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexMapNsmulComapEqAbsNormDet` | volunteer-build-reviewed |
 | M048087 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexMapNsmulComapEqAbsNormDetStatement` | volunteer-build-reviewed |
 | M048089 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RelIndexNeZeroCentralizerParabolicCosetStabilizeStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M048825 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMem` | volunteer-build-reviewed |
 | M048826 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealMemStatement` | volunteer-build-reviewed |
 | M048827 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocalIdealNotMem` | volunteer-build-reviewed |
-| M048829 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstant` | volunteer-build-reviewed |
-| M048830 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstantStatement` | volunteer-build-reviewed |
-| M048831 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerModelComplexConjugateNegForm` | volunteer-build-reviewed |

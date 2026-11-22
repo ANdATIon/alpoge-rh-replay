@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102169 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCMExtension` | volunteer-build-reviewed |
+| M102170 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCMIntegralOfExistsCM` | volunteer-build-reviewed |
+| M102171 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCharacterSeparation` | volunteer-build-reviewed |
+| M102172 | P1630 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCompactFundamentalSetUnitary` | volunteer-build-reviewed |
+| M102173 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsConjInertiaDiagonalOfIsTypeWD` | volunteer-build-reviewed |
+| M102175 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsContragredientCuspSub` | volunteer-build-reviewed |
+| M102176 | P1410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCrystallineUnitFrobeniusEigen` | build-observed |
 | M102177 | P2691 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsCuspidalSectionFromLeviAverage` | volunteer-build-reviewed |
 | M102178 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsDescentToLevelGroupOfUnramified` | volunteer-build-reviewed |
 | M102179 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.BuildingsResidueChars.ExistsDiscriminantNormalForm` | wave-reused |
@@ -395,10 +402,3 @@
 | M102734 | P0044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHommem` | wave-reused |
 | M102735 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GHomprime` | wave-reused |
 | M102737 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GRatliff` | wave-reused |
-| M102738 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GammaOneGammaZeroHomogeneousCocyclesFinite` | volunteer-build-reviewed |
-| M102741 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HighestWeightIntegral` | wave-reused |
-| M102742 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HighestWeightSpaceFinite` | wave-reused |
-| M102743 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HomTwo` | volunteer-build-reviewed |
-| M102744 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.InjDim` | wave-reused |
-| M102745 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.InjOfFinite` | wave-reused |
-| M102746 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.IsLocalHom` | wave-reused |

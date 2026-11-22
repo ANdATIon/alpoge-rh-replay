@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060782 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsUniversalChartOfFormalGroupChart` | build-observed |
+| M060786 | P0117 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JacobianSmulKaehlerEqZero` | volunteer-build-reviewed |
+| M060787 | P0735 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetChartCoordinatesUniqueCommGroup` | wave-reused |
+| M060788 | P0762 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetChartCoordinatesUniqueCommGroupStatement` | wave-reused |
+| M060789 | P0953 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqBilinearSeriesOfBiadditive` | build-observed |
+| M060790 | P0980 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqBilinearSeriesOfBiadditiveStatement` | build-observed |
 | M060791 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqFormalExpIffAndExistsLog` | build-observed |
 | M060792 | P0953 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqFormalExpIffAndExistsLogStatement` | build-observed |
 | M060793 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetFramesDifferByUnitEachOrder` | build-observed |
@@ -396,9 +402,3 @@
 | M061411 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraPotentialSubmoduleAndBaseChangeStatement` | build-observed |
 | M061412 | P0482 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwine` | volunteer-build-reviewed |
 | M061413 | P0521 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigEqZeroOfMemAugOfNotIntertwineStatement` | volunteer-build-reviewed |
-| M061414 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigIdxFiniteTypesCOf` | volunteer-build-reviewed |
-| M061415 | P0844 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehner` | wave-reused |
-| M061416 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehnerStatement` | wave-reused |
-| M061417 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenvectorEqZeroOfMemTwistedSpanChain` | volunteer-build-reviewed |
-| M061419 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisFDistribution` | volunteer-build-reviewed |
-| M061420 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinAlgebraicPowerSeriesCoeffClosure` | wave-reused |

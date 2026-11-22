@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115475 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPrecompleteFiniteModule` | wave-reused |
+| M115476 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmooth` | volunteer-build-reviewed |
+| M115477 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmoothTwAct` | volunteer-build-reviewed |
+| M115478 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsUnitOfInvIntegral` | volunteer-build-reviewed |
+| M115479 | P2700 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsXTranslate` | volunteer-build-reviewed |
+| M115481 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableGlOperator` | wave-reused |
+| M115482 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableOperator` | wave-reused |
+| M115483 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableUnderOperators` | wave-reused |
 | M115484 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Iwa` | volunteer-build-reviewed |
 | M115485 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IwahoriEntryBound` | volunteer-build-reviewed |
 | M115486 | P0054 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.JumpSets` | wave-reused |
@@ -394,11 +402,3 @@
 | M115911 | P2745 | `Development.AutomorphicArithmetic.LocalEmbeddings.RootSymSupport` | volunteer-build-reviewed |
 | M115912 | P1578 | `Development.AutomorphicArithmetic.LocalEmbeddings.SemiUnfold` | volunteer-build-reviewed |
 | M115913 | P2652 | `Development.AutomorphicArithmetic.LocalEmbeddings.SmoothInfTransp` | volunteer-build-reviewed |
-| M115914 | P2263 | `Development.AutomorphicArithmetic.LocalEmbeddings.SplitLin` | volunteer-build-reviewed |
-| M115916 | P2129 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoDefs` | volunteer-build-reviewed |
-| M115918 | P2140 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoUnit` | volunteer-build-reviewed |
-| M115919 | P2075 | `Development.AutomorphicArithmetic.LocalEmbeddings.StairDepth` | volunteer-build-reviewed |
-| M115921 | P2470 | `Development.AutomorphicArithmetic.LocalEmbeddings.ThinCover` | volunteer-build-reviewed |
-| M115922 | P2413 | `Development.AutomorphicArithmetic.LocalEmbeddings.TriFrDefs` | volunteer-build-reviewed |
-| M115923 | P1826 | `Development.AutomorphicArithmetic.LocalEmbeddings.ULieDefs` | volunteer-build-reviewed |
-| M115924 | P0058 | `Development.AutomorphicArithmetic.LocalEmbeddings.ValCount` | volunteer-build-reviewed |

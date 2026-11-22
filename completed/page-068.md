@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046010 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisat` | volunteer-build-reviewed |
+| M046011 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisatStatement` | volunteer-build-reviewed |
+| M046013 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDetStatement` | volunteer-build-reviewed |
 | M046014 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDlogCocycleCoboundaryClosedFibreChar` | volunteer-build-reviewed |
 | M046015 | P2733 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDlogCocycleCoboundaryClosedFibreCharStatement` | volunteer-build-reviewed |
 | M046017 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDualStatementStatement` | worker-kernel-checked |
@@ -399,6 +402,3 @@
 | M046670 | P0301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEq` | wave-reused |
 | M046671 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRootPowerSumMapGaloisEqStatement` | wave-reused |
 | M046672 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompact` | volunteer-build-reviewed |
-| M046673 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompactStatement` | volunteer-build-reviewed |
-| M046674 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdSubConjEqZero` | wave-reused |
-| M046675 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdTw` | volunteer-build-reviewed |

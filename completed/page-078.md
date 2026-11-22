@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053075 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsMemNormalDomain` | volunteer-build-reviewed |
+| M053077 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctions` | volunteer-build-reviewed |
+| M053078 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctionsStatement` | volunteer-build-reviewed |
+| M053079 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemRechartAffineOpenAtClassicalTrait` | volunteer-build-reviewed |
+| M053081 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemUniversalUnitaryDeepTowers` | volunteer-build-reviewed |
 | M053082 | P2761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemUniversalUnitaryDeepTowersStatement` | volunteer-build-reviewed |
 | M053083 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemValueEqRootMulThetaConstant` | volunteer-build-reviewed |
 | M053084 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemValueEqRootMulThetaConstantStatement` | volunteer-build-reviewed |
@@ -169,6 +174,7 @@
 | M053371 | P2824 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalCompactificationHolds` | volunteer-build-reviewed |
 | M053372 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalCompactificationSmoothSncBoundary` | volunteer-build-reviewed |
 | M053373 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalCompactificationSmoothSncBoundaryStatement` | volunteer-build-reviewed |
+| M053375 | P2816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalFanKodairaSpencerOfRigidBoundaryChartsStatement` | volunteer-build-reviewed |
 | M053378 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalFlagBundleFamilyDualStatement` | volunteer-build-reviewed |
 | M053379 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalFlagBundleFamilyStatement` | volunteer-build-reviewed |
 | M053380 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalFlagBundleRankDual` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M053783 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRankEqRankThetaGroupOfPointPerpStatement` | volunteer-build-reviewed |
 | M053785 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRealMultAppellHumbertStatement` | volunteer-build-reviewed |
 | M053787 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusRigiditySndEqZeroCanonicalChartStatement` | volunteer-build-reviewed |
-| M053788 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSaturatedStatement` | volunteer-build-reviewed |
-| M053790 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSemicharacterEqNegOnePowTraceExponent` | volunteer-build-reviewed |
-| M053792 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSpreadLatticeMapCommutesEndomorphisms` | volunteer-build-reviewed |
-| M053794 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSpreadLatticeMapSurjective` | volunteer-build-reviewed |
-| M053796 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusTangentCombinationCharacterValues` | volunteer-build-reviewed |
-| M053803 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusWeightScalarZeroCharacterEqOne` | volunteer-build-reviewed |

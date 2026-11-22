@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098295 | P2129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitutionStatement` | volunteer-build-reviewed |
+| M098297 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompatibleOfSameSplittingCharacterStatement` | volunteer-build-reviewed |
+| M098298 | P2204 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompositionLines` | volunteer-build-reviewed |
+| M098299 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompositionLinesStatement` | volunteer-build-reviewed |
+| M098300 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilConjLevelMovesVacuumByCharacter` | volunteer-build-reviewed |
+| M098304 | P2252 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilConvergenceOfSiegelSet` | volunteer-build-reviewed |
+| M098306 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilDatumAtPlaceEqLatticeIntertwinerMulDetChar` | volunteer-build-reviewed |
 | M098307 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilDatumAtPlaceEqLatticeIntertwinerMulDetCharStatement` | volunteer-build-reviewed |
 | M098311 | P2523 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilDatumFinitePairVacuumAlgebraicCombinationStatement` | volunteer-build-reviewed |
 | M098314 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilFinitePointPreservesFockVacuum` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M098870 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijFAndExpandsFLin` | build-observed |
 | M098873 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpBijOfOnto` | wave-reused |
 | M098874 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFLinear` | wave-reused |
-| M098875 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfExpT` | wave-reused |
-| M098876 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfPull` | volunteer-build-reviewed |
-| M098877 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOneDim` | wave-reused |
-| M098878 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOneDimStatement` | wave-reused |
-| M098880 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtCancelNonzeroScalar` | wave-reused |
-| M098881 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtCancelNonzeroScalarStatement` | wave-reused |
-| M098882 | P0823 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtIffStalks` | wave-reused |

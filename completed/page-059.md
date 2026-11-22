@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039753 | P1538 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernSum` | volunteer-build-reviewed |
 | M039756 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelAtFittedPoints` | volunteer-build-reviewed |
 | M039758 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelBoundGivesConstantBound` | volunteer-build-reviewed |
 | M039759 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KernelBoundGivesConstantBoundStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M040466 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentMapIsIntegral` | volunteer-build-reviewed |
 | M040468 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishing` | volunteer-build-reviewed |
 | M040469 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialCohomologyVanishingStatement` | volunteer-build-reviewed |
-| M040471 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialTateTwistCohomologyVanishingIndStatement` | volunteer-build-reviewed |

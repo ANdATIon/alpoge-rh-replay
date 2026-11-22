@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096545 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShiftStatement` | volunteer-build-reviewed |
+| M096546 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhds` | volunteer-build-reviewed |
+| M096547 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhdsStatement` | volunteer-build-reviewed |
+| M096548 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowDvdOfHermMatEq` | volunteer-build-reviewed |
+| M096549 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowSubCreationVacuumFockBound` | volunteer-build-reviewed |
+| M096550 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowSubCreationVacuumFockBoundStatement` | volunteer-build-reviewed |
+| M096551 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowerBasisCoordsIsTorusHermitianIsometry` | volunteer-build-reviewed |
 | M096552 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowerBasisCoordsIsTorusHermitianIsometryStatement` | volunteer-build-reviewed |
 | M096553 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PrimeToHostCore` | volunteer-build-reviewed |
 | M096554 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PrimitiveFrameDatumBlockSubstitution` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M097072 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingFrameModelStatement` | volunteer-build-reviewed |
 | M097077 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentity` | volunteer-build-reviewed |
 | M097078 | P2775 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingIntegralIdentityStatement` | volunteer-build-reviewed |
-| M097079 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModel` | volunteer-build-reviewed |
-| M097080 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModelStatement` | volunteer-build-reviewed |
-| M097081 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawFramesWeilEquivalence` | volunteer-build-reviewed |
-| M097082 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawFramesWeilEquivalenceStatement` | volunteer-build-reviewed |
-| M097083 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawIdentityWeilTriple` | volunteer-build-reviewed |
-| M097084 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawIdentityWeilTripleStatement` | volunteer-build-reviewed |
-| M097086 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawUnfoldingAbsoluteStatement` | volunteer-build-reviewed |

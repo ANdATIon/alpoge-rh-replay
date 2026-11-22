@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094097 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryLastTwoStepsAtPlace` | volunteer-build-reviewed |
+| M094098 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryLastTwoStepsAtPlaceStatement` | volunteer-build-reviewed |
+| M094100 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryRelativeBaseVacuaLargeDepthStatement` | volunteer-build-reviewed |
+| M094101 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryScalarLargeDepth` | volunteer-build-reviewed |
+| M094102 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryScalarLargeDepthStatement` | volunteer-build-reviewed |
+| M094103 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatIntegrandFlippedTensorLocallyConstantCompact` | volunteer-build-reviewed |
+| M094104 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatIntegrandFlippedTensorLocallyConstantCompactStatement` | volunteer-build-reviewed |
 | M094105 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatKernelPairingRationalPointsInvariant` | volunteer-build-reviewed |
 | M094106 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatKernelPairingRationalPointsInvariantStatement` | volunteer-build-reviewed |
 | M094107 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatMapHeisenbergAndHomTransformation` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M094605 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtLevelIndicatorCoefficientTestOneParamStatement` | volunteer-build-reviewed |
 | M094606 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumArchimedeanHeisenbergLine` | volunteer-build-reviewed |
 | M094607 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumArchimedeanHeisenbergLineStatement` | volunteer-build-reviewed |
-| M094608 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumHeisenbergLine` | volunteer-build-reviewed |
-| M094610 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumLineFirst` | volunteer-build-reviewed |
-| M094611 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFDerivAtOfCompImmersion` | build-observed |
-| M094612 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFiniteRankTraceOfOfRangeLeFiniteDimensional` | volunteer-build-reviewed |
-| M094613 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFiniteRankTraceOfOfRangeLeFiniteDimensionalStatement` | volunteer-build-reviewed |
-| M094614 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasInfExpAttChrMu` | volunteer-build-reviewed |
-| M094615 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasInfExpDiv` | volunteer-build-reviewed |

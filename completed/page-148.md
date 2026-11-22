@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102738 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GammaOneGammaZeroHomogeneousCocyclesFinite` | volunteer-build-reviewed |
+| M102741 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HighestWeightIntegral` | wave-reused |
+| M102742 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HighestWeightSpaceFinite` | wave-reused |
+| M102743 | P0314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.HomTwo` | volunteer-build-reviewed |
+| M102744 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.InjDim` | wave-reused |
+| M102745 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.InjOfFinite` | wave-reused |
+| M102746 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.IsLocalHom` | wave-reused |
 | M102748 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.KStableHighestWeightVector` | wave-reused |
 | M102749 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.KTypesBoundedFinite` | wave-reused |
 | M102753 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.OfDetToDet` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M103400 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownHol` | volunteer-build-reviewed |
 | M103401 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownLift` | volunteer-build-reviewed |
 | M103402 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.DownZero` | volunteer-build-reviewed |
-| M103403 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.EventuallyNotMem` | volunteer-build-reviewed |
-| M103404 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.ExistsEigenform` | volunteer-build-reviewed |
-| M103407 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.FinOfKer` | volunteer-build-reviewed |
-| M103409 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HfStmt` | volunteer-build-reviewed |
-| M103410 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HolCuspFin` | volunteer-build-reviewed |
-| M103411 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.HolVec` | volunteer-build-reviewed |
-| M103412 | P2548 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.CrystallineBaseChange.Imports` | volunteer-build-reviewed |

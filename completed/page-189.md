@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124609 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine` | volunteer-build-reviewed |
+| M124612 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSup` | wave-reused |
+| M124613 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSupStatement` | build-observed |
+| M124614 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackSecondCohomologyOfEq` | volunteer-build-reviewed |
+| M124615 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuasicoherentOfSecsImage` | wave-reused |
+| M124616 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuotNormaliserIndicator` | volunteer-build-reviewed |
+| M124619 | P1952 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsReps` | build-observed |
+| M124621 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSat2InvTConj` | volunteer-build-reviewed |
+| M124625 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSheafSecPresheaf` | build-observed |
 | M124626 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSmoothCharOfCondLE` | volunteer-build-reviewed |
 | M124633 | P2174 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSocleProdIrrCongr` | volunteer-build-reviewed |
 | M124634 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSplitK` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
 | M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
 | M125394 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionSupport` | volunteer-build-reviewed |
-| M125395 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionTranslation` | volunteer-build-reviewed |
-| M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
-| M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
-| M125398 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerSmooth` | volunteer-build-reviewed |
-| M125405 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReduction` | volunteer-build-reviewed |
-| M125406 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReductionStatement` | volunteer-build-reviewed |
-| M125407 | P1263 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentative` | build-observed |
-| M125408 | P1290 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentativeStatement` | build-observed |
-| M125409 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishing` | build-observed |

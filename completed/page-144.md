@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100183 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetFrobeniusSubPowSupportStatement` | build-observed |
+| M100184 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DetPowDiagonalRowsBlockJetRestrict` | build-observed |
+| M100185 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBound` | build-observed |
+| M100186 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBoundStatement` | build-observed |
+| M100187 | P0878 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiagonalSplit` | build-observed |
+| M100188 | P0904 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiagonalSplitStatement` | build-observed |
+| M100189 | P0878 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DiscrPowerBasis` | build-observed |
 | M100190 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DmonOfMulCongrOfCongr` | build-observed |
 | M100191 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DropLevelsBasic` | volunteer-build-reviewed |
 | M100193 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DualTowerMapExists` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M100752 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IrreducibleAdmissibleGL` | build-observed |
 | M100753 | P1206 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal` | wave-reused |
 | M100755 | P0042 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar` | volunteer-build-reviewed |
-| M100757 | P1603 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsConstAlongSingleton` | volunteer-build-reviewed |
-| M100760 | P0933 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsHolFormConst` | volunteer-build-reviewed |
-| M100761 | P1931 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric` | volunteer-build-reviewed |
-| M100762 | P1435 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsLogCanonicalMultipleCanonical` | volunteer-build-reviewed |
-| M100765 | P1017 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsNoetherianRingDualNumber` | volunteer-build-reviewed |
-| M100769 | P1233 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsThetaMeanSquareNorm` | volunteer-build-reviewed |
-| M100770 | P0259 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTorsionFormPoint` | build-observed |

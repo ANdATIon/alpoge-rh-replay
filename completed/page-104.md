@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070583 | P1404 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionSubMemFiltrationZeroOfMonodromyStatement` | build-observed |
+| M070584 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisAddHomVanishesComplexConjugation` | volunteer-build-reviewed |
+| M070585 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisAddHomVanishesComplexConjugationStatement` | volunteer-build-reviewed |
+| M070586 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCharacterEqOneOfTrivialDegreeOneFrobenius` | volunteer-build-reviewed |
+| M070587 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCharacterEqOneOfTrivialDegreeOneFrobeniusStatement` | volunteer-build-reviewed |
+| M070590 | P1332 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryFrobeniusFixed` | build-observed |
+| M070591 | P1357 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryFrobeniusFixedStatement` | build-observed |
 | M070592 | P1428 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryMemLatticeInvLOfMonodromyEqZero` | build-observed |
 | M070593 | P1453 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryMemLatticeInvLOfMonodromyEqZeroStatement` | build-observed |
 | M070594 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisConjClassScalarsAndVolume` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M071270 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaVanishingNoInvariantsFirstHalfPlaces` | build-observed |
 | M071271 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InertiaVanishingNoInvariantsFirstHalfPlacesStatement` | build-observed |
 | M071273 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InfinityTypeOfLift` | volunteer-build-reviewed |
-| M071274 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InfinityTypeOfLiftStatement` | volunteer-build-reviewed |
-| M071275 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjOnCharValuesAndLengthQuotient` | build-observed |
-| M071276 | P1067 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjOnCharValuesAndLengthQuotientStatement` | build-observed |
-| M071277 | P1096 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveAndRangeOfPrismCover` | wave-reused |
-| M071278 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveAndRangeOfPrismCoverStatement` | wave-reused |
-| M071283 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InjectiveTensorBcrisToBdR` | build-observed |
-| M071287 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InnerPosOfInnerNe` | volunteer-build-reviewed |

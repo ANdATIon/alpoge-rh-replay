@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069930 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbeddingStatement` | volunteer-build-reviewed |
+| M069931 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExt` | build-observed |
+| M069932 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExtStatement` | build-observed |
+| M069934 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueAlgHomOfPadicLocalization` | volunteer-build-reviewed |
+| M069935 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueCocycle` | volunteer-build-reviewed |
+| M069936 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueCocycleStatement` | build-observed |
+| M069938 | P0955 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueFits` | build-observed |
 | M069939 | P0122 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueIntegralAdditiveSystemFrobeniusPower` | volunteer-build-reviewed |
 | M069940 | P0191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueIntegralAdditiveSystemFrobeniusPowerStatement` | volunteer-build-reviewed |
 | M069941 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueIsEval` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M070577 | P1200 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GalIBSubMemFilOStatement` | build-observed |
 | M070580 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionExtendsToAinfDiscRings` | wave-reused |
 | M070582 | P1381 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionSubMemFiltrationZeroOfMonodromy` | build-observed |
-| M070583 | P1404 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisActionSubMemFiltrationZeroOfMonodromyStatement` | build-observed |
-| M070584 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisAddHomVanishesComplexConjugation` | volunteer-build-reviewed |
-| M070585 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisAddHomVanishesComplexConjugationStatement` | volunteer-build-reviewed |
-| M070586 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCharacterEqOneOfTrivialDegreeOneFrobenius` | volunteer-build-reviewed |
-| M070587 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCharacterEqOneOfTrivialDegreeOneFrobeniusStatement` | volunteer-build-reviewed |
-| M070590 | P1332 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryFrobeniusFixed` | build-observed |
-| M070591 | P1357 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.GaloisCoboundaryFrobeniusFixedStatement` | build-observed |

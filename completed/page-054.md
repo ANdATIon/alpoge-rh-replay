@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035931 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomKillsTorsionOfComplexPointsOneEmbedding` | volunteer-build-reviewed |
 | M035932 | P1448 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomKillsTorsionOfComplexPointsOneEmbeddingStatement` | build-observed |
 | M035933 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomKillsTorsionOfRoot` | volunteer-build-reviewed |
 | M035934 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomMapApply` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M036610 | P2037 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceBigCellLocalUnitaryDecompositionStatement` | volunteer-build-reviewed |
 | M036614 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceBothStabilisersFixVacuumStatement` | volunteer-build-reviewed |
 | M036616 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledEigenfunctionsLineVacuumStatement` | volunteer-build-reviewed |
-| M036617 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledFirstFactorMemSiegelClosure` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066697 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleJOfParams` | volunteer-build-reviewed |
+| M066699 | P0621 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmetic` | build-observed |
+| M066700 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmeticStatement` | build-observed |
+| M066702 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleOfLargeResidueChar` | volunteer-build-reviewed |
+| M066703 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleOfSurjective` | volunteer-build-reviewed |
+| M066704 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleParametersFamilyConst` | volunteer-build-reviewed |
 | M066705 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleParametersFamilyConstStatement` | volunteer-build-reviewed |
 | M066710 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleQuotientKerIffFullLattices` | worker-kernel-checked |
 | M066714 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleStd` | build-observed |
@@ -396,9 +402,3 @@
 | M067349 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharacteristicFunctionIntegralApply` | volunteer-build-reviewed |
 | M067350 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevel` | build-observed |
 | M067351 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharactersDetectRestrictNormalInfFiniteLevelStatement` | build-observed |
-| M067352 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparable` | volunteer-build-reviewed |
-| M067353 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparableStatement` | volunteer-build-reviewed |
-| M067354 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyDvdPowOfAevalEqZero` | volunteer-build-reviewed |
-| M067355 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEqOfSemisimplification` | build-observed |
-| M067356 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEqOfSemisimplificationStatement` | build-observed |
-| M067359 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEtaleGeneratorMulMatrixSeparable` | volunteer-build-reviewed |

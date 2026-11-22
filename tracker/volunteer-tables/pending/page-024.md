@@ -217,7 +217,6 @@
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M062148](https://github.com/rohanarun/alpoge-rh-replay/issues/31677#issuecomment-7078498780) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M108774](https://github.com/rohanarun/alpoge-rh-replay/issues/31678#issuecomment-7078499213) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M132514](https://github.com/rohanarun/alpoge-rh-replay/issues/31679#issuecomment-7078499700) | Pending review |
-| [@JamCh01](https://github.com/JamCh01) | [P2816](https://github.com/rohanarun/alpoge-rh-replay/issues/31759#issuecomment-7078756681) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M163979](https://github.com/rohanarun/alpoge-rh-replay/issues/31761#issuecomment-7078537191) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M102680](https://github.com/rohanarun/alpoge-rh-replay/issues/31763#issuecomment-7078537595) | Pending review |
 | [@JamCh01](https://github.com/JamCh01) | [P2815](https://github.com/rohanarun/alpoge-rh-replay/issues/31764#issuecomment-7078568397) | Pending review |
@@ -254,3 +253,4 @@
 | [@HITEYY](https://github.com/HITEYY) | [M071872](https://github.com/rohanarun/alpoge-rh-replay/issues/32047#issuecomment-7078437399) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M137664](https://github.com/rohanarun/alpoge-rh-replay/issues/32048#issuecomment-7078457117) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M073087](https://github.com/rohanarun/alpoge-rh-replay/issues/32050#issuecomment-7078449191) | Pending review |
+| [@HITEYY](https://github.com/HITEYY) | [M064959](https://github.com/rohanarun/alpoge-rh-replay/issues/32052#issuecomment-7078433358) | Pending review |

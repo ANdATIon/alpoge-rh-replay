@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040471 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentPolynomialTateTwistCohomologyVanishingIndStatement` | volunteer-build-reviewed |
 | M040472 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentSeriesAdaptedBasisCoordsVanishBeyondFinra` | volunteer-build-reviewed |
 | M040473 | P0109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentSeriesAdaptedBasisCoordsVanishBeyondFinraStatement` | volunteer-build-reviewed |
 | M040474 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LaurentVarUnit` | build-observed |
@@ -401,4 +402,3 @@
 | M041176 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftedPolarisationKernelKilledOfUnit` | volunteer-build-reviewed |
 | M041180 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAdd` | build-observed |
 | M041181 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionBocksteinAddStatement` | build-observed |
-| M041182 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftingObstructionEqOfCohomologousCocycles` | volunteer-build-reviewed |

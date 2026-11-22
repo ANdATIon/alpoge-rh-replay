@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120912 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExistsStatement` | volunteer-build-reviewed |
+| M120914 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchSmoothCompTransposeInvStatement` | volunteer-build-reviewed |
+| M120919 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterInCoordinates` | volunteer-build-reviewed |
+| M120920 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterInCoordinatesStatement` | volunteer-build-reviewed |
+| M120921 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterRealPairing` | volunteer-build-reviewed |
+| M120922 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterRealPairingStatement` | volunteer-build-reviewed |
+| M120924 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCompactSetDensityBoundedStatement` | volunteer-build-reviewed |
+| M120925 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCoordinates` | volunteer-build-reviewed |
+| M120926 | P1777 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCoordinatesStatement` | volunteer-build-reviewed |
 | M120927 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCutoffContinuousCompactSupport` | volunteer-build-reviewed |
 | M120928 | P2264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCutoffContinuousCompactSupportStatement` | volunteer-build-reviewed |
 | M120929 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanFamilyContinuity` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M121476 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClsEqOfEq` | wave-reused |
 | M121477 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationProperties` | volunteer-build-reviewed |
 | M121478 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmConjugationPropertiesStatement` | volunteer-build-reviewed |
-| M121479 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGenerator` | build-observed |
-| M121480 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGeneratorStatement` | build-observed |
-| M121481 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmpPutSucc` | volunteer-build-reviewed |
-| M121483 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoFunSmooth` | volunteer-build-reviewed |
-| M121484 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoarseLipschitzExponentialEstimate` | volunteer-build-reviewed |
-| M121486 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoboundaryCup0` | volunteer-build-reviewed |
-| M121487 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoboundaryCup1` | volunteer-build-reviewed |
-| M121488 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainBaseChangeEquivalences` | volunteer-build-reviewed |
-| M121489 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainBaseChangeEquivalencesStatement` | volunteer-build-reviewed |

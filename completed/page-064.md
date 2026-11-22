@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043249 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLocalSubringGenericPoint` | build-observed |
+| M043252 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLowLat` | build-observed |
 | M043253 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemLsB` | volunteer-build-reviewed |
 | M043258 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemMatLat` | volunteer-build-reviewed |
 | M043259 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemMatLatSmulBlockLat` | volunteer-build-reviewed |
@@ -138,6 +140,7 @@
 | M043473 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinFirst` | build-observed |
 | M043474 | P1088 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinFirstStatement` | build-observed |
 | M043476 | P0978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinPadicValPowSubOneCoprimeEqClosedFormula` | build-observed |
+| M043478 | P2816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinimalBlowupSmoothWithSemiAbelianCharts` | volunteer-build-reviewed |
 | M043479 | P2817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinimalBlowupSmoothWithSemiAbelianChartsStatement` | volunteer-build-reviewed |
 | M043485 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinimalSiegelCompactificationExistsStatement` | volunteer-build-reviewed |
 | M043490 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MinorAtZero` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M043933 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulTensorInjectiveOfFlatBaseChangeKerInfStatement` | volunteer-build-reviewed |
 | M043935 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecInv` | volunteer-build-reviewed |
 | M043939 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MulVecVecMulVec` | volunteer-build-reviewed |
-| M043942 | P1400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultRealElt` | build-observed |
-| M043945 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiDifferenceVanishesOfInvarianceStatement` | volunteer-build-reviewed |
-| M043946 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiPlaceStep` | volunteer-build-reviewed |

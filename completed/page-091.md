@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062071 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunctionStatement` | build-observed |
+| M062076 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZMod` | wave-reused |
+| M062077 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZModStatement` | wave-reused |
+| M062085 | P2628 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsZetaDerivationInertiaCyclotomicAlgebraStatement` | volunteer-build-reviewed |
+| M062086 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpBallUMemNhds` | build-observed |
+| M062087 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpLogNearOne` | build-observed |
 | M062088 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpLogNearOneStatement` | build-observed |
 | M062089 | P1062 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpMvNegLogMvMul` | volunteer-build-reviewed |
 | M062092 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpNormProductLeOne` | wave-reused |
@@ -396,9 +402,3 @@
 | M062689 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiamondMatrixConjMemGamma1InterGamma0LevelStatement` | volunteer-build-reviewed |
 | M062692 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosure` | wave-reused |
 | M062693 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt` | wave-reused |
-| M062694 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingStalkGeneric` | wave-reused |
-| M062696 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAug` | volunteer-build-reviewed |
-| M062697 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAugStatement` | volunteer-build-reviewed |
-| M062699 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEquivalenceFiniteEtaleBaseChangeResidueField` | wave-reused |
-| M062700 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsExpEqOfSubstLg` | volunteer-build-reviewed |
-| M062701 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsFieldAndPthRootsOfLocalAlgFrobeniusFixed` | volunteer-build-reviewed |

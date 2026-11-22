@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097079 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModel` | volunteer-build-reviewed |
+| M097080 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawDoublingRealModelStatement` | volunteer-build-reviewed |
+| M097081 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawFramesWeilEquivalence` | volunteer-build-reviewed |
+| M097082 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawFramesWeilEquivalenceStatement` | volunteer-build-reviewed |
+| M097083 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawIdentityWeilTriple` | volunteer-build-reviewed |
+| M097084 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawIdentityWeilTripleStatement` | volunteer-build-reviewed |
+| M097086 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawUnfoldingAbsoluteStatement` | volunteer-build-reviewed |
 | M097087 | P2204 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawUnfoldingAdelicVolume` | volunteer-build-reviewed |
 | M097088 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawUnfoldingAdelicVolumeStatement` | volunteer-build-reviewed |
 | M097089 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawUnfoldingCompatible` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M097665 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariant` | volunteer-build-reviewed |
 | M097666 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardArrowLeftInvariantStatement` | volunteer-build-reviewed |
 | M097667 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGrid` | volunteer-build-reviewed |
-| M097668 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGridStatement` | volunteer-build-reviewed |
-| M097669 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelFiniteVectorNeZero` | volunteer-build-reviewed |
-| M097671 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelGridRationalLeftInvariant` | volunteer-build-reviewed |
-| M097673 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitary` | volunteer-build-reviewed |
-| M097674 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitaryAlt` | volunteer-build-reviewed |
-| M097675 | P2750 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitaryBis` | volunteer-build-reviewed |
-| M097677 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelModerateGrowthWithSeminorms` | volunteer-build-reviewed |

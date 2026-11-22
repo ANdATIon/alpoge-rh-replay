@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115041 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleMultiplicative` | volunteer-build-reviewed |
+| M115042 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoeffProdOneAdd` | volunteer-build-reviewed |
+| M115044 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoerciveOfPositiveDefinite` | wave-reused |
+| M115045 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonDenom` | volunteer-build-reviewed |
+| M115046 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonEigenvalue` | volunteer-build-reviewed |
+| M115048 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonEigenvectorBis` | build-observed |
+| M115050 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonField` | volunteer-build-reviewed |
+| M115051 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonMajorizingLattice` | wave-reused |
 | M115052 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CompactQuotientSubmodule` | volunteer-build-reviewed |
 | M115053 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ComplementSubspace` | volunteer-build-reviewed |
 | M115054 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ComplexNormedInstanceCompat` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M115472 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenValuationLtOne` | volunteer-build-reviewed |
 | M115473 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPF` | build-observed |
 | M115474 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPFSum` | build-observed |
-| M115475 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsPrecompleteFiniteModule` | wave-reused |
-| M115476 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmooth` | volunteer-build-reviewed |
-| M115477 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsSmoothTwAct` | volunteer-build-reviewed |
-| M115478 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsUnitOfInvIntegral` | volunteer-build-reviewed |
-| M115479 | P2700 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsXTranslate` | volunteer-build-reviewed |
-| M115481 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableGlOperator` | wave-reused |
-| M115482 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableOperator` | wave-reused |
-| M115483 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsotypicStableUnderOperators` | wave-reused |

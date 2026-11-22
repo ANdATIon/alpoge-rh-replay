@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058771 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeLatIn` | build-observed |
+| M058772 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeOfSqueezedBetweenNatMultiples` | wave-reused |
+| M058773 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeOfSqueezedBetweenNatMultiplesStatement` | wave-reused |
+| M058774 | P0896 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeTraceDualAndTraceDualTraceDual` | build-observed |
+| M058775 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeTraceDualAndTraceDualTraceDualStatement` | build-observed |
+| M058777 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLocalizedModuleSubtype` | build-observed |
 | M058778 | P0788 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLocallySelfDualOfHermitianLatticeOfLevel` | build-observed |
 | M058779 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLocallySelfDualOfHermitianLatticeOfLevelStatement` | build-observed |
 | M058780 | P0788 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsMirabolicConjInvariantTwistedTailMeanFun` | wave-reused |
@@ -396,9 +402,3 @@
 | M059432 | P0554 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnesses` | wave-reused |
 | M059433 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MoveLatticeIsTermSameDatumWithWitnessesStatement` | wave-reused |
 | M059435 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedDualVectorPairingBoundedMajorantStatement` | volunteer-build-reviewed |
-| M059436 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangular` | volunteer-build-reviewed |
-| M059437 | P1279 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangularStatement` | volunteer-build-reviewed |
-| M059439 | P1224 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedRowLatticeTermIsLatticeStatement` | volunteer-build-reviewed |
-| M059440 | P2084 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsGlobalTermPhase` | volunteer-build-reviewed |
-| M059441 | P2098 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsGlobalTermPhaseStatement` | volunteer-build-reviewed |
-| M059443 | P2071 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsLocalTermAtPlaceStatement` | volunteer-build-reviewed |

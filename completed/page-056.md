@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M037408 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawLeibniz` | build-observed |
 | M037409 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawLeibnizStatement` | build-observed |
 | M037410 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDifferentialsConnectedPDivGroupCoordina` | volunteer-build-reviewed |
 | M037413 | P1861 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantExtensionMeasurableContDiffOnChartStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M038211 | P1376 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntBTmulBasis` | build-observed |
 | M038212 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntIntCast` | volunteer-build-reviewed |
 | M038214 | P1399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntVZero` | volunteer-build-reviewed |
-| M038215 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegerOfMaximalIdealPowSmulIsInteger` | volunteer-build-reviewed |

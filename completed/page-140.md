@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097668 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelDownwardTestGridEqSenderGridStatement` | volunteer-build-reviewed |
+| M097669 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelFiniteVectorNeZero` | volunteer-build-reviewed |
+| M097671 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelGridRationalLeftInvariant` | volunteer-build-reviewed |
+| M097673 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitary` | volunteer-build-reviewed |
+| M097674 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitaryAlt` | volunteer-build-reviewed |
+| M097675 | P2750 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelLeftInvariantRationalUnitaryBis` | volunteer-build-reviewed |
+| M097677 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelModerateGrowthWithSeminorms` | volunteer-build-reviewed |
 | M097679 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelSiegelSetLeTorusPowerHeight` | volunteer-build-reviewed |
 | M097680 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaKernelSiegelSetLeTorusPowerHeightStatement` | volunteer-build-reviewed |
 | M097681 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaLevelIndexMulSchwartzNormFormula` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M098290 | P2075 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionUnitaryCompact` | volunteer-build-reviewed |
 | M098292 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilActionVacuumEqResidueDetCharOfFrameStabilize` | volunteer-build-reviewed |
 | M098294 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitution` | volunteer-build-reviewed |
-| M098295 | P2129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompactRealPointFockVectorSubstitutionStatement` | volunteer-build-reviewed |
-| M098297 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompatibleOfSameSplittingCharacterStatement` | volunteer-build-reviewed |
-| M098298 | P2204 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompositionLines` | volunteer-build-reviewed |
-| M098299 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilCompositionLinesStatement` | volunteer-build-reviewed |
-| M098300 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilConjLevelMovesVacuumByCharacter` | volunteer-build-reviewed |
-| M098304 | P2252 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilConvergenceOfSiegelSet` | volunteer-build-reviewed |
-| M098306 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.WeilDatumAtPlaceEqLatticeIntertwinerMulDetChar` | volunteer-build-reviewed |

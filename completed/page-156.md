@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107093 | P2686 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WoConj` | volunteer-build-reviewed |
+| M107094 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.WsLink` | volunteer-build-reviewed |
+| M107095 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ZEqDimE` | volunteer-build-reviewed |
+| M107096 | P2745 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TopTheorem.NumberU3OfAdmissible` | volunteer-build-reviewed |
+| M107097 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.CrossUp` | volunteer-build-reviewed |
+| M107098 | P2756 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.CsdDisc` | volunteer-build-reviewed |
+| M107099 | P2756 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.CsdSat` | volunteer-build-reviewed |
+| M107100 | P2762 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.CuspOrTwo` | volunteer-build-reviewed |
 | M107102 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.IntegralityGoodReduction` | volunteer-build-reviewed |
 | M107103 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.LogTwo` | volunteer-build-reviewed |
 | M107104 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.TraceFormula.GL1SpectralBounds.NormLterm` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M107617 | P1339 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.NormLeOneOfMemSpectrumFrobeniusMatrixFilZero` | build-observed |
 | M107618 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OpenField` | build-observed |
 | M107619 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdCharIff` | volunteer-build-reviewed |
-| M107621 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlag` | volunteer-build-reviewed |
-| M107622 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlagU` | volunteer-build-reviewed |
-| M107623 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdinaryDeformation` | volunteer-build-reviewed |
-| M107625 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PosBasic` | volunteer-build-reviewed |
-| M107626 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PosExact` | volunteer-build-reviewed |
-| M107627 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PotCrysOf` | volunteer-build-reviewed |
-| M107628 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PowerSeriesApproximationModMaximal` | volunteer-build-reviewed |
-| M107629 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PrF` | volunteer-build-reviewed |

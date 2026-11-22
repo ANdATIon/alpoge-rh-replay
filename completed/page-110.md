@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074802 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHecke` | volunteer-build-reviewed |
+| M074803 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterIsLadicOfFiniteOrderHeckeStatement` | volunteer-build-reviewed |
+| M074804 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistCharacterUnramifiedInf` | volunteer-build-reviewed |
+| M074809 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistDeterminantMulIntegralFormsRayClassCover` | volunteer-build-reviewed |
+| M074810 | P2181 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistDeterminantMulIntegralFormsRayClassCoverStatement` | volunteer-build-reviewed |
+| M074813 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistMRepVCont` | volunteer-build-reviewed |
+| M074815 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistOfCuspParams` | volunteer-build-reviewed |
 | M074816 | P2712 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistOfCuspParamsStatement` | volunteer-build-reviewed |
 | M074817 | P1543 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistRecCompatible` | volunteer-build-reviewed |
 | M074819 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TwistSecondStepKeptWithLocalisations` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M075532 | P2684 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDataExtendLargerFieldsOfPublishedStatement` | volunteer-build-reviewed |
 | M075536 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedExistsStatement` | volunteer-build-reviewed |
 | M075537 | P2665 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinear` | volunteer-build-reviewed |
-| M075538 | P2671 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedLinearStatement` | volunteer-build-reviewed |
-| M075539 | P2649 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicDivisorInducedNeg` | build-observed |
-| M075549 | P1513 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicHeightGrowthOfCosetGrowthUnitaryPair` | volunteer-build-reviewed |
-| M075550 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicHeightGrowthOfCosetGrowthUnitaryPairStatement` | volunteer-build-reviewed |
-| M075551 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceBadPrimeIffCompletion` | volunteer-build-reviewed |
-| M075552 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceBadPrimeIffCompletionStatement` | volunteer-build-reviewed |
-| M075553 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AdelicMatrixCongruenceMoveRationalFrame` | volunteer-build-reviewed |

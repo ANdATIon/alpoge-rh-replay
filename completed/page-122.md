@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085262 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsStableBasOfPullback` | build-observed |
+| M085263 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupEqRangeOfLists` | volunteer-build-reviewed |
+| M085264 | P0127 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupOfFinite` | volunteer-build-reviewed |
+| M085270 | P0738 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoHeckeQuotient` | build-observed |
+| M085271 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoOfPeriodMapGenus` | build-observed |
+| M085273 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoOfPeriods` | volunteer-build-reviewed |
+| M085278 | P1947 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsThetaFamilyOverThetaPointScheme` | volunteer-build-reviewed |
 | M085281 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsThetaFamilyPelSmoothGenericFibreStatement` | build-observed |
 | M085282 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsThetaFrameFamily` | build-observed |
 | M085283 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsThetaFrameFrames` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M085999 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionDescendsEtaleCover` | volunteer-build-reviewed |
 | M086001 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfCharZero` | volunteer-build-reviewed |
 | M086002 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfDirectionsLe` | volunteer-build-reviewed |
-| M086003 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfFinrankDerivatio` | build-observed |
-| M086004 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLe` | volunteer-build-reviewed |
-| M086005 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLeStatement` | build-observed |
-| M086006 | P1458 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfGenerization` | build-observed |
-| M086007 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfIsPullbackIsDominant` | build-observed |
-| M086008 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SpMapComp` | build-observed |
-| M086010 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SplitOfFactorisation` | volunteer-build-reviewed |

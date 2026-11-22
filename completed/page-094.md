@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063835 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumCompSurjective` | volunteer-build-reviewed |
+| M063836 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumDivSubLeTwoLogOfPartialSums` | volunteer-build-reviewed |
+| M063837 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumEqZeroAddUnits` | volunteer-build-reviewed |
+| M063838 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankCuspFormOfFrame` | volunteer-build-reviewed |
+| M063839 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankCuspFormOfFrameStatement` | volunteer-build-reviewed |
+| M063840 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankOfFrame` | volunteer-build-reviewed |
 | M063841 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumFinrankLevelOneLeFinrankOfFrameStatement` | volunteer-build-reviewed |
 | M063842 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumGl2FirstColumnUnitSetSuccFibre` | volunteer-build-reviewed |
 | M063843 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.SumGl2FirstColumnUnitSetSuccFibreStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M064546 | P1254 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraMapMemMaximalRealSubfieldIff` | volunteer-build-reviewed |
 | M064549 | P0736 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AlgebraicIsogenyConstantOfIsogenyFormula` | volunteer-build-reviewed |
 | M064554 | P0120 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope` | volunteer-build-reviewed |
-| M064558 | P0845 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrime` | build-observed |
-| M064559 | P0872 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrimeStatement` | build-observed |
-| M064561 | P2463 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepConjugateInvariant` | volunteer-build-reviewed |
-| M064562 | P2585 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepConjugationTrace` | volunteer-build-reviewed |
-| M064563 | P2585 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepsAgreeOnIntersection` | volunteer-build-reviewed |
-| M064566 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AveragedFibreMeasureComplFibreEqZero` | build-observed |

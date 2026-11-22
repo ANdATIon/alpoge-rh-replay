@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072756 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonoidAlgebraExistsRightInvOfMapField` | volunteer-build-reviewed |
+| M072758 | P0684 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEnds` | build-observed |
+| M072759 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonomialLtOfBoundedIntervalEndsStatement` | build-observed |
+| M072760 | P1332 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantCrisPlusNeZero` | build-observed |
+| M072761 | P1357 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantCrisPlusNeZeroStatement` | build-observed |
+| M072762 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantEqUnramifiedMulPeriod` | build-observed |
+| M072763 | P1153 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MooreDeterminantEqUnramifiedMulPeriodStatement` | build-observed |
 | M072766 | P2003 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MovedVacuumTranslateSumFlipScalar` | volunteer-build-reviewed |
 | M072767 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MovedVacuumTranslateSumFlipScalarStatement` | volunteer-build-reviewed |
 | M072768 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MspanLeBddForms` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M073396 | P1098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushouts` | build-observed |
 | M073397 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PushoutsMemSpanLocalSelmerPushoutsStatement` | build-observed |
 | M073400 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice` | volunteer-build-reviewed |
-| M073402 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticStarStructure` | volunteer-build-reviewed |
-| M073404 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticUnitAtRamifiedPlaceStatement` | volunteer-build-reviewed |
-| M073410 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilFourierPreservesTestAdditiveStatement` | volunteer-build-reviewed |
-| M073411 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommute` | volunteer-build-reviewed |
-| M073412 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommuteStatement` | volunteer-build-reviewed |
-| M073413 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilUnipotentTorusPreserveTest` | volunteer-build-reviewed |
-| M073416 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticZetaNeOneAtPlaceStatement` | volunteer-build-reviewed |

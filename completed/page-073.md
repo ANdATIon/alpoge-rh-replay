@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049421 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecond` | volunteer-build-reviewed |
+| M049422 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecondStatement` | volunteer-build-reviewed |
+| M049423 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleThird` | volunteer-build-reviewed |
 | M049424 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleThirdStatement` | volunteer-build-reviewed |
 | M049425 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeATripleFourth` | volunteer-build-reviewed |
 | M049426 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeATripleFourthStatement` | volunteer-build-reviewed |
@@ -302,6 +305,7 @@
 | M049977 | P0553 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelParabolicWeylElementGenerateUnitaryStatement` | build-observed |
 | M049978 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPeriodMapSimplyConnected` | build-observed |
 | M049979 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPeriodMapSimplyConnectedStatement` | volunteer-build-reviewed |
+| M049980 | P2816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPointLiftsToArtinian` | volunteer-build-reviewed |
 | M049981 | P2817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPointLiftsToArtinianStatement` | volunteer-build-reviewed |
 | M049983 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPointLiftsToDualNumbersStatement` | volunteer-build-reviewed |
 | M049986 | P2733 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelPullbackOfIdempotentImagesAndActionPullbac` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M050143 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverse` | volunteer-build-reviewed |
 | M050144 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairConverseStatement` | volunteer-build-reviewed |
 | M050145 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairDual` | volunteer-build-reviewed |
-| M050146 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairDualStatement` | volunteer-build-reviewed |
-| M050147 | P2213 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairEigen` | volunteer-build-reviewed |
-| M050148 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairEigenStatement` | volunteer-build-reviewed |
-| M050153 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairOfPair` | volunteer-build-reviewed |

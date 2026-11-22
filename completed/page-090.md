@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061414 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigIdxFiniteTypesCOf` | volunteer-build-reviewed |
+| M061415 | P0844 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehner` | wave-reused |
+| M061416 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenfunctionalAllCharactersOfAtkinLehnerStatement` | wave-reused |
+| M061417 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EigenvectorEqZeroOfMemTwistedSpanChain` | volunteer-build-reviewed |
+| M061419 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisFDistribution` | volunteer-build-reviewed |
+| M061420 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinAlgebraicPowerSeriesCoeffClosure` | wave-reused |
 | M061421 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinAlgebraicPowerSeriesCoeffClosureStatement` | wave-reused |
 | M061422 | P0763 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinLatticeFunctionIsModularFormCoeffSeq` | wave-reused |
 | M061423 | P0788 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EisensteinLatticeFunctionIsModularFormCoeffSeqStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M062060 | P1927 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUnitMulPowOfKummerVanishesOnInertiaCurve` | build-observed |
 | M062066 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUpperTriangularConjIntegralCompact` | volunteer-build-reviewed |
 | M062070 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunction` | build-observed |
-| M062071 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsValuationSubringGaussModularFunctionStatement` | build-observed |
-| M062076 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZMod` | wave-reused |
-| M062077 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsWeierstrassPFamilySeparatingGl2ZModStatement` | wave-reused |
-| M062085 | P2628 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsZetaDerivationInertiaCyclotomicAlgebraStatement` | volunteer-build-reviewed |
-| M062086 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpBallUMemNhds` | build-observed |
-| M062087 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExpLogNearOne` | build-observed |

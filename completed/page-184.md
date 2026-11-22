@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121479 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGenerator` | build-observed |
+| M121480 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmExtensionImaginaryGeneratorStatement` | build-observed |
+| M121481 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CmpPutSucc` | volunteer-build-reviewed |
+| M121483 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoFunSmooth` | volunteer-build-reviewed |
+| M121484 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoarseLipschitzExponentialEstimate` | volunteer-build-reviewed |
+| M121486 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoboundaryCup0` | volunteer-build-reviewed |
+| M121487 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoboundaryCup1` | volunteer-build-reviewed |
+| M121488 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainBaseChangeEquivalences` | volunteer-build-reviewed |
+| M121489 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainBaseChangeEquivalencesStatement` | volunteer-build-reviewed |
 | M121490 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainCohomologyNerveHomologyEquiv` | volunteer-build-reviewed |
 | M121491 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainCohomologyNerveHomologyEquivStatement` | volunteer-build-reviewed |
 | M121492 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CochainDegreeZeroSubsingleton` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M122055 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedIsoStatement` | volunteer-build-reviewed |
 | M122056 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanish` | volunteer-build-reviewed |
 | M122057 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverIntersectionGradedVanishStatement` | volunteer-build-reviewed |
-| M122059 | P2674 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverRestrictionBaseChangeStatement` | volunteer-build-reviewed |
-| M122060 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverStarIsCosieve` | volunteer-build-reviewed |
-| M122061 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverStarIsCosieveStatement` | volunteer-build-reviewed |
-| M122064 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovolumeOneColumnJoinProduct` | volunteer-build-reviewed |
-| M122065 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovolumeOneColumnJoinProductStatement` | volunteer-build-reviewed |
-| M122071 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CreAnnApply` | volunteer-build-reviewed |
-| M122072 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CreqAnnqTopqSame` | volunteer-build-reviewed |
-| M122074 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossProductKernelQuotientVanishing` | volunteer-build-reviewed |
-| M122075 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossProductKernelQuotientVanishingStatement` | volunteer-build-reviewed |

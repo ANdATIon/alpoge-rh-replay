@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046673 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdRpowDecayIsBigOCocompactStatement` | volunteer-build-reviewed |
+| M046674 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdSubConjEqZero` | wave-reused |
+| M046675 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdTw` | volunteer-build-reviewed |
 | M046677 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdZpowAdd` | volunteer-build-reviewed |
 | M046678 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdZpowMul` | volunteer-build-reviewed |
 | M046680 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProductAbelianContinuousCoordsStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M047385 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RaisingWordSpanStableOfLoweringKillStatement` | volunteer-build-reviewed |
 | M047386 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelConstLattices` | volunteer-build-reviewed |
 | M047388 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamModelOfHypotheses` | volunteer-build-reviewed |
-| M047389 | P1277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationBoundOverDvr` | build-observed |
-| M047391 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationIdxDvdOfGaloisDegreeDvdUnitDvr` | volunteer-build-reviewed |
-| M047392 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RamificationIdxDvdOfGaloisDegreeDvdUnitDvrStatement` | volunteer-build-reviewed |

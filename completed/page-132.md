@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093556 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroDiscreteSeriesInfiniteHom` | volunteer-build-reviewed |
+| M093558 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroLatticeVacuumSelfDual` | volunteer-build-reviewed |
+| M093559 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroLatticeVacuumSelfDualStatement` | volunteer-build-reviewed |
+| M093560 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroVacuumBesselLineLatticeRankZero` | volunteer-build-reviewed |
+| M093561 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroVacuumBesselLineLatticeRankZeroStatement` | volunteer-build-reviewed |
+| M093563 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNegatedSpaceDiscreteSeriesModelTransportStatement` | volunteer-build-reviewed |
+| M093564 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNonzeroIntSmulMemOfIsLattice` | volunteer-build-reviewed |
 | M093565 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNonzeroKFinite` | volunteer-build-reviewed |
 | M093567 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNonzeroRealIntertwinerGridArrow` | volunteer-build-reviewed |
 | M093568 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNonzeroRealIntertwinerGridArrowStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M094094 | P2628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryBaseVacuaLargeDepthStatement` | volunteer-build-reviewed |
 | M094095 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryDoubleStepAtPlace` | volunteer-build-reviewed |
 | M094096 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryDoubleStepAtPlaceStatement` | volunteer-build-reviewed |
-| M094097 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryLastTwoStepsAtPlace` | volunteer-build-reviewed |
-| M094098 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryLastTwoStepsAtPlaceStatement` | volunteer-build-reviewed |
-| M094100 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryRelativeBaseVacuaLargeDepthStatement` | volunteer-build-reviewed |
-| M094101 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryScalarLargeDepth` | volunteer-build-reviewed |
-| M094102 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatDictionaryScalarLargeDepthStatement` | volunteer-build-reviewed |
-| M094103 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatIntegrandFlippedTensorLocallyConstantCompact` | volunteer-build-reviewed |
-| M094104 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FlatIntegrandFlippedTensorLocallyConstantCompactStatement` | volunteer-build-reviewed |

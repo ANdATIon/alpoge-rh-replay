@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127229 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfiniteStatement` | volunteer-build-reviewed |
+| M127230 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFactorizableDecomposition` | volunteer-build-reviewed |
+| M127233 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFiniteSumOfProductsStatement` | volunteer-build-reviewed |
+| M127235 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAdelicStatement` | volunteer-build-reviewed |
+| M127236 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAnyHaar` | volunteer-build-reviewed |
+| M127238 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpan` | volunteer-build-reviewed |
+| M127239 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpanStatement` | volunteer-build-reviewed |
+| M127240 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneRightTranslate` | volunteer-build-reviewed |
+| M127241 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneRightTranslateStatement` | volunteer-build-reviewed |
 | M127242 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatProdSpanTensors` | build-observed |
 | M127243 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatProdSpanTensorsStatement` | build-observed |
 | M127244 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorant` | build-observed |
@@ -46,11 +55,13 @@
 | M127310 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionLeftInvariantRationalParabolic` | volunteer-build-reviewed |
 | M127311 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionLeftInvariantRationalParabolicStatement` | volunteer-build-reviewed |
 | M127312 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionMeetsAbovePlace` | volunteer-build-reviewed |
+| M127313 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionMeetsAbovePlaceStatement` | volunteer-build-reviewed |
 | M127316 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionOrthCptZero` | build-observed |
 | M127317 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionOrthogonalIdempotentSum` | wave-reused |
 | M127318 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionOrthogonalIdempotentSumStatement` | wave-reused |
 | M127319 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionOverIdempotentProperties` | wave-reused |
 | M127320 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionOverIdempotentPropertiesStatement` | wave-reused |
+| M127323 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionQuotientComplex` | volunteer-build-reviewed |
 | M127324 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionsEqUnivOffBadSupport` | wave-reused |
 | M127325 | P1366 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SectionsEqUnivOffBadSupportStatement` | wave-reused |
 | M127327 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SegmentDualPrecedesIffStatement` | volunteer-build-reviewed |
@@ -63,6 +74,7 @@
 | M127355 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SelmerGroupDualExact` | volunteer-build-reviewed |
 | M127357 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SemidirectProductHomeomorphOfClosedComplement` | volunteer-build-reviewed |
 | M127358 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SemidirectProductHomeomorphOfClosedComplementStatement` | volunteer-build-reviewed |
+| M127359 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SeminormCompUnitaryLe` | volunteer-build-reviewed |
 | M127361 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SemisimpleClassificationReal` | volunteer-build-reviewed |
 | M127362 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SemisimpleClassificationRealStatement` | volunteer-build-reviewed |
 | M127363 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SemistableGenericFibreLocalization` | volunteer-build-reviewed |
@@ -202,6 +214,7 @@
 | M127588 | P2164 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothIntegralLinearChange` | volunteer-build-reviewed |
 | M127589 | P2175 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothIntegralLinearChangeStatement` | volunteer-build-reviewed |
 | M127590 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothKFiniteCenter` | volunteer-build-reviewed |
+| M127591 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothKFiniteCenterStatement` | volunteer-build-reviewed |
 | M127592 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothMirabolicKernelEqZero` | volunteer-build-reviewed |
 | M127598 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothMonotoneCutoffExists` | build-observed |
 | M127599 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothMonotoneCutoffExistsStatement` | build-observed |
@@ -233,11 +246,13 @@
 | M127641 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothWeightsIntegralPullbackFormula` | volunteer-build-reviewed |
 | M127642 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothWeightsIntegralPullbackFormulaStatement` | volunteer-build-reviewed |
 | M127644 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothingFundamentalDomainBoundStatement` | volunteer-build-reviewed |
+| M127645 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothingFundamentalDomainIntegral` | volunteer-build-reviewed |
 | M127648 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmoothingLipschitzBoundStatement` | volunteer-build-reviewed |
 | M127649 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmorFrFrame` | build-observed |
 | M127650 | P1290 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulEqZeroOfEvEqZero` | build-observed |
 | M127651 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulEqZeroOfLTensorSubtypeEqZero` | volunteer-build-reviewed |
 | M127652 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulEqZeroOfMem` | build-observed |
+| M127654 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulInvSub` | volunteer-build-reviewed |
 | M127656 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulMemRangeLTensorOfLTensorEqZero` | volunteer-build-reviewed |
 | M127657 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulQuotientInvMkEqMkIffMulEquiv` | volunteer-build-reviewed |
 | M127658 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmulSmulMemRange` | volunteer-build-reviewed |
@@ -280,6 +295,7 @@
 | M127736 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceExists` | volunteer-build-reviewed |
 | M127737 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceExistsStatement` | volunteer-build-reviewed |
 | M127738 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceLocalElement` | volunteer-build-reviewed |
+| M127739 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceLocalElementStatement` | volunteer-build-reviewed |
 | M127741 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceRankCutOfAlternativeStatement` | volunteer-build-reviewed |
 | M127742 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitQuadraticOrderPrincipal` | volunteer-build-reviewed |
 | M127743 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitQuadraticOrderPrincipalStatement` | volunteer-build-reviewed |
@@ -293,6 +309,7 @@
 | M127766 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareEuler` | volunteer-build-reviewed |
 | M127767 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareIntegrableOfHeckeSpectral` | volunteer-build-reviewed |
 | M127769 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareIntegrableSingleSegment` | volunteer-build-reviewed |
+| M127770 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareIntegrableSingleSegmentStatement` | volunteer-build-reviewed |
 | M127777 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareZeroNeighbourhoodAffineStatement` | volunteer-build-reviewed |
 | M127779 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquareZeroNeighbourhoodProductZeroStatement` | volunteer-build-reviewed |
 | M127780 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SquarefreeDimensionFormula` | build-observed |
@@ -305,8 +322,10 @@
 | M127787 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StUniq` | volunteer-build-reviewed |
 | M127788 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabFiniteIndexOfSmooth` | build-observed |
 | M127790 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabiliserSplittingAdelic` | volunteer-build-reviewed |
+| M127791 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabiliserSplittingAdelicStatement` | volunteer-build-reviewed |
 | M127792 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabilizerImageNoDualComponent` | volunteer-build-reviewed |
 | M127793 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabilizerIndexNeZero` | volunteer-build-reviewed |
+| M127794 | P1829 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StabilizerIndexNeZeroStatement` | volunteer-build-reviewed |
 | M127795 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StableCoverCechVanishing` | build-observed |
 | M127796 | P0798 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StableCoverCechVanishingStatement` | build-observed |
 | M127797 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.StableFamilyProperties` | build-observed |
@@ -383,22 +402,3 @@
 | M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |
 | M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
 | M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |
-| M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
-| M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
-| M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
-| M127940 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportOfExponentOfCasselman` | volunteer-build-reviewed |
-| M127941 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlaces` | build-observed |
-| M127942 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlacesStatement` | build-observed |
-| M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
-| M127947 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveIntertwinerQuotientEquiv` | volunteer-build-reviewed |
-| M127949 | P2472 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveInvTranspose` | volunteer-build-reviewed |
-| M127951 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparability` | wave-reused |
-| M127952 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparabilityStatement` | wave-reused |
-| M127953 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompact` | volunteer-build-reviewed |
-| M127954 | P2104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompactStatement` | volunteer-build-reviewed |
-| M127956 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapProductSegments` | volunteer-build-reviewed |
-| M127957 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProd` | volunteer-build-reviewed |
-| M127959 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLe` | volunteer-build-reviewed |
-| M127961 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistedCentralizerDiagonal` | volunteer-build-reviewed |
-| M127968 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero` | volunteer-build-reviewed |
-| M127969 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmall` | build-observed |

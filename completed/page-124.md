@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087092 | P0486 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtaleStatement` | volunteer-build-reviewed |
+| M087096 | P0407 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRight` | build-observed |
+| M087097 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRightStatement` | build-observed |
+| M087098 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivPowerEnvelopeMemAinfAdjoinBeta` | volunteer-build-reviewed |
+| M087099 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivPowerEnvelopeMemAinfAdjoinBetaStatement` | build-observed |
+| M087100 | P1204 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivisorsAtInvDualLabelAndStabilizerMul` | volunteer-build-reviewed |
+| M087103 | P1487 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DoubleCosetOperatorEqLabelOperatorLocalReps` | volunteer-build-reviewed |
 | M087104 | P1516 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DoubleCosetOperatorEqLabelOperatorLocalRepsStatement` | volunteer-build-reviewed |
 | M087107 | P2138 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DoubleCosetSupportAtSplit` | volunteer-build-reviewed |
 | M087109 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DownLiftUpLiftPositiveScalarUsedTuples` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M088130 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosedStatement` | volunteer-build-reviewed |
 | M088131 | P2658 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrin` | volunteer-build-reviewed |
 | M088132 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureOfFiniteMapIntegrallyClosedSubrinStatement` | volunteer-build-reviewed |
-| M088133 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZero` | build-observed |
-| M088134 | P0931 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZeroStatement` | build-observed |
-| M088136 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralGlReductionModPrime` | build-observed |
-| M088137 | P0931 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralGlReductionModPrimeStatement` | build-observed |
-| M088153 | P1285 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralTensorAdelesEqAdelicCompletionOne` | build-observed |
-| M088156 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralWittTheoremModUniformizerPowStatement` | volunteer-build-reviewed |
-| M088160 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.InvCoordsIsBasisAtBaseLatticeOfStdCompanionStatement` | volunteer-build-reviewed |

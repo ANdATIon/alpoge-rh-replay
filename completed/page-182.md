@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120244 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCover` | build-observed |
+| M120245 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCoverStatement` | build-observed |
+| M120248 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramDeterminantLogDifferent` | volunteer-build-reviewed |
+| M120249 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramDeterminantLogDifferentStatement` | volunteer-build-reviewed |
+| M120251 | P2028 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramSignatureOrthogonalSplitStatement` | volunteer-build-reviewed |
+| M120258 | P0879 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartId` | build-observed |
+| M120259 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartIff` | build-observed |
+| M120261 | P2028 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HausdorffConeBallMeasureStatement` | volunteer-build-reviewed |
+| M120262 | P2472 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HenselianAlgClosedResidue` | volunteer-build-reviewed |
 | M120263 | P2500 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HenselianAlgClosedResidueStatement` | volunteer-build-reviewed |
 | M120272 | P0562 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HodgeDivisorIdealLattice` | volunteer-build-reviewed |
 | M120279 | P0562 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HodgeLatticeDualEigenDecompositionStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M120909 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.Aq` | volunteer-build-reviewed |
 | M120910 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchExponentEqZeroOfMulSelf` | build-observed |
 | M120911 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExists` | volunteer-build-reviewed |
-| M120912 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchLieDerivativeExistsStatement` | volunteer-build-reviewed |
-| M120914 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchSmoothCompTransposeInvStatement` | volunteer-build-reviewed |
-| M120919 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterInCoordinates` | volunteer-build-reviewed |
-| M120920 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterInCoordinatesStatement` | volunteer-build-reviewed |
-| M120921 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterRealPairing` | volunteer-build-reviewed |
-| M120922 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCharacterRealPairingStatement` | volunteer-build-reviewed |
-| M120924 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCompactSetDensityBoundedStatement` | volunteer-build-reviewed |
-| M120925 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCoordinates` | volunteer-build-reviewed |
-| M120926 | P1777 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArchimedeanCoordinatesStatement` | volunteer-build-reviewed |

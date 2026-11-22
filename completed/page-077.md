@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052381 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlacePartsStatement` | volunteer-build-reviewed |
+| M052382 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDual` | volunteer-build-reviewed |
+| M052383 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDualStatement` | volunteer-build-reviewed |
+| M052384 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeLocalDarbouxCoordsBounded` | volunteer-build-reviewed |
+| M052385 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeLocalDarbouxCoordsBoundedStatement` | volunteer-build-reviewed |
 | M052386 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeSplitPlaceEqAddComponentParts` | volunteer-build-reviewed |
 | M052387 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeSplitPlaceEqAddComponentPartsStatement` | volunteer-build-reviewed |
 | M052389 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLocalizationAtPrimeIsDomainOfIsLocalRingEt` | build-observed |
@@ -397,8 +402,3 @@
 | M053063 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSumNeZeroIndicator` | volunteer-build-reviewed |
 | M053073 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsIntegralUnitNormalLocalDo` | volunteer-build-reviewed |
 | M053074 | P2638 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsIntegralUnitNormalLocalDoStatement` | volunteer-build-reviewed |
-| M053075 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSymmetricFunctionsMemNormalDomain` | volunteer-build-reviewed |
-| M053077 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctions` | volunteer-build-reviewed |
-| M053078 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemClassSumsValuesOfFunctionsStatement` | volunteer-build-reviewed |
-| M053079 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemRechartAffineOpenAtClassicalTrait` | volunteer-build-reviewed |
-| M053081 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaSystemUniversalUnitaryDeepTowers` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043942 | P1400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultRealElt` | build-observed |
+| M043945 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiDifferenceVanishesOfInvarianceStatement` | volunteer-build-reviewed |
+| M043946 | P2212 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiPlaceStep` | volunteer-build-reviewed |
 | M043949 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultiformHeightLowerBoundStatement` | volunteer-build-reviewed |
 | M043951 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultilinearMemSpanImagePartial` | volunteer-build-reviewed |
 | M043953 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MultilinearQuotientFactorization` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M044660 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactification` | volunteer-build-reviewed |
 | M044661 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedBlowupAmpleDivisorCompactificationStatement` | volunteer-build-reviewed |
 | M044662 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuum` | volunteer-build-reviewed |
-| M044663 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyEqTensorPowerVacuumStatement` | volunteer-build-reviewed |
-| M044664 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyNonzeroThetaVectorsNumberField` | volunteer-build-reviewed |
-| M044665 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisedFamilyNonzeroThetaVectorsNumberFieldStatement` | volunteer-build-reviewed |

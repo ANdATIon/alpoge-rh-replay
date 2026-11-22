@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059436 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangular` | volunteer-build-reviewed |
+| M059437 | P1279 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedReferenceFrameCongruentUnitriangularStatement` | volunteer-build-reviewed |
+| M059439 | P1224 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedRowLatticeTermIsLatticeStatement` | volunteer-build-reviewed |
+| M059440 | P2084 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsGlobalTermPhase` | volunteer-build-reviewed |
+| M059441 | P2098 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsGlobalTermPhaseStatement` | volunteer-build-reviewed |
+| M059443 | P2071 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovedTermLatticeIsLocalTermAtPlaceStatement` | volunteer-build-reviewed |
 | M059446 | P1983 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovesToDeterminesUnipotentFactorisation` | volunteer-build-reviewed |
 | M059447 | P2002 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovesToDeterminesUnipotentFactorisationStatement` | volunteer-build-reviewed |
 | M059449 | P1224 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.MovesToGivesIntegralMatricesStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M060100 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevIteratedOneParameterSubgroups` | volunteer-build-reviewed |
 | M060102 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SobolevValueAtOneFixedCompactDiagSignUnitaryStatement` | volunteer-build-reviewed |
 | M060104 | P1672 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanCoefficientIdealEqSpanFrameScaleStatement` | volunteer-build-reviewed |
-| M060105 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanDecay` | volunteer-build-reviewed |
-| M060108 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanEqMap` | wave-reused |
-| M060110 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanInfEq` | volunteer-build-reviewed |
-| M060111 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanToLePerp` | wave-reused |
-| M060112 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanToZero` | wave-reused |
-| M060113 | P2039 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpectralStagePointRowPlacementTransfer` | volunteer-build-reviewed |

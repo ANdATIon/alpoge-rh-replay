@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053788 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSaturatedStatement` | volunteer-build-reviewed |
+| M053790 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSemicharacterEqNegOnePowTraceExponent` | volunteer-build-reviewed |
+| M053792 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSpreadLatticeMapCommutesEndomorphisms` | volunteer-build-reviewed |
+| M053794 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusSpreadLatticeMapSurjective` | volunteer-build-reviewed |
+| M053796 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusTangentCombinationCharacterValues` | volunteer-build-reviewed |
+| M053803 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusWeightScalarZeroCharacterEqOne` | volunteer-build-reviewed |
 | M053804 | P2718 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TorusWeightScalarZeroCharacterEqOneStatement` | volunteer-build-reviewed |
 | M053806 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalDegreeAevalLeOfDegLeOne` | volunteer-build-reviewed |
 | M053808 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalDegreeLeOfIntegralAtInfinity` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M054516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecomposition` | volunteer-build-reviewed |
 | M054517 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormFixedDecompositionStatement` | volunteer-build-reviewed |
 | M054520 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConj` | build-observed |
-| M054521 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConjStatement` | volunteer-build-reviewed |
-| M054522 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormUnitCommutation` | volunteer-build-reviewed |
-| M054523 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitNormBounds` | volunteer-build-reviewed |
-| M054524 | P1481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitNormBoundsStatement` | build-observed |
-| M054525 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralCongruenceLevelEqCount` | volunteer-build-reviewed |
-| M054532 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralLevelFunctionInertEqLatticStatement` | volunteer-build-reviewed |

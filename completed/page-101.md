@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068684 | P2239 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCellPartUnfoldedIntegralPositiveStatement` | volunteer-build-reviewed |
+| M068686 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralConjugateFlipScalarFiniteAdelicStatement` | volunteer-build-reviewed |
+| M068687 | P2566 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipThetaTranslateHalfLevel` | volunteer-build-reviewed |
+| M068688 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipThetaTranslateHalfLevelStatement` | volunteer-build-reviewed |
+| M068689 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipTranslateHalfPlacesThetaPair` | volunteer-build-reviewed |
+| M068691 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralTranslateUniformisationCuspFormNeZe` | volunteer-build-reviewed |
+| M068692 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralTranslateUniformisationCuspFormNeZeStatement` | volunteer-build-reviewed |
 | M068693 | P0899 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCharDescent` | build-observed |
 | M068694 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsClassMapCorrespondence` | volunteer-build-reviewed |
 | M068695 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsClassMapCorrespondenceStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M069319 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsComplOfSaturated` | volunteer-build-reviewed |
 | M069320 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsDetRootFinPartOne` | volunteer-build-reviewed |
 | M069321 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFinIdem` | volunteer-build-reviewed |
-| M069322 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitriangu` | volunteer-build-reviewed |
-| M069323 | P2214 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitrianguStatement` | volunteer-build-reviewed |
-| M069325 | P1843 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsGrpPullbackOfLattice` | volunteer-build-reviewed |
-| M069327 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsHeckeDatum` | volunteer-build-reviewed |
-| M069328 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsIntegralSmallElementPowSmul` | volunteer-build-reviewed |
-| M069330 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsIotaAt` | volunteer-build-reviewed |
-| M069331 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsJumpMultiset` | build-observed |

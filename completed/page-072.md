@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048829 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstant` | volunteer-build-reviewed |
+| M048830 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerLocallyConstantStatement` | volunteer-build-reviewed |
+| M048831 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerModelComplexConjugateNegForm` | volunteer-build-reviewed |
 | M048832 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerModelComplexConjugateNegFormStatement` | volunteer-build-reviewed |
 | M048833 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerOperatorMemAdelicSchwartzStdChar` | volunteer-build-reviewed |
 | M048834 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchrodingerOperatorMemAdelicSchwartzStdCharStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M049416 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartStabilizerStatement` | volunteer-build-reviewed |
 | M049417 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeALocalPartTriple` | volunteer-build-reviewed |
 | M049419 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleIdentity` | volunteer-build-reviewed |
-| M049421 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecond` | volunteer-build-reviewed |
-| M049422 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleSecondStatement` | volunteer-build-reviewed |
-| M049423 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeesawTypeASchwartzTripleThird` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088133 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZero` | build-observed |
+| M088134 | P0931 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralDivUniformizerOfRedZeroStatement` | build-observed |
+| M088136 | P0903 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralGlReductionModPrime` | build-observed |
+| M088137 | P0931 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralGlReductionModPrimeStatement` | build-observed |
+| M088153 | P1285 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralTensorAdelesEqAdelicCompletionOne` | build-observed |
+| M088156 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralWittTheoremModUniformizerPowStatement` | volunteer-build-reviewed |
+| M088160 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.InvCoordsIsBasisAtBaseLatticeOfStdCompanionStatement` | volunteer-build-reviewed |
 | M088161 | P0623 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.InvMemDoubleCosetAndComm` | build-observed |
 | M088162 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.InvariantFormBoundedCongruence` | volunteer-build-reviewed |
 | M088170 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.IrreducibleGl1IsoDet` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M089158 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquot` | volunteer-build-reviewed |
 | M089159 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PropertyDescendsFiniteLengthToIrreducibleSubquotStatement` | volunteer-build-reviewed |
 | M089163 | P2127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PublishedInputsCombined` | volunteer-build-reviewed |
-| M089164 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PublishedInputsCombinedStatement` | volunteer-build-reviewed |
-| M089165 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullPreservesFiniteLimits` | volunteer-build-reviewed |
-| M089166 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackContractionScalarsIdentity` | volunteer-build-reviewed |
-| M089167 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackContractionScalarsIdentityStatement` | volunteer-build-reviewed |
-| M089168 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackScalarNeZeroLatticeTuplePair` | volunteer-build-reviewed |
-| M089169 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackScalarNeZeroLatticeTuplePairStatement` | volunteer-build-reviewed |
-| M089170 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackThenFrameSubstitutionEqChangedFrames` | volunteer-build-reviewed |

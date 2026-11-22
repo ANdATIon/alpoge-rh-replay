@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078879 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOfResidueFiniteComplete` | volunteer-build-reviewed |
+| M078881 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOrbitsOfFiniteFibres` | volunteer-build-reviewed |
+| M078882 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePartAtOwnWeightNeBot` | volunteer-build-reviewed |
+| M078883 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePlacesLgNeZero` | volunteer-build-reviewed |
+| M078889 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteSmoothIrreducible` | volunteer-build-reviewed |
+| M078892 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteTypeIsotypicPartEqISupEquivariantHomsFrameStatement` | volunteer-build-reviewed |
+| M078893 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteTypesViaFullHeckeAlgebraEigensystems` | volunteer-build-reviewed |
 | M078895 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteVolumeAdelicUnitaryQuotient` | volunteer-build-reviewed |
 | M078896 | P1334 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteVolumeAdelicUnitaryQuotientStatement` | build-observed |
 | M078897 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitelyManyIsoClassesProjectiveNumberField` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M079752 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InclMulInvMul` | volunteer-build-reviewed |
 | M079753 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncludeLInjective` | volunteer-build-reviewed |
 | M079754 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IncreasingRowChoicePerColumn` | volunteer-build-reviewed |
-| M079765 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlaces` | volunteer-build-reviewed |
-| M079766 | P2215 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndexZeroOffTwistedPlacesStatement` | volunteer-build-reviewed |
-| M079767 | P2191 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndicesPairingLengthsVanishOffTwistedPlaces` | volunteer-build-reviewed |
-| M079768 | P2203 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IndicesPairingLengthsVanishOffTwistedPlacesStatement` | volunteer-build-reviewed |
-| M079769 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricDifferenceLog` | volunteer-build-reviewed |
-| M079770 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricDifferenceLogStatement` | volunteer-build-reviewed |
-| M079771 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.InducedMetricPow` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109506 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfClopRepOfRank` | volunteer-build-reviewed |
+| M109507 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfDisjointOpenCover` | volunteer-build-reviewed |
+| M109508 | P2441 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfIsSplitOfRank` | volunteer-build-reviewed |
+| M109509 | P2441 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfRankOfLocallyNoetherian` | volunteer-build-reviewed |
+| M109510 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepPullback` | volunteer-build-reviewed |
+| M109511 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepTrivial` | volunteer-build-reviewed |
+| M109512 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopenSubgroupLocus` | volunteer-build-reviewed |
+| M109513 | P0688 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClosedFiberColimitPresentation` | volunteer-build-reviewed |
 | M109514 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClosedLocusOfTorsionAbelianScheme` | volunteer-build-reviewed |
 | M109517 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsCommonZeroOfJacobianIsUnitHenselian` | wave-reused |
 | M109518 | P0045 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsCotangentMapDualBasisOfParameters` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M110075 | P2469 | `Development.AutomorphicArithmetic.DivisorFrames.AbelianSchemeMapsValuation` | volunteer-build-reviewed |
 | M110076 | P2045 | `Development.AutomorphicArithmetic.DivisorFrames.AbsHcExponentLeAndAbsCenterLeOfSizeRows` | volunteer-build-reviewed |
 | M110077 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.AdaptedPlaneHermitianRestrict` | volunteer-build-reviewed |
-| M110078 | P0046 | `Development.AutomorphicArithmetic.DivisorFrames.AdeleUnitsPolarCircles` | volunteer-build-reviewed |
-| M110079 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleFlagValuation` | volunteer-build-reviewed |
-| M110080 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleLevelMatch` | volunteer-build-reviewed |
-| M110081 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleModelValuation` | volunteer-build-reviewed |
-| M110082 | P2708 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleModelValuationAlt` | volunteer-build-reviewed |
-| M110083 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointCharts` | volunteer-build-reviewed |
-| M110084 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointDiscreteValuation` | volunteer-build-reviewed |
-| M110085 | P2713 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointHeightCompat` | volunteer-build-reviewed |

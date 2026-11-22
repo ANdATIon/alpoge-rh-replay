@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078057 | P0819 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsModulusBbDisjoint` | build-observed |
+| M078061 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMaps` | volunteer-build-reviewed |
+| M078062 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMorphismOfStalkMapsStatement` | volunteer-build-reviewed |
+| M078067 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedDataLaterStagesWithNewTwistStatement` | volunteer-build-reviewed |
+| M078070 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedRowLiftDataToFittingStages` | volunteer-build-reviewed |
+| M078071 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovedRowLiftDataToFittingStagesStatement` | volunteer-build-reviewed |
+| M078072 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMovesOfSelfDual` | volunteer-build-reviewed |
 | M078074 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMulEqInteger` | volunteer-build-reviewed |
 | M078075 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMulEqMulDiagonal` | volunteer-build-reviewed |
 | M078077 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMulGaloisConjEqPrimeImagQuadraticStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M078875 | P2755 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecond` | volunteer-build-reviewed |
 | M078876 | P2761 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteLevelAndSecondStatement` | volunteer-build-reviewed |
 | M078877 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteNonemptyOffCharts` | volunteer-build-reviewed |
-| M078879 | P0309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOfResidueFiniteComplete` | volunteer-build-reviewed |
-| M078881 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteOrbitsOfFiniteFibres` | volunteer-build-reviewed |
-| M078882 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePartAtOwnWeightNeBot` | volunteer-build-reviewed |
-| M078883 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePlacesLgNeZero` | volunteer-build-reviewed |
-| M078889 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteSmoothIrreducible` | volunteer-build-reviewed |
-| M078892 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteTypeIsotypicPartEqISupEquivariantHomsFrameStatement` | volunteer-build-reviewed |
-| M078893 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteTypesViaFullHeckeAlgebraEigensystems` | volunteer-build-reviewed |

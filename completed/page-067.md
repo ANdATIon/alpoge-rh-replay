@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045353 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralCompactInvariantStatement` | volunteer-build-reviewed |
+| M045354 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairIntegralRatioOfHyp` | volunteer-build-reviewed |
+| M045355 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairLinearBarVector` | volunteer-build-reviewed |
 | M045356 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairLinearBarVectorStatement` | volunteer-build-reviewed |
 | M045357 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairLocalEvaluationPlanes` | volunteer-build-reviewed |
 | M045359 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PairLocalFinitePlacesProductStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M046006 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExp` | build-observed |
 | M046007 | P0786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarJacLeExpStatement` | build-observed |
 | M046009 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleIsoGenericExtendsNormalLocalStatement` | volunteer-build-reviewed |
-| M046010 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisat` | volunteer-build-reviewed |
-| M046011 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationBundleSymmetricPullbackOfUniformisatStatement` | volunteer-build-reviewed |
-| M046013 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolarisationDetStatement` | volunteer-build-reviewed |

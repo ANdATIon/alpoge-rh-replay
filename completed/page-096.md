@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065345 | P1036 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NuRowNonnegLeTenMul` | build-observed |
+| M065348 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OneLeLetterBlockLength` | volunteer-build-reviewed |
+| M065349 | P2724 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OpenAndLinkedMonoExtension` | volunteer-build-reviewed |
+| M065350 | P2724 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OpenImpliesL3AtLinkedBundles` | volunteer-build-reviewed |
+| M065351 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrdDetConjFinite` | build-observed |
+| M065353 | P0404 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrderNeTop` | build-observed |
 | M065354 | P0621 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrthogonalComplementUnitaryEmbeddingConjBlock` | build-observed |
 | M065356 | P0981 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OverLatticeIffSelfDualOverBase` | build-observed |
 | M065361 | P0981 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ParahoricLeIntegralGl` | build-observed |
@@ -396,9 +402,3 @@
 | M066102 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasAllKTypesOfClosureDiscreteSeriesCoefficientsStatement` | volunteer-build-reviewed |
 | M066104 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasDerivAtMatrixExpEntryReal` | volunteer-build-reviewed |
 | M066106 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasExpOfLayer` | volunteer-build-reviewed |
-| M066108 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasFDerivAtDerFamProdExpStatement` | volunteer-build-reviewed |
-| M066109 | P0190 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpData` | build-observed |
-| M066110 | P0252 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpDataStatement` | build-observed |
-| M066112 | P1771 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSumCompactUnitaryFourierValueOneStatement` | volunteer-build-reviewed |
-| M066118 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeCommutatorRelation` | build-observed |
-| M066119 | P1123 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeCommutatorRelationStatement` | build-observed |

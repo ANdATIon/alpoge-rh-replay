@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056560 | P2734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernel` | volunteer-build-reviewed |
+| M056561 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernelStatement` | volunteer-build-reviewed |
+| M056562 | P2734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationUnitKernelLeKernel` | volunteer-build-reviewed |
+| M056563 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationUnitKernelLeKernelStatement` | volunteer-build-reviewed |
+| M056564 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductLevelStructureEqMkPoint` | volunteer-build-reviewed |
+| M056565 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductLevelStructureEqMkPointStatement` | volunteer-build-reviewed |
 | M056566 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductMkPointBasicFacts` | volunteer-build-reviewed |
 | M056567 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductMkPointBasicFactsStatement` | volunteer-build-reviewed |
 | M056568 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductRelationAlgebraicClauses` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M057347 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerIsometry` | wave-reused |
 | M057348 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantData` | wave-reused |
 | M057349 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerLatticeLocallyConstantDataStatement` | wave-reused |
-| M057350 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacter` | wave-reused |
-| M057351 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacterStatement` | wave-reused |
-| M057352 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMoveScalarFibreMeasureOne` | wave-reused |
-| M057353 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMoveScalarFibreMeasureOneStatement` | wave-reused |
-| M057354 | P0709 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddedDatumInvariantUnderUnipotent` | build-observed |
-| M057355 | P0735 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddedDatumInvariantUnderUnipotentStatement` | build-observed |

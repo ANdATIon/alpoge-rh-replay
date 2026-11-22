@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082670 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesRationalOnGoodCoversOfUntwisted` | volunteer-build-reviewed |
+| M082676 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TiedSKOfStd` | volunteer-build-reviewed |
+| M082677 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TildeCharacterOnUnitary` | volunteer-build-reviewed |
+| M082678 | P1100 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TildeCharacterOnUnitaryStatement` | build-observed |
+| M082682 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ToOverSurjective` | volunteer-build-reviewed |
+| M082690 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffBlockSymbolDetPowCayleyStatement` | volunteer-build-reviewed |
+| M082691 | P2440 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffChernPolyEqSumRepresentations` | build-observed |
 | M082693 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffEqTensorSquareTopCoefficient` | volunteer-build-reviewed |
 | M082697 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffProdBlockSymbolDetPow` | volunteer-build-reviewed |
 | M082702 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffRenameCayleyBlockSymbolEmbeddiStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M083714 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLieUnitaryElementSimpleRootStatement` | build-observed |
 | M083715 | P1283 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPoint` | wave-reused |
 | M083716 | P1310 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLiftPointTranslationFieldPointStatement` | wave-reused |
-| M083717 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLimitPowerSeriesAgreeOnAnnulusPoints` | volunteer-build-reviewed |
-| M083718 | P0309 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLimitPowerSeriesAgreeOnAnnulusPointsStatement` | volunteer-build-reviewed |
-| M083720 | P0407 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLinearEquivOfIrreducibleIsHW` | build-observed |
-| M083724 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLowestKFiniteVectorDiscreteSeries` | build-observed |
-| M083725 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsLowestKFiniteVectorDiscreteSeriesStatement` | build-observed |
-| M083726 | P1178 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsMahlerExpansion` | build-observed |
-| M083729 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ExistsMeasureOfBoundedMoments` | volunteer-build-reviewed |

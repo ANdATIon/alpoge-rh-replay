@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050901 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisation` | volunteer-build-reviewed |
+| M050902 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisationStatement` | volunteer-build-reviewed |
+| M050910 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadTorsorToEtaleAlgebraStatement` | volunteer-build-reviewed |
+| M050911 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SqId` | volunteer-build-reviewed |
 | M050912 | P2310 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SqLeOfForallNonneg` | volunteer-build-reviewed |
 | M050913 | P0114 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SqMulFinrankMatrixAlgebraHomEqFinrankMul` | volunteer-build-reviewed |
 | M050914 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SqMulFinrankMatrixAlgebraHomEqFinrankMulStatement` | volunteer-build-reviewed |
@@ -129,6 +133,7 @@
 | M051110 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageSmallNonzeroBase` | volunteer-build-reviewed |
 | M051112 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleFactorStepFirst` | volunteer-build-reviewed |
 | M051113 | P2812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleFactorStepFirstStatement` | volunteer-build-reviewed |
+| M051114 | P2816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleFactorStepSecond` | volunteer-build-reviewed |
 | M051115 | P2817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleFactorStepSecondStatement` | volunteer-build-reviewed |
 | M051116 | P2807 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleIntegralVanishing` | volunteer-build-reviewed |
 | M051117 | P2808 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StageTriangleIntegralVanishingStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M051572 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumValuationLogLeLogDiscriminant` | volunteer-build-reviewed |
 | M051574 | P1251 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWIffGoodFormsOrthSum` | build-observed |
 | M051575 | P0978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIff` | build-observed |
-| M051576 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIffStatement` | build-observed |
-| M051577 | P1943 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianScheme` | build-observed |
-| M051578 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianSchemeStatement` | build-observed |
-| M051579 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWeightSpreadLeExponentNormAdd` | volunteer-build-reviewed |
-| M051580 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWeightSpreadLeExponentNormAddStatement` | volunteer-build-reviewed |

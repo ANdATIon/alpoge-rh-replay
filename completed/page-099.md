@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067352 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparable` | volunteer-build-reviewed |
+| M067353 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyCompanionMatrixEtaleGeneratorSeparableStatement` | volunteer-build-reviewed |
+| M067354 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyDvdPowOfAevalEqZero` | volunteer-build-reviewed |
+| M067355 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEqOfSemisimplification` | build-observed |
+| M067356 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEqOfSemisimplificationStatement` | build-observed |
+| M067359 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyEtaleGeneratorMulMatrixSeparable` | volunteer-build-reviewed |
 | M067360 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyLeftMulBasis` | volunteer-build-reviewed |
 | M067361 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyMonoidAlgebraLiftEqOfCharpolyEq` | volunteer-build-reviewed |
 | M067362 | P0190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyMonoidAlgebraLiftEqOfCharpolyEqStatement` | volunteer-build-reviewed |
@@ -198,6 +204,7 @@
 | M067673 | P2407 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjEqOfNormalises` | volunteer-build-reviewed |
 | M067674 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjFourierCoefficientsConjugateTuples` | volunteer-build-reviewed |
 | M067675 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjFourierCoefficientsConjugateTuplesStatement` | volunteer-build-reviewed |
+| M067676 | P2377 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjFunBaseRoot` | volunteer-build-reviewed |
 | M067677 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjGenTransportExists` | volunteer-build-reviewed |
 | M067678 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjLMemWeil` | volunteer-build-reviewed |
 | M067679 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjLowUni` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M068021 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicAdmissibleSemistable` | build-observed |
 | M068024 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharInertiaSurjective` | wave-reused |
 | M068028 | P0555 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterCongrRootOfUnityPow` | build-observed |
-| M068030 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPow` | build-observed |
-| M068031 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPowStatement` | build-observed |
-| M068032 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPadicBasicProperties` | wave-reused |
-| M068033 | P0405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPadicBasicPropertiesStatement` | wave-reused |
-| M068034 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPowNeOneOfMovesRoot` | build-observed |
-| M068035 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPowNeOneOfMovesRootStatement` | build-observed |
-| M068036 | P1151 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCocycleMemImageOfCrystalline` | build-observed |

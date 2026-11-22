@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060105 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanDecay` | volunteer-build-reviewed |
+| M060108 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanEqMap` | wave-reused |
+| M060110 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanInfEq` | volunteer-build-reviewed |
+| M060111 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanToLePerp` | wave-reused |
+| M060112 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpanToZero` | wave-reused |
+| M060113 | P2039 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SpectralStagePointRowPlacementTransfer` | volunteer-build-reviewed |
 | M060114 | P1224 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SplitAndSmulCompletedLatticeLeAtLevelPrime` | volunteer-build-reviewed |
 | M060116 | P1983 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SplitPlaceBaseNeOfDistinctTypePrimes` | volunteer-build-reviewed |
 | M060117 | P2002 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.SplitPlaceBaseNeOfDistinctTypePrimesStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M060777 | P0925 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsFrameGCoefficientRingBaseChangeStatement` | build-observed |
 | M060778 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsNilpotentOfMemKerJetTruncR` | wave-reused |
 | M060779 | P0025 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsReducedGenericFibreOfIsReduced` | volunteer-build-reviewed |
-| M060782 | P0844 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.IsUniversalChartOfFormalGroupChart` | build-observed |
-| M060786 | P0117 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JacobianSmulKaehlerEqZero` | volunteer-build-reviewed |
-| M060787 | P0735 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetChartCoordinatesUniqueCommGroup` | wave-reused |
-| M060788 | P0762 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetChartCoordinatesUniqueCommGroupStatement` | wave-reused |
-| M060789 | P0953 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqBilinearSeriesOfBiadditive` | build-observed |
-| M060790 | P0980 | `Development.AbelianVarietyTheory.Proofs.FormalGroupCharts.JetEqBilinearSeriesOfBiadditiveStatement` | build-observed |

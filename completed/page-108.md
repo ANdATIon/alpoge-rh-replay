@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073402 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticStarStructure` | volunteer-build-reviewed |
+| M073404 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticUnitAtRamifiedPlaceStatement` | volunteer-build-reviewed |
+| M073410 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilFourierPreservesTestAdditiveStatement` | volunteer-build-reviewed |
+| M073411 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommute` | volunteer-build-reviewed |
+| M073412 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommuteStatement` | volunteer-build-reviewed |
+| M073413 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilUnipotentTorusPreserveTest` | volunteer-build-reviewed |
+| M073416 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticZetaNeOneAtPlaceStatement` | volunteer-build-reviewed |
 | M073417 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotPowMaximalCharPLocalCard` | volunteer-build-reviewed |
 | M073419 | P0685 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotPowMaximalIdealDiscreteFinite` | build-observed |
 | M073420 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotPowMaximalIdealDiscreteFiniteStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M074110 | P0193 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSelfDual` | volunteer-build-reviewed |
 | M074111 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsion` | wave-reused |
 | M074112 | P1013 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanSingletonClosedOfBoundedTorsionStatement` | wave-reused |
-| M074113 | P0957 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpanTopOfResidue` | build-observed |
-| M074118 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimeThresholdNumericsAlongFamilyStatement` | volunteer-build-reviewed |
-| M074120 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpecialPrimesSmallAlongFamilyStatement` | volunteer-build-reviewed |
-| M074124 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpectralNormClosedBallIsOpenIsCompactNhdsBasisAlStatement` | volunteer-build-reviewed |
-| M074129 | P0034 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpeiserDescentSpan` | volunteer-build-reviewed |
-| M074130 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpeiserDescentSpanStatement` | volunteer-build-reviewed |
-| M074131 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SphericalAwayFromTypes` | volunteer-build-reviewed |

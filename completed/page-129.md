@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091492 | P0822 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousInvLeadingBlockEntry` | wave-reused |
+| M091494 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnOfCharts` | wave-reused |
+| M091495 | P1072 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnRmul` | build-observed |
+| M091500 | P2286 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesDefiniteLiftIndex` | volunteer-build-reviewed |
+| M091501 | P2299 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesDefiniteLiftIndexStatement` | volunteer-build-reviewed |
+| M091502 | P2286 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesIndefiniteLiftIndex` | volunteer-build-reviewed |
+| M091503 | P2299 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesIndefiniteLiftIndexStatement` | volunteer-build-reviewed |
 | M091505 | P2274 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspReadingsSpanModelFormsShiftedWeightsStatement` | volunteer-build-reviewed |
 | M091506 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.DetFderivNeZeroOrbit` | wave-reused |
 | M091507 | P0591 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.DetMulStrictLowerEqOne` | wave-reused |
@@ -395,10 +402,3 @@
 | M092323 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvector` | volunteer-build-reviewed |
 | M092324 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CommutingIsometriesCommonEigenvectorStatement` | volunteer-build-reviewed |
 | M092326 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompAtMtOfMemGfC` | volunteer-build-reviewed |
-| M092328 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacter` | volunteer-build-reviewed |
-| M092329 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacterStatement` | volunteer-build-reviewed |
-| M092330 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopPairMovedVectorRowCharacter` | volunteer-build-reviewed |
-| M092331 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopPairMovedVectorRowCharacterStatement` | volunteer-build-reviewed |
-| M092332 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopRowRealPointInOrthonormalBasis` | volunteer-build-reviewed |
-| M092333 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopRowRealPointInOrthonormalBasisStatement` | volunteer-build-reviewed |
-| M092334 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactElementGaussianList` | volunteer-build-reviewed |

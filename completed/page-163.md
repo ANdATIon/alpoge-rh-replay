@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111110 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ChirpQ` | volunteer-build-reviewed |
+| M111111 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContEntry` | volunteer-build-reviewed |
+| M111112 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContKer` | volunteer-build-reviewed |
+| M111113 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContinuousFiniteAdeleEmbed` | volunteer-build-reviewed |
+| M111114 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContinuousQuaternaryFormLeft` | volunteer-build-reviewed |
+| M111115 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.EtaEx` | volunteer-build-reviewed |
+| M111116 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.EtaQuad` | volunteer-build-reviewed |
+| M111117 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.FtBasic` | volunteer-build-reviewed |
 | M111119 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.GaussS` | volunteer-build-reviewed |
 | M111120 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.GenLoc` | volunteer-build-reviewed |
 | M111121 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.GenRel` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M111535 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.ShiftM` | volunteer-build-reviewed |
 | M111537 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UMeasEx` | volunteer-build-reviewed |
 | M111538 | P2027 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.InfinitePlaceGluing.UnfOf` | volunteer-build-reviewed |
-| M111541 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.LatSum` | volunteer-build-reviewed |
-| M111542 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanLaws` | volunteer-build-reviewed |
-| M111543 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanZero` | volunteer-build-reviewed |
-| M111544 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeasEEx` | volunteer-build-reviewed |
-| M111545 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeasurableAl` | volunteer-build-reviewed |
-| M111546 | P2619 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MomKill` | volunteer-build-reviewed |
-| M111547 | P2699 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.NormCentral` | volunteer-build-reviewed |
-| M111548 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbFn` | volunteer-build-reviewed |

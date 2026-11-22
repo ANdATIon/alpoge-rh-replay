@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055903 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeChartChangeStatement` | build-observed |
+| M055904 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeComplexPointsProperClosedChartField` | volunteer-build-reviewed |
+| M055905 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeComplexPointsProperClosedChartFieldStatement` | volunteer-build-reviewed |
+| M055907 | P0116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeCoordinateBoxLeHadamard` | volunteer-build-reviewed |
+| M055908 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeCoordinateBoxLeHadamardStatement` | volunteer-build-reviewed |
+| M055909 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeEqLintegral` | volunteer-build-reviewed |
 | M055911 | P2407 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeEqualitySlopeMeanStatement` | volunteer-build-reviewed |
 | M055912 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeFundamentalDomainHermitian` | volunteer-build-reviewed |
 | M055914 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.VolumeHermitianEllipsoid` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M056557 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderActionRosatiAdjointStatement` | volunteer-build-reviewed |
 | M056558 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderIsRingActionOnProduct` | volunteer-build-reviewed |
 | M056559 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinOrderIsRingActionOnProductStatement` | volunteer-build-reviewed |
-| M056560 | P2734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernel` | volunteer-build-reviewed |
-| M056561 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationKernelLeUnitKernelStatement` | volunteer-build-reviewed |
-| M056562 | P2734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationUnitKernelLeKernel` | volunteer-build-reviewed |
-| M056563 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinPolarisationUnitKernelLeKernelStatement` | volunteer-build-reviewed |
-| M056564 | P2739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductLevelStructureEqMkPoint` | volunteer-build-reviewed |
-| M056565 | P2745 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ZarhinProductLevelStructureEqMkPointStatement` | volunteer-build-reviewed |

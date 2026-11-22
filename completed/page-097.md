@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066108 | P1672 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasFDerivAtDerFamProdExpStatement` | volunteer-build-reviewed |
+| M066109 | P0190 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpData` | build-observed |
+| M066110 | P0252 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSmoothLogNearOneOfIsUnitaryLieExpDataStatement` | build-observed |
+| M066112 | P1771 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HasSumCompactUnitaryFourierValueOneStatement` | volunteer-build-reviewed |
+| M066118 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeCommutatorRelation` | build-observed |
+| M066119 | P1123 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeCommutatorRelationStatement` | build-observed |
 | M066120 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeQuasiInvariantAndLevel` | build-observed |
 | M066121 | P1123 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDerivativeQuasiInvariantAndLevelStatement` | build-observed |
 | M066122 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.HeisenbergDirectionalDerivFormulaAndSmooth` | build-observed |
@@ -396,9 +402,3 @@
 | M066690 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqOfTwistConditionAStatement` | volunteer-build-reviewed |
 | M066691 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodChars` | volunteer-build-reviewed |
 | M066692 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleConjugatePairPlacesEqSelfOfGoodCharsStatement` | volunteer-build-reviewed |
-| M066697 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleJOfParams` | volunteer-build-reviewed |
-| M066699 | P0621 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmetic` | build-observed |
-| M066700 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleLetterDataWindowArithmeticStatement` | build-observed |
-| M066702 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleOfLargeResidueChar` | volunteer-build-reviewed |
-| M066703 | P0816 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleOfSurjective` | volunteer-build-reviewed |
-| M066704 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AdmissibleParametersFamilyConst` | volunteer-build-reviewed |

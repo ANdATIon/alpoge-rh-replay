@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093019 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocalStatement` | volunteer-build-reviewed |
+| M093020 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExDownExUpAndExUpExDown` | build-observed |
+| M093021 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExFieldOfKeyFinExKey` | volunteer-build-reviewed |
+| M093022 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExKeyOf` | volunteer-build-reviewed |
+| M093023 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExOneEqSelf` | volunteer-build-reviewed |
+| M093025 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdaptedExponentSchwartzBruhatLastColumn` | volunteer-build-reviewed |
+| M093026 | P0448 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdaptedExponentSchwartzBruhatLastColumnStatement` | build-observed |
 | M093027 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAddEquivSymplecticCoordsOrientedModel` | volunteer-build-reviewed |
 | M093030 | P2042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdelicBumpPeriodicUnderAdjointLatticeStatement` | volunteer-build-reviewed |
 | M093031 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdelicUnitaryFactorFiniteSetOfPlaces` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M093553 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNatMulIntegralMatricesSubsetOpenAddSubgrouStatement` | volunteer-build-reviewed |
 | M093554 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeOfMemSpan` | volunteer-build-reviewed |
 | M093555 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroAtZero` | volunteer-build-reviewed |
-| M093556 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroDiscreteSeriesInfiniteHom` | volunteer-build-reviewed |
-| M093558 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroLatticeVacuumSelfDual` | volunteer-build-reviewed |
-| M093559 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroLatticeVacuumSelfDualStatement` | volunteer-build-reviewed |
-| M093560 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroVacuumBesselLineLatticeRankZero` | volunteer-build-reviewed |
-| M093561 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNeZeroVacuumBesselLineLatticeRankZeroStatement` | volunteer-build-reviewed |
-| M093563 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNegatedSpaceDiscreteSeriesModelTransportStatement` | volunteer-build-reviewed |
-| M093564 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsNonzeroIntSmulMemOfIsLattice` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095086 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTsumOfFactor` | volunteer-build-reviewed |
+| M095087 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralUnfoldingVariablesMemFieldRange` | volunteer-build-reviewed |
+| M095088 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralUnfoldingVariablesMemFieldRangeStatement` | volunteer-build-reviewed |
+| M095090 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralValuesAlgebraicPointsIffValueNonnegStatement` | volunteer-build-reviewed |
+| M095091 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrandSupportedOnCellsLargeDepth` | volunteer-build-reviewed |
+| M095092 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrandSupportedOnCellsLargeDepthStatement` | volunteer-build-reviewed |
+| M095093 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegratedOperatorNormalizedIndicatorProdFixed` | volunteer-build-reviewed |
 | M095094 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegratedOperatorNormalizedIndicatorProdFixedStatement` | volunteer-build-reviewed |
 | M095095 | P1016 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InterlacedSignedParameters` | volunteer-build-reviewed |
 | M095099 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntertwinerMemISupRangeEqSumSmul` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M095561 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionFourthStatement` | volunteer-build-reviewed |
 | M095562 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecond` | volunteer-build-reviewed |
 | M095563 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionSecondStatement` | volunteer-build-reviewed |
-| M095564 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThird` | volunteer-build-reviewed |
-| M095565 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeFamilyAdoptionThirdStatement` | volunteer-build-reviewed |
-| M095566 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeLevelEqUnitaryInfFrameStabilizer` | volunteer-build-reviewed |
-| M095567 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeLevelEqUnitaryInfFrameStabilizerStatement` | volunteer-build-reviewed |
-| M095570 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOfStabiliserMulInvEqStandardLattice` | volunteer-build-reviewed |
-| M095571 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOfStabiliserMulInvEqStandardLatticeStatement` | volunteer-build-reviewed |
-| M095572 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.LatticeOffS0LastLevelIff` | volunteer-build-reviewed |

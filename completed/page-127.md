@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090137 | P2139 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescendsStatement` | volunteer-build-reviewed |
+| M090139 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSpanningHypotheses` | volunteer-build-reviewed |
+| M090140 | P1231 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSplitIdempotentsOfRelTraceOneModTwo` | build-observed |
+| M090143 | P0128 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticActionOfPeriodLatticeMap` | wave-reused |
+| M090144 | P0195 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticActionOfPeriodLatticeMapStatement` | wave-reused |
+| M090146 | P1071 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticDoubledHermitianCoordinates` | wave-reused |
+| M090147 | P1102 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticDoubledHermitianCoordinatesStatement` | wave-reused |
 | M090153 | P1867 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsTrivialAtLevelUnitaryTransportSelfDual` | volunteer-build-reviewed |
 | M090155 | P0448 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsUnitaryExt` | volunteer-build-reviewed |
 | M090158 | P0362 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsUnitarySiegelThetaTransformationLawStandar` | wave-reused |
@@ -395,10 +402,3 @@
 | M090840 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignInsert` | wave-reused |
 | M090841 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SignSwap` | wave-reused |
 | M090842 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFrames` | wave-reused |
-| M090843 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFramesStatement` | wave-reused |
-| M090844 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChange` | wave-reused |
-| M090845 | P1180 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChangeStatement` | wave-reused |
-| M090846 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimpleZerosMoveHolomorphically` | wave-reused |
-| M090847 | P0195 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SndFDerivAddSndFDerivIEqZeroOfHarmonicAtLine` | wave-reused |
-| M090848 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SpanModEquationsLift` | wave-reused |
-| M090849 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SqOfCalculus` | build-observed |

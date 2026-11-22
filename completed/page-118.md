@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081619 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBound` | volunteer-build-reviewed |
+| M081620 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBoundStatement` | build-observed |
+| M081621 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiSqrtLogBound` | build-observed |
+| M081622 | P1154 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiSqrtLogBoundStatement` | build-observed |
+| M081626 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiCoordinateTwoNsmulAssociatedPowFourStatement` | volunteer-build-reviewed |
+| M081627 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiCoordinatesEvenCharactersFourthPowersAssociat` | volunteer-build-reviewed |
+| M081631 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiGTrue` | volunteer-build-reviewed |
 | M081636 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiZeroConstOfIntegrableOn` | volunteer-build-reviewed |
 | M081637 | P2240 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PtEqOfPtOfFrameEq` | build-observed |
 | M081638 | P2272 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PtFJQOver` | build-observed |
@@ -395,10 +402,3 @@
 | M082665 | P0986 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaOfOfIsCharLab` | build-observed |
 | M082668 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePower` | volunteer-build-reviewed |
 | M082669 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesIntegralUniformPrimePowerStatement` | volunteer-build-reviewed |
-| M082670 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ThetaSeriesRationalOnGoodCoversOfUntwisted` | volunteer-build-reviewed |
-| M082676 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TiedSKOfStd` | volunteer-build-reviewed |
-| M082677 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TildeCharacterOnUnitary` | volunteer-build-reviewed |
-| M082678 | P1100 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TildeCharacterOnUnitaryStatement` | build-observed |
-| M082682 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ToOverSurjective` | volunteer-build-reviewed |
-| M082690 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffBlockSymbolDetPowCayleyStatement` | volunteer-build-reviewed |
-| M082691 | P2440 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TopDegreeFormCoeffChernPolyEqSumRepresentations` | build-observed |

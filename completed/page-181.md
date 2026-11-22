@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119669 | P0203 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LatNormGrLatNeZeroOfSpan` | wave-reused |
+| M119670 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor` | wave-reused |
+| M119671 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LieLatticeData` | volunteer-build-reviewed |
+| M119672 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.Models` | volunteer-build-reviewed |
+| M119673 | P0264 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable` | wave-reused |
+| M119674 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OnbMat` | volunteer-build-reviewed |
+| M119675 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PairingExtends` | build-observed |
+| M119676 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PluckerCoord` | wave-reused |
+| M119677 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ProIsoAt` | wave-reused |
 | M119678 | P0264 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.StepOrderRes` | volunteer-build-reviewed |
 | M119679 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.TranslateMemIndOrder` | volunteer-build-reviewed |
 | M119680 | P0318 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.TrivFlagMod` | wave-reused |
@@ -393,12 +402,3 @@
 | M120241 | P0412 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenerationAlongInvariantsStatement` | volunteer-build-reviewed |
 | M120242 | P2472 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersion` | volunteer-build-reviewed |
 | M120243 | P2500 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GenericPointOpenImmersionStatement` | volunteer-build-reviewed |
-| M120244 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCover` | build-observed |
-| M120245 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GlueQuotientChartsCoverStatement` | build-observed |
-| M120248 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramDeterminantLogDifferent` | volunteer-build-reviewed |
-| M120249 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramDeterminantLogDifferentStatement` | volunteer-build-reviewed |
-| M120251 | P2028 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.GramSignatureOrthogonalSplitStatement` | volunteer-build-reviewed |
-| M120258 | P0879 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartId` | build-observed |
-| M120259 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartIff` | build-observed |
-| M120261 | P2028 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HausdorffConeBallMeasureStatement` | volunteer-build-reviewed |
-| M120262 | P2472 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HenselianAlgClosedResidue` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054521 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormProductIterateTwistedConjStatement` | volunteer-build-reviewed |
+| M054522 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedNormUnitCommutation` | volunteer-build-reviewed |
+| M054523 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitNormBounds` | volunteer-build-reviewed |
+| M054524 | P1481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitNormBoundsStatement` | build-observed |
+| M054525 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralCongruenceLevelEqCount` | volunteer-build-reviewed |
+| M054532 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralLevelFunctionInertEqLatticStatement` | volunteer-build-reviewed |
 | M054533 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralLeviConstantTerm` | volunteer-build-reviewed |
 | M054534 | P1770 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralLeviConstantTermStatement` | volunteer-build-reviewed |
 | M054547 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TwistedOrbitalIntegralSphericalUnit` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M055246 | P2772 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryComparisonLatticePeriodsAtPoint` | volunteer-build-reviewed |
 | M055247 | P2775 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryComparisonLatticePeriodsAtPointStatement` | volunteer-build-reviewed |
 | M055249 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruenceDetEqOneOfThreeLeStatement` | volunteer-build-reviewed |
-| M055254 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConj` | volunteer-build-reviewed |
-| M055255 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryCongruentOneDetSubOneMemIdealMulConjStatement` | volunteer-build-reviewed |
-| M055256 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjMapsKerAevalBasisAndGram` | volunteer-build-reviewed |
-| M055257 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjMapsKerAevalBasisAndGramStatement` | volunteer-build-reviewed |
-| M055258 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjugateMatrixFamily` | volunteer-build-reviewed |
-| M055259 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnitaryConjugateMatrixFamilyStatement` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084568 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelOffDiagNormSqLe` | wave-reused |
+| M084569 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelOffDiagNormSqLeStatement` | build-observed |
+| M084570 | P0590 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelSumNormSqLe` | build-observed |
+| M084571 | P0623 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleLevelSumNormSqLeStatement` | build-observed |
+| M084572 | P0590 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleProjComponentsLevelAddTwo` | wave-reused |
+| M084573 | P0623 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleProjComponentsLevelAddTwoStatement` | wave-reused |
+| M084574 | P0590 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleProjDualTensorLevelAddTwo` | wave-reused |
 | M084575 | P0623 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlModuleProjDualTensorLevelAddTwoStatement` | wave-reused |
 | M084576 | P0793 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlProjectionLevelSumSqLe` | wave-reused |
 | M084577 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.UnitaryGlProjectionLevelSumSqLeStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M085255 | P0958 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSmulSecNonzeroOnSpecialFibreStatement` | volunteer-build-reviewed |
 | M085259 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPoint` | volunteer-build-reviewed |
 | M085260 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSquareLevelWithGivenThetaPointStatement` | volunteer-build-reviewed |
-| M085262 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsStableBasOfPullback` | build-observed |
-| M085263 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupEqRangeOfLists` | volunteer-build-reviewed |
-| M085264 | P0127 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSubgroupOfFinite` | volunteer-build-reviewed |
-| M085270 | P0738 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoHeckeQuotient` | build-observed |
-| M085271 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoOfPeriodMapGenus` | build-observed |
-| M085273 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsTateIsoOfPeriods` | volunteer-build-reviewed |
-| M085278 | P1947 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsThetaFamilyOverThetaPointScheme` | volunteer-build-reviewed |

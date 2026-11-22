@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064558 | P0845 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrime` | build-observed |
+| M064559 | P0872 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ArithmeticLargeSieveOneResidueClassPerPrimeStatement` | build-observed |
+| M064561 | P2463 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepConjugateInvariant` | volunteer-build-reviewed |
+| M064562 | P2585 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepConjugationTrace` | volunteer-build-reviewed |
+| M064563 | P2585 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AttachedRepsAgreeOnIntersection` | volunteer-build-reviewed |
+| M064566 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AveragedFibreMeasureComplFibreEqZero` | build-observed |
 | M064567 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AveragedFibreMeasureComplFibreEqZeroStatement` | build-observed |
 | M064568 | P1091 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.BadCharacterBound` | build-observed |
 | M064569 | P1121 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.BadCharacterBoundStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M065342 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotDvdDifferent` | build-observed |
 | M065343 | P0555 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplit` | build-observed |
 | M065344 | P0588 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NotIsFieldAdicCompletionTensorOfSplitStatement` | build-observed |
-| M065345 | P1036 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.NuRowNonnegLeTenMul` | build-observed |
-| M065348 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OneLeLetterBlockLength` | volunteer-build-reviewed |
-| M065349 | P2724 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OpenAndLinkedMonoExtension` | volunteer-build-reviewed |
-| M065350 | P2724 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OpenImpliesL3AtLinkedBundles` | volunteer-build-reviewed |
-| M065351 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrdDetConjFinite` | build-observed |
-| M065353 | P0404 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.OrderNeTop` | build-observed |

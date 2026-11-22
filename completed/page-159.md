@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109012 | P1656 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.BarFacts` | volunteer-build-reviewed |
+| M109013 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.CharacterSubgroupOpenEvenIndexTamePower` | volunteer-build-reviewed |
+| M109014 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.Elts2` | volunteer-build-reviewed |
+| M109015 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.ExistsDecompositionElementAtLXiPowFourNeOne` | volunteer-build-reviewed |
+| M109016 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.ExistsInertiaElementAtTwoXiPowFourNeOne` | volunteer-build-reviewed |
+| M109017 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.ExistsResQ` | volunteer-build-reviewed |
+| M109018 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.FixAb` | volunteer-build-reviewed |
+| M109019 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.FixInf` | volunteer-build-reviewed |
 | M109020 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.KxKapL` | volunteer-build-reviewed |
 | M109021 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.NegVal` | volunteer-build-reviewed |
 | M109022 | P1680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.FrobeniusFields.OddPowNe` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M109503 | P0201 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleLocallyHoldsOfPointwiseCoverOrAffineLocal` | volunteer-build-reviewed |
 | M109504 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtalePurityFreeCover` | wave-reused |
 | M109505 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsBijectiveCohomologyClassProductAdjunction` | build-observed |
-| M109506 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfClopRepOfRank` | volunteer-build-reviewed |
-| M109507 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfDisjointOpenCover` | volunteer-build-reviewed |
-| M109508 | P2441 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfIsSplitOfRank` | volunteer-build-reviewed |
-| M109509 | P2441 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfRankOfLocallyNoetherian` | volunteer-build-reviewed |
-| M109510 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepPullback` | volunteer-build-reviewed |
-| M109511 | P2412 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepTrivial` | volunteer-build-reviewed |
-| M109512 | P2698 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopenSubgroupLocus` | volunteer-build-reviewed |
-| M109513 | P0688 | `Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClosedFiberColimitPresentation` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057350 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacter` | wave-reused |
+| M057351 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMapMemUnipotentCharacterStatement` | wave-reused |
+| M057352 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMoveScalarFibreMeasureOne` | wave-reused |
+| M057353 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EichlerMoveScalarFibreMeasureOneStatement` | wave-reused |
+| M057354 | P0709 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddedDatumInvariantUnderUnipotent` | build-observed |
+| M057355 | P0735 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddedDatumInvariantUnderUnipotentStatement` | build-observed |
 | M057358 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddingsMatchInfinitePlacesAutInstance` | build-observed |
 | M057359 | P0923 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EmbeddingsMatchInfinitePlacesAutInstanceStatement` | build-observed |
 | M057360 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.EncardBiUnionLe` | build-observed |
@@ -396,9 +402,3 @@
 | M058116 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliser` | wave-reused |
 | M058117 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCharactersAgreeCommonStabiliserStatement` | wave-reused |
 | M058118 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliser` | wave-reused |
-| M058119 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliserStatement` | wave-reused |
-| M058120 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnesses` | wave-reused |
-| M058121 | P0521 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnessesStatement` | wave-reused |
-| M058122 | P1379 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesSameGramDifferBySkewSolution` | build-observed |
-| M058123 | P1402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesSameGramDifferBySkewSolutionStatement` | volunteer-build-reviewed |
-| M058125 | P1304 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalDomainCovol` | volunteer-build-reviewed |

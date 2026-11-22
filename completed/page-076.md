@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051576 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgeGlobalOneFormsEqZeroIffStatement` | build-observed |
+| M051577 | P1943 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianScheme` | build-observed |
+| M051578 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWedgePrimitiveOneFormsEqZeroAbelianSchemeStatement` | build-observed |
+| M051579 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWeightSpreadLeExponentNormAdd` | volunteer-build-reviewed |
+| M051580 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SumWeightSpreadLeExponentNormAddStatement` | volunteer-build-reviewed |
 | M051582 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SummableAbsDetRationalPointsGodementStatement` | volunteer-build-reviewed |
 | M051583 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SummableAbsNormInvSq` | build-observed |
 | M051584 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SummableExpNegL1Norm` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M052378 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGenerato` | volunteer-build-reviewed |
 | M052379 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqIntegralSpanGeneratoStatement` | volunteer-build-reviewed |
 | M052380 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlaceParts` | volunteer-build-reviewed |
-| M052381 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeAtFinitePlaceEqSumSplitPlacePartsStatement` | volunteer-build-reviewed |
-| M052382 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDual` | volunteer-build-reviewed |
-| M052383 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeInertPlaceSelfDualStatement` | volunteer-build-reviewed |
-| M052384 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeLocalDarbouxCoordsBounded` | volunteer-build-reviewed |
-| M052385 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TensorLatticeLocalDarbouxCoordsBoundedStatement` | volunteer-build-reviewed |

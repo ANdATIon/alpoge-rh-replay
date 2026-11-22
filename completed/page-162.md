@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110543 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DominantRearrangementProperties` | volunteer-build-reviewed |
+| M110544 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DualEx` | volunteer-build-reviewed |
+| M110545 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EntriesZero` | volunteer-build-reviewed |
+| M110546 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EpowSmul` | volunteer-build-reviewed |
+| M110547 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EvTSum` | volunteer-build-reviewed |
+| M110548 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.Gelf2` | volunteer-build-reviewed |
+| M110549 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.HarmDom` | volunteer-build-reviewed |
+| M110550 | P1521 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.HderEntry` | volunteer-build-reviewed |
 | M110551 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.HomSurj` | volunteer-build-reviewed |
 | M110553 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.IsoFacts` | volunteer-build-reviewed |
 | M110554 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.IsoSplit` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M111106 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.XEx` | volunteer-build-reviewed |
 | M111107 | P1777 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.FockOperators.XaCommCoord` | volunteer-build-reviewed |
 | M111109 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ChirpInf` | volunteer-build-reviewed |
-| M111110 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ChirpQ` | volunteer-build-reviewed |
-| M111111 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContEntry` | volunteer-build-reviewed |
-| M111112 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContKer` | volunteer-build-reviewed |
-| M111113 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContinuousFiniteAdeleEmbed` | volunteer-build-reviewed |
-| M111114 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.ContinuousQuaternaryFormLeft` | volunteer-build-reviewed |
-| M111115 | P1703 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.EtaEx` | volunteer-build-reviewed |
-| M111116 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.EtaQuad` | volunteer-build-reviewed |
-| M111117 | P1680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.GaussianForms.FtBasic` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058119 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCommonStabiliserEqPairingMatrixStabiliserStatement` | wave-reused |
+| M058120 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnesses` | wave-reused |
+| M058121 | P0521 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesCoordinateLatticeIsTermTrivialWitnessesStatement` | wave-reused |
+| M058122 | P1379 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesSameGramDifferBySkewSolution` | build-observed |
+| M058123 | P1402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FramesSameGramDifferBySkewSolutionStatement` | volunteer-build-reviewed |
+| M058125 | P1304 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalDomainCovol` | volunteer-build-reviewed |
 | M058127 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalDomainNormalisingConstantsStatement` | volunteer-build-reviewed |
 | M058128 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalSetMeasureCommensurableIndexRatio` | build-observed |
 | M058129 | P0896 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.FundamentalSetMeasureCommensurableIndexRatioStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M058767 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIrrAndDenseOfIsFdegG` | build-observed |
 | M058769 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubspaceRingOfIntegersStatement` | volunteer-build-reviewed |
 | M058770 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeComapSubtype` | volunteer-build-reviewed |
-| M058771 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeLatIn` | build-observed |
-| M058772 | P0401 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeOfSqueezedBetweenNatMultiples` | wave-reused |
-| M058773 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeOfSqueezedBetweenNatMultiplesStatement` | wave-reused |
-| M058774 | P0896 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeTraceDualAndTraceDualTraceDual` | build-observed |
-| M058775 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLatticeTraceDualAndTraceDualTraceDualStatement` | build-observed |
-| M058777 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsLocalizedModuleSubtype` | build-observed |

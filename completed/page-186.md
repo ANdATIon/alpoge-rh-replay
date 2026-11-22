@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122694 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinatesStatement` | volunteer-build-reviewed |
+| M122695 | P1133 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegral` | wave-reused |
+| M122696 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegralStatement` | wave-reused |
+| M122699 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCoboundaryOfPairsCocycle` | build-observed |
+| M122701 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactConjugacyTransversal` | volunteer-build-reviewed |
+| M122706 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactOpenSubgroupMem` | volunteer-build-reviewed |
+| M122707 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactOpenSubgroupMemStatement` | volunteer-build-reviewed |
+| M122708 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactSubgroupOfFinset` | volunteer-build-reviewed |
+| M122709 | P1608 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactSubgroupSmallAnnihilator` | build-observed |
 | M122710 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompatibleFamilyOfSingleton` | build-observed |
 | M122713 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCongruenceSubset` | volunteer-build-reviewed |
 | M122714 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsConjEqOnAlgebraicClosure` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M123308 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBoundStatement` | build-observed |
 | M123311 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePropagationSpeedHolds` | build-observed |
 | M123313 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexing` | volunteer-build-reviewed |
-| M123314 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteReindexingStatement` | volunteer-build-reviewed |
-| M123317 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishing` | volunteer-build-reviewed |
-| M123318 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteRestrictionVanishingStatement` | volunteer-build-reviewed |
-| M123326 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportConvolutionTripleStatement` | volunteer-build-reviewed |
-| M123329 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportOfTwist` | volunteer-build-reviewed |
-| M123330 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportOfTwistStatement` | volunteer-build-reviewed |
-| M123332 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteSupportProductQuotientStatement` | volunteer-build-reviewed |
-| M123340 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedDoubleCosets` | volunteer-build-reviewed |
-| M123341 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteTwistedDoubleCosetsStatement` | volunteer-build-reviewed |

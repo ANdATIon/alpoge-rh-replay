@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032294 | P1537 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatAevalDvrPlaceRingUniformiserResidueLifts` | volunteer-build-reviewed |
 | M032295 | P1563 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatAevalDvrPlaceRingUniformiserResidueLiftsStatement` | volunteer-build-reviewed |
 | M032299 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatAlgebraicTensorChartRingStatement` | volunteer-build-reviewed |
 | M032300 | P1448 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatBaseChangeSections` | build-observed |
@@ -401,4 +402,3 @@
 | M032927 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapContraction` | volunteer-build-reviewed |
 | M032928 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapContractionStatement` | build-observed |
 | M032929 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompat` | volunteer-build-reviewed |
-| M032930 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrameMapWedgeCompatStatement` | build-observed |

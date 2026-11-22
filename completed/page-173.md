@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115914 | P2263 | `Development.AutomorphicArithmetic.LocalEmbeddings.SplitLin` | volunteer-build-reviewed |
+| M115916 | P2129 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoDefs` | volunteer-build-reviewed |
+| M115918 | P2140 | `Development.AutomorphicArithmetic.LocalEmbeddings.StageGeoUnit` | volunteer-build-reviewed |
+| M115919 | P2075 | `Development.AutomorphicArithmetic.LocalEmbeddings.StairDepth` | volunteer-build-reviewed |
+| M115921 | P2470 | `Development.AutomorphicArithmetic.LocalEmbeddings.ThinCover` | volunteer-build-reviewed |
+| M115922 | P2413 | `Development.AutomorphicArithmetic.LocalEmbeddings.TriFrDefs` | volunteer-build-reviewed |
+| M115923 | P1826 | `Development.AutomorphicArithmetic.LocalEmbeddings.ULieDefs` | volunteer-build-reviewed |
+| M115924 | P0058 | `Development.AutomorphicArithmetic.LocalEmbeddings.ValCount` | volunteer-build-reviewed |
 | M115926 | P1871 | `Development.AutomorphicArithmetic.LocalTestFunctions.CompProjFixedLevelEqOfLocalInvariance` | volunteer-build-reviewed |
 | M115930 | P1894 | `Development.AutomorphicArithmetic.LocalTestFunctions.ExistsTestFunctionIntegralProdLocalFactors` | volunteer-build-reviewed |
 | M115937 | P1950 | `Development.AutomorphicArithmetic.LyingOver.ExistsPosConstTypedTestFunctionBound` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M116494 | P2739 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.LogTopDimensionBoundCovering` | volunteer-build-reviewed |
 | M116497 | P2652 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.PlugPairs` | volunteer-build-reviewed |
 | M116498 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ProportionalityOfLocalCharts` | volunteer-build-reviewed |
-| M116499 | P2751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ProportionalityPrincipleCompactification` | volunteer-build-reviewed |
-| M116500 | P2785 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RankGrowthBoundSmallScale` | volunteer-build-reviewed |
-| M116501 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RankPosNegativeWeightBundle` | volunteer-build-reviewed |
-| M116502 | P2652 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RefExpPadicValLeShiftOfWeightFree` | volunteer-build-reviewed |
-| M116506 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RegulatorLowerBound` | volunteer-build-reviewed |
-| M116507 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.RingOfCoveringDescent` | volunteer-build-reviewed |
-| M116508 | P2785 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ShareStatementOfKnownTheorems` | volunteer-build-reviewed |
-| M116509 | P2607 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ShiftedWeightLatticeFg` | volunteer-build-reviewed |

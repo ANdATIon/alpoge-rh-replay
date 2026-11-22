@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050146 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairDualStatement` | volunteer-build-reviewed |
+| M050147 | P2213 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairEigen` | volunteer-build-reviewed |
+| M050148 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairEigenStatement` | volunteer-build-reviewed |
+| M050153 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairOfPair` | volunteer-build-reviewed |
 | M050154 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairOfPairStatement` | volunteer-build-reviewed |
 | M050155 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairVanish` | volunteer-build-reviewed |
 | M050156 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SkewAdaptedPlanePairVanishStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M050898 | P0248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingAbsenceSpreadsStatement` | volunteer-build-reviewed |
 | M050899 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingPreservesLocalSchwartz` | volunteer-build-reviewed |
 | M050900 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SplittingPreservesLocalSchwartzStatement` | volunteer-build-reviewed |
-| M050901 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisation` | volunteer-build-reviewed |
-| M050902 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadEndomorphismTorsionSectionEqSpecialisationStatement` | volunteer-build-reviewed |
-| M050910 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpreadTorsorToEtaleAlgebraStatement` | volunteer-build-reviewed |
-| M050911 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SqId` | volunteer-build-reviewed |

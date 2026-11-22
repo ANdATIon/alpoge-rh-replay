@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123913 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetRepresentativesStatement` | volunteer-build-reviewed |
+| M123915 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCosetSumCompactStatement` | volunteer-build-reviewed |
+| M123923 | P1608 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorCosetFormula` | build-observed |
+| M123924 | P1635 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorCosetFormulaStatement` | build-observed |
+| M123931 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeOperatorJacquetEigenRightStatement` | volunteer-build-reviewed |
+| M123933 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckePowerCosetFormula` | build-observed |
+| M123934 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckePowerCosetFormulaStatement` | build-observed |
+| M123935 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeProjectionEigenform` | volunteer-build-reviewed |
+| M123936 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeProjectionEigenformStatement` | volunteer-build-reviewed |
 | M123937 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeSpectralOfStrictExponent` | volunteer-build-reviewed |
 | M123938 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeSpectralOfStrictExponentStatement` | volunteer-build-reviewed |
 | M123939 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeSum` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
 | M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
 | M124608 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOutStatement` | volunteer-build-reviewed |
-| M124609 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine` | volunteer-build-reviewed |
-| M124612 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSup` | wave-reused |
-| M124613 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSupStatement` | build-observed |
-| M124614 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackSecondCohomologyOfEq` | volunteer-build-reviewed |
-| M124615 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuasicoherentOfSecsImage` | wave-reused |
-| M124616 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuotNormaliserIndicator` | volunteer-build-reviewed |
-| M124619 | P1952 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsReps` | build-observed |
-| M124621 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSat2InvTConj` | volunteer-build-reviewed |
-| M124625 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSheafSecPresheaf` | build-observed |

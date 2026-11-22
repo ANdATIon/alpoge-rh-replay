@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062694 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingStalkGeneric` | wave-reused |
+| M062696 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAug` | volunteer-build-reviewed |
+| M062697 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEigTranslateOfSubMemAugStatement` | volunteer-build-reviewed |
+| M062699 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsEquivalenceFiniteEtaleBaseChangeResidueField` | wave-reused |
+| M062700 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsExpEqOfSubstLg` | volunteer-build-reviewed |
+| M062701 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsFieldAndPthRootsOfLocalAlgFrobeniusFixed` | volunteer-build-reviewed |
 | M062702 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsFieldAndPthRootsOfLocalAlgFrobeniusFixedStatement` | volunteer-build-reviewed |
 | M062703 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHCModuleOfGradedDenseGK` | build-observed |
 | M062704 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsHCModuleOfGradedDenseGKStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M063239 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOne` | volunteer-build-reviewed |
 | M063240 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapLeOneBis` | volunteer-build-reviewed |
 | M063241 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormAlgebraMapPadicIntLeOne` | volunteer-build-reviewed |
-| M063242 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZero` | volunteer-build-reviewed |
-| M063243 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormCompatibleSystemFrobeniusEqZeroStatement` | volunteer-build-reviewed |
-| M063244 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormDegreeBoundPolynomialCombination` | volunteer-build-reviewed |
-| M063245 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormDegreeBoundPolynomialCombinationStatement` | volunteer-build-reviewed |
-| M063247 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormEvalSmulMulImRpowPolyDegreeSlash` | volunteer-build-reviewed |
-| M063248 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.NormEvalSmulMulImRpowPolyDegreeSlashStatement` | volunteer-build-reviewed |

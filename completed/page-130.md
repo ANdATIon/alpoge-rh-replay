@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092328 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacter` | volunteer-build-reviewed |
+| M092329 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainChiPairMovedVectorColumnCharacterStatement` | volunteer-build-reviewed |
+| M092330 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopPairMovedVectorRowCharacter` | volunteer-build-reviewed |
+| M092331 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopPairMovedVectorRowCharacterStatement` | volunteer-build-reviewed |
+| M092332 | P2114 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopRowRealPointInOrthonormalBasis` | volunteer-build-reviewed |
+| M092333 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactChainTopRowRealPointInOrthonormalBasisStatement` | volunteer-build-reviewed |
+| M092334 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactElementGaussianList` | volunteer-build-reviewed |
 | M092335 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactElementGaussianListStatement` | volunteer-build-reviewed |
 | M092336 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactModStabilizer` | volunteer-build-reviewed |
 | M092338 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactPairRealAverageFockEqJetOperatorStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M093011 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyInv` | volunteer-build-reviewed |
 | M093012 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyLocalIntegersIffPowerBasisCoordsAll` | volunteer-build-reviewed |
 | M093018 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocal` | volunteer-build-reviewed |
-| M093019 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.EventuallyUnitaryTorusOrbitalClassTrivialLocalStatement` | volunteer-build-reviewed |
-| M093020 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExDownExUpAndExUpExDown` | build-observed |
-| M093021 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExFieldOfKeyFinExKey` | volunteer-build-reviewed |
-| M093022 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExKeyOf` | volunteer-build-reviewed |
-| M093023 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExOneEqSelf` | volunteer-build-reviewed |
-| M093025 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdaptedExponentSchwartzBruhatLastColumn` | volunteer-build-reviewed |
-| M093026 | P0448 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsAdaptedExponentSchwartzBruhatLastColumnStatement` | build-observed |

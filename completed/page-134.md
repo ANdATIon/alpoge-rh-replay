@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094608 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumHeisenbergLine` | volunteer-build-reviewed |
+| M094610 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasDerivAtThetaSumLineFirst` | volunteer-build-reviewed |
+| M094611 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFDerivAtOfCompImmersion` | build-observed |
+| M094612 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFiniteRankTraceOfOfRangeLeFiniteDimensional` | volunteer-build-reviewed |
+| M094613 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasFiniteRankTraceOfOfRangeLeFiniteDimensionalStatement` | volunteer-build-reviewed |
+| M094614 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasInfExpAttChrMu` | volunteer-build-reviewed |
+| M094615 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasInfExpDiv` | volunteer-build-reviewed |
 | M094616 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasInfExpOfOrder` | volunteer-build-reviewed |
 | M094617 | P0685 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLenOfLatLen` | volunteer-build-reviewed |
 | M094618 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.HasLocalLatticeMatricesInv` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M095079 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralRightTranslate` | volunteer-build-reviewed |
 | M095084 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicator` | build-observed |
 | M095085 | P0487 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTranslateIndicatorStatement` | build-observed |
-| M095086 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralTsumOfFactor` | volunteer-build-reviewed |
-| M095087 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralUnfoldingVariablesMemFieldRange` | volunteer-build-reviewed |
-| M095088 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralUnfoldingVariablesMemFieldRangeStatement` | volunteer-build-reviewed |
-| M095090 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegralValuesAlgebraicPointsIffValueNonnegStatement` | volunteer-build-reviewed |
-| M095091 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrandSupportedOnCellsLargeDepth` | volunteer-build-reviewed |
-| M095092 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegrandSupportedOnCellsLargeDepthStatement` | volunteer-build-reviewed |
-| M095093 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.IntegratedOperatorNormalizedIndicatorProdFixed` | volunteer-build-reviewed |

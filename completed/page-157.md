@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107621 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlag` | volunteer-build-reviewed |
+| M107622 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdFlagU` | volunteer-build-reviewed |
+| M107623 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.OrdinaryDeformation` | volunteer-build-reviewed |
+| M107625 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PosBasic` | volunteer-build-reviewed |
+| M107626 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PosExact` | volunteer-build-reviewed |
+| M107627 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PotCrysOf` | volunteer-build-reviewed |
+| M107628 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PowerSeriesApproximationModMaximal` | volunteer-build-reviewed |
+| M107629 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PrF` | volunteer-build-reviewed |
 | M107630 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.PstExact` | volunteer-build-reviewed |
 | M107633 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.RankCohomologyRationalEqRankLattice` | volunteer-build-reviewed |
 | M107634 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.RankOneCharacterIsdRAndJumpsZero` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M108438 | P2673 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IntIffNorm` | volunteer-build-reviewed |
 | M108439 | P2667 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.IsIrrOfMatIrr` | volunteer-build-reviewed |
 | M108440 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.LiftSmul` | volunteer-build-reviewed |
-| M108441 | P2641 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.LinkedRig` | volunteer-build-reviewed |
-| M108442 | P2659 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.MapOfRep` | volunteer-build-reviewed |
-| M108443 | P2641 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.MapReducibleThreeDim` | volunteer-build-reviewed |
-| M108446 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.NiceFour` | volunteer-build-reviewed |
-| M108447 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.NiceSmall` | volunteer-build-reviewed |
-| M108448 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.OneChar` | volunteer-build-reviewed |
-| M108449 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.OrdVan` | volunteer-build-reviewed |
-| M108450 | P2650 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.GaloisRepresentationTypes.OrdinaryHeckeAlgebraIntegral` | volunteer-build-reviewed |

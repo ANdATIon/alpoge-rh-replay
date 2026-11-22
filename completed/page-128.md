@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090843 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeGeneratorEqExpInFramesStatement` | wave-reused |
+| M090844 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChange` | wave-reused |
+| M090845 | P1180 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimilitudeIsoThetaProductBaseChangeStatement` | wave-reused |
+| M090846 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SimpleZerosMoveHolomorphically` | wave-reused |
+| M090847 | P0195 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SndFDerivAddSndFDerivIEqZeroOfHarmonicAtLine` | wave-reused |
+| M090848 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SpanModEquationsLift` | wave-reused |
+| M090849 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SqOfCalculus` | build-observed |
 | M090850 | P1130 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.StalkOfAppLEEq` | wave-reused |
 | M090851 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SubmatrixMulOfSupport` | wave-reused |
 | M090852 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.SubmatrixMulOfVanish` | wave-reused |
@@ -395,10 +402,3 @@
 | M091484 | P0932 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChangeDifferentiableOn` | wave-reused |
 | M091485 | P1948 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ChosenFormsRestrictBasisFunctionField` | volunteer-build-reviewed |
 | M091491 | P0904 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContDiffAtLogMinorProd` | wave-reused |
-| M091492 | P0822 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousInvLeadingBlockEntry` | wave-reused |
-| M091494 | P0850 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnOfCharts` | wave-reused |
-| M091495 | P1072 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ContinuousOnRmul` | build-observed |
-| M091500 | P2286 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesDefiniteLiftIndex` | volunteer-build-reviewed |
-| M091501 | P2299 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesDefiniteLiftIndexStatement` | volunteer-build-reviewed |
-| M091502 | P2286 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesIndefiniteLiftIndex` | volunteer-build-reviewed |
-| M091503 | P2299 | `Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.CuspFormBasisSharesIndefiniteLiftIndexStatement` | volunteer-build-reviewed |

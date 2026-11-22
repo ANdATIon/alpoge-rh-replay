@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111541 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.LatSum` | volunteer-build-reviewed |
+| M111542 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanLaws` | volunteer-build-reviewed |
+| M111543 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeanZero` | volunteer-build-reviewed |
+| M111544 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeasEEx` | volunteer-build-reviewed |
+| M111545 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MeasurableAl` | volunteer-build-reviewed |
+| M111546 | P2619 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.MomKill` | volunteer-build-reviewed |
+| M111547 | P2699 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.NormCentral` | volunteer-build-reviewed |
+| M111548 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbFn` | volunteer-build-reviewed |
 | M111549 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbitMeasurability.AbsUnf` | volunteer-build-reviewed |
 | M111550 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbitMeasurability.BddE` | volunteer-build-reviewed |
 | M111552 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.OrbitMeasurability.DetCentralSection` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M112008 | P1207 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EsTotHolds` | build-observed |
 | M112009 | P2102 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.EtOfRestrict` | volunteer-build-reviewed |
 | M112010 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.FrEx` | build-observed |
-| M112013 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PBaseFacts` | build-observed |
-| M112014 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PClopenAt` | build-observed |
-| M112015 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrComm` | build-observed |
-| M112016 | P1158 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrOpEq` | build-observed |
-| M112017 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCorrPull` | build-observed |
-| M112018 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycAll` | build-observed |
-| M112019 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycExt` | build-observed |
-| M112020 | P1159 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.BasicOpenSections.PCycRes` | build-observed |

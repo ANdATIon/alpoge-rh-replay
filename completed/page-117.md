@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080648 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEmbeddingsDifferByDecompositionStatement` | volunteer-build-reviewed |
+| M080653 | P1596 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSum` | build-observed |
+| M080654 | P1625 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalEquationsHeightSumStatement` | build-observed |
+| M080655 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalFieldNormValuation` | volunteer-build-reviewed |
+| M080659 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalGroupElementEqLevelComponentBadPrimeStatement` | volunteer-build-reviewed |
+| M080660 | P0901 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalIdeleSndSelf` | build-observed |
+| M080661 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalIdentificationPlaceEqInducedRealPlace` | volunteer-build-reviewed |
 | M080663 | P0958 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalIndepBridge` | volunteer-build-reviewed |
 | M080666 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalLanglandsPrmReductionStatement` | volunteer-build-reviewed |
 | M080668 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LocalLatticeSpanAtPlaceStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M081616 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0TruncatedExplicitFormulaStatement` | volunteer-build-reviewed |
 | M081617 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBound` | volunteer-build-reviewed |
 | M081618 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Psi0ZeroFreeRegionBoundStatement` | build-observed |
-| M081619 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBound` | volunteer-build-reviewed |
-| M081620 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiPowerSavingBoundStatement` | build-observed |
-| M081621 | P1128 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiSqrtLogBound` | build-observed |
-| M081622 | P1154 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiChiSqrtLogBoundStatement` | build-observed |
-| M081626 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiCoordinateTwoNsmulAssociatedPowFourStatement` | volunteer-build-reviewed |
-| M081627 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiCoordinatesEvenCharactersFourthPowersAssociat` | volunteer-build-reviewed |
-| M081631 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PsiGTrue` | volunteer-build-reviewed |

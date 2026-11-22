@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098875 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfExpT` | wave-reused |
+| M098876 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOfPull` | volunteer-build-reviewed |
+| M098877 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOneDim` | wave-reused |
+| M098878 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpFOneDimStatement` | wave-reused |
+| M098880 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtCancelNonzeroScalar` | wave-reused |
+| M098881 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtCancelNonzeroScalarStatement` | wave-reused |
+| M098882 | P0823 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtIffStalks` | wave-reused |
 | M098883 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtTranslateTorsion` | volunteer-build-reviewed |
 | M098885 | P0823 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsAtTransport` | wave-reused |
 | M098888 | P0904 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExpandsGTransport` | wave-reused |
@@ -395,10 +402,3 @@
 | M099514 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFgSubalgebraDescAway` | volunteer-build-reviewed |
 | M099515 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTriple` | wave-reused |
 | M099516 | P1103 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionNowhereZeroOfPullbackTripleStatement` | wave-reused |
-| M099519 | P0712 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAway` | wave-reused |
-| M099520 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFibreSectionPowMulBaseChangeAwayStatement` | wave-reused |
-| M099522 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFiniteAdelicElementMarkingComponent` | volunteer-build-reviewed |
-| M099529 | P0525 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameOfIsPeriod` | build-observed |
-| M099530 | P0740 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFramePeriods` | build-observed |
-| M099531 | P0768 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFramePeriodsStatement` | build-observed |
-| M099532 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsFrameRingOverTestRing` | wave-reused |

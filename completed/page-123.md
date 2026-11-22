@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086003 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfDimOfFinrankDerivatio` | build-observed |
+| M086004 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLe` | volunteer-build-reviewed |
+| M086005 | P0875 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfFlatDedekindTangentLeStatement` | build-observed |
+| M086006 | P1458 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfGenerization` | build-observed |
+| M086007 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SmoothOfRelativeDimensionOfIsPullbackIsDominant` | build-observed |
+| M086008 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SpMapComp` | build-observed |
+| M086010 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SplitOfFactorisation` | volunteer-build-reviewed |
 | M086013 | P0767 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SubsingletonSpDualNumber` | wave-reused |
 | M086017 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SurjectiveAppTopPullbackSndOfApp` | volunteer-build-reviewed |
 | M086019 | P1179 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.SymmetricBundleTrivialConstantFamilyDualNumber` | wave-reused |
@@ -395,10 +402,3 @@
 | M087084 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DeterminantIdealCharacterClassLatticeEqStatement` | volunteer-build-reviewed |
 | M087089 | P2138 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagUniformizerBlockEqDiagonalPowMulIntegralGL` | volunteer-build-reviewed |
 | M087091 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtale` | volunteer-build-reviewed |
-| M087092 | P0486 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DiagonalComplementSecondProjectionIsFiniteEtaleStatement` | volunteer-build-reviewed |
-| M087096 | P0407 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRight` | build-observed |
-| M087097 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DirectSumCancelRightStatement` | build-observed |
-| M087098 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivPowerEnvelopeMemAinfAdjoinBeta` | volunteer-build-reviewed |
-| M087099 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivPowerEnvelopeMemAinfAdjoinBetaStatement` | build-observed |
-| M087100 | P1204 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DivisorsAtInvDualLabelAndStabilizerMul` | volunteer-build-reviewed |
-| M087103 | P1487 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.DoubleCosetOperatorEqLabelOperatorLocalReps` | volunteer-build-reviewed |

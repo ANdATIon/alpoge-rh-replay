@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100757 | P1603 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsConstAlongSingleton` | volunteer-build-reviewed |
+| M100760 | P0933 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsHolFormConst` | volunteer-build-reviewed |
+| M100761 | P1931 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric` | volunteer-build-reviewed |
+| M100762 | P1435 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsLogCanonicalMultipleCanonical` | volunteer-build-reviewed |
+| M100765 | P1017 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsNoetherianRingDualNumber` | volunteer-build-reviewed |
+| M100769 | P1233 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsThetaMeanSquareNorm` | volunteer-build-reviewed |
+| M100770 | P0259 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTorsionFormPoint` | build-observed |
 | M100771 | P0363 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTorsionFormWithPoint` | volunteer-build-reviewed |
 | M100772 | P1869 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTypeIsRealConst` | volunteer-build-reviewed |
 | M100774 | P0197 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.L2ExtensionLogCanonical` | wave-reused |
@@ -395,10 +402,3 @@
 | M101407 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.Cohen` | wave-reused |
 | M101408 | P0487 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CompDim` | wave-reused |
 | M101409 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CorePowMem` | wave-reused |
-| M101410 | P0796 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CplFinite` | wave-reused |
-| M101411 | P0852 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.CutDimCongr` | wave-reused |
-| M101412 | P0449 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.DimFormula` | wave-reused |
-| M101413 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.DimLeOfForall` | wave-reused |
-| M101414 | P0990 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.DimOfUniv` | wave-reused |
-| M101415 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.DvrBase` | wave-reused |
-| M101416 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.ConnectedPrimeFields.ExistsSystemOfParameters` | wave-reused |

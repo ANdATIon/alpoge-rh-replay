@@ -193,6 +193,7 @@
 | M030003 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTriangularFramesGoodPrimes` | volunteer-build-reviewed |
 | M030004 | P2053 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTrigPolynomialIndicatorAwayFromPlace` | volunteer-build-reviewed |
 | M030005 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTrigPolynomialIndicatorAwayFromPlaceStatement` | volunteer-build-reviewed |
+| M030006 | P2816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTripleChartUnitaryBoundaryPoint` | volunteer-build-reviewed |
 | M030009 | P2817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTripleChartUnitaryBoundaryPointStatement` | volunteer-build-reviewed |
 | M030010 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTripleMapOfSameUniformisedCoords` | volunteer-build-reviewed |
 | M030011 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsTripleMapOfSameUniformisedCoordsStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M030325 | P1477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitVacuumStandardLatticesDefinitePair` | build-observed |
 | M030326 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitVacuumStandardLatticesDefinitePairStatement` | volunteer-build-reviewed |
 | M030327 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitValueTranslatedBundleSection` | volunteer-build-reviewed |
-| M030329 | P0180 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitZetaAct` | wave-reused |

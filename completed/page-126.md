@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089164 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PublishedInputsCombinedStatement` | volunteer-build-reviewed |
+| M089165 | P0310 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullPreservesFiniteLimits` | volunteer-build-reviewed |
+| M089166 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackContractionScalarsIdentity` | volunteer-build-reviewed |
+| M089167 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackContractionScalarsIdentityStatement` | volunteer-build-reviewed |
+| M089168 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackScalarNeZeroLatticeTuplePair` | volunteer-build-reviewed |
+| M089169 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackScalarNeZeroLatticeTuplePairStatement` | volunteer-build-reviewed |
+| M089170 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackThenFrameSubstitutionEqChangedFrames` | volunteer-build-reviewed |
 | M089171 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PullbackThenFrameSubstitutionEqChangedFramesStatement` | volunteer-build-reviewed |
 | M089172 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PulledBackProjCoordinateRatioOverlapDiv` | volunteer-build-reviewed |
 | M089173 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.PulledBackProjCoordinateRatioOverlapDivStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M090131 | P1015 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsRowHighestHarmonicPolyDerivUnitaryAction` | volunteer-build-reviewed |
 | M090133 | P1867 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSabMapOfIsAH` | volunteer-build-reviewed |
 | M090136 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescends` | volunteer-build-reviewed |
-| M090137 | P2139 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSectionOneClassSeriesDescendsStatement` | volunteer-build-reviewed |
-| M090139 | P2127 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSpanningHypotheses` | volunteer-build-reviewed |
-| M090140 | P1231 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSplitIdempotentsOfRelTraceOneModTwo` | build-observed |
-| M090143 | P0128 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticActionOfPeriodLatticeMap` | wave-reused |
-| M090144 | P0195 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticActionOfPeriodLatticeMapStatement` | wave-reused |
-| M090146 | P1071 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticDoubledHermitianCoordinates` | wave-reused |
-| M090147 | P1102 | `Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ExistsSymplecticDoubledHermitianCoordinatesStatement` | wave-reused |

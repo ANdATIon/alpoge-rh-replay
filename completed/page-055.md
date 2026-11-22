@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036617 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledFirstFactorMemSiegelClosure` | volunteer-build-reviewed |
 | M036618 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledFirstFactorMemSiegelClosureStatement` | volunteer-build-reviewed |
 | M036619 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledUnitaryVacuumTensorEigen` | volunteer-build-reviewed |
 | M036620 | P2225 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPlaceDoubledUnitaryVacuumTensorEigenStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M037403 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationCoeffEqZeroOfDegreeLtStatement` | build-observed |
 | M037406 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinear` | build-observed |
 | M037407 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawIsLinearStatement` | build-observed |
-| M037408 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InvariantDerivationFormalGroupLawLeibniz` | build-observed |

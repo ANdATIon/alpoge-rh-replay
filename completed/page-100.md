@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068030 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPow` | build-observed |
+| M068031 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterIsLocallyConstantModPowStatement` | build-observed |
+| M068032 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPadicBasicProperties` | wave-reused |
+| M068033 | P0405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPadicBasicPropertiesStatement` | wave-reused |
+| M068034 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPowNeOneOfMovesRoot` | build-observed |
+| M068035 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCharacterPowNeOneOfMovesRootStatement` | build-observed |
+| M068036 | P1151 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicCocycleMemImageOfCrystalline` | build-observed |
 | M068038 | P0191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicExistsIff` | volunteer-build-reviewed |
 | M068039 | P0899 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicFrobeniusSystemContinuationOpenDisc` | build-observed |
 | M068040 | P0926 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicFrobeniusSystemContinuationOpenDiscStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M068681 | P2098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidue` | volunteer-build-reviewed |
 | M068682 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCdvrReadingInCpOfFiniteResidueStatement` | volunteer-build-reviewed |
 | M068683 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCellPartUnfoldedIntegralPositive` | volunteer-build-reviewed |
-| M068684 | P2239 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCellPartUnfoldedIntegralPositiveStatement` | volunteer-build-reviewed |
-| M068686 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralConjugateFlipScalarFiniteAdelicStatement` | volunteer-build-reviewed |
-| M068687 | P2566 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipThetaTranslateHalfLevel` | volunteer-build-reviewed |
-| M068688 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipThetaTranslateHalfLevelStatement` | volunteer-build-reviewed |
-| M068689 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralFlipTranslateHalfPlacesThetaPair` | volunteer-build-reviewed |
-| M068691 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralTranslateUniformisationCuspFormNeZe` | volunteer-build-reviewed |
-| M068692 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsCentralTranslateUniformisationCuspFormNeZeStatement` | volunteer-build-reviewed |

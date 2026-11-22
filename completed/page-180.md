@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119137 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThetaValueOnCuspNeighbourhood` | volunteer-build-reviewed |
+| M119138 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentFitsIntegralLattice` | volunteer-build-reviewed |
+| M119139 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentHeckeCharacterTuple` | volunteer-build-reviewed |
+| M119140 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdComponentsAgree` | volunteer-build-reviewed |
+| M119141 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThirdSeriesWithLocalConditions` | volunteer-build-reviewed |
+| M119142 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThmAUpper` | volunteer-build-reviewed |
+| M119143 | P2763 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ThmAUpperStatement` | volunteer-build-reviewed |
+| M119144 | P2751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TieAutAndSplit` | volunteer-build-reviewed |
+| M119145 | P2076 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TieGalOfJumpsCard` | volunteer-build-reviewed |
 | M119147 | P2028 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TieOfTrue` | volunteer-build-reviewed |
 | M119148 | P2232 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TieRatOf` | volunteer-build-reviewed |
 | M119149 | P2243 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TieRatOfStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M119666 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsLatticeFamily` | volunteer-build-reviewed |
 | M119667 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsSplitGaussChars` | wave-reused |
 | M119668 | P0203 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsTight` | volunteer-build-reviewed |
-| M119669 | P0203 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LatNormGrLatNeZeroOfSpan` | wave-reused |
-| M119670 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LeadMinor` | wave-reused |
-| M119671 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.LieLatticeData` | volunteer-build-reviewed |
-| M119672 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.Models` | volunteer-build-reviewed |
-| M119673 | P0264 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OmStable` | wave-reused |
-| M119674 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.OnbMat` | volunteer-build-reviewed |
-| M119675 | P0367 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PairingExtends` | build-observed |
-| M119676 | P0137 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.PluckerCoord` | wave-reused |
-| M119677 | P0058 | `Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.ProIsoAt` | wave-reused |

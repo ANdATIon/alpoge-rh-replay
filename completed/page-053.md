@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035177 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanWeilRepIntertwine` | volunteer-build-reviewed |
 | M035178 | P1817 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivArchimedeanWeilRepIntertwineStatement` | volunteer-build-reviewed |
 | M035180 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivativeEquivarianceStatement` | volunteer-build-reviewed |
 | M035181 | P1792 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergDerivativeExtension` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M035916 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomExtSpecProdSelfOfBasicOpenPreimageEqStatement` | volunteer-build-reviewed |
 | M035917 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomFactorsThroughMulN` | volunteer-build-reviewed |
 | M035918 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomFiniteFreeFinrankLeFourMulDim` | volunteer-build-reviewed |
-| M035931 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomKillsTorsionOfComplexPointsOneEmbedding` | volunteer-build-reviewed |

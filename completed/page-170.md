@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114591 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PPtOne` | wave-reused |
+| M114592 | P0742 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRedZero` | wave-reused |
+| M114593 | P1073 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRingSplit` | wave-reused |
+| M114594 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PRpBasic` | wave-reused |
+| M114595 | P0824 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSHSec` | wave-reused |
+| M114596 | P0714 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSecFun` | wave-reused |
+| M114597 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSplitCover` | wave-reused |
+| M114598 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSplitField` | wave-reused |
 | M114599 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PStalkSum` | wave-reused |
 | M114600 | P0492 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSumComp` | wave-reused |
 | M114601 | P0528 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PSumEx` | wave-reused |
@@ -394,11 +402,3 @@
 | M115037 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryCriterion` | volunteer-build-reviewed |
 | M115038 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoboundaryOfGenerator` | volunteer-build-reviewed |
 | M115040 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleCoboundaryFiniteIndex` | volunteer-build-reviewed |
-| M115041 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CocycleMultiplicative` | volunteer-build-reviewed |
-| M115042 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoeffProdOneAdd` | volunteer-build-reviewed |
-| M115044 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CoerciveOfPositiveDefinite` | wave-reused |
-| M115045 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonDenom` | volunteer-build-reviewed |
-| M115046 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonEigenvalue` | volunteer-build-reviewed |
-| M115048 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonEigenvectorBis` | build-observed |
-| M115050 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonField` | volunteer-build-reviewed |
-| M115051 | P0048 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CommonMajorizingLattice` | wave-reused |

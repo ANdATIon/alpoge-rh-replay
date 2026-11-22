@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122059 | P2674 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverRestrictionBaseChangeStatement` | volunteer-build-reviewed |
+| M122060 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverStarIsCosieve` | volunteer-build-reviewed |
+| M122061 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoverStarIsCosieveStatement` | volunteer-build-reviewed |
+| M122064 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovolumeOneColumnJoinProduct` | volunteer-build-reviewed |
+| M122065 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovolumeOneColumnJoinProductStatement` | volunteer-build-reviewed |
+| M122071 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CreAnnApply` | volunteer-build-reviewed |
+| M122072 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CreqAnnqTopqSame` | volunteer-build-reviewed |
+| M122074 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossProductKernelQuotientVanishing` | volunteer-build-reviewed |
+| M122075 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossProductKernelQuotientVanishingStatement` | volunteer-build-reviewed |
 | M122076 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossingOfWallsAndHeights` | volunteer-build-reviewed |
 | M122077 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrossingOfWallsAndHeightsStatement` | volunteer-build-reviewed |
 | M122078 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CrystallineCocycleClosed` | wave-reused |
@@ -393,12 +402,3 @@
 | M122690 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLattice` | volunteer-build-reviewed |
 | M122691 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCharacterSeparatingLatticeStatement` | volunteer-build-reviewed |
 | M122693 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinates` | volunteer-build-reviewed |
-| M122694 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChartFromCoordinatesStatement` | volunteer-build-reviewed |
-| M122695 | P1133 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegral` | wave-reused |
-| M122696 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChowCoverIntegralStatement` | wave-reused |
-| M122699 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCoboundaryOfPairsCocycle` | build-observed |
-| M122701 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactConjugacyTransversal` | volunteer-build-reviewed |
-| M122706 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactOpenSubgroupMem` | volunteer-build-reviewed |
-| M122707 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactOpenSubgroupMemStatement` | volunteer-build-reviewed |
-| M122708 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactSubgroupOfFinset` | volunteer-build-reviewed |
-| M122709 | P1608 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCompactSubgroupSmallAnnihilator` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110078 | P0046 | `Development.AutomorphicArithmetic.DivisorFrames.AdeleUnitsPolarCircles` | volunteer-build-reviewed |
+| M110079 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleFlagValuation` | volunteer-build-reviewed |
+| M110080 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleLevelMatch` | volunteer-build-reviewed |
+| M110081 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleModelValuation` | volunteer-build-reviewed |
+| M110082 | P2708 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissibleModelValuationAlt` | volunteer-build-reviewed |
+| M110083 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointCharts` | volunteer-build-reviewed |
+| M110084 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointDiscreteValuation` | volunteer-build-reviewed |
+| M110085 | P2713 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointHeightCompat` | volunteer-build-reviewed |
 | M110086 | P2704 | `Development.AutomorphicArithmetic.DivisorFrames.AdmissiblePointLatticeNorm` | volunteer-build-reviewed |
 | M110087 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.AffineOpenTangentCombinations` | volunteer-build-reviewed |
 | M110088 | P1870 | `Development.AutomorphicArithmetic.DivisorFrames.AlgebraicModSubmoduleQdetBlockOfGlRel` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M110539 | P1826 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracCh` | volunteer-build-reviewed |
 | M110541 | P1848 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DiracW` | volunteer-build-reviewed |
 | M110542 | P1656 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DivSupp` | volunteer-build-reviewed |
-| M110543 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DominantRearrangementProperties` | volunteer-build-reviewed |
-| M110544 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.DualEx` | volunteer-build-reviewed |
-| M110545 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EntriesZero` | volunteer-build-reviewed |
-| M110546 | P1577 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EpowSmul` | volunteer-build-reviewed |
-| M110547 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.EvTSum` | volunteer-build-reviewed |
-| M110548 | P1606 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.Gelf2` | volunteer-build-reviewed |
-| M110549 | P1633 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.HarmDom` | volunteer-build-reviewed |
-| M110550 | P1521 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.RealTraceClifford.HderEntry` | volunteer-build-reviewed |

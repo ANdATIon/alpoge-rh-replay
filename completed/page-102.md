@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069322 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitriangu` | volunteer-build-reviewed |
+| M069323 | P2214 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsFundamentalDomainRationalUpperUnitrianguStatement` | volunteer-build-reviewed |
+| M069325 | P1843 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsGrpPullbackOfLattice` | volunteer-build-reviewed |
+| M069327 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsHeckeDatum` | volunteer-build-reviewed |
+| M069328 | P0253 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsIntegralSmallElementPowSmul` | volunteer-build-reviewed |
+| M069330 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsIotaAt` | volunteer-build-reviewed |
+| M069331 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsJumpMultiset` | build-observed |
 | M069332 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsLiftOfMemKO` | volunteer-build-reviewed |
 | M069333 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsLocGaloisFactorsThrough` | volunteer-build-reviewed |
 | M069334 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsNonarchimedeanLocalFieldSpectralNorm` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M069927 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegers` | volunteer-build-reviewed |
 | M069928 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserFamilyHostFieldIntegersStatement` | volunteer-build-reviewed |
 | M069929 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbedding` | volunteer-build-reviewed |
-| M069930 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformiserNormGapPadicEmbeddingStatement` | volunteer-build-reviewed |
-| M069931 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExt` | build-observed |
-| M069932 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniformizerCompatibleUnramifiedExtStatement` | build-observed |
-| M069934 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueAlgHomOfPadicLocalization` | volunteer-build-reviewed |
-| M069935 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueCocycle` | volunteer-build-reviewed |
-| M069936 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueCocycleStatement` | build-observed |
-| M069938 | P0955 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsUniqueFits` | build-observed |

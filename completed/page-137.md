@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096042 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSelfDualLatticeOfMemAllLatticeCompletionsStatement` | volunteer-build-reviewed |
+| M096043 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIff` | volunteer-build-reviewed |
+| M096044 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmoothVectorsDiscreteSeriesModelIffStatement` | volunteer-build-reviewed |
+| M096045 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSmulOfMemFlagSubOne` | volunteer-build-reviewed |
+| M096046 | P1931 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanAddSmulLatticeOfFrameCoeffsZmod` | volunteer-build-reviewed |
+| M096047 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanAddSmulLatticeOfFrameCoeffsZmodStatement` | volunteer-build-reviewed |
+| M096048 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanThetaSeriesOfBoundedHolomorphic` | volunteer-build-reviewed |
 | M096049 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSpanThetaSeriesOfBoundedHolomorphicStatement` | volunteer-build-reviewed |
 | M096050 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemSplitPlaceFinitePointsOffPrimesOfSupported` | volunteer-build-reviewed |
 | M096052 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MemStdMaxParabolicOfBlockParabolicLeConj` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M096542 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplits` | volunteer-build-reviewed |
 | M096543 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PosNormLineSelfDualAndTopLatticeSplitsStatement` | volunteer-build-reviewed |
 | M096544 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShift` | volunteer-build-reviewed |
-| M096545 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveInducedModuleShiftStatement` | volunteer-build-reviewed |
-| M096546 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhds` | volunteer-build-reviewed |
-| M096547 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PositiveRealPartTraceCharacterMemNhdsStatement` | volunteer-build-reviewed |
-| M096548 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowDvdOfHermMatEq` | volunteer-build-reviewed |
-| M096549 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowSubCreationVacuumFockBound` | volunteer-build-reviewed |
-| M096550 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowSubCreationVacuumFockBoundStatement` | volunteer-build-reviewed |
-| M096551 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PowerBasisCoordsIsTorusHermitianIsometry` | volunteer-build-reviewed |

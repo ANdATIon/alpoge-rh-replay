@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125395 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionTranslation` | volunteer-build-reviewed |
+| M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
+| M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
+| M125398 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerSmooth` | volunteer-build-reviewed |
+| M125405 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReduction` | volunteer-build-reviewed |
+| M125406 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReductionStatement` | volunteer-build-reviewed |
+| M125407 | P1263 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentative` | build-observed |
+| M125408 | P1290 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentativeStatement` | build-observed |
+| M125409 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishing` | build-observed |
 | M125410 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishingStatement` | build-observed |
 | M125411 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGramFibrationDisintegration` | volunteer-build-reviewed |
 | M125412 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGramFibrationDisintegrationStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
 | M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
 | M126013 | P2573 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInert` | volunteer-build-reviewed |
-| M126014 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInertStatement` | volunteer-build-reviewed |
-| M126015 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormula` | volunteer-build-reviewed |
-| M126016 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormulaStatement` | volunteer-build-reviewed |
-| M126017 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormula` | volunteer-build-reviewed |
-| M126018 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormulaStatement` | volunteer-build-reviewed |
-| M126019 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProd` | volunteer-build-reviewed |
-| M126020 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProdStatement` | volunteer-build-reviewed |
-| M126022 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectiveChartHolomorphicCoordinatesStatement` | volunteer-build-reviewed |
-| M126023 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectivePointOfNonvanishingCoords` | volunteer-build-reviewed |
