@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.DualLattices.ValuationPairwiseDifferenceProductPowLeColengthS",
+  "source_sha256": "b7c5524b23239ca229bd4daf9fb81c44eed28c3f17508a89e51d29b46ca3afff",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/rohanarun/alpoge-rh-replay/issues/33161"
+}
