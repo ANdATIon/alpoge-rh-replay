@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143144 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiBiUnion` | volunteer-build-reviewed |
 | M143145 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.PsiCosets` | volunteer-build-reviewed |
 | M143146 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.LocallyConstantCosets.UnifLC` | volunteer-build-reviewed |
 | M143148 | P1831 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.IntegralParts.QuasiOrbits.HomomorphismContinuity.T2SpaceLocalField` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M144048 | P1415 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfDict` | build-observed |
 | M144049 | P1527 | `Formalism.AdmissibleDesigns.TrivialBoundTargetOfPsi` | build-observed |
 | M144050 | P1468 | `Formalism.AdmissibleDesigns.TwistedTargetOfInputs` | build-observed |
-| M144051 | P1468 | `Formalism.AdmissibleDesigns.URecApply` | build-observed |

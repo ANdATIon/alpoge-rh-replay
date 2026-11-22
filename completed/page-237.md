@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155720 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.SplitInvInjective` | wave-reused |
 | M155721 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.Development` | volunteer-build-reviewed |
 | M155722 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVMemTensInt` | volunteer-build-reviewed |
 | M155723 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelProductIndex.PrVSumTmul` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M156167 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NilpotentVolumeOne.VolumeDegenerateRankOne` | build-observed |
 | M156168 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NonzeroDiscriminants.DiscLat` | build-observed |
 | M156169 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NonzeroDiscriminants.DiscMain` | build-observed |
-| M156170 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.NormFormOneUnitary.HermitianOrthogonalProjectionVector` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157016 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdDual` | wave-reused |
 | M157017 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdTestInf` | wave-reused |
 | M157018 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdUniq` | wave-reused |
 | M157019 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SiegelWeilNarrowOfWide` | wave-reused |
@@ -401,4 +402,3 @@
 | M157515 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.Unimod` | volunteer-build-reviewed |
 | M157516 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.UnimodS` | volunteer-build-reviewed |
 | M157517 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolURatio` | volunteer-build-reviewed |
-| M157518 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE` | volunteer-build-reviewed |

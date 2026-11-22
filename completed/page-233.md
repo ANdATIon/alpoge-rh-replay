@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153868 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhSchurConv` | build-observed |
 | M153869 | P0463 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhiCubeOfFactor` | build-observed |
 | M153870 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PinHostLoc` | build-observed |
 | M153871 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PoincareSeriesFinite` | build-observed |
@@ -401,4 +402,3 @@
 | M154307 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.EqZeroOfSetIntegral` | build-observed |
 | M154309 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLieCompl` | build-observed |
 | M154310 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolutionContDiffAt` | volunteer-build-reviewed |
-| M154311 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolve` | volunteer-build-reviewed |

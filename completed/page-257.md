@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165210 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRepresentative` | wave-reused |
 | M165211 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PScalarQuotient` | wave-reused |
 | M165215 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureModel` | build-observed |
 | M165217 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PSegreFlagClosureTrdeg` | build-observed |
@@ -401,4 +402,3 @@
 | M165721 | P0509 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivPushForwardLocal` | wave-reused |
 | M165722 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDivSupport` | pilot-reused |
 | M165723 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsExamples` | pilot-reused |
-| M165724 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsFibreFinite` | wave-reused |

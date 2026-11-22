@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168362 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension` | wave-reused |
 | M168366 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteSections` | wave-reused |
 | M168367 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PFiniteTwists` | wave-reused |
 | M168368 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PGenFibNef` | wave-reused |
@@ -401,4 +402,3 @@
 | M168962 | P0612 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PExistsUniqueRelabel` | build-observed |
 | M168965 | P0862 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PFibreMultiHomog` | build-observed |
 | M168967 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGenFibreChartDeg` | build-observed |
-| M168968 | P0971 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartDim` | wave-reused |

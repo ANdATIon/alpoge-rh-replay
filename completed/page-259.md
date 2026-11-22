@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166257 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutRestHom` | volunteer-build-reviewed |
 | M166258 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairHom` | volunteer-build-reviewed |
 | M166259 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutStairNonzero` | volunteer-build-reviewed |
 | M166260 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTermEq` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M167042 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegAmple` | build-observed |
 | M167045 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenFibreHomog` | build-observed |
 | M167050 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenSESStep` | wave-reused |
-| M167051 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedEffectiveSection` | build-observed |

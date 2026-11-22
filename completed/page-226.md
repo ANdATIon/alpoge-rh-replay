@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149550 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.LiftHeckeOperators` | build-observed |
 | M149551 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.PairingCommutesLiftOperators` | build-observed |
 | M149552 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.UnitaryTwoPackage` | build-observed |
 | M149553 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.OneMapEq` | build-observed |
@@ -401,4 +402,3 @@
 | M150404 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.KsHecke` | volunteer-build-reviewed |
 | M150405 | P1108 | `Formalism.LocalToGlobal.ProjectiveLattices.L2DefiniteCuspForms` | build-observed |
 | M150406 | P1050 | `Formalism.LocalToGlobal.ProjectiveLattices.LatPAddRight` | build-observed |
-| M150407 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.LawA13OfContinuous` | build-observed |

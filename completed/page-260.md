@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167051 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedEffectiveSection` | build-observed |
 | M167052 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedMixedNonneg` | build-observed |
 | M167053 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedNefF` | build-observed |
 | M167056 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGeneratedOne` | build-observed |
@@ -401,4 +402,3 @@
 | M167736 | P0643 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTail` | wave-reused |
 | M167737 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsFurtherTer` | build-observed |
 | M167740 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreAlt` | build-observed |
-| M167742 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreExtra` | build-observed |

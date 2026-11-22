@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174349 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJ` | wave-reused |
 | M174350 | P1937 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJOfSigLam` | build-observed |
 | M174351 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJSigLam` | build-observed |
 | M174352 | P1992 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundOfCompact` | build-observed |
@@ -401,4 +402,3 @@
 | M174937 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnLat` | build-observed |
 | M174938 | P1000 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTrans` | build-observed |
 | M174939 | P0837 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnTwo` | build-observed |
-| M174940 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnWp` | build-observed |

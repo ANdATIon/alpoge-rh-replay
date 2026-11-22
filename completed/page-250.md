@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161767 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelC` | wave-reused |
 | M161768 | P0159 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.CancelQ` | wave-reused |
 | M161769 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColAssembly` | wave-reused |
 | M161770 | P0223 | `Formalism.TruncatedSeriesCounting.TruncatedSeriesProofs.ColChain` | wave-reused |
@@ -401,4 +402,3 @@
 | M162170 | P0425 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.GzPNTOf` | build-observed |
 | M162171 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.IntegralEqIntervalIntegralAddCompl` | build-observed |
 | M162172 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LandauLocalOf` | build-observed |
-| M162173 | P0333 | `Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.LaurentAtOne` | build-observed |

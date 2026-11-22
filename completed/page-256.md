@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164705 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalLocallyIrreducible` | volunteer-build-reviewed |
 | M164706 | P0163 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalMaximumPrinciple` | volunteer-build-reviewed |
 | M164707 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModel` | volunteer-build-reviewed |
 | M164708 | P0574 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNormalModelDisc` | build-observed |
@@ -401,4 +402,3 @@
 | M165207 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PQuotientHeightAddOne` | wave-reused |
 | M165208 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PReesAlgebraDim` | wave-reused |
 | M165209 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRelevantDimGe` | wave-reused |
-| M165210 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PRepresentative` | wave-reused |

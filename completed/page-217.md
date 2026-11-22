@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144452 | P0271 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SumComplexEmbeddingsEqSumInfinitePlace` | build-observed |
 | M144453 | P0325 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SuperdiagonalAdditionInvariance` | build-observed |
 | M144454 | P0325 | `Formalism.FlagUnipotentLattices.OmSumLong` | build-observed |
 | M144455 | P0147 | `Formalism.FlagUnipotentLattices.PairingOrthogonalComplement` | build-observed |
@@ -401,4 +402,3 @@
 | M144851 | P1048 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLatticeOfFibReps` | wave-reused |
 | M144852 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsLocUnif` | wave-reused |
 | M144853 | P1317 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsTotPosDefOfSmul` | wave-reused |
-| M144854 | P0664 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtAdjoinIff` | wave-reused |

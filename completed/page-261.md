@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167742 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreExtra` | build-observed |
 | M167743 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreFurther` | build-observed |
 | M167744 | P0806 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreLast` | build-observed |
 | M167745 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ImportsMoreMore` | build-observed |
@@ -401,4 +402,3 @@
 | M168359 | P0165 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDedekindFibreRank` | volunteer-build-reviewed |
 | M168360 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDegLocExact` | wave-reused |
 | M168361 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PDomination` | wave-reused |
-| M168362 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PExtension` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154311 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.ExistsLocalSolve` | volunteer-build-reviewed |
 | M154317 | P1369 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInv` | build-observed |
 | M154318 | P1391 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FibInvT` | build-observed |
 | M154321 | P1557 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.FixIffSpan` | build-observed |
@@ -401,4 +402,3 @@
 | M154825 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StBaseOf` | volunteer-build-reviewed |
 | M154826 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.StSpecOf` | volunteer-build-reviewed |
 | M154827 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottComplex.WregOfSubsingleton` | volunteer-build-reviewed |
-| M154828 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EagonNorthcottIntegral.AugmentationDegreeZero` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159317 | P1470 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockWithThresholds` | build-observed |
 | M159318 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.ChainEmbInj` | build-observed |
 | M159319 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CharZeroOfW` | build-observed |
 | M159320 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.CoarseMultAt` | build-observed |
@@ -401,4 +402,3 @@
 | M159728 | P1734 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExistsHigh` | wave-reused |
 | M159729 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.ExponentMatrixFirstDepthEq` | wave-reused |
 | M159730 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinPosEqCast` | wave-reused |
-| M159731 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.FinrankEqSpanGen` | wave-reused |

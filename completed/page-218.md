@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144854 | P0664 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtAdjoinIff` | wave-reused |
 | M144855 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsUnimodularAtIffVd` | wave-reused |
 | M144856 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.IsoCountOneInert` | wave-reused |
 | M144857 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LValEtaEqLValEtaF` | wave-reused |
@@ -401,4 +402,3 @@
 | M145255 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowDivStable` | wave-reused |
 | M145256 | P0272 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.RowNuSum` | wave-reused |
 | M145257 | P0461 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SMSAssembly` | wave-reused |
-| M145258 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSBasis` | wave-reused |

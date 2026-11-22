@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163077 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityDescent` | build-observed |
 | M163078 | P1026 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityGalois` | build-observed |
 | M163079 | P0942 | `GroundTheory.GlobalFields.ComplexMultiplication.AlgebraicityHom` | build-observed |
 | M163080 | P0833 | `GroundTheory.GlobalFields.ComplexMultiplication.AnalyticAlgebraic` | build-observed |
@@ -401,4 +402,3 @@
 | M163503 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UIObjects` | wave-reused |
 | M163504 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.UniformIntegrability` | wave-reused |
 | M163505 | P0334 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AddBlockPullbackOfChartBundlePullback` | volunteer-build-reviewed |
-| M163506 | P0381 | `GroundTheory.HeightsAndTheta.Heights.Antisymmetric.AlgebraMapMemChartRingJoinPt` | volunteer-build-reviewed |

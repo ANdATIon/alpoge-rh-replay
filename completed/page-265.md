@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170147 | P0546 | `GroundTheory.PAdicHodge.ThetaBDeRhamPlusFieldCycloUnitBdRZpow` | wave-reused |
 | M170148 | P0231 | `GroundTheory.PAdicHodge.ThetaPlus` | wave-reused |
 | M170149 | P0289 | `GroundTheory.PAdicHodge.TiltAlgClosed` | wave-reused |
 | M170150 | P0342 | `GroundTheory.PAdicHodge.TiltAlgebra` | wave-reused |
@@ -401,4 +402,3 @@
 | M170994 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceC` | volunteer-build-reviewed |
 | M170995 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSConjSpaceR` | volunteer-build-reviewed |
 | M170996 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSGalAdEx` | volunteer-build-reviewed |
-| M170997 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSIsoSat` | volunteer-build-reviewed |

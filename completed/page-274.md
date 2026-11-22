@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174940 | P0973 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgAnWp` | build-observed |
 | M174941 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgBasic` | build-observed |
 | M174942 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgClose` | build-observed |
 | M174943 | P0474 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.FgDefs` | build-observed |

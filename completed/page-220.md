@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146238 | P1733 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentiableAtOfPuncturedSmooth` | build-observed |
 | M146239 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket` | wave-reused |
 | M146240 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationScalesHeisenbergMeasure` | wave-reused |
 | M146241 | P0602 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DilationUnipotentWeylMeasure` | wave-reused |
@@ -401,4 +402,3 @@
 | M146889 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ReductionSurjective` | build-observed |
 | M146891 | P0635 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularisedPairingViaPhase` | wave-reused |
 | M146892 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityAtPlaceOfSubadditive` | volunteer-build-reviewed |
-| M146893 | P1390 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RegularityBundleFromHypotheses` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144051 | P1468 | `Formalism.AdmissibleDesigns.URecApply` | build-observed |
 | M144052 | P1497 | `Formalism.AdmissibleDesigns.URepApply` | build-observed |
 | M144053 | P1639 | `Formalism.AdmissibleDesigns.UnramifiedInputOfAdmitted` | volunteer-build-reviewed |
 | M144054 | P1415 | `Formalism.AdmissibleDesigns.YtRepZero` | build-observed |
@@ -401,4 +402,3 @@
 | M144449 | P0374 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.NormalisationIdentity` | wave-reused |
 | M144450 | P0747 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.OperatorHilbertSchmidtNorm` | build-observed |
 | M144451 | P0271 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SchurAverage` | build-observed |
-| M144452 | P0271 | `Formalism.FlagUnipotentLattices.MinkowskiFactorialBounds.SumComplexEmbeddingsEqSumInfinitePlace` | build-observed |

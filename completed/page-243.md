@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158337 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusMassPosOfMassLowerBound` | build-observed |
 | M158338 | P0669 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GenusOrthonormalIntegralUnimodular` | build-observed |
 | M158339 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfFibreStructure` | build-observed |
 | M158340 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.GluingMassOfGluingFacts` | build-observed |
@@ -401,4 +402,3 @@
 | M158863 | P0997 | `Formalism.SharpRestriction.Divisibility.LocalQuadraticParts` | build-observed |
 | M158864 | P0913 | `Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts` | build-observed |
 | M158865 | P1052 | `Formalism.SharpRestriction.Divisibility.OrbitPlaces` | build-observed |
-| M158866 | P0969 | `Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne` | build-observed |

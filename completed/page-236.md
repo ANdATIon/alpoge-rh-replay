@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155280 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookBoundOfSteps` | build-observed |
 | M155281 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.HookNorm` | build-observed |
 | M155282 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HookLengthBound.ProdFactorialLe` | build-observed |
 | M155286 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdealLatticeBasis.Assemble` | build-observed |
@@ -401,4 +402,3 @@
 | M155716 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LengthIndex.LenAtEqZero` | volunteer-build-reviewed |
 | M155718 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelImageArithmetic.GlevImageOf` | wave-reused |
 | M155719 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.LevelGroupUnitaryHermitian` | wave-reused |
-| M155720 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.SplitInvInjective` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158866 | P0969 | `Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne` | build-observed |
 | M158867 | P0913 | `Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant` | build-observed |
 | M158868 | P0969 | `Formalism.SharpRestriction.Divisibility.PrinLevClass` | build-observed |
 | M158869 | P1052 | `Formalism.SharpRestriction.Divisibility.ProductFirstParts` | build-observed |
@@ -401,4 +402,3 @@
 | M159314 | P1529 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BFTrueDeg` | build-observed |
 | M159315 | P1347 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Beyond44OfRestRawTail` | build-observed |
 | M159316 | P1615 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockForm` | build-observed |
-| M159317 | P1470 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.BlockWithThresholds` | build-observed |

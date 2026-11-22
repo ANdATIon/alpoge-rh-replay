@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148916 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb` | build-observed |
 | M148917 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsRec` | build-observed |
 | M148918 | P1187 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsStab` | build-observed |
 | M148919 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.CmpCMemFunMod` | build-observed |
@@ -401,4 +402,3 @@
 | M149547 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.NonzeroIndexPlaceIndepConstants` | volunteer-build-reviewed |
 | M149548 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.Decomp` | build-observed |
 | M149549 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.DecompOfNormalStatement` | build-observed |
-| M149550 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.NormalDecomposition.LiftHeckeOperators` | build-observed |

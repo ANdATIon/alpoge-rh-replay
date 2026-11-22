@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168968 | P0971 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartDim` | wave-reused |
 | M168969 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartModel` | wave-reused |
 | M168970 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PGoodChartZeroSet` | wave-reused |
 | M168973 | P0340 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PInvertibleProductRep` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M169617 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartBack` | wave-reused |
 | M169618 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartIso` | wave-reused |
 | M169619 | P0085 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecChartQuot` | wave-reused |
-| M169620 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PSpecCompDim` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148379 | P1854 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.GammaSizeOfParameters` | build-observed |
 | M148380 | P1163 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBDGam` | build-observed |
 | M148381 | P1136 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBLam` | build-observed |
 | M148382 | P1318 | `Formalism.LocalToGlobal.Divisibility.DivisibilityConstruction.RBNum` | build-observed |
@@ -401,4 +402,3 @@
 | M148913 | P0376 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsHypA` | volunteer-build-reviewed |
 | M148914 | P0695 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsLat` | build-observed |
 | M148915 | P1137 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsMain` | build-observed |
-| M148916 | P1107 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ClsOrb` | build-observed |

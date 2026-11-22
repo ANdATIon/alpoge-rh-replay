@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173940 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecSum` | wave-reused |
 | M173941 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivG` | wave-reused |
 | M173942 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DerivGA` | wave-reused |
 | M173943 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExistsMu` | wave-reused |
@@ -401,4 +402,3 @@
 | M174346 | P0972 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.Bridge` | build-observed |
 | M174347 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.ContinuousDSWOrbit` | build-observed |
 | M174348 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DSWSigLamCoe` | build-observed |
-| M174349 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBoundJ` | wave-reused |

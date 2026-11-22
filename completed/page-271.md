@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173481 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIdem` | volunteer-build-reviewed |
 | M173482 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramified` | build-observed |
 | M173483 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIntegralUnramifiedOfCharts` | build-observed |
 | M173484 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PullSec` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M173937 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsA` | wave-reused |
 | M173938 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecMomentsB` | wave-reused |
 | M173939 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecPos` | wave-reused |
-| M173940 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.DecSum` | wave-reused |

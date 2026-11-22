@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145258 | P0665 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSBasis` | wave-reused |
 | M145259 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSIdxFinite` | wave-reused |
 | M145260 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTExists` | wave-reused |
 | M145261 | P0375 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.SSYTPeel` | wave-reused |
@@ -401,4 +402,3 @@
 | M146235 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagScalarCommuteTransposedRMatrix` | wave-reused |
 | M146236 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTopBlock` | build-observed |
 | M146237 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DiagonalTransferAction` | build-observed |
-| M146238 | P1733 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentiableAtOfPuncturedSmooth` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152950 | P0859 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitBall` | build-observed |
 | M152951 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.BinomialSeriesCoefficients.UnitaryInverseIdentity` | wave-reused |
 | M152952 | P0150 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.ChordSecondLogDeriv` | wave-reused |
 | M152953 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.SecondCoefficientNorms.CurveEndoAll` | build-observed |
@@ -401,4 +402,3 @@
 | M153420 | P0462 | `Formalism.PadicSubsetSums.StableGradedCounts.TWReuse` | build-observed |
 | M153421 | P0275 | `Formalism.PadicSubsetSums.StableGradedCounts.TWUnitBallLattice` | build-observed |
 | M153422 | P0215 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbitt` | build-observed |
-| M153423 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg` | build-observed |

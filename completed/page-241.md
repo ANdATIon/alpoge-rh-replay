@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157518 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE` | volunteer-build-reviewed |
 | M157519 | P0573 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContSplit` | build-observed |
 | M157520 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousHAIff` | build-observed |
 | M157521 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedMeasureSplitting.ContinuousMeasureSplitting` | build-observed |
@@ -401,4 +402,3 @@
 | M157921 | P0156 | `Formalism.PolynomialDimension.StatementNum` | wave-reused |
 | M157922 | P0077 | `Formalism.PolynomialDimension.WeylDim` | wave-reused |
 | M157923 | P0156 | `Formalism.PrimeAboveExistence.LenEqPlaces` | volunteer-build-reviewed |
-| M157924 | P0279 | `Formalism.ProductFormula.StatementOCCM` | build-observed |

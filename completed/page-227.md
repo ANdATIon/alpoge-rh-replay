@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150407 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.LawA13OfContinuous` | build-observed |
 | M150408 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.LevelPb` | build-observed |
 | M150409 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.LieAlg` | wave-reused |
 | M150410 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.LieArcSt` | wave-reused |
@@ -401,4 +402,3 @@
 | M150920 | P1614 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviGlue` | build-observed |
 | M150921 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviPos` | build-observed |
 | M150922 | P1556 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviSteps` | build-observed |
-| M150923 | P1584 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.SlabCountPfLeviWFin` | build-observed |

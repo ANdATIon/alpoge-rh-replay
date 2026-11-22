@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170997 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSIsoSat` | volunteer-build-reviewed |
 | M170998 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSNormPow` | volunteer-build-reviewed |
 | M170999 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSSmo` | volunteer-build-reviewed |
 | M171000 | P2502 | `PositivityTheory.AutomorphicForms.PublishedInputs.CyclicBaseChange.PSTwSat` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M171462 | P0579 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BaseChangeCB` | wave-reused |
 | M171463 | P0729 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.BijOnClosedPointsOfIsIso` | wave-reused |
 | M171464 | P0342 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ClosureFromSpecMemCompsH` | build-observed |
-| M171465 | P0915 | `ReciprocityTheory.AnalyticForms.RegularLocalRings.ConeChart` | wave-reused |

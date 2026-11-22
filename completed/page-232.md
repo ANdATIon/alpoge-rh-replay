@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153423 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZBrauerNesbittAlg` | build-observed |
 | M153424 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZCircleCharExtends` | build-observed |
 | M153425 | P0151 | `Formalism.PadicSubsetSums.StableGradedCounts.ZGoodCuspidal` | build-observed |
 | M153426 | P0328 | `Formalism.PadicSubsetSums.StableGradedCounts.ZReuse` | build-observed |
@@ -401,4 +402,3 @@
 | M153865 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormLimit` | build-observed |
 | M153866 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhNormUnits` | build-observed |
 | M153867 | P0151 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhProdConv` | build-observed |
-| M153868 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.PhSchurConv` | build-observed |
