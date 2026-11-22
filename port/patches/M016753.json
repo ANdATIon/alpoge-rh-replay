@@ -1,0 +1,8 @@
+{
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.COnePropertyFiniteExtension",
+  "source_sha256": "7edf48789760961e5f4575b9e5ad2b5bba9c072c03cbf6281416ab2272c5ec87",
+  "notes": "unchanged",
+  "evidence": "https://github.com/CubeJerry/alpoge-rh-replay/blob/port/p0177-lean436-20261122/port/transcripts/P0177-M016753/receipt.json"
+}

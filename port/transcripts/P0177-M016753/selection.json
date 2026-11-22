@@ -1,0 +1,118 @@
+{
+  "packet": "P0177",
+  "claim_issue": 32545,
+  "claim_url": "https://github.com/rohanarun/alpoge-rh-replay/issues/32545",
+  "base_commit": "88e62d766df56e1be0150bb77ed3947268f1e564",
+  "target": {
+    "lean": "leanprover/lean4:v4.36.0",
+    "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+    "mathlib_note": "Mathlib's release tag v4.36.0 (matches Lean v4.36.0). Approved by the maintainer 2026-11-21.",
+    "replay_pins_unchanged": {
+      "lean": "leanprover/lean4:v4.33.1",
+      "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474"
+    }
+  },
+  "submitted_ids": [
+    "M016753"
+  ],
+  "previously_accepted_ids": [
+    "M006428",
+    "M006431",
+    "M006440",
+    "M006452",
+    "M006487",
+    "M006999",
+    "M007026",
+    "M007054",
+    "M007056",
+    "M007171",
+    "M007209",
+    "M007436",
+    "M008703",
+    "M008850",
+    "M009407",
+    "M010388",
+    "M010702",
+    "M010980",
+    "M011129",
+    "M011368",
+    "M011384",
+    "M012361",
+    "M012881",
+    "M013170",
+    "M013577",
+    "M014475",
+    "M014510",
+    "M014515",
+    "M015000",
+    "M015045",
+    "M015076",
+    "M015080",
+    "M015090",
+    "M015145",
+    "M015155",
+    "M015158",
+    "M015179",
+    "M015181",
+    "M015186",
+    "M015193",
+    "M015195",
+    "M015197",
+    "M015199",
+    "M015202",
+    "M015239",
+    "M015266",
+    "M015298",
+    "M015303",
+    "M015304",
+    "M015387",
+    "M016250",
+    "M016314",
+    "M016341",
+    "M016667",
+    "M016843",
+    "M016846",
+    "M016851"
+  ],
+  "remaining_unported": [
+    {
+      "id": "M006414",
+      "module": "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyExistsMulIsLowerTriangular",
+      "missing_imports": [
+        "M005069"
+      ]
+    },
+    {
+      "id": "M006833",
+      "module": "Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.LatticeDeterminedByInvariants",
+      "missing_imports": [
+        "M005055"
+      ]
+    },
+    {
+      "id": "M016272",
+      "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.BertiniGeneralMembersNoDerivativeRelation",
+      "missing_imports": [
+        "M041462"
+      ]
+    }
+  ],
+  "pruned_ids": [
+    "M015244",
+    "M015392",
+    "M016703"
+  ],
+  "closure_ids": [
+    "M044443",
+    "M044444",
+    "M016753"
+  ],
+  "sha256": {
+    "port/target.json": "ec4d744ba850213e73cf4f3e2079994fd2acdb9c2d7a96ed348f44cd782bf57f",
+    "tracker/modules.jsonl.gz": "c4e2032331f0da7fafe9dc6046ca9430e899041f77c1985167c92f5b0ee7ea74",
+    "parts.sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+    "tracker/port.py": "6db393b476a855e66df4df452a88a9db3ca2af4054b3f4ec4b7d463399f292bb",
+    "PORTING.md": "0cee112e5c46a5488aa9311e595d4fd329888c97d936dbd2cdc3faa4f13a9e93"
+  },
+  "selection_method": "The CLI next was attempted and its public API issue scan failed HTTP 403. Unmodified port.main next and next --include-partial were then run with tasks.open_issues supplied by a current connected-GitHub-API reservation snapshot (174 open matching issues and all 19 open PRs). Whole-packet choices were empty; P0177 was first in partial queue. All overlapping packet/module reservations were excluded. CLI claim P0177 was attempted and failed for missing gh authentication; claim was submitted in the signed-in cloud browser after equivalent current-main target/record/reservation checks."
+}
