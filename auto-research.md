@@ -1,34 +1,23 @@
-# Agent instructions — Lean 4.36 Proof Optimization (Porting & Packet Claims Complete)
+# Agent Instructions — Lean 4.36 Proof Optimization
 
-> **Update (Nov 22, 2026):** The Lean `v4.36.0` port is complete upstream (`leanprover-community/riemann-hypothesis` `main`) and consolidated in [PR #120](https://github.com/leanprover-community/riemann-hypothesis/pull/120) (`47,884` files, `−67.9%` vs `main`). **Stop claiming legacy `P####`/`M######` packets or submitting Lean 4.33 → 4.36 port PRs.** Use the Lean 4.36 proof optimization workflow in [README.md](README.md#give-this-prompt-to-an-agent) instead.
+> **Notice:** The Lean `v4.36.0` port of Alpöge's Riemann Hypothesis proof is **complete**. Do **not** claim legacy packets (`Claim P####` / `Claim M######`) or open Lean 4.33 → 4.36 porting PRs in `rohanarun/alpoge-rh-replay`.
 
----
+## Target Codebase
 
-# Agent instructions for the independent RH replay
+Work on the consolidated Lean `v4.36.0` + Mathlib (`fc4f59e577feb1a4956671bc04ac18aaaf8cd842`) codebase:
+- **Upstream repository:** https://github.com/leanprover-community/riemann-hypothesis (`main`)
+- **Consolidated 47,882-module branch (`−67.95%` file count vs `main`):** https://github.com/leanprover-community/riemann-hypothesis/pull/120 (`rohanarun/riemann-hypothesis`, branch `opt/collapse-and-consolidate-4.36`)
 
-**New agents: start with the porting track.** Unless a maintainer has assigned you replay work, port the archive to Lean 4.36.0 and Mathlib v4.36.0 by following [PORTING.md](PORTING.md). Use `python3 tracker/port.py next` and `python3 tracker/port.py claim P0123`. The replay steps below still apply to agents with a prepared, pinned replay worker.
+## Optimization Priorities
 
-Your task is to produce reproducible evidence for as much of Alpöge’s published Lean proof as your worker can build and document. The full replay is ongoing. Only the final theorem, axiom audit, and fresh-kernel receipt can establish the full project result.
+Focus on self-contained, verifiable improvements to the Lean 4.36 proof:
+1. **Import & dependency pruning:** Remove unused transitive imports, flatten remaining single-declaration pass-through wrappers, and shorten import depth.
+2. **Proof & tactic acceleration:** Speed up slow modules, replace heavy `simp` / `aesop` / `linarith` / `omega` scripts with direct rewrites or lemmas, and eliminate `set_option maxHeartbeats` bumps where possible.
+3. **Mathlib deduplication & modularization:** Replace duplicated local helper definitions or lemmas with canonical Mathlib `v4.36.0` declarations, and decompose overly large files cleanly without re-creating wrapper chains.
 
-When writing or refactoring a proof in a research checkout, look for a matching lemma before starting a new tactic script. The library lists the hypotheses, gives compilable Lean examples, and explains how to check another repeated proof. [Reusable lemmas for agents](examples/proof-reuse/README.md#use-the-lemmas)
+## Strict Verification Rules
 
-1. Clone this repository or fast-forward your checkout of main. Read CONTRIBUTING.md, STATUS.md, and the [completed-parts ledger](completed/README.md). Run `python3 tracker/tasks.py next` and prefer a fully open shallow packet when its import depth, disk, and compute requirements fit your worker. A packet contains up to 64 same-depth modules. On a cold or constrained worker, use `next --cold` for a single module. For a partially completed packet, use `next --include-partial` and `show <packet ID>` to find an open module and claim it individually.
-2. Run `python3 tracker/tasks.py claim <ID>`. Each packet and every module inside it share one reservation. Wait for both the **claim-granted** label and a matching **Granted** comment from github-actions[bot]. A request without that confirmation is pending. If the bot marks a conflict, close your request and choose other work. Keep the title stable after grant. Split a packet among your own processes only while you hold its grant.
-3. Prepare a clean Linux volume using `./verify.sh /path/to/empty-volume --prepare-only`. Keep the published archive immutable. The inputs are the 14 pinned SHA-256 hashes, Lean 4.33.1 and the pinned mathlib commit. Reuse artifacts only if their provenance, input digests, and toolchain match.
-4. Run `python3 tracker/tasks.py build <ID> /path/to/empty-volume/lean /path/to/new-receipt --bundle`. Log resources, UTC times, and any infrastructure retries. Lake may also build prerequisites on a cold worker. Report requested targets separately from locally rebuilt imports.
-5. Comment on the claim with `Replay submission` on the first line. Attach the receipt and log, and link the optional artifact bundle and checksum. Submit the first diagnostic for a failure. A compiler pass, reuse check, partial kernel replay, and fresh full-project replay are different outcomes. Describe exactly what ran. Before you post, run the [submission self-check](CONTRIBUTING.md#check-a-submission-before-posting). A submission whose links don't download, or whose log lacks a line for a claimed target, stays pending.
-6. Keep a submitted issue open during maintainer review, and close a reservation you abandon. If you have capacity after submitting, refresh the live queue and repeat on the same prepared checkout with a fresh grant and a new receipt directory. Prefer a shallow packet once your worker is warm. Claim work as you take it on so other contributors can use the open queue. Maintainers update the completed ledger after reviewing evidence. A grant is a reservation for targeted volunteer work; the independent primary build continues walking the full dependency graph and may reach prerequisites before a volunteer returns.
-
-## Keep a prepared worker busy
-
-For repeated assignments on a prepared Linux volume, follow the [persistent worker guide](CONTRIBUTING.md#run-a-persistent-volunteer-worker). Refresh the worker inventory and use `tracker/tasks.py next --warm WORKER.json` for a queue of distinct candidates. Let `tracker/worker.py` own the reservations and submissions for that queue. Set `--jobs` to the number of active claims your container can build within its memory and disk limits. Save the state directory so the worker can resume and reconcile each grant after an interruption. On a warm cache, include the target-level kernel replay record with the build receipt.
-
-## Optional porting track
-
-The porting track ports the archive to Lean 4.36.0 and Mathlib v4.36.0, one packet at a time, as patches against the pinned sources. It earns no replay credit and never changes the replay's pins. Follow [PORTING.md](PORTING.md) and use `tracker/port.py`. Port issues are titled `Port P0123` and are not handled by the claims bot.
-
-## Maintainer checks
-
-The claim workflow serializes reconciliation of all open issues, preserves valid grants, and rejects overlap between packet and module reservations. Verify input hashes, source and object digests, and the claimed command before accepting any external result. Keep outside artifacts and code in isolated environments. Publish a full-RH verdict only after the criteria in README.md are satisfied.
-
-Coordinator-managed helpers follow the same claim and evidence steps. Run the [cloud helper grant check](CONTRIBUTING.md#coordinator-and-cloud-helpers) before provisioning a targeted worker.
+- **Never modify** `src/Challenge.lean`, `src/Statements.lean`, or `comparator.json`.
+- **Never introduce** `sorry`, `admit`, new `axiom`s, or unsafe features.
+- Verify every modified module with `lake build <Target>` (and `lake build Main Challenge` + `lake comparator` for end-to-end PRs).
+- Include before/after build times, import counts, and `.olean` sizes in your PR description.
