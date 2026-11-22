@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M064554"
+  ],
+  "started_utc": "2026-11-21T10:46:21.600778+00:00",
+  "ended_utc": "2026-11-21T10:46:29.049002+00:00",
+  "elapsed_seconds": 7.4,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7306872
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c510828eb863be20285be4d4a387eafa0f43757041b818570c8a24368cca5991",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.BdIntEqZeroOfPrimitive",
+    "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.CompletedLFunctionNeZeroOfReNonpos"
+  ],
+  "objects": {
+    "M064554": "2eb51e303bb011f9630d4a8d2c2de65f62a1c452c6cd6f64c0f415d0c007b9b0"
+  },
+  "bundle_sha256": "9cb33bc508790314dfe8d234af7d3c2cc5a1d2aa90027acb78b3934eb3654960",
+  "packet": "M064554",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20117#issuecomment-7061464371",
+  "reviewed_utc": "2026-11-22T16:46:46.530729+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AnalyticAtDslope"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tasks": [
+    "M058961"
+  ],
+  "started_utc": "2026-11-21T11:02:28.805261+00:00",
+  "ended_utc": "2026-11-21T11:03:23.069451+00:00",
+  "elapsed_seconds": 54.3,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377408,
+    "peak_child_rss_kib": 6768284
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FlagMeasures.LeMapComapOfLeConjMaximalCmData:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "100231c70f3639c51dd81146bd7c294fb442bb9fc76264a12afa4f3555839ce3",
+  "rebuilt_project_modules": [
+    "Formalism.AlphaUniqueness.Statement",
+    "Formalism.FockGram.StatementHerm",
+    "Formalism.FockGram.StatementLat",
+    "Formalism.FrobeniusOrbits.Statement",
+    "Formalism.HermitianLattices.StatementLat",
+    "Formalism.HermitianLattices.StatementMass",
+    "Formalism.HermitianLattices.StatementTheta",
+    "Formalism.LatticeTheta.Statement",
+    "Formalism.LocalRingCardinality.DataSpaces",
+    "Formalism.LocalRingCardinality.Params",
+    "Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd",
+    "Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ZsmulGeneratorEqZeroOfProjection",
+    "Formalism.TameInertiaTowers.StatementField",
+    "Formalism.TameInertiaTowers.StatementGroup",
+    "Formalism.ThetaLiftIndependence.Statement"
+  ],
+  "objects": {
+    "M058961": "88e0184f548bebc34bb0bd43fb71af7583aaf80aef4fa0aaf4d93fcc75b5fa46"
+  },
+  "bundle_sha256": "6293c4ed2a8cc56c824d17b104a13236c30e1814e25705ed1da82e500f4dbe0e",
+  "packet": "M058961",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20334#issuecomment-7061739045",
+  "reviewed_utc": "2026-11-22T16:47:35.243720+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.FlagMeasures.LeMapComapOfLeConjMaximalCmData"
+    ]
+  }
+}

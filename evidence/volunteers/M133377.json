@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    "M133377"
+  ],
+  "started_utc": "2026-11-21T11:22:02.862907+00:00",
+  "ended_utc": "2026-11-21T11:22:53.122233+00:00",
+  "elapsed_seconds": 50.3,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377408,
+    "peak_child_rss_kib": 6750280
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsFormDefiningValueStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "ee6e5804fbb4c1f265b49d28ecc0f82f24fe7aff7fbffd663db134db2d86c425",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Definitions.MetricPeriods.HasMultiplier",
+    "Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsFormDefiningValue",
+    "Development.WeilBound.CoreStatements.RationalSupMetrics.AevalCoordProd",
+    "Development.WeilBound.CoreStatements.RationalSupMetrics.ExistsFormWithValuation",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ArithmeticHilbertSamuelLowerBound",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.IsIntersectionFamily",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.IsSemipositiveOn",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.PenHost",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.PenVol"
+  ],
+  "objects": {
+    "M133377": "25696e0c988eaf671817b14a077deba11c9b50629eabda4b38aa4216c251b092"
+  },
+  "bundle_sha256": "8001df0d14826c55c162a1f896b824dc720bca0a1d05621cdf60d8cfc743d16d",
+  "packet": "M133377",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20597#issuecomment-7061959757",
+  "reviewed_utc": "2026-11-22T16:48:31.618880+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.MetricProofs.ExistsFormDefiningValueStatement"
+    ]
+  }
+}

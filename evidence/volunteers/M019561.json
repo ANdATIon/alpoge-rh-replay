@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M019561"
+  ],
+  "started_utc": "2026-11-21T12:56:59.259064+00:00",
+  "ended_utc": "2026-11-21T12:57:11.095692+00:00",
+  "elapsed_seconds": 11.8,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6875988
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOfPartialDerivativeClosure:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "7ad855576370b7c568887bdb47add621b359d5b50ceffdd932be9297fbea61de",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.FlagMeasures.HasFDerivAtOfContinuousPartials"
+  ],
+  "objects": {
+    "M019561": "32e9c8816b33cee1c96a00b458caecf9ce26c4ea4ed8bfcb291cd2db40e39dc3"
+  },
+  "bundle_sha256": "f1052cca83bb3001d9dcc8b1a1bc949552d9f9a789fd3694b9b7265d80ac9757",
+  "packet": "M019561",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20430#issuecomment-7062926971",
+  "reviewed_utc": "2026-11-22T16:48:02.770588+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContDiffOfPartialDerivativeClosure"
+    ]
+  }
+}

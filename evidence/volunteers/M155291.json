@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M155291"
+  ],
+  "started_utc": "2026-11-21T10:50:41.286706+00:00",
+  "ended_utc": "2026-11-21T10:50:58.091017+00:00",
+  "elapsed_seconds": 16.8,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5897200
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.ExistsNeZeroMem:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "7362261ec5dcf405664a59296d30eda792b36aa2b4766394823cf8c7296d3cc2",
+  "rebuilt_project_modules": [
+    "Formalism.LocalToGlobal.GlobalTheory.GL1.CompactFixesLattice.AdeleIntA",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.OhatCompact"
+  ],
+  "objects": {
+    "M155291": "1e31f978b882d75a92f86fe5b9182a89c695123487a2e24f8d7136868d2eba43"
+  },
+  "bundle_sha256": "78c15809a110885eba41d7a374b428bc1fa9d1b71f6eac7c33af20759a2608f3",
+  "packet": "M155291",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20219#issuecomment-7061507873",
+  "reviewed_utc": "2026-11-22T16:47:09.338947+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.ExistsNeZeroMem"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M066578"
+  ],
+  "started_utc": "2026-11-21T11:14:26.825361+00:00",
+  "ended_utc": "2026-11-21T11:14:57.517705+00:00",
+  "elapsed_seconds": 30.7,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912828,
+    "peak_child_rss_kib": 6816836
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddValNormUnramifiedInvolutionFieldExtEqMulStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1731352d5790f4e9ef1aa1e39d00eefff64a0546786948e89d08910e60f1b4fa",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddValNormUnramifiedInvolutionFieldExtEqMul"
+  ],
+  "objects": {
+    "M066578": "f7c5c64cd62b751565f8d88126a160df92bc4b63fdf6634e11669181ee8097fd"
+  },
+  "bundle_sha256": "a21c9ee034fc5922fc43fc00c62012177b9b00573724b32043af1eb442707118",
+  "packet": "M066578",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20512#issuecomment-7061794199",
+  "reviewed_utc": "2026-11-22T16:48:09.900434+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.AddValNormUnramifiedInvolutionFieldExtEqMulStatement"
+    ]
+  }
+}

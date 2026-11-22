@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M127457"
+  ],
+  "started_utc": "2026-11-21T11:28:52.382806+00:00",
+  "ended_utc": "2026-11-21T11:29:37.588599+00:00",
+  "elapsed_seconds": 45.2,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6687092
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShuffleWeightAntisymmetricEq:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "148ea5c407a7265671e80b4b929fbd49c1691e12e45d2028d0a84ee3c3e6d39d",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShuffleWeightSquareLengthLt",
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShuffleWeightSquareLengthLtStatement"
+  ],
+  "objects": {
+    "M127457": "d8cce0c76ea356fc44b135cea98358ffb8b50263dc6069df3c803233a7d3faca"
+  },
+  "bundle_sha256": "d78003108ec65236a9819762e46c3b1cb12ab51a68ee49f4b2f71a14c9932f2d",
+  "packet": "M127457",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20673#issuecomment-7061940792",
+  "reviewed_utc": "2026-11-22T16:48:46.384062+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ShuffleWeightAntisymmetricEq"
+    ]
+  }
+}

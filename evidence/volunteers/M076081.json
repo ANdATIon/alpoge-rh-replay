@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M076081"
+  ],
+  "started_utc": "2026-11-21T10:48:29.295988+00:00",
+  "ended_utc": "2026-11-21T10:49:01.282424+00:00",
+  "elapsed_seconds": 32.0,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6642252
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CharpolyMulBaseChangeFiniteMapOfIsPushoutStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "f812597f5576dbed23ae8a6fe208dfe11c48165432ad4d7adedb4b58e12394c7",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.AlgebraMapNormCoeff",
+    "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CharpolyMulBaseChangeFiniteMapOfIsPushout"
+  ],
+  "objects": {
+    "M076081": "3817afb83fda919ce53fb32ff3b100d889227dcebb4a2d6007cd7bd6f323dcea"
+  },
+  "bundle_sha256": "fea899ae0d93b421a7461950534223d86b574e3def85b93dd9c7c64a332667d3",
+  "packet": "M076081",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20158#issuecomment-7061488052",
+  "reviewed_utc": "2026-11-22T16:47:03.247480+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CharpolyMulBaseChangeFiniteMapOfIsPushoutStatement"
+    ]
+  }
+}

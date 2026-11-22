@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M066155"
+  ],
+  "started_utc": "2026-11-21T11:33:13.255171+00:00",
+  "ended_utc": "2026-11-21T11:33:23.292997+00:00",
+  "elapsed_seconds": 10.0,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6844072
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.HeightProofs.IntegrableOnFundamentalDomainOfCocompactStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "4aa8306dab3666808b245ce17914941735a023982e0f3d9065cd418566bc8e35",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.HeightProofs.IntegrableOnFundamentalDomainOfCocompact"
+  ],
+  "objects": {
+    "M066155": "a8378aef26d70af2b0b07ba8900097281741b10a1aa9e0e303eb019c53cdde82"
+  },
+  "bundle_sha256": "8baf566abe3c7a239e21b54a58473abf8758b9d9d028dec7064a7e67a40439aa",
+  "packet": "M066155",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20705#issuecomment-7061972987",
+  "reviewed_utc": "2026-11-22T16:48:56.250859+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.HeightProofs.IntegrableOnFundamentalDomainOfCocompactStatement"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M129254"
+  ],
+  "started_utc": "2026-11-21T11:17:02.900199+00:00",
+  "ended_utc": "2026-11-21T11:17:21.261208+00:00",
+  "elapsed_seconds": 18.4,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912828,
+    "peak_child_rss_kib": 6940800
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.HermitianDarbouxSplitProduct:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "93c71100d5bae179955e5bdd378468b76d6e5803d597dc4cbebf99eb66291a61",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.FiniteNonunitMatrix",
+    "Development.AutomorphicSpectrum.Proofs.MembershipProofs.SplitQuadraticAlgebraOrder"
+  ],
+  "objects": {
+    "M129254": "80e736c04f84d5ed62ab75edd8ab9ade144218765a5aceee40fa9aa92176b29b"
+  },
+  "bundle_sha256": "867a8b1efddc85504c92a3b3da581e31c211e04324632f9a460d9fa5d7bd10d6",
+  "packet": "M129254",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20533#issuecomment-7061808342",
+  "reviewed_utc": "2026-11-22T16:48:15.383735+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.HermitianDarbouxSplitProduct"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M009132"
+  ],
+  "started_utc": "2026-11-21T12:57:19.567859+00:00",
+  "ended_utc": "2026-11-21T12:57:29.669907+00:00",
+  "elapsed_seconds": 10.1,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6876368
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFamilyZetaConvergenceHolomorphy:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c8c8526f98ba90a758173327545ab4e25423e7ccc7c3a486cbc5f0c2324bc7f2",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FlatZetaIntegral"
+  ],
+  "objects": {
+    "M009132": "50232c6c8e95549966c6a6069b7139113040ad1a4b92dfb9fec0ff4ec25b41b7"
+  },
+  "bundle_sha256": "a149a93bfd075e2360eff92a3d3640e019bc6994896f11a471c961102a4185a5",
+  "packet": "M009132",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20431#issuecomment-7062930373",
+  "reviewed_utc": "2026-11-22T16:48:03.270288+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.FlatFamilyZetaConvergenceHolomorphy"
+    ]
+  }
+}

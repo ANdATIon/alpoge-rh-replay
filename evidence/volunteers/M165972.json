@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    "M165972"
+  ],
+  "started_utc": "2026-11-21T11:22:05.243780+00:00",
+  "ended_utc": "2026-11-21T11:23:14.216461+00:00",
+  "elapsed_seconds": 69.0,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377412,
+    "peak_child_rss_kib": 6796352
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.FubiniStudyInvariance.Statements:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "de7e5ea391d4963f3bc491f712d3c1f93abb1ae53ec26a6eabd72f28751f59e5",
+  "rebuilt_project_modules": [
+    "GroundTheory.ArithmeticGeometry.SchemeCohomology.ConsCompSuccAboveZero",
+    "GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjSpace",
+    "GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwist",
+    "GroundTheory.ArithmeticGeometry.SchemeCohomology.ProjTwistAway",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexProjective",
+    "GroundTheory.HeightsAndTheta.Heights.FubiniStudy",
+    "GroundTheory.HeightsAndTheta.Heights.FubiniStudyCharts",
+    "GroundTheory.HeightsAndTheta.Heights.FubiniStudyChern",
+    "GroundTheory.HeightsAndTheta.Heights.FubiniStudyIntegral",
+    "GroundTheory.HeightsAndTheta.Heights.FubiniStudyMetric",
+    "GroundTheory.HeightsAndTheta.Heights.ProjTopology"
+  ],
+  "objects": {
+    "M165972": "969ffaccf5edd989f9b046c6fcbf49e635216308835fdfe5bca5cc272a87201b"
+  },
+  "bundle_sha256": "f7ee621249ab17e93330ead9711d7178299cb2b1732ed6a3562ea194e9e6e449",
+  "packet": "M165972",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20616#issuecomment-7061960853",
+  "reviewed_utc": "2026-11-22T16:48:35.672381+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "GroundTheory.HeightsAndTheta.Heights.FubiniStudyInvariance.Statements"
+    ]
+  }
+}

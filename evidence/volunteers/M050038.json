@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M050038"
+  ],
+  "started_utc": "2026-11-21T10:56:23.281484+00:00",
+  "ended_utc": "2026-11-21T10:56:44.335317+00:00",
+  "elapsed_seconds": 19.6,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912824,
+    "peak_child_rss_kib": 6908328
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelUnipotentAntidiagonalCornerStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b9502f4eb2c7c26a8ece8e434d062e189979ca5676a809ea7b003f388abba43e",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff",
+    "Development.AbelianVarietyTheory.Definitions.Foundations.MatrixMeasurableSpace",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelUnipotentAntidiagonalCorner"
+  ],
+  "objects": {
+    "M050038": "352b21351f706e41b4560a7cecd95e9f361274db50c7280e6e2fef71c27f17b0"
+  },
+  "bundle_sha256": "12e32491bb88b3eddf50a909364c3c96bfcd0dd10b839e184f6243bcd882d3a0",
+  "packet": "M050038",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20280#issuecomment-7061589546",
+  "reviewed_utc": "2026-11-22T16:47:16.766204+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.SiegelUnipotentAntidiagonalCornerStatement"
+    ]
+  }
+}

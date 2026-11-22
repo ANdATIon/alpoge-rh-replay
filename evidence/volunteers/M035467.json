@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M035467"
+  ],
+  "started_utc": "2026-11-21T11:19:26.698340+00:00",
+  "ended_utc": "2026-11-21T11:19:36.169270+00:00",
+  "elapsed_seconds": 9.5,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6831048
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianNormTriangleInequalityStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "543219b232cdbe314abc8ddec23fa264c6763b86909db159fed7816c408301a9",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianNormTriangleInequality"
+  ],
+  "objects": {
+    "M035467": "0a3f7e7b809f023f1bcf8029aaf0b8e3c2bd184c9f2f4df4507d598b6641f710"
+  },
+  "bundle_sha256": "bebc4ef3bf8c7b9f3ed252b9123ebf89736ed6b53075b9e660e17d6ed0f6ab8f",
+  "packet": "M035467",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20586#issuecomment-7061817367",
+  "reviewed_utc": "2026-11-22T16:48:26.526645+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianNormTriangleInequalityStatement"
+    ]
+  }
+}

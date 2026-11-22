@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M140840"
+  ],
+  "started_utc": "2026-11-21T10:57:01.488347+00:00",
+  "ended_utc": "2026-11-21T10:57:22.148246+00:00",
+  "elapsed_seconds": 19.4,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912824,
+    "peak_child_rss_kib": 6861960
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.PositiveMeasureNorms.Unfold:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "a5ff1daa77d861d3ca2a798d82c09934aa57000763255d516a418cae030930ba",
+  "rebuilt_project_modules": [
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ThetaCellCovers.KernelL2RowsColumns",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ThetaCellCovers.VecClose"
+  ],
+  "objects": {
+    "M140840": "0a6f1bc5bcb5c8c3e1be9fbf09c3360dc890f1bba8ca9cbd796bd3da966243ea"
+  },
+  "bundle_sha256": "8bb7304ce08a5cef1dde0ce03e989b166f4a6e708703e7efb5552c0e7f41234b",
+  "packet": "M140840",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20284#issuecomment-7061593100",
+  "reviewed_utc": "2026-11-22T16:47:17.742160+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.PositiveMeasureNorms.Unfold"
+    ]
+  }
+}

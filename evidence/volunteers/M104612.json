@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M104612"
+  ],
+  "started_utc": "2026-11-21T10:57:54.381038+00:00",
+  "ended_utc": "2026-11-21T10:58:09.027794+00:00",
+  "elapsed_seconds": 14.6,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5933900
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.CompactLocalSets.DiscrHolds:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "822d0af857812c255bd4e0d2b924358d8d0f631c5c6873b376915b4fbf4ad8b7",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.CompactLocalSets.OverlapG",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.SBridgeAlt"
+  ],
+  "objects": {
+    "M104612": "941176243054038fa8851e250dd8bf95725f649588dac242a5d66bae6b8cea92"
+  },
+  "bundle_sha256": "a702bada607efa970331bb0fd8621aff8403ed9415122c75e339f945a2552bfb",
+  "packet": "M104612",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20342#issuecomment-7061585958",
+  "reviewed_utc": "2026-11-22T16:47:36.339077+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.KTheoryStability.ReductionBoundsTorsion.CompactLocalSets.DiscrHolds"
+    ]
+  }
+}

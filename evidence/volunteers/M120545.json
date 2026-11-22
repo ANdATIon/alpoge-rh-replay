@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    "M120545"
+  ],
+  "started_utc": "2026-11-21T11:14:35.997990+00:00",
+  "ended_utc": "2026-11-21T11:14:39.540433+00:00",
+  "elapsed_seconds": 3.5,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7210416
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ProIsometryOfLocalIsometriesStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "8be3fc1702ded1d74c44ee03044bb6358ba165d4b54749a2bdd0e7296e3c141a",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M120545": "d4a7d1c535bc79477f3d90ddf3c4a00bd31fadc6e77e4fe7d4c5cad6d1b01d81"
+  },
+  "bundle_sha256": "53935f9df2b23b6ae2cc1112b5dd4559f1e6011cf255283547aa2527ccad5fb0",
+  "packet": "M120545",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20559#issuecomment-7061764608",
+  "reviewed_utc": "2026-11-22T16:48:17.908031+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ProIsometryOfLocalIsometriesStatement"
+    ]
+  }
+}

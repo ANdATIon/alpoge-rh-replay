@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M064960"
+  ],
+  "started_utc": "2026-11-21T11:31:40.842471+00:00",
+  "ended_utc": "2026-11-21T11:31:52.742187+00:00",
+  "elapsed_seconds": 11.9,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6888344
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FourierInversionHaarSymmFormStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "53313af7f798b4183005a0bf24d38af1c7f5b9f039111c849878d7cbb4b4f76d",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FourierInversionHaarSymmForm"
+  ],
+  "objects": {
+    "M064960": "3fa84a102330d6273a2502763c2ca33db02a2d8670984478154db1d28be0dcc9"
+  },
+  "bundle_sha256": "eab2376dffcad0e3763fa8427c04523f46d21bdc29643ee9620d969b5ba37bd7",
+  "packet": "M064960",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20702#issuecomment-7061956639",
+  "reviewed_utc": "2026-11-22T16:48:54.839822+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FourierInversionHaarSymmFormStatement"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M002456"
+  ],
+  "started_utc": "2026-11-21T12:55:09.504399+00:00",
+  "ended_utc": "2026-11-21T12:55:28.710375+00:00",
+  "elapsed_seconds": 19.2,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6955508
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.KernelCharacterDelta:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "44da1a6330f14011dd8bb1aba1100c6f2b9ca817953f6b7e977e4d0c190b8f5b",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv"
+  ],
+  "objects": {
+    "M002456": "a17ce6f0c36299a292762061fa63e19f6e89d3ada19a0b9ebaebe3fa615af894"
+  },
+  "bundle_sha256": "aa219422ebd12ae797bdc3bd6fafc3c14617422b4aa92203e9406351f28a0dcd",
+  "packet": "M002456",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20425#issuecomment-7062908258",
+  "reviewed_utc": "2026-11-22T16:48:00.509084+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.BlockTheory.NonGaloisCusps.KernelCharacterDelta"
+    ]
+  }
+}

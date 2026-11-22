@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    "M164845"
+  ],
+  "started_utc": "2026-11-21T11:12:51.598893+00:00",
+  "ended_utc": "2026-11-21T11:13:55.386823+00:00",
+  "elapsed_seconds": 63.8,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377412,
+    "peak_child_rss_kib": 6756096
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelongCompact:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b7276e69d5a3f0d825ccd6387618b1b5890b025f3d0dbb785a287e565491801e",
+  "rebuilt_project_modules": [
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Characterised",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ConeBall",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ContinuousHermNormGroup",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LineInhabitant",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LogGaussNormSupportFinite",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MahlerSectionBasic",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PConeLogBound",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFsLogSmul",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.Statements",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsMahler",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StFormIntSlice",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceCutOffLimit",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelong",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceSectionMass",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Statements",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsCurrent",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StatementsGreenReg"
+  ],
+  "objects": {
+    "M164845": "27d2293e06c5f392d929845dd306a1d60dec4bda91ba696a103edd2b05bfa83b"
+  },
+  "bundle_sha256": "acfb75a708ea094c2c956464c130d4b7b4ceeb3a70adc39a495898f40bc9bb04",
+  "packet": "M164845",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20443#issuecomment-7061841375",
+  "reviewed_utc": "2026-11-22T16:48:05.382741+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StSliceFormLelongCompact"
+    ]
+  }
+}

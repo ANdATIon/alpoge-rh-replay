@@ -1,0 +1,66 @@
+{
+  "tasks": [
+    "M023511"
+  ],
+  "started_utc": "2026-11-21T10:54:18.804742+00:00",
+  "ended_utc": "2026-11-21T10:55:52.183387+00:00",
+  "elapsed_seconds": 93.4,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377412,
+    "peak_child_rss_kib": 6863424
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsApOpAddSmul:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1acd8993677f24e8cad34e4841a8605776dad47484150d85b271b7aed305481d",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.ZeroMemSolSet",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ConvSqLe",
+    "Formalism.UnipotentAdelicQuotients.EllReg",
+    "Formalism.UnipotentAdelicQuotients.EllRegCheck",
+    "Formalism.UnipotentAdelicQuotients.EllRegCut",
+    "Formalism.UnipotentAdelicQuotients.EllRegStep",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.BaseLevel",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.ConvolutionBound",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.Decompose",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.ExistsSmoothExt",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.IteratedPartialFourierChar",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDecay",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDer",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDil",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernGr",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.Moments",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.PairingFourier",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.PairingLocal",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.SmoothOfLocallySmooth",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.StepCore",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.SymbLower",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.WeakFourier",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.WeightDiff",
+    "Formalism.UnipotentAdelicQuotients.EllipticRegularity.WeightedNormFinite"
+  ],
+  "objects": {
+    "M023511": "90f8547218b75240db0a57423d118774533438b3b68915d623a4257123ab6249"
+  },
+  "bundle_sha256": "460cf5876c791cb4734268c572c12c29b8da7f4099092349841e11ca2eefec41",
+  "packet": "M023511",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20195#issuecomment-7061627466",
+  "reviewed_utc": "2026-11-22T16:47:07.434722+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsApOpAddSmul"
+    ]
+  }
+}

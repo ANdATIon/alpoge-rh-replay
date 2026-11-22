@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M067684"
+  ],
+  "started_utc": "2026-11-21T11:16:58.211227+00:00",
+  "ended_utc": "2026-11-21T11:18:12.983062+00:00",
+  "elapsed_seconds": 74.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6660396
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjPlacesOfSamePrimeBelow:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "f4fefc024ea902c085ae29cf8c416f652709161841516a65b947694ea08f4cb8",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ExistsNotCongPow"
+  ],
+  "objects": {
+    "M067684": "cdc8ff4af45138ebfa22f12b729dccf49f57390b98110c91a7a0cfaaa4d9e122"
+  },
+  "bundle_sha256": "de58f0718263931ee5cf8a9206c87535d6ed3fc50336a68089beef22f552e9c7",
+  "packet": "M067684",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20609#issuecomment-7061806798",
+  "reviewed_utc": "2026-11-22T16:48:33.679135+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjPlacesOfSamePrimeBelow"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    "M145081"
+  ],
+  "started_utc": "2026-11-21T11:12:43.156193+00:00",
+  "ended_utc": "2026-11-21T11:13:36.485751+00:00",
+  "elapsed_seconds": 53.3,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 12304536,
+    "peak_child_rss_kib": 6709596
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Formalism.GaussJetBounds.GaussJetProofs.MfactEqProdUniv:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "ffe99ce476de01f12c344df24d72ef241f69d9af62fa4b77deee6ee5f4cb8020",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WtGeProd",
+    "Formalism.GaussJetBounds.GaussJetProofs.SubstitutionWeightBound",
+    "Formalism.GaussJetBounds.GenLogInverse",
+    "Formalism.GaussJetBounds.Statement",
+    "Formalism.GaussJetBounds.StatementA",
+    "Formalism.GaussJetBounds.StatementC",
+    "Formalism.GaussJetBounds.StatementE",
+    "Formalism.GaussJetBounds.StatementG",
+    "Formalism.GaussJetBounds.StatementH",
+    "Formalism.GaussJetBounds.StatementI",
+    "Formalism.GaussJetBounds.StatementN",
+    "Formalism.IncomingBounds.IncomingBound"
+  ],
+  "objects": {
+    "M145081": "9d9cdd354b01fb349ed0623e72e01e7ac5ca4715698b1677e141303fdbb4c681"
+  },
+  "bundle_sha256": "088f25a8ac0caedcb559e4b25e24872cac6343a959987395432c031bb2bc6c69",
+  "packet": "M145081",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20409#issuecomment-7061839039",
+  "reviewed_utc": "2026-11-22T16:47:54.244042+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Formalism.GaussJetBounds.GaussJetProofs.MfactEqProdUniv"
+    ]
+  }
+}

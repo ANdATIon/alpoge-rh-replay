@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M002549"
+  ],
+  "started_utc": "2026-11-21T10:57:04.672844+00:00",
+  "ended_utc": "2026-11-21T11:23:33.423663+00:00",
+  "elapsed_seconds": 1588.7,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 7931936,
+    "peak_child_rss_kib": 3918960
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SiegelWeilGramDensity:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "deaedf50aecb21e3cb99e5bc39d50725f5018e20e56b4c8d2787650c0f7b6690",
+  "rebuilt_project_modules": [
+    "Formalism.UnipotentAdelicQuotients.SWXSDefs"
+  ],
+  "objects": {
+    "M002549": "b1f7f926b23e9c932a7e9a0f7d1ef77090e93b75a549d76a1fdb6a0acc4f98c6"
+  },
+  "bundle_sha256": "a4f51e5a02d57e44b66dd5f2a1baa8cb1b4a19a420bfb3040bd5bc05025b972d",
+  "packet": "M002549",
+  "contributor": "chriswilson413",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20299#issuecomment-7061862606",
+  "reviewed_utc": "2026-11-22T16:47:22.557477+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.BlockTheory.SiegelWeilLocal.SiegelWeilGramDensity"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M069115"
+  ],
+  "started_utc": "2026-11-21T11:33:33.714671+00:00",
+  "ended_utc": "2026-11-21T11:33:48.163986+00:00",
+  "elapsed_seconds": 14.4,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 7021384
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaussPoint:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c402f73d822319def9bc9a5a719c09261a381a968b2672b07a2e33bb4acbeaf2",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring"
+  ],
+  "objects": {
+    "M069115": "b04190e9f5b5893871751263f9b074d205010ae7aecab784d4f7e06c2429e752"
+  },
+  "bundle_sha256": "a461c21258d8550ab746832a81ed50a4cab2d7ac8a5d51c41d864210c7464190",
+  "packet": "M069115",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20707#issuecomment-7061977846",
+  "reviewed_utc": "2026-11-22T16:48:57.182292+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaussPoint"
+    ]
+  }
+}

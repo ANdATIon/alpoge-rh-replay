@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M097558"
+  ],
+  "started_utc": "2026-11-21T10:56:45.910224+00:00",
+  "ended_utc": "2026-11-21T10:57:00.083169+00:00",
+  "elapsed_seconds": 14.2,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912824,
+    "peak_child_rss_kib": 6829888
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.TwistedOperators.TensorMaximalStableContainsLeftKernel:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "34c01bc5b57f88491786a923e84af30da96c3eb7daa7394ba4e0733ba8008608",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeKerOfLocalFiniteLengthToSimple",
+    "Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeKerOfLocalFiniteLengthToSimpleStatement",
+    "Development.AbelianVarietyTheory.Proofs.TwistedOperators.SimpleOver"
+  ],
+  "objects": {
+    "M097558": "6a01d8c1c844eb14e548cab7998f13fbe464a10d3ee962cc21ab0eae3dc5e099"
+  },
+  "bundle_sha256": "e235f4dc9c3473e7e56f0e4d08d14db648aaf00436a821ddfa937195b7b982bb",
+  "packet": "M097558",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20282#issuecomment-7061591269",
+  "reviewed_utc": "2026-11-22T16:47:17.264706+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.TwistedOperators.TensorMaximalStableContainsLeftKernel"
+    ]
+  }
+}

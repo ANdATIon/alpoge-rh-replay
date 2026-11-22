@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    "M157506"
+  ],
+  "started_utc": "2026-11-21T11:12:48.737799+00:00",
+  "ended_utc": "2026-11-21T11:13:41.569806+00:00",
+  "elapsed_seconds": 52.8,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377408,
+    "peak_child_rss_kib": 6781800
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvF:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "efaf55e2c84f6b7c3b667b95c96f4d01a32b0c3c3a2bd8d8a565eff4fc35dcae",
+  "rebuilt_project_modules": [
+    "Formalism.PeriodIntegrals.RhsWLim",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.HaarUniq",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.MBaseMem",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsHaar",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInv",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvO",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvR",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.TBallMeas",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.VolumeLieE"
+  ],
+  "objects": {
+    "M157506": "871ee0ad48e3744902c46aba15d743158565219f4a0a481502207e49a7a7c675"
+  },
+  "bundle_sha256": "cb47186151858f7af2a388cd6e70ec7a3d207580c61a1e8863729b2f37fb2fdb",
+  "packet": "M157506",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20413#issuecomment-7061840155",
+  "reviewed_utc": "2026-11-22T16:47:55.323800+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsWInvF"
+    ]
+  }
+}

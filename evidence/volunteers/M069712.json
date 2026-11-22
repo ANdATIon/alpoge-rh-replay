@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M069712"
+  ],
+  "started_utc": "2026-11-21T11:35:34.283586+00:00",
+  "ended_utc": "2026-11-21T11:35:45.234175+00:00",
+  "elapsed_seconds": 11.0,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6859232
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormAStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "5b335708121185d8b2b24bdc4ec84ee005e167768f7d0108eaa1bf70c8f22d32",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormA"
+  ],
+  "objects": {
+    "M069712": "017082ea0146040c788a81c2cd03b1098dc94980d28f8489385c19c1a510ab98"
+  },
+  "bundle_sha256": "076d894b061e396591e7b5223c78ad432668b8cc36bf938cec8f56fd2370e413",
+  "packet": "M069712",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20724#issuecomment-7062000253",
+  "reviewed_utc": "2026-11-22T16:49:00.821103+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormAStatement"
+    ]
+  }
+}

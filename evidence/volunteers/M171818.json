@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    "M171818"
+  ],
+  "started_utc": "2026-11-21T11:32:26.814847+00:00",
+  "ended_utc": "2026-11-21T11:33:24.091925+00:00",
+  "elapsed_seconds": 57.3,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 12304536,
+    "peak_child_rss_kib": 6852632
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+ReciprocityTheory.DualLattices.NsmulKerZero:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "188d5725fa54ef1866101665ca2066e79f1978fbe616199cc3e7aa769c92d79f",
+  "rebuilt_project_modules": [
+    "ReciprocityTheory.DualLattices.HeightFunctionalStatementOfPairingProperties",
+    "ReciprocityTheory.DualLattices.HtLinStatement",
+    "ReciprocityTheory.DualLattices.IsFibreSq",
+    "ReciprocityTheory.DualLattices.IsHeightUnique",
+    "ReciprocityTheory.DualLattices.ModuliPointsState",
+    "ReciprocityTheory.DualLattices.NsetExpInjectiveSurjective",
+    "ReciprocityTheory.DualLattices.SeriesState",
+    "ReciprocityTheory.DualLattices.SqZeroOfSpan",
+    "ReciprocityTheory.DualLattices.StThmA",
+    "ReciprocityTheory.DualLattices.TangentPairingStatement",
+    "ReciprocityTheory.DualLattices.ToSigmaAddFstZeroFst"
+  ],
+  "objects": {
+    "M171818": "f3f4acda2a7df999bf409a444631e839ea32816f4864090ba63cc240e0a87c1e"
+  },
+  "bundle_sha256": "9775bbdc4ae35c2222042b13206e469a74ac0e47c962ec36fc1cd46a35aaa93e",
+  "packet": "M171818",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20674#issuecomment-7062063504",
+  "reviewed_utc": "2026-11-22T16:48:46.857477+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "ReciprocityTheory.DualLattices.NsmulKerZero"
+    ]
+  }
+}

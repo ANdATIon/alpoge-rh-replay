@@ -1,0 +1,57 @@
+{
+  "tasks": [
+    "M017098"
+  ],
+  "started_utc": "2026-11-21T11:32:32.057527+00:00",
+  "ended_utc": "2026-11-21T11:34:10.412414+00:00",
+  "elapsed_seconds": 98.4,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377408,
+    "peak_child_rss_kib": 6933588
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDifferentialAdjointCupProductPairingStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1090ab2f01de4240e2dd4708d884f0d3615cfa658ee64dac0fc2cdcedbb0b9e5",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.CommAlgFunctorCoboundaryZeroMemCocyclesOne",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.CrystallineConnectionFormCoboundaryZero",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.CupPair",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.DlogRatioVolumeFormNeZero",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.IsFlatLift",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.OneFormMapEqKaehlerDifferentialMap",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.Pullback1MemHodgeFiltration",
+    "Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.IsIsoTermComparisonRestrictScalars",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDifferentialAdjointCupProductPairing",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsCompletedStrictHens",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsGrpPullback",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.AbelianSchemeQuotients.IsAbelianScheme",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.CubicalStructures.CubeSymmetricSwapFirst",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.CubicalStructures.CubicalPullBaseChangeSt",
+    "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SemiabelianSchemes.SplitTori.SplitTorusAff"
+  ],
+  "objects": {
+    "M017098": "ed77aad06cf915f294ffe1f11ac07ffb756bff32cac8e015e9a2f405f96945f2"
+  },
+  "bundle_sha256": "49a184f4874c733ca31e0e0ad4e6293ccfbd1bea93bc3e14e023ab177213acb5",
+  "packet": "M017098",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20682#issuecomment-7062064638",
+  "reviewed_utc": "2026-11-22T16:48:49.613881+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CechDifferentialAdjointCupProductPairingStatement"
+    ]
+  }
+}

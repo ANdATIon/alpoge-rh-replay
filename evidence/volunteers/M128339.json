@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M128339"
+  ],
+  "started_utc": "2026-11-21T10:49:21.827803+00:00",
+  "ended_utc": "2026-11-21T10:49:33.046530+00:00",
+  "elapsed_seconds": 11.2,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6890572
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistOfSectionLawStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1f1983ca0a32946462df86a6cb616cb08eac79303fde4ca0268cbb9f5d0135d7",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistOfSectionLaw"
+  ],
+  "objects": {
+    "M128339": "fb4d335d3c49adae3a44dff98ae61b22ecfe3e6bfdd5eb5c0601b527b88151c4"
+  },
+  "bundle_sha256": "8cb3993e4e83fc2ab95fb7209b3c1e2c2a02e20e9ab52ca21f6be56c86db4aee",
+  "packet": "M128339",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20144#issuecomment-7061492560",
+  "reviewed_utc": "2026-11-22T16:46:58.073954+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TwistOfSectionLawStatement"
+    ]
+  }
+}

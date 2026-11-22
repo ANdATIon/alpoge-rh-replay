@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M074335"
+  ],
+  "started_utc": "2026-11-21T11:31:36.773318+00:00",
+  "ended_utc": "2026-11-21T11:31:42.380886+00:00",
+  "elapsed_seconds": 5.6,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7206068
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SummableFinprodOfFiniteSupportEulerSumStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "674daa518b72bc0394f49ac6fa442097cdce40f03859879a801788f7397047f4",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SummableFinprodOfFiniteSupportEulerSum"
+  ],
+  "objects": {
+    "M074335": "235b69cdc991c4596ff6710b061df29393e540b5be19e706be918693d488e60b"
+  },
+  "bundle_sha256": "0617b6c369d8ef31bc750c44488aab8b214e2846647f8390fcfe560d48e5ecb1",
+  "packet": "M074335",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20771#issuecomment-7061955517",
+  "reviewed_utc": "2026-11-22T16:49:06.028714+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SummableFinprodOfFiniteSupportEulerSumStatement"
+    ]
+  }
+}

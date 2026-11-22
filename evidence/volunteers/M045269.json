@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    "M045269"
+  ],
+  "started_utc": "2026-11-21T11:21:38.427200+00:00",
+  "ended_utc": "2026-11-21T11:21:42.110202+00:00",
+  "elapsed_seconds": 3.7,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7217224
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicTensorNumberFieldIsReduced:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "879d086296f233c978c0e9a7415d20e352918f398c31bc16942457385d023d69",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M045269": "22aed012bd5b9a77cb1dbf72625b910c501469c0c69d5521258312585c160bee"
+  },
+  "bundle_sha256": "4748c04a096de7e717205cfe7565e16348c30018f4e3663b473dbcccbcef906c",
+  "packet": "M045269",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20639#issuecomment-7061841298",
+  "reviewed_utc": "2026-11-22T16:48:40.158407+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicTensorNumberFieldIsReduced"
+    ]
+  }
+}

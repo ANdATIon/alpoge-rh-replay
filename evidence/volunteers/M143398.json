@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M143398"
+  ],
+  "started_utc": "2026-11-21T11:16:32.481178+00:00",
+  "ended_utc": "2026-11-21T11:16:45.517258+00:00",
+  "elapsed_seconds": 13.0,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912828,
+    "peak_child_rss_kib": 6894472
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.ThetaLifts.LatticeBasics.LocDistC:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "4de63733872afe39d7290f41ec727b168321bc80476e0d8f2cbb3571caac8911",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCompactOpenAddSubgroup",
+    "Development.WeilBound.ThetaLifts.LatticeBasics.LocDistA"
+  ],
+  "objects": {
+    "M143398": "f7893ce79e20ff33ea3c7c822dee6d9d1b2339ef2bd60c780ef49b4a4ae83483"
+  },
+  "bundle_sha256": "758cf7bae93af883cb8d00565624bbd5f1a9b3bdd7d5a9391d320c095aae8cb0",
+  "packet": "M143398",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20529#issuecomment-7061804876",
+  "reviewed_utc": "2026-11-22T16:48:14.421756+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.WeilBound.ThetaLifts.LatticeBasics.LocDistC"
+    ]
+  }
+}

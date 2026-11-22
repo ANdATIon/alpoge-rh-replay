@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M101544"
+  ],
+  "started_utc": "2026-11-21T11:06:20.283967+00:00",
+  "ended_utc": "2026-11-21T11:06:49.089418+00:00",
+  "elapsed_seconds": 28.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6610952
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IrredIffSpan:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "8fb148eb8675dd0454fd82cf6db167749adf8c8db28bf0bca9c2e16902a2072c",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IrreducibleOfSpanningMatrices",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SpanMapRingHomEqTop"
+  ],
+  "objects": {
+    "M101544": "9599991ea5b09185914f31d13261090e80039c7dca55a118c436ff688819e745"
+  },
+  "bundle_sha256": "0034216bbbd5ef1152a79703b1361557b1e11ab5cb81ebbf321157fb318f398b",
+  "packet": "M101544",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20411#issuecomment-7061678565",
+  "reviewed_utc": "2026-11-22T16:47:54.840732+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IrredIffSpan"
+    ]
+  }
+}

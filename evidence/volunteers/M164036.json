@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M164036"
+  ],
+  "started_utc": "2026-11-21T10:57:34.020491+00:00",
+  "ended_utc": "2026-11-21T10:57:46.968028+00:00",
+  "elapsed_seconds": 12.9,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5973976
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCompactHolomorphicFibreFinite:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "853c8b7ee9fa879215dfc5e5d847ff2d4081718ded6ff4a9710c5f107a7a2295",
+  "rebuilt_project_modules": [
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCompactHolomorphicFibreFinite",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StNonIsolatedFibreCurve"
+  ],
+  "objects": {
+    "M164036": "4909652511287eed55c119bfbafebd62ee7fad8b047bb58d86676ceb66849d26"
+  },
+  "bundle_sha256": "a7608a8f42da0d3a1b2705679e13e83d27536e91b041afa8cf62cb5d05e6dd4b",
+  "packet": "M164036",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20335#issuecomment-7061580335",
+  "reviewed_utc": "2026-11-22T16:47:35.755095+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCompactHolomorphicFibreFinite"
+    ]
+  }
+}

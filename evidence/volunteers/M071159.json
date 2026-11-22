@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M071159"
+  ],
+  "started_utc": "2026-11-21T11:30:59.347301+00:00",
+  "ended_utc": "2026-11-21T11:31:04.585186+00:00",
+  "elapsed_seconds": 5.2,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7219488
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ImageFiniteOfTrivialOnInfFiniteIndexStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "0157b92e0e7a8d68ec794f6b46eb2f6528ea366c491a2ca667baab96788af4a4",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ImageFiniteOfTrivialOnInfFiniteIndex"
+  ],
+  "objects": {
+    "M071159": "584b9fe0ce7c203721fabefd22719a0b9750994269512399f062f8c661b772a6"
+  },
+  "bundle_sha256": "b954e592de4f29d642e9a44950183284dd18fe3fa7bb49c5b3e2ce76a08b88ce",
+  "packet": "M071159",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20766#issuecomment-7061948677",
+  "reviewed_utc": "2026-11-22T16:49:04.517317+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ImageFiniteOfTrivialOnInfFiniteIndexStatement"
+    ]
+  }
+}

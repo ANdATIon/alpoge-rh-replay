@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M062273"
+  ],
+  "started_utc": "2026-11-21T11:21:40.440755+00:00",
+  "ended_utc": "2026-11-21T11:21:53.373299+00:00",
+  "elapsed_seconds": 12.9,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5933560
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FoundationProofs.Gamma1InterGamma0ModularFormHasSumQExpansion:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "d7634dd0ba83d402ba4720e51afca93ce9c27dc0edbaf34c75cb0dda891a9da6",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Foundations.PetEqRelIndexMulPetProd"
+  ],
+  "objects": {
+    "M062273": "0808cf9cfd2c042549d53f8bc71ab615a6bea5f08b805d2a362f669fff0c1b6f"
+  },
+  "bundle_sha256": "937d4cadf6907897b27029a1a97d5f72f984fcfa267cbfbcd4b605178b286c85",
+  "packet": "M062273",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20640#issuecomment-7061848218",
+  "reviewed_utc": "2026-11-22T16:48:40.596297+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.FoundationProofs.Gamma1InterGamma0ModularFormHasSumQExpansion"
+    ]
+  }
+}

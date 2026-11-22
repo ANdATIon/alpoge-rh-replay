@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M045442"
+  ],
+  "started_utc": "2026-11-21T10:48:19.565577+00:00",
+  "ended_utc": "2026-11-21T10:48:40.281796+00:00",
+  "elapsed_seconds": 20.7,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5812412
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterFunctionEqZeroOfComposableStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "dc92db0fd1a9b29106001a93e3bd464601a41deb6e538c149d05e1a19108e04f",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.FstTszeSec",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterFunctionEqZeroOfComposable"
+  ],
+  "objects": {
+    "M045442": "af73026f5f9a535fe49f6511b075171f0a3dc05fbe217fda3c83d8838753299c"
+  },
+  "bundle_sha256": "cb5a3a6b766917218126ab18ba02b24e7d79d39fc7c0e6886e3be6da614ef0c6",
+  "packet": "M045442",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20168#issuecomment-7061483787",
+  "reviewed_utc": "2026-11-22T16:47:05.437187+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterFunctionEqZeroOfComposableStatement"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M001334"
+  ],
+  "started_utc": "2026-11-21T11:14:36.798674+00:00",
+  "ended_utc": "2026-11-21T11:14:42.627808+00:00",
+  "elapsed_seconds": 5.8,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7230612
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOrthogonalGroupInvariance:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1d5c8a75debd81138c1673403cd9e4305115ea6d84f26ba6b47e2e36641138e4",
+  "rebuilt_project_modules": [
+    "CompanionTheory.SpectralGeometry.CountingDefinitions.AdelicEulerProducts.CountData"
+  ],
+  "objects": {
+    "M001334": "623d7e7ff5d327cd4ad104a676f971a3ef6abbdf7489bb4f0a30e077358b3464"
+  },
+  "bundle_sha256": "38ceccdda13115e7f1ca0733a6d5020cab7f063c0d851caa50db6a34cf929d57",
+  "packet": "M001334",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20560#issuecomment-7061766433",
+  "reviewed_utc": "2026-11-22T16:48:18.363126+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.WeilOrthogonalGroupInvariance"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M029080"
+  ],
+  "started_utc": "2026-11-21T11:21:39.951268+00:00",
+  "ended_utc": "2026-11-21T11:21:46.342669+00:00",
+  "elapsed_seconds": 6.4,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7282364
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSelfDualLatticeAdelicStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "db42f5d187147b43be835fcba331611041a39d1818188ff0db9b7c20b00fc305",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSelfDualLatticeAdelic"
+  ],
+  "objects": {
+    "M029080": "5a30a151cff78b375bdcf3f1302ae3f571a3506a4f28b27178d608d667a5c323"
+  },
+  "bundle_sha256": "fd7608d0970ca63aef141d6af089073eb00174061119040475453fa5a63ed430",
+  "packet": "M029080",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20642#issuecomment-7061844906",
+  "reviewed_utc": "2026-11-22T16:48:41.518684+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSelfDualLatticeAdelicStatement"
+    ]
+  }
+}

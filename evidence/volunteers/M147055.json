@@ -1,0 +1,48 @@
+{
+  "tasks": [
+    "M147055"
+  ],
+  "started_utc": "2026-11-21T10:54:10.520633+00:00",
+  "ended_utc": "2026-11-21T10:55:05.075113+00:00",
+  "elapsed_seconds": 54.6,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 12304536,
+    "peak_child_rss_kib": 6827180
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Formalism.HermitianCurvature.HermitianCurvatureProofs.ThShiftInt:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "3c292143c99371dd8410e7c4deaa8c38941c1cc9877ea1c1b87e3cd5c2ce683c",
+  "rebuilt_project_modules": [
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.BasePointMemHalfPlane",
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.FderivDecomp",
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.HasDerivAtTMul",
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.HasFDerivAtPrim",
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.ImCircleIntegral",
+    "Formalism.HermitianCurvature.HermitianCurvatureProofs.ThetaAtBasePointZero"
+  ],
+  "objects": {
+    "M147055": "e685698863cd8ca7f102dcf2e8fbbbd80c9f18bc5e19c5598d8d8eafe24881a7"
+  },
+  "bundle_sha256": "488e0bc2b3af89e04b8232252f12aa33d180bd85c4c6d22ec130a495cbf95adb",
+  "packet": "M147055",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20137#issuecomment-7061625060",
+  "reviewed_utc": "2026-11-22T16:46:55.973705+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Formalism.HermitianCurvature.HermitianCurvatureProofs.ThShiftInt"
+    ]
+  }
+}

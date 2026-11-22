@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M001600"
+  ],
+  "started_utc": "2026-11-21T12:54:31.342585+00:00",
+  "ended_utc": "2026-11-21T12:54:44.150635+00:00",
+  "elapsed_seconds": 12.8,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6870080
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DeltaStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "0e7cb25774cb2c08df3107f2b6464f6c5a9830cd5764ec9f03a0a63339b3bbe6",
+  "rebuilt_project_modules": [
+    "CompanionTheory.RealGroups.UnitaryAdmissibility.ArchimedeanUnitaryDual.StSandwich"
+  ],
+  "objects": {
+    "M001600": "4c477cfddc2db1b4dd70f2deac9549ea0fa3e9c459d12a6bd79fb1cfb4efd7dd"
+  },
+  "bundle_sha256": "1e8b1cc853ea4bcbab701950c5cc60e94417f0ecb94b38074a6e81d52cb4ed8f",
+  "packet": "M001600",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20420#issuecomment-7062900165",
+  "reviewed_utc": "2026-11-22T16:47:58.660680+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.DeltaStatement"
+    ]
+  }
+}

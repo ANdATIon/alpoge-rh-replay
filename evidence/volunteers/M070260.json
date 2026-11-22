@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M070260"
+  ],
+  "started_utc": "2026-11-21T11:37:28.754582+00:00",
+  "ended_utc": "2026-11-21T11:37:38.924263+00:00",
+  "elapsed_seconds": 10.2,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6851760
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinrankAddLeFinrankRangeAddOfComapLeStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "66d64b08330df4d32a713a552e38de4b4df0469e54c1ea7da9380149fe94441b",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinrankAddLeFinrankRangeAddOfComapLe"
+  ],
+  "objects": {
+    "M070260": "e5b888ae7f8f8f09b8bb93e6ad59df7fd598c8e132c7a55ec71f2884655fd201"
+  },
+  "bundle_sha256": "b1aa5933546ac3f47dd5a0fa69ddaa40f43f0f504de941d1430eae17d872c2c4",
+  "packet": "M070260",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20730#issuecomment-7062021475",
+  "reviewed_utc": "2026-11-22T16:49:03.695638+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FinrankAddLeFinrankRangeAddOfComapLeStatement"
+    ]
+  }
+}

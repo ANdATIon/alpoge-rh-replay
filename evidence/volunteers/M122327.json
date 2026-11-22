@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M122327"
+  ],
+  "started_utc": "2026-11-21T10:48:19.285047+00:00",
+  "ended_utc": "2026-11-21T10:48:36.102867+00:00",
+  "elapsed_seconds": 16.8,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5776992
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DetWEqNormSqDetOneAddI:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "132a81162c82c3a43b2e1f7416a48f4da1a7fb76ffee7a470e423a89dab8e3bb",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousBlkM",
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SecondCountableHermC"
+  ],
+  "objects": {
+    "M122327": "4a9a252b50f01e8aaf42e24543b613d4732e3701ee67985a73e92142ec87d9fa"
+  },
+  "bundle_sha256": "dca37d2f1ef616f6c7d51fdf794e9ca74572cdbc2b19adaeff34d1eaf2dc30fa",
+  "packet": "M122327",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20156#issuecomment-7061482741",
+  "reviewed_utc": "2026-11-22T16:47:01.709273+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DetWEqNormSqDetOneAddI"
+    ]
+  }
+}

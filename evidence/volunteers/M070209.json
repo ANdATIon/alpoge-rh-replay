@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M070209"
+  ],
+  "started_utc": "2026-11-21T11:36:31.930170+00:00",
+  "ended_utc": "2026-11-21T11:36:42.058617+00:00",
+  "elapsed_seconds": 10.1,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6857108
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FiniteOfPerfectPairingZmodStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "643521a974e4fab2220aad31cde2e84375b7c019914cabae986796c07f61b651",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FiniteOfPerfectPairingZmod"
+  ],
+  "objects": {
+    "M070209": "22829bdc95cea23331011ac381a989be6256c6756fd92fb96be443ba99ed3803"
+  },
+  "bundle_sha256": "bb63c307c09b28aedb878dc5f206974f8ae512732d9da320736a2e1c88b151bf",
+  "packet": "M070209",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20725#issuecomment-7062010756",
+  "reviewed_utc": "2026-11-22T16:49:01.309892+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FiniteOfPerfectPairingZmodStatement"
+    ]
+  }
+}

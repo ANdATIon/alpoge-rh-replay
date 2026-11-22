@@ -1,0 +1,65 @@
+{
+  "tasks": [
+    "M083384"
+  ],
+  "started_utc": "2026-11-21T10:54:16.000449+00:00",
+  "ended_utc": "2026-11-21T10:55:23.457971+00:00",
+  "elapsed_seconds": 67.5,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377408,
+    "peak_child_rss_kib": 6780516
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.JetHarmonics.CapelliLeftComatrixStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c59ebfb2c3b12e38ad573070cdda42e7d8936bb4800d81e8af773922016167d6",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.JetHarmonics.CapelliLeftComatrix",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CasimirCommutation",
+    "Formalism.PeriodIntegrals.QmColExp",
+    "Formalism.PeriodIntegrals.QmDefs",
+    "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn.FirstColumnSplitBijective",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CasComm",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CasKHW",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CharId",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorCommutatorQuantumDet",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorPowUpperVanishHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.HWDiag",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.HalfSumRootsStandard",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuadraticInequalityBoundHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.SumOfSquaresIdentityHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.TrPowSumFilterZero",
+    "Formalism.RealPlaceAnalysis.StatementA",
+    "Formalism.RealPlaceAnalysis.StatementB",
+    "Formalism.RealPlaceAnalysis.StatementC",
+    "Formalism.RealPlaceAnalysis.StatementD",
+    "Formalism.RealPlaceAnalysis.StatementE",
+    "Formalism.RealPlaceAnalysis.ThirdArithmeticHolds"
+  ],
+  "objects": {
+    "M083384": "f6465ccebf6d643173fcf0f502e3b61ade05977633f4ca32b858e48cb58c2c3b"
+  },
+  "bundle_sha256": "7ed3f9c0eb74391cd6bed9b75f3a99664db258ddb5ff0abd2d44bf0d6505517a",
+  "packet": "M083384",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20159#issuecomment-7061626253",
+  "reviewed_utc": "2026-11-22T16:47:03.776385+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.JetHarmonics.CapelliLeftComatrixStatement"
+    ]
+  }
+}

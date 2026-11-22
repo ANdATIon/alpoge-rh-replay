@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M069832"
+  ],
+  "started_utc": "2026-11-21T11:35:53.593340+00:00",
+  "ended_utc": "2026-11-21T11:36:03.790642+00:00",
+  "elapsed_seconds": 10.2,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6833192
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsSubfieldAdjoinRootsOfUnityEmbeddingComplexStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "bcb894a6ef917e68d64e41b1c0acc26777e65af1f06ee08d777942980c6b57e6",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsSubfieldAdjoinRootsOfUnityEmbeddingComplex"
+  ],
+  "objects": {
+    "M069832": "e1aad469e9ef02758f7661dc634ab60f496ea1e66c3b8e3a1627c42e69b2049c"
+  },
+  "bundle_sha256": "9255a16da91b1de56a3325b69f07d004f337f2709d8bb6d11f6625cc8c330eac",
+  "packet": "M069832",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20727#issuecomment-7062003615",
+  "reviewed_utc": "2026-11-22T16:49:02.248495+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsSubfieldAdjoinRootsOfUnityEmbeddingComplexStatement"
+    ]
+  }
+}

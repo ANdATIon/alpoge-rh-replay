@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M121328"
+  ],
+  "started_utc": "2026-11-21T11:16:47.333963+00:00",
+  "ended_utc": "2026-11-21T11:17:01.523162+00:00",
+  "elapsed_seconds": 13.0,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912828,
+    "peak_child_rss_kib": 6863188
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CharacterAnnihilatorIntegerLatticeStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "664ecb95ca3382e7c0086d3c2c7a9559b989050bf494282509173fc4747c7422",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MatrixIntegralOfAddCharTraceDual",
+    "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CharacterAnnihilatorIntegerLattice"
+  ],
+  "objects": {
+    "M121328": "037446fe4b0d650dddaf926f1ef11a614d0d14cc6018f427402984f7a32e3dec"
+  },
+  "bundle_sha256": "4edaee51572cd7b6507b3160b56281dd6b221db7c4a5ddc240f5568384cad7e7",
+  "packet": "M121328",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20531#issuecomment-7061806652",
+  "reviewed_utc": "2026-11-22T16:48:14.898477+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CharacterAnnihilatorIntegerLatticeStatement"
+    ]
+  }
+}

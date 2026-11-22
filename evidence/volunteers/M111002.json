@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M111002"
+  ],
+  "started_utc": "2026-11-21T10:55:53.905388+00:00",
+  "ended_utc": "2026-11-21T10:56:02.974865+00:00",
+  "elapsed_seconds": 9.1,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912824,
+    "peak_child_rss_kib": 6815548
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.HasSumSingle:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "3ba6e7b98788622046f0100754a12ca6a6c01fd95ea2551f01c576c3f3e22c4d",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PieceAdd"
+  ],
+  "objects": {
+    "M111002": "7ee60a2721b7246dc0fc273cdb92e2121c32c0cf97b3201b3a65223d7cc162c7"
+  },
+  "bundle_sha256": "1df016766c4014e19e1281e5178355f50455ae4c21f46ad0bfdcfe626758e83f",
+  "packet": "M111002",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20273#issuecomment-7061586085",
+  "reviewed_utc": "2026-11-22T16:47:15.732647+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.HasSumSingle"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M100800"
+  ],
+  "started_utc": "2026-11-21T11:07:28.530629+00:00",
+  "ended_utc": "2026-11-21T11:07:37.670869+00:00",
+  "elapsed_seconds": 9.1,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912832,
+    "peak_child_rss_kib": 6825068
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.PublishedTheorems.Divisors\u2082.RallisCoinvariants:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "0a6f54a47c1b52b92358183ae1f21199a23c90158e31e16a93e92d186f1235e8",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.SecMapApply"
+  ],
+  "objects": {
+    "M100800": "3000bec7fb5a4a560c4d5ff45980000806cda27bebe249a039504a0ba3a13634"
+  },
+  "bundle_sha256": "2e75f0b7d52d00e39674ae88f7e9fc55967be84e7a1a5cf491394dc2d0854b2d",
+  "packet": "M100800",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20385#issuecomment-7061704343",
+  "reviewed_utc": "2026-11-22T16:47:49.457797+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.PublishedTheorems.Divisors\u2082.RallisCoinvariants"
+    ]
+  }
+}

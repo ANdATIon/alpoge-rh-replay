@@ -1,0 +1,62 @@
+{
+  "tasks": [
+    "M057963"
+  ],
+  "started_utc": "2026-11-21T11:32:35.056247+00:00",
+  "ended_utc": "2026-11-21T11:33:53.567489+00:00",
+  "elapsed_seconds": 78.5,
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16377412,
+    "peak_child_rss_kib": 6766880
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FlagMeasures.FinprodPsiEEqExpTrace:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "dc986dfde0e52392fa39f5caa36964d819e70d1e585a8231ab16ecd43fe711dc",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.FlagMeasures.T2SpaceIsNonarchimedeanLocalFieldSingleBlock",
+    "Development.AbelianVarietyTheory.Proofs.FlagMeasures.TraceEqSumLocalTracesAbovePrime",
+    "Formalism.AlphaUniqueness.Statement",
+    "Formalism.FockGram.StatementHerm",
+    "Formalism.FockGram.StatementLat",
+    "Formalism.FrobeniusOrbits.Statement",
+    "Formalism.HermitianLattices.StatementLat",
+    "Formalism.HermitianLattices.StatementMass",
+    "Formalism.HermitianLattices.StatementTheta",
+    "Formalism.LatticeTheta.Statement",
+    "Formalism.LocalRingCardinality.DataSpaces",
+    "Formalism.LocalRingCardinality.Params",
+    "Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq",
+    "Formalism.SharpRestriction.CuspSpanNormBounds.Point",
+    "Formalism.SharpRestriction.CuspSpanNormBounds.PsiEDef",
+    "Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.EvalFrameOrd",
+    "Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.ZsmulGeneratorEqZeroOfProjection",
+    "Formalism.TameInertiaTowers.StatementField",
+    "Formalism.TameInertiaTowers.StatementGroup",
+    "Formalism.ThetaLiftIndependence.Statement"
+  ],
+  "objects": {
+    "M057963": "832ed37b7afab42b25d6895ccb0828291aa178daa0285d17f19c40c419c064b8"
+  },
+  "bundle_sha256": "293bbaa2d961e4e891e31ce0020b3e56d59f40aaa1915dc5c66ec5592ec49f91",
+  "packet": "M057963",
+  "contributor": "maugomez77",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20719#issuecomment-7062065885",
+  "reviewed_utc": "2026-11-22T16:48:59.008595+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.FlagMeasures.FinprodPsiEEqExpTrace"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M044895"
+  ],
+  "started_utc": "2026-11-21T11:21:40.681374+00:00",
+  "ended_utc": "2026-11-21T11:21:46.229607+00:00",
+  "elapsed_seconds": 5.5,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 31930456,
+    "peak_child_rss_kib": 7230732
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdealStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b44ce94a8a0bb4414ac9712f8c60158d5f54ca1dc335b8ed2d0bc96dea7418e7",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdeal"
+  ],
+  "objects": {
+    "M044895": "2f9430c74b47bed6263c5a2b7e9756ff20818bd57ddc5b6b4999d5a8130109e2"
+  },
+  "bundle_sha256": "fae42ecbce68fd4aea7bc9a55b8a2426c439163097c7f344b27a20031125cbd3",
+  "packet": "M044895",
+  "contributor": "certified-retart",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20643#issuecomment-7061846796",
+  "reviewed_utc": "2026-11-22T16:48:41.992892+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdealStatement"
+    ]
+  }
+}

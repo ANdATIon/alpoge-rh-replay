@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    "M150360"
+  ],
+  "started_utc": "2026-11-21T10:54:49.972150+00:00",
+  "ended_utc": "2026-11-21T10:55:42.182139+00:00",
+  "elapsed_seconds": 52.2,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912824,
+    "peak_child_rss_kib": 6905752
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Formalism.LocalToGlobal.ProjectiveLattices.GenSectT:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "89fa05cf43952dc3886e1c9603b5b45619ad256f5d01650b8320dfa0927df765",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M150360": "76ee147b5781ad9be3de869ffc708efa533f93394097869d8d4b8110cc9fd512"
+  },
+  "bundle_sha256": "adcbdf1dc83013b767a1978a71294623fa006f1e943f1b3444cbb6209c3b1f04",
+  "packet": "M150360",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20268#issuecomment-7061582473",
+  "reviewed_utc": "2026-11-22T16:47:14.113160+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Formalism.LocalToGlobal.ProjectiveLattices.GenSectT"
+    ]
+  }
+}

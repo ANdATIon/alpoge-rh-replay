@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    "M003677"
+  ],
+  "started_utc": "2026-11-21T10:57:36.101292+00:00",
+  "ended_utc": "2026-11-21T11:09:07.237649+00:00",
+  "elapsed_seconds": 691.1,
+  "host": {
+    "cpu_count": 24,
+    "mem_total_kib": 24607696,
+    "peak_child_rss_kib": 6930140
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Definitions.Divisors.IsGPull:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "334fd49a08afc35f392b00c5571fadfee2585e4c155cd370fa2ff010f7f2487a",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.ExistsGDatumOneOneOne",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.PlacesOverU",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsDatumAOne",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemBotOfIsIntegral",
+    "Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices\u2082.AlgebraMapNormOfBasisOneSqrt",
+    "Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices\u2082.ThreeNeSqAddSq"
+  ],
+  "objects": {
+    "M003677": "33819c23722e775d27f4187f5fff4e0c8cf8d78980f05410f7aec2f6e523cc6f"
+  },
+  "bundle_sha256": "c49c3806bbf497edc9143a1d1751332c8a99cc3fb51753191fb18fe41f318bf3",
+  "packet": "M003677",
+  "contributor": "dga471",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20326#issuecomment-7061702725",
+  "reviewed_utc": "2026-11-22T16:47:33.219339+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Definitions.Divisors.IsGPull"
+    ]
+  }
+}

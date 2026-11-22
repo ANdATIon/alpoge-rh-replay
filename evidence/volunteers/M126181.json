@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M126181"
+  ],
+  "started_utc": "2026-11-21T11:21:54.496088+00:00",
+  "ended_utc": "2026-11-21T11:22:54.335206+00:00",
+  "elapsed_seconds": 59.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6678016
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NormMapTorusSurjective:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "a2df90f96d1dbd91f06475b729c4ceec69a17e8ca6f51b1d09acc7cc004fc4fe",
+  "rebuilt_project_modules": [
+    "GroundTheory.LocalFields.Interface",
+    "GroundTheory.LocalFields.Uniqueness"
+  ],
+  "objects": {
+    "M126181": "b037191e57a21f6b1849a5ccb10951a8edd672d3832cdc894aba3b7c97f625f6"
+  },
+  "bundle_sha256": "2c6e51007ed1780d09aa79eab834baf68481cd548463520716d648ffc9b8630a",
+  "packet": "M126181",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20647#issuecomment-7061857926",
+  "reviewed_utc": "2026-11-22T16:48:42.923828+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NormMapTorusSurjective"
+    ]
+  }
+}

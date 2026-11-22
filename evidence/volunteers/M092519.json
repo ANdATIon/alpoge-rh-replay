@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M092519"
+  ],
+  "started_utc": "2026-11-21T11:29:05.200840+00:00",
+  "ended_utc": "2026-11-21T11:29:20.726833+00:00",
+  "elapsed_seconds": 15.5,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5937840
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousMultilinearMapExtHilbertBasis:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "bbb2ab944150ba28c4eee0272d52421d3c4e54bb90ce8ee053a28fe21d1ced76",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Foundations.IsHilbertSchmidtOfFiniteDimensional",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.SplitHeightSummableExpNegAbs"
+  ],
+  "objects": {
+    "M092519": "dc3c21ecc65ef23e1d008ad35ea34088b3373aa064e27675982d4253602c7da1"
+  },
+  "bundle_sha256": "f55204cc1a5f1c8675591da736b0ecc06e456b6470dfb5a2b0a1c767abfc7d4a",
+  "packet": "M092519",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20683#issuecomment-7061930173",
+  "reviewed_utc": "2026-11-22T16:48:50.055456+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousMultilinearMapExtHilbertBasis"
+    ]
+  }
+}

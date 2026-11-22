@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    "M135230"
+  ],
+  "started_utc": "2026-11-21T10:50:02.304252+00:00",
+  "ended_utc": "2026-11-21T10:50:09.467881+00:00",
+  "elapsed_seconds": 7.2,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6874652
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.EtaleCohomology.DivisorCycles.CoeMulInv:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "003b16f36e24d889e384aa6d4f980c92d7f3452e982a4569ffd87e47855c0eb9",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M135230": "9abe0acb27d34a14ae20f556bff81f70270179814fa86e3590311259c040b7a6"
+  },
+  "bundle_sha256": "07e3de1ea1675436a429d9f72b096c6de2367b88c8d2b395ea0e95e3d376930c",
+  "packet": "M135230",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20145#issuecomment-7061498962",
+  "reviewed_utc": "2026-11-22T16:46:58.539520+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.EtaleCohomology.DivisorCycles.CoeMulInv"
+    ]
+  }
+}

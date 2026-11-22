@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M101518"
+  ],
+  "started_utc": "2026-11-21T11:16:52.265013+00:00",
+  "ended_utc": "2026-11-21T11:17:08.483009+00:00",
+  "elapsed_seconds": 16.2,
+  "host": {
+    "cpu_count": 11,
+    "mem_total_kib": 10172312,
+    "peak_child_rss_kib": 5966872
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HidaCompleteRings.RepEigCompl:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "d692d52552e3a677b946617e5e27da36d35c6be9062ddb15bfd7f0bd85f240be",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HidaCompleteRings.RepAvg"
+  ],
+  "objects": {
+    "M101518": "73fdfe770c875546df1adf6bf17667c2a9f1495cf9ad03e21dcf8d007c01f02d"
+  },
+  "bundle_sha256": "65c3f200cef1b6783bc290ffff1982c70fcdc8479451e2fe109349542d65ccc1",
+  "packet": "M101518",
+  "contributor": "gilad12-coder",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20605#issuecomment-7061796518",
+  "reviewed_utc": "2026-11-22T16:48:32.228664+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.HidaCompleteRings.RepEigCompl"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M143458"
+  ],
+  "started_utc": "2026-11-21T11:15:16.327178+00:00",
+  "ended_utc": "2026-11-21T11:15:32.987602+00:00",
+  "elapsed_seconds": 16.7,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 15912828,
+    "peak_child_rss_kib": 6893832
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.ThetaLifts.LeviDeterminants.CharacterAdmissibility.BoxCancel:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "acf3ec59c93738e30c2cabf16d9a12e1a26af2cbe7496e62b6cbc4fd25f86ee2",
+  "rebuilt_project_modules": [
+    "Development.WeilBound.ThetaLifts.LeviDeterminants.CharacterAdmissibility.ResAdm",
+    "Development.WeilBound.ThetaLifts.LeviDeterminants.CharacterAdmissibility.SchrodingerApplyZeroOfFst"
+  ],
+  "objects": {
+    "M143458": "614cc5e8368df1bc59f85e80c09cfff6ec894910b7744fcde18ba94051ecae11"
+  },
+  "bundle_sha256": "3b69c62f66608813ecd4f371262c8716b6ee7029dfef4efdb714f405ab848e58",
+  "packet": "M143458",
+  "contributor": "misuadn-laplace",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20517#issuecomment-7061797780",
+  "reviewed_utc": "2026-11-22T16:48:10.870132+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.WeilBound.ThetaLifts.LeviDeterminants.CharacterAdmissibility.BoxCancel"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M069346"
+  ],
+  "started_utc": "2026-11-21T11:34:35.218662+00:00",
+  "ended_utc": "2026-11-21T11:34:45.980690+00:00",
+  "elapsed_seconds": 10.8,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 6866196
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsUnitMatrixOfPowSmulSpanInvertStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c098aa83aeb13791c438a55a547b30c67380708fbc2f4f2e2eb6e19cb1768eeb",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsUnitMatrixOfPowSmulSpanInvert"
+  ],
+  "objects": {
+    "M069346": "dfa04e5aa11290e8ca451765694f0f86a07895fee16dc80d8d32be5ad543fd06"
+  },
+  "bundle_sha256": "5d820f74602bf34c50cecc0702ac132ac6bf468a361c53948dc0c8e66f04bb9d",
+  "packet": "M069346",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20721#issuecomment-7061988875",
+  "reviewed_utc": "2026-11-22T16:48:59.851604+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsIsUnitMatrixOfPowSmulSpanInvertStatement"
+    ]
+  }
+}

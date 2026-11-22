@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M046344"
+  ],
+  "started_utc": "2026-11-21T11:06:19.468622+00:00",
+  "ended_utc": "2026-11-21T11:06:56.751033+00:00",
+  "elapsed_seconds": 37.3,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6641768
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowMulMemSubalgebraOfResBasicOpen:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "648ab18c69623088d354a0a410fa3a8e7893d4e611f7b5a825e085eea1dcda05",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPowMulMemAdjoinOfLocalizationAway",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPowMulMemAdjoinOfLocalizationAwayStatement"
+  ],
+  "objects": {
+    "M046344": "ca94b6e58506bbd695388be6913dc81cf1cb37bb633099cdae84aad255d50561"
+  },
+  "bundle_sha256": "417d28bb31746ad9662022ea5c60367e1e70505eb87aa2b962708b852c52d6d6",
+  "packet": "M046344",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20408#issuecomment-7061687003",
+  "reviewed_utc": "2026-11-22T16:47:53.805955+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowMulMemSubalgebraOfResBasicOpen"
+    ]
+  }
+}

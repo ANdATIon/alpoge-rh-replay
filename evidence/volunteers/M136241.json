@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    "M136241"
+  ],
+  "started_utc": "2026-11-21T10:46:13.973655+00:00",
+  "ended_utc": "2026-11-21T10:46:29.326747+00:00",
+  "elapsed_seconds": 15.4,
+  "host": {
+    "cpu_count": 10,
+    "mem_total_kib": 16424796,
+    "peak_child_rss_kib": 6740912
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.EtaleCohomology.TateTwists.EtaleSheafRestrictScalarsFunctorExactOfAdjoints:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "f188b70aa63bdafd1f053c8ae929a711ae2ea260a446f3b7a640c21110603903",
+  "rebuilt_project_modules": [],
+  "objects": {
+    "M136241": "ce0febff116af361c07ca1722c4beb5936638709aef1087444bc54023bb8a6cb"
+  },
+  "bundle_sha256": "0869e3f154003c9d67096de440ef5e1b8865f36cd1690fba1635105af80bd5c9",
+  "packet": "M136241",
+  "contributor": "jdenwood",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20122#issuecomment-7061460683",
+  "reviewed_utc": "2026-11-22T16:46:48.190863+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.EtaleCohomology.TateTwists.EtaleSheafRestrictScalarsFunctorExactOfAdjoints"
+    ]
+  }
+}

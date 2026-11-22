@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M035384"
+  ],
+  "started_utc": "2026-11-21T11:18:36.736122+00:00",
+  "ended_utc": "2026-11-21T11:18:58.072348+00:00",
+  "elapsed_seconds": 21.3,
+  "host": {
+    "cpu_count": 12,
+    "mem_total_kib": 61594916,
+    "peak_child_rss_kib": 7035612
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianFormConstMulInner:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "787c9adbac850edd78a11a78520b9985e3ebe414551dfbd8b08fe1319595db42",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.RealMetaplecticRepresentation"
+  ],
+  "objects": {
+    "M035384": "a90bd7c60a8c6234977042e3c8795740f430541271280b326e4f35d87aee1a0d"
+  },
+  "bundle_sha256": "118db290ab6206d3ac16f9fa6d2700593ed7f5cd8cb7b9e8a6eea22271725406",
+  "packet": "M035384",
+  "contributor": "HITEYY",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20583#issuecomment-7061810667",
+  "reviewed_utc": "2026-11-22T16:48:25.609252+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianFormConstMulInner"
+    ]
+  }
+}

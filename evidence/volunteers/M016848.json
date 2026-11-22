@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M016848"
+  ],
+  "started_utc": "2026-11-21T11:21:29.895936+00:00",
+  "ended_utc": "2026-11-21T11:22:09.160061+00:00",
+  "elapsed_seconds": 39.3,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 16349216,
+    "peak_child_rss_kib": 6616992
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardCrossingSetEqGrassmannianDim:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "37fb1e3a195bdfab2ef71110a5f54e8fffd5868a9f2c9eacd2b34496685e366f",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.SuperFact",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.WinSet"
+  ],
+  "objects": {
+    "M016848": "ce58d98c4d69ffe0daad4a69ff9d3dd300ee9ada6e53f53eff2d3a2618fa093d"
+  },
+  "bundle_sha256": "384b7fe626a51241aae529b59110342d4884ff148091dcb10d60039c79cc57b7",
+  "packet": "M016848",
+  "contributor": "zediir",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/20638#issuecomment-7061847113",
+  "reviewed_utc": "2026-11-22T16:48:39.701221+00:00",
+  "review": "Verified the grant, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum.",
+  "automation": {
+    "tool": "tracker/publish.py",
+    "run": "https://github.com/rohanarun/alpoge-rh-replay/actions/runs/45044907840",
+    "kernel_replayed_targets": [],
+    "built_targets": [
+      "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardCrossingSetEqGrassmannianDim"
+    ]
+  }
+}
