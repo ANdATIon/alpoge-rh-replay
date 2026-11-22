@@ -61,7 +61,7 @@
 +          ContinuousAt (fun _ : UT (m + 2) → ℂ => c) y)
 +      exact hs.div_const t
      have hinv : ContinuousAt (fun y' : UT (m + 2) → ℂ => (‖cofXY m t (fun _ => z, y')‖ ^ 2)⁻¹) y :=
-       ContinuousAt.inv₀ (hcof.norm.pow 2).continuousAt (by simpa using hc)
+-      ContinuousAt.inv₀ (hcof.norm.pow 2).continuousAt (by simpa using hc)
 -    unfold ampIn amp cutPhi
 -    refine ContinuousAt.smul (ContinuousAt.mul ((G7.continuous_psi β).continuousAt.comp hg)
 -      (Complex.continuous_ofReal.continuousAt.comp hinv)) (ContinuousAt.smul ?_
@@ -69,6 +69,7 @@
 -    exact Complex.continuous_ofReal.continuousAt.comp
 -      (ContinuousAt.comp (f := fun y' : UT (m + 2) → ℂ => MXY m D t (fun _ => z, y'))
 -        (d_continuous_cutM _).continuousAt hM)
++      ContinuousAt.inv₀ (hcof.norm.pow 2).continuousAt (pow_ne_zero 2 (norm_ne_zero_iff.mpr hc))
 +    have hpsi : ContinuousAt
 +        (fun y' : UT (m + 2) → ℂ => psi β (gRem m D t (fun _ => z, y'))) y :=
 +      (G7.continuous_psi β).continuousAt.comp hg
